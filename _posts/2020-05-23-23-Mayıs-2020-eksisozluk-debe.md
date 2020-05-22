@@ -6,7 +6,7 @@ data:
     anne baba ve ablası böbrek vermeyen sözlük yazarı
   entry_id:  107614691
   entry_writer: ekaitz
-  entry_fav_count: 1044
+  entry_fav_count: 1053
   entry_content: |
     kızım karaciğer nakilli. <br/><br/>eşimin de benim de karaciğerimiz uyuyordu, birbirimizle "ben vereceğim" diye kavga etmişliğimiz var. <br/><br/>evlat başka bir şey. büyük konuşmayayım ama "can" lazım olsa "canımı veririm" gibime geliyor. <br/><br/>ama bu olayların içine girince nelerini görüyorsunuz, şaşar kalırsınız. 5 aylık bebeğine ailesinin baskısıyla "amaaan daha yeni doğdu, ölse ne olacak? yenisini yaparsnız" diye karaciğerinden parça vermek istemeyen baba gördüm ben. <br/><br/>allah şifa versin, umarım kimseden medet ummadan kadavra listesinden bir organ denk gelir, iyileşirsiniz.
   entry_channels: ekşi-sözlük,sağlık
@@ -14,7 +14,7 @@ data:
     ahmet davutoğlu'nu çıldırtan akit yazarı
   entry_id:  107595176
   entry_writer: dinazorlar turkmus haci
-  entry_fav_count: 936
+  entry_fav_count: 939
   entry_content: |
     yaaaaa davut oğlan. aynaya bakar gibi hissettin mi hiç? bunların hepsi sizin eseriniz işte. yandaş/propaganda medya. kendi elleriniz ile yaptınız bunu. gurur duyun. şimdi çıkıp "düzeltmek" için oy mu isteyeceksin? hele ki hayatın boyunca karşı çıktığını söylediğin chp zihniyetinden?
   entry_channels: siyaset,tv,haber
@@ -30,7 +30,7 @@ data:
     banu özdemir'in tutuklanması
   entry_id:  107613500
   entry_writer: bekir bakir
-  entry_fav_count: 780
+  entry_fav_count: 781
   entry_content: |
     katiller dışarıda, sevda noyan dışarıda, banu özdemir tutuklandı.<br/><br/>ülkede adalet var, yersen.
   entry_channels: siyaset,haber
@@ -38,7 +38,7 @@ data:
     kıbrıs harekatı sırasında poz veren üsteğmen
   entry_id:  107623240
   entry_writer: blackeagle14
-  entry_fav_count: 714
+  entry_fav_count: 731
   entry_content: |
     sağa yatırmış düşmanı bekliyordur.
   entry_channels: tarih,havacılık
@@ -46,23 +46,15 @@ data:
     22 mayıs 2020 recep tayyip erdoğan açıklamaları
   entry_id:  107613362
   entry_writer: ctdersenbakarim
-  entry_fav_count: 625
+  entry_fav_count: 629
   entry_content: |
     yeter ya vallahi yeter. bıktık arkadaş senin bizleri terörist ilan etmenden, yeter ya. habur’dan teröristler gelirken, fetöcüler devletin her yerine konuşlanırken sen bu ülkede hangi görevdeydin de artık cehape cehape diye her suçu chp’ye atabiliyorsun?
   entry_channels: siyaset,haber
 - entry_name: |
-    ak parti 2020 gerilim yükseltme politikası
-  entry_id:  107613425
-  entry_writer: ismin e hali
-  entry_fav_count: 463
-  entry_content: |
-    profesyonel seçmeniz. yer mi anadolu çocuğu?<br/>seçim öncesi hikayesi işte bu. <br/>yakında buraya bir de dış gerilim gelecek. bu senenin talihlisi yunanistan diye tahmin ediyorum. <br/>cehape muhabbeti başladı. <br/>bu sıcakta hiç de çekilmez şimdi gereksiz nefret, öfke, hınç, kavga, kin vs. mecbur çekeceğiz artık. <br/>püff!<br/><br/>(bkz: <a class="b" href="/?q=t%c3%bcrkiye%27nin+ger%c3%a7ek+g%c3%bcndemini+hat%c4%b1rlat%c4%b1yoruz">türkiye'nin gerçek gündemini hatırlatıyoruz</a>)
-  entry_channels: siyaset
-- entry_name: |
     sırp yunan ermeni ve kürtlere düşman olmayan türk
   entry_id:  107605641
   entry_writer: atanamayandevletbahceli
-  entry_fav_count: 388
+  entry_fav_count: 403
   entry_content: |
     insanın etkisinin olmayacağı hiçbir şeye nefret duymam. <br/><br/>kişi hangi anneden babadan doğacağını seçemezken, bir millete ya da dine toplu şekilde nefret beslemek tam bir sığırlıktır.<br/><br/>bu tipte bir tane bile arkadaşımın olmaması ile kendimle ve arkadaşlarımla daima gurur duyarım.
   entry_channels: siyaset,anket
@@ -70,55 +62,47 @@ data:
     en pisi pisine ölen ünlü
   entry_id:  107606416
   entry_writer: corsairsgold35
-  entry_fav_count: 383
+  entry_fav_count: 385
   entry_content: |
     erdal tosun.
   entry_channels: anket,sinema,magazin
 - entry_name: |
-    iyi erkeklerin nerede olduğu sorunsalı
-  entry_id:  107583580
-  entry_writer: armageddon01
-  entry_fav_count: 174
-  entry_content: |
-    iyi adamlar yalnızlıktan ölüyor, iyi kadınlar ise kötü adamların balkonlarından gökyüzüne bakarken... dostoyevski...
-  entry_channels: ilişkiler,ekşi-sözlük
-- entry_name: |
-    python vs java vs c++ vs html vs php
-  entry_id:  107612433
-  entry_writer: big bong theory
-  entry_fav_count: 171
-  entry_content: |
-    her hangi bir yazılım diline hakim hiç kimse aç kalmaz, delphi bile kullanan şirketler halen var.<br/><br/>java desek arabada ki teype kadar herşeyin içinde çalışıyor, çalışma alanı çok fazla.<br/><br/>php desek web geliştirme pazarının çoğuna halen hakim.<br/><br/>c++ desek embed çalışacaksanız halen tek tercih.<br/><br/>python, c++ dışında diğer bütün dillere muadil olabiliyor ama hiçbir zaman o alana özgü bir dil kadar hızlı değil. en iyi olduğu şey aracı uygulamalar geliştiriliyor, 2 ayrı dilde yazılmış yazılımları birbirine hızlı bir şekilde entegre edebiliyor oluşu.<br/><br/>ayrıca html programlama dilimi ulan?
-  entry_channels: programlama
-- entry_name: |
     18 yılda türkiye'ye çağ atlattık
   entry_id:  107628402
   entry_writer: charlesbronson
-  entry_fav_count: 169
+  entry_fav_count: 210
   entry_content: |
     21.yy'dan, ms. 400'lere falan gittik evet.
   entry_channels: siyaset,ekonomi
 - entry_name: |
-    500 bin liralık araba almanın mantıklı açıklaması
-  entry_id:  107624166
-  entry_writer: tanrininsonkirbaci
-  entry_fav_count: 133
+    iyi erkeklerin nerede olduğu sorunsalı
+  entry_id:  107583580
+  entry_writer: armageddon01
+  entry_fav_count: 175
   entry_content: |
-    alacak imkana eriştikten sonra "bu amkdumun hayatına bir kere geliyorum" deyip alınır. kefenin cebi yok.
-  entry_channels: anket,otomotiv,ekonomi
+    iyi adamlar yalnızlıktan ölüyor, iyi kadınlar ise kötü adamların balkonlarından gökyüzüne bakarken... dostoyevski...
+  entry_channels: ilişkiler,ekşi-sözlük
 - entry_name: |
     muharrem ince
   entry_id:  107621952
   entry_writer: tatli limoncu
-  entry_fav_count: 108
+  entry_fav_count: 149
   entry_content: |
     amaç ne bilmiyorum ama göz göre göre laflarını çarpıtarak "chp düşmanı" yaftasını yapıştırmaya çalışıyorlar adama.<br/><br/>minarelerden çav bella çalınmasıyla ilgili olarak şunu demiş:<br/>"cami minarelerinden müzik yayını yapılması, çav bella çalınması ahlaksızlıktır, terbiyesizliktir, saygısızlıktır. bunun sorumlusu kimse bulunmalı ve en ağır ceza verilmelidir." <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/vekilince/status/1263400344643567619" title="https://twitter.com/vekilince/status/1263400344643567619">https://twitter.com/…nce/status/1263400344643567619</a><br/><br/>bu sözlerde yanlış ne var? minarelerden siyasal şarkılar çalınması apaçık provokasyondur ve kamu barışına saldırıdır. bunu yapanın tespit edilip cezalandırılması, olması gereken değil midir?<br/><br/>bu sözleri, chp üyesini hedef göstererek tutuklattırmış gibi çarpıtmanın ne alemi var? adam bunu yapanı bulun demiş, bunu kamuoyuna duyuranı değil.
   entry_channels: siyaset,eğitim
 - entry_name: |
+    500 bin liralık araba almanın mantıklı açıklaması
+  entry_id:  107624166
+  entry_writer: tanrininsonkirbaci
+  entry_fav_count: 136
+  entry_content: |
+    alacak imkana eriştikten sonra "bu amkdumun hayatına bir kere geliyorum" deyip alınır. kefenin cebi yok.
+  entry_channels: anket,otomotiv,ekonomi
+- entry_name: |
     skechers
   entry_id:  107605967
   entry_writer: kasap recai abi
-  entry_fav_count: 106
+  entry_fav_count: 107
   entry_content: |
     sözlükçülerin ayakkabıyı nasıl kullandıklarını merak ettiğim marka. herkes bir iki aya yırtılıyor demiş ama ben iki yıldır aynı ayakkabıyı kullanıyorum taş gibi sağlam. dağa falan mı çıkıyorsunuz bu ayakkabıyla anlamadım gitti.
   entry_channels: spor,moda,ekonomi
@@ -126,23 +110,15 @@ data:
     2 bin tl ile yapılacak en iyi ticari yatırım
   entry_id:  107625946
   entry_writer: sana buradan bi korum
-  entry_fav_count: 92
+  entry_fav_count: 104
   entry_content: |
     içki ve sigara al.<br/>sene sonunda 3500 liraya satarsın.
   entry_channels: anket,ekonomi
 - entry_name: |
-    22 mayıs 2020 kışın geri gelmesi
-  entry_id:  107586231
-  entry_writer: hellespontos
-  entry_fav_count: 84
-  entry_content: |
-    yazcılar; boşaltsın pisti, biz kışçılar geri döndük. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
-  entry_channels: 
-- entry_name: |
     dört ayda 2 bin 600 tl harcanan kızın reddetmesi
   entry_id:  107627002
   entry_writer: saintly
-  entry_fav_count: 73
+  entry_fav_count: 79
   entry_content: |
     reddetmesinde tek kıstas harcanan miktarı alıyorsan eğer <a class="b" href="/?q=tavuk+d%c3%b6ner">tavuk döner</a> yemekten sıkılmıştır.
   entry_channels: ilişkiler
@@ -158,7 +134,7 @@ data:
     22 yaşında 4 yıllık fakülteden mezun olmak
   entry_id:  107603824
   entry_writer: fuckkcuf
-  entry_fav_count: 64
+  entry_fav_count: 67
   entry_content: |
     her insanın yaşamı kendine hastır. 21-22 yaşında mezun olursun ama iş güç bulamazsın, kaderin güzel ilerlemiştir 21 yaşında kendi işinin patronu olursun. o sebepten ötürü bu tarz sayılara takılmayın yaşayıp ölmeye bakın.
   entry_channels: eğitim
@@ -179,26 +155,42 @@ data:
     benim scottish fold'u koysak bundan kötü yönetmez; çünkü müdahale edemeyecek, müdahale edemeyince de işleyen bir şeyi bozma ihtimali olmayacak. düz, aristo mantığı.
   entry_channels: siyaset,anket
 - entry_name: |
-    evlenmeden önce beraber yaşamak
-  entry_id:  107618410
-  entry_writer: olumluolumsuz
-  entry_fav_count: 46
+    22 mayıs 2020 trendyol rezaleti
+  entry_id:  107607572
+  entry_writer: hobi olarak kodlayan adam
+  entry_fav_count: 51
   entry_content: |
-    o insan ile beraber yuva kurulup kurulamayacağını anlamanın en güzel yoludur bu. <br/><br/>problemler karşısında ne tepkiler veriyor?<br/><br/>kişisel zevklere karşı ne kadar saygılı.<br/><br/>en ufak bir çatışmayı sonuçlandırmak için çaba mı sarf ediyor yoksa, problemi problem yaratarak büyütüyor mu?<br/><br/>karşısındaki insanın öz yaşamına saygı duymayan, problemleri kat kat büyüterek içinden çıkılmaz hale getiren. ilk fırsatta evi terk eden, başka insanların evlerine giden bir insanı, beraber yaşamadan tanıyamazsın ki.<br/><br/>evlendikten sonra da bunların aynılarını yapacak.<br/><br/>parasına kanıp, güzelliğine, yakışıklılığa kanıp. beraber yaşamadan ömür boyu beraber yaşamaya yemin etmek kadar salakça ne olabilir?<br/><br/>bence evlenmek de aptalca, evlenmeden de gayet tabi beraber yaşanılabilir. <br/><br/>türkiye'de buna cesaret edebilecek çok fazla kadın - erkek olduğunu düşünmüyorum. hepsi aile baskısı altında ezilmiş durumdalar. ( buna cesaret etmeyi bir meziyet saydığımdan değil, kültürel bir değer sadece )<br/><br/>çok da mühim değil. kim ne istiyorsa onu yapsın vesselam.
-  entry_channels: ilişkiler
+    trendyol üzerinden nfbilişim isimli satıcıdan <a rel="nofollow noopener" class="url" target="_blank" href="https://www.trendyol.com/xiaomi/xiaomi-mijia-robot-vacuum-mop-pro-cleaner-robot-supurge-ve-paspas-beyaz-p-36502435?boutiqueId=482344&amp;merchantId=108796" title="https://www.trendyol.com/xiaomi/xiaomi-mijia-robot-vacuum-mop-pro-cleaner-robot-supurge-ve-paspas-beyaz-p-36502435?boutiqueId=482344&amp;merchantId=108796">xiaomi vacuum mop pro</a>robot süpürge aldım. siparişim ertesi günü hızlı bir şekilde bana teslim edildi, burda gayet iyilerdi. cihazı açtım, uygulamasını yükledim ve çalıştırdım. 15 dakika sonra uygulamadan cihazın güncellenmesi gerektiği bildirimini aldım ve güncelledim. <br/><br/>ancak cihaz güncellemeyi tamamlayamadı ve kendini kapattı. bir daha da çalışmadı. internette bu sorunun kronik olduğuınu ve bir çok cihazın bu şekilde kapandığını öğrendim. <br/><br/>trendyol üzerinden iade talep ettim. cihazı geldiği şekilde orijinal kutusuna yerleştirdim ve gönderdim. <br/><br/>bugun iademin kabul edilmediği ve ürünün bana geri gönderileceği bilgisini aldım. özetle 15 dakikalık ev süpürme bana 3.990 tl'ye mal oldu. <br/><br/>aynı ürün başka sitelerde de mevcuttu. ama trendyol adına güvenip aldım ve hata ettim. trendyol üzerinde ürün ve satıcının yorumlarında hiçbir olumsuz ibare yokken internette bir çok şikayet olduğunu gördüm. trendyol firması burda müşterisini korumuyor, korumadığı gibi müşterisini yanıltmaya da alet oluyor. <br/><br/>eğer iadeyi kabul etmezlerse mahkemede çözeceğiz sorunu. dört bin lirayı kimse yolda bulmuyor, trendyola al ben yemedim sen ye demiyor. yaşanan sorunu başkaları da bilsin diye yazıyorum. <br/><br/>siz siz olun, trendyoldaki yorumlara trendyolun müşterisini koruyacağına aldanıp benim gibi başınızı ağrıtmayın.
+  entry_channels: teknoloji
 - entry_name: |
-    süleyman özışık'ın korkunç tweet'i
-  entry_id:  107626340
-  entry_writer: red4rmy
-  entry_fav_count: 45
+    chp ile pkk arasında fark yoktur
+  entry_id:  107627502
+  entry_writer: your majesty
+  entry_fav_count: 40
   entry_content: |
-    bu eski fetöcülerin geçmişinin dillendirilmemesi için azgın bir partizanlıkla çalışması beni çok güldürüyor ya.
+    bi siktirin gidin ya. <br/>sanırım ilk defa böyle bir şey yazdım sözlükte.<br/><br/>ülke bildiğin hainlere kalmış. sistematik çalışıyorlar, bakalım nereye varacağız.
   entry_channels: siyaset
+- entry_name: |
+    82. il için öneriler
+  entry_id:  107629560
+  entry_writer: always good
+  entry_fav_count: 32
+  entry_content: |
+    alanya-manavgat-gazipaşa (antalya) ve anamur (mersin) ilçelerinin alanya çatısı altında birleşip il olması gerekir. <br/><br/>not: gazipaşa havalimanı alanya’da değil gazipaşa ilçesindedir. tarım yönünden özellikle salatalık üretiminde ciddi pazar payı olan güzide bir ilçedir kendileri.<br/><br/>alanya 327 bin<br/><br/>manavgat 240 bin<br/><br/>anamur 66 bin<br/><br/>gazipaşa 50 bin<br/><br/>ortalama 700 bin nüfusu olmuş oluyor. üç beş yıl sonra da büyükşehir olurlar.<br/><br/>şimdi ne alaka bu ilçeler derseniz anamur mersin’e epey uzaktır hatta antalya merkezine daha yakındır. liman gazipaşa’dadır, manavgat ise alanya ile iç içedir. alanya, antalya’ya uzaktır (otobüsle 2,5 sa civarı). uzun yılları geçmiş birisi olarak söylüyorum.
+  entry_channels: siyaset,anket
+- entry_name: |
+    asgari ücretle geçinilmez diye bir şey yok
+  entry_id:  107631571
+  entry_writer: cekikgozlubiri
+  entry_fav_count: 29
+  entry_content: |
+    "mutfağa bir 400 verin"<br/><br/>marketin kapısından girdiğin an o havayı solumak zaten 200 lira. hey yavrum hey.
+  entry_channels: siyaset,ekonomi
 - entry_name: |
     mhp'nin icraatları
   entry_id:  107624663
   entry_writer: karni kasinan bidon kafa
-  entry_fav_count: 27
+  entry_fav_count: 28
   entry_content: |
     son 20 yıldaki bütün erken seçimleri yaptırma.
   entry_channels: siyaset
@@ -206,58 +198,50 @@ data:
     los pollos hermanos
   entry_id:  107603743
   entry_writer: long alone
-  entry_fav_count: 22
+  entry_fav_count: 28
   entry_content: |
     sipariş verdiğim hamburgerin icinden kaya tuzu çıkmasıyla şaşırtmıştır, küçük küçük mavi bir şeyler bunlar. sanırım hipertansiyon yapmıyormuş, geçen tv'de candan karabaş öyle söylemisti.
   entry_channels: tv,sinema,yeme-içme
 - entry_name: |
-    izmir'de camiden selda bağcan şarkısı çalınması
-  entry_id:  107582732
-  entry_writer: lanus
-  entry_fav_count: 22
+    bir türk atatürk'e neden düşman olur
+  entry_id:  107630184
+  entry_writer: kedimsi mavi panda
+  entry_fav_count: 28
   entry_content: |
-    2010 yılında rize'de cami frekansına sızıp zeki müren dinletildi tek bir gık çıkarmadınız<br/>(bkz: <a class="b" href="/?q=ezan+yerine+zeki+m%c3%bcren+%c3%a7almas%c4%b1">ezan yerine zeki müren çalması</a>)<br/>şu başlıktaki entryleri toplasan on tane etmiyor. <br/><br/>mevzu izmir olunca hemen kubardınız amk. hale bak yüzlerce entry girilmiş. boş beleş insanlarsınız yeminle.
-  entry_channels: siyaset,müzik,haber
+    türk değildir
+  entry_channels: anket
 - entry_name: |
-    82. il için öneriler
-  entry_id:  107629560
-  entry_writer: always good
-  entry_fav_count: 20
+    ideal dışkılama sonrası temizlik
+  entry_id:  107619818
+  entry_writer: interstellardaki robot tars
+  entry_fav_count: 27
   entry_content: |
-    alanya-manavgat-gazipaşa (antalya) ve anamur (mersin) ilçelerinin alanya çatısı altında birleşip il olması gerekir. <br/><br/>not: gazipaşa havalimanı alanya’da değil gazipaşa ilçesindedir. tarım yönünden özellikle salatalık üretiminde ciddi pazar payı olan güzide bir ilçedir kendileri.<br/><br/>alanya 327 bin<br/><br/>manavgat 240 bin<br/><br/>anamur 66 bin<br/><br/>gazipaşa 50 bin<br/><br/>ortalama 700 bin nüfusu olmuş oluyor. üç beş yıl sonra da büyükşehir olurlar.<br/><br/>şimdi ne alaka bu ilçeler derseniz anamur mersin’e epey uzaktır hatta antalya merkezine daha yakındır. liman gazipaşa’dadır, manavgat ise alanya ile iç içedir. alanya, antalya’ya uzaktır (otobüsle 2,5 sa civarı). uzun yılları geçmiş birisi olarak söylüyorum.
-  entry_channels: siyaset,anket
+    (bkz: <a class="b" href="/?q=ideal+d%c4%b1%c5%9fk%c4%b1lama">ideal dışkılama</a>) <br/>(bkz: <a class="b" href="/?q=d%c4%b1%c5%9fk%c4%b1lama+sonras%c4%b1+ideal+temizlik">dışkılama sonrası ideal temizlik</a>) <br/>(bkz: <a class="b" href="/?q=t%c3%bcrk%c3%a7e">türkçe</a>)
+  entry_channels: anket,sağlık
 - entry_name: |
     alef (dizi)
   entry_id:  107630514
   entry_writer: eski dandik site
-  entry_fav_count: 19
+  entry_fav_count: 25
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>finalde dizinin dini ve mistik havasını kaybettiğini söyleyenlerin götüyle izlediği dizi. final bölümünde şems ve mevlana aşkıyla mükemmel bir ters köşe yapmış oldu.<br/><br/>anlamayanlar için: <a class="b" href="/?q=%c5%9fems">şems</a> arapça’da <a class="b" href="/?q=g%c3%bcne%c5%9f">güneş</a> anlamına geliyor, sevgilisi ise <a class="b" href="/?q=celal">celal</a>: mevlana <a class="b" href="/?q=celal">celal</a>eddin rumi.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> —
   entry_channels: tv
 - entry_name: |
-    netflix
-  entry_id:  107605608
-  entry_writer: salaksor
-  entry_fav_count: 18
-  entry_content: |
-    aktif olmayan hesapları boş yere ödeme yapmasınlar diye kapatacakmış. <br/>alışkın olmadığımız şeyler bunlar. oysa biz <a class="b" href="/?q=fax">fax</a> çekip göndermeye alışkınız!<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://webrazzi.com/2020/05/22/netflix-aktif-olmayan-hesap-kapatma/?utm_content=buffer9a15c&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer" title="https://webrazzi.com/2020/05/22/netflix-aktif-olmayan-hesap-kapatma/?utm_content=buffer9a15c&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer">haber</a>
-  entry_channels: tv,tarih,sinema,teknoloji
-- entry_name: |
-    asgari ücretle geçinilmez diye bir şey yok
-  entry_id:  107631571
-  entry_writer: cekikgozlubiri
-  entry_fav_count: 18
-  entry_content: |
-    "mutfağa bir 400 verin"<br/><br/>marketin kapısından girdiğin an o havayı solumak zaten 200 lira. hey yavrum hey.
-  entry_channels: siyaset,ekonomi
-- entry_name: |
     nutuk'u kutsal kitap atatürk'ü elçi sanan kemalist
   entry_id:  107598393
   entry_writer: justin mcleod
-  entry_fav_count: 17
+  entry_fav_count: 23
   entry_content: |
     "öyle sanıyorum amk sana ne? anayasa tarafından korunan din ve inanç özgürlüğüm" var diye cevap vereceğim önerme.<br/><br/>olm bunlara birşey anlatmaya çalışmayın, evet lan öyle inanıyorum deyin geçin error versinler.
   entry_channels: siyaset
+- entry_name: |
+    evlenmeden önce beraber yaşamak
+  entry_id:  107618408
+  entry_writer: antidepresangulumsemesi
+  entry_fav_count: 19
+  entry_content: |
+    birlikte yaşama şansınız yoksa mutlaka en az 3-4 kez tatile gidin, mümkünse hem yazın hem kışın 1er hafta.hatta ilk tatilden bile anlaşılır bazen.
+  entry_channels: ilişkiler
 - entry_name: |
     mory kante
   entry_id:  107616806
@@ -266,14 +250,6 @@ data:
   entry_content: |
     bugun memleketi gine'de vefat <a rel="nofollow noopener" class="url" target="_blank" href="https://www.bbc.com/news/world-africa-52774331" title="https://www.bbc.com/news/world-africa-52774331">etmis</a>. cocuklugumuza renk katan sanatcilardandi, allah rahmet eylesin.
   entry_channels: müzik,haber
-- entry_name: |
-    bir türk atatürk'e neden düşman olur
-  entry_id:  107630184
-  entry_writer: kedimsi mavi panda
-  entry_fav_count: 13
-  entry_content: |
-    türk değildir
-  entry_channels: anket
 - entry_name: |
     mansur yavaş
   entry_id:  107617496
@@ -291,34 +267,18 @@ data:
     - sinema ile ilgilenen çoğu kişinin dudak bükeceği klişe ve vasat korku filmlerini izlemeye bayılıyorum. final destination, purge ya da cube çakması her türlü film gibi.<br/><br/>- uzun bir süredir toksik ilişkim yok, hasret kaldım resmen. şöyle bir kaşık suda boğmalı ilişki arıyor bazen bu bünye.<br/><br/>- okunan kitapların ya da izlenen filmlerin listelendiği sitelerde liste yapan insanları eleştiriyorum ama bir yandan da özeniyorum. bir ara mubi'de izlediğim filmlere puan vereyim hem de liste oluşur diye düşündüm. az önce bir baktım üç tane filme oy vermişim sadece. üç. allah bereket versin. spotify'da bile aynı listeyi döndürüp döndürüp dinliyorum. <br/><br/>- geçen gün superonline müşteri temsilcisiyle görüşüyordum. bir baktım bir yandan benim internet problemimi halletmeye çalışıyoruz bir yandan da bildiğin küçük küçük gülmeli flört ediyoruz. sözlükte meşhur bir entry var, italya'da herkesin flört etmesi diye. işte ben tam olarak bunu istiyorum.<br/><br/>- burada hiç görmediğim ama çok sevdiğim badilerim var. aslına bakılırsa tanımadığım bu insanların iyiliğini o kadar içten istiyorum ki ben bile şaşırıyorum.<br/><br/>- diğer bir guilty pleasure'ım da ağır yaşamlar. gerçi bende guilty pleasure çok.<br/><br/>- zarif şiddete bayılıyorum. tarantino tarzı şiddet gibi...<br/><br/>- tam yerinde küfreden bir arkadaşım var. ve çok fazla küfrediyor. bir kadın ancak bu kadar güzel küfreder. bir de içinde iyice coşuyor, şenlikli bir ortam oluyor. sadece o ortam oluşsun, eğleneyim diye dert dinleme bahanesiyle buluşmalar ayarlıyorum.<br/><br/>- nerede duyduğumu bilmiyorum ama birisi "kendimi geliştirmediğim ne kadar boş iş varsa, onları yaparken inanılmaz eğleniyorum" demişti. işte ben de tam olarak böyleyim. bu boş işler eğlendirmeyi bırak, üstüne bir de alışkanlık yapıyor.<br/><br/>- sevişirken izlenmek gibi bir fantezim var.<br/><br/>- bir insanı gördüğümde o kişiyle ilgili hemen iki tane yorumda bulunuyorum. modern dünyada kıyafetlerin kiri örttüğü bir gerçek olmakla birlikte, o kişinin temiz mi pis mi olduğunu anlıyorum. ikincisi de libidosu hakkında hemen bir yorum yapıyorum. eğer pis ya da libidosunun düşük olduğunu anladıysam, elimde olmadan bir tiksinti duyuyorum. bu o kadar fazla doğrulandı ki, bu hislerime sonuna kadar güvenirim.<br/><br/>- bir şeyler izlerken bir toplu iğneyi iki dudağımın arasında tutmayı seviyorum, sonra arada ağzımın içinde dolandırıyorum falan, umarım bir gün yutmam.<br/><br/>- lise döneminde başarılı bir ders hayatım yoktu. gerçi hayatımın hiçbir döneminde başarılı bir hayatım olmadı da neyse, orası uzun bir entry’nin konusu artık. yani ne lise ne de üniversite döneminde ders ve dolayısıyla da geleceği düşünen biri olmadım. ortalama bir öğrenciye kıyasla daha gezmeli, daha flörtlü bir öğrenci hayatım oldu. ama ona rağmen eğlence anlamında lise ve üniversite yıllarımı boşa geçirdiğimi düşünüyorum. işte tam da bu yüzden, karikatürize karakterler barındırdıklarını bilmeme rağmen, gençlik dizilerini ya da filmlerini seyredemiyorum. "iyiydi ya" diyerek kendimi avutmaya çalıştığım dönemin, aslında gençliğimi yaşayamadığım bir dönem olduğu gerçeğini yüzüme vuruyor. ve ben gerçeklerden kaçan bir insan olarak bununla sürekli olarak yüzleşmek istemiyorum. <br/><br/>- yukarıdaki konunun istisnası girls dizidir. <br/><br/>- hızlandırılmış ev toparlama, temizlik videolarına bayılıyorum. hipnotize olmuş gibi izliyorum.<br/><br/>- işle ilgili çok fazla whatsapp grubum var. normalde hiçbirinde değildim, fakat bu korona dolayısıyla hepsine girmek zorunda kaldım. ve gün içinde hepsi o kadar aktif ki, ilk 4-5 grup kendi içinde sürekli yer değiştiriyor. bu grup dışındakilerin en tepede kalması maksimum 10 dakika sürüyor. ben de birine mesaj, fotoğraf, video, müzik vs yollarken yanlışlıkla bu gruplardan birine gidecek diye tedirgin oluyorum. elli defa kontrol ederken, bazen karşımdakiyle olan muhabbetten kopuyorum. bir gün rezil olup patronun hiçbir şey söyleyemediği, benim de hiç bir açıklama yapamadığım türde işten ayrılmalı bir sansasyon yaratacağım gibi hissediyorum.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    antalya
-  entry_id:  107615852
-  entry_writer: dondraper21
-  entry_fav_count: 6
+    rte'nin 26 yıl önceki fotoğraflarını paylaşması
+  entry_id:  107632601
+  entry_writer: dilefgar
+  entry_fav_count: 9
   entry_content: |
-    sonunda bir haftalık boğucu sıcak ardından tatlı bir yağmurun yağdığı şehir. buradan gidince kıymetini daha da bir anladım. türkiye'nin en yaşanılası şehri burası.<br/><br/>edit: tatlı yağmur yerini hırçın sağanağa bıraktı.
-  entry_channels: tv,tarih,seyahat
-- entry_name: |
-    2001 a space odyssey
-  entry_id:  107630332
-  entry_writer: birgaripgastronom
-  entry_fav_count: 5
-  entry_content: |
-    netflix üyeliği alan kendini sinefil sanıyor, hadi uzayın aq.
-  entry_channels: sanat,sinema,edebiyat
-- entry_name: |
-    şu anda çalan şarkı
-  entry_id:  107614153
-  entry_writer: anzavur 34
-  entry_fav_count: 4
-  entry_content: |
-    gergin bekleyiş / bu gezegen benimki değil.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/E30CQGUbAUU">https://youtu.be/e30cqgubauu</a><br/><br/>"yoruldum artık kaybolmaktan"
-  entry_channels: anket,ilişkiler,ekşi-sözlük,müzik
+    ekrem imamoğlu'nun haliç'i canlandırma projesine binaen paylaşılmıştır.<br/>şimdiden kendi rakibini seçmiş görünüyor erdoğan.<br/>hayırlısı.
+  entry_channels: siyaset,tarih
 - entry_name: |
     masumiyet müzesi
   entry_id:  107624776
   entry_writer: brooklyn carter
-  entry_fav_count: 4
+  entry_fav_count: 7
   entry_content: |
     hayalimdeki kemal'in <a class="b" href="/?q=cansel+el%c3%a7in">cansel elçin</a> olduğu şahane kitap. <a class="b" href="/?q=mert+f%c4%b1rat">mert fırat</a> da olabilirdi. kitabın başlarında kemal 30'larında genç bir erkek ama eserin kapsadığı dönem çok uzun bir dönem. çağatay'ın 40'larında bir adamı oynayabileceğini düşünmüyorum, imajı duruşu da geçtim o hissiyatı verebilecek kadar iyi bir oyuncu değil sadece yakışıklı bir çocuk o kadar.<br/><br/>onun dışında hem dönem dizisi, hem de o zamanın istanbul sosyetesi anlatılacak. şu konsepti görmek için intiharını erteleyebilecek tanıdıklarım var. çağatay kararını eleştirsem de bu dizinin çok iyi ve çok başarılı olmasını istiyorum çünkü <a class="b" href="/?q=orhan+pamuk">orhan pamuk</a> en sevdiğim yazarlardan biri. kitaba da o kadar bayılmıştım ki 3 sene önce yazdığım <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/66516859" title="https://eksisozluk.com/entry/66516859">bu entryi</a> okuyunca yine hatırladım ve duygusal bir topa döndüm.
   entry_channels: sanat,tarih,edebiyat
@@ -326,18 +286,42 @@ data:
     deva partisi
   entry_id:  107587909
   entry_writer: hadigorusuruzbenkacar
-  entry_fav_count: 4
+  entry_fav_count: 7
   entry_content: |
     parti programına baktığımda seçim barajını düşüreceklerini ve seçim bölgesini daraltacaklarını yazmışlar. aslında bunu çok önemsiyorum ben. ama burada kimse merak edip bununla ilgili bişey yazmamış. sadece burada değil hiçbi' yayında kendilerine bununla ilgili bi' soru da gelmedi(ben kaçırmış da olabilirim). çoğulculuğun birinci önceliği bu olmamalı mı? neden kimse önemsemiyo baraj ve temsiliyet meselesini anlamadım.
   entry_channels: siyaset,haber
 - entry_name: |
-    ateist biriyle sevgili olmak
-  entry_id:  107627012
-  entry_writer: asuregibiw
-  entry_fav_count: 3
+    22 mayıs 2020 mansur yavaş'ın attığı mesaj
+  entry_id:  107632274
+  entry_writer: kckmlqm
+  entry_fav_count: 7
   entry_content: |
-    bazen arkadaş olmak bile zor kaldı ki sevgili. ateist biriyle sevgili olan müslüman kesin çok aşıktır.<br/>edit: vizyon genişlemesinden bahsedilmiş de siz sanıyorsunuz ki bütün ateistler bilim adamı bütün ateistler darwin. ki darwin’in ateist olması bile tartışmalı.
+    akşam akşam yüzümü güldüren bir mesaj attı.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/96wg3fdh" title="https://soz.lk/i/96wg3fdh">görsel</a>
+  entry_channels: siyaset
+- entry_name: |
+    2001 a space odyssey
+  entry_id:  107630332
+  entry_writer: birgaripgastronom
+  entry_fav_count: 7
+  entry_content: |
+    netflix üyeliği alan kendini sinefil sanıyor, hadi uzayın aq.
+  entry_channels: sanat,sinema,edebiyat
+- entry_name: |
+    eski sevgiliden kalan hediyelerin akıbeti
+  entry_id:  107628917
+  entry_writer: mathildaninkarnindakiagri
+  entry_fav_count: 6
+  entry_content: |
+    kullanmaya devam ettim ederim de bir sürü şey vardı 10 yıl geçti hala kullandığım saat, toz bezi olmuş tişört fln <br/>zaten benim için hala bi anlamı olsa ben kullanamam görsem bile kötü hissederim kendimi bi şey ifade etmedikten sonra da kullanmak da bi sakınca görmüyorum eşya sonuçta
   entry_channels: anket,ilişkiler
+- entry_name: |
+    tansu çiller denince akla gelenler
+  entry_id:  107629164
+  entry_writer: homoheidelbergens
+  entry_fav_count: 4
+  entry_content: |
+    babam ''bu kadın bir daha başbakan seçilirse türk vatandaşlığından çıkarım'' demişti. bu kadın hakkında aklıma kazınan şey bu. bir daha olamadı da neyseki tc vatandaşı olarak kaldık ailecek.
+  entry_channels: siyaset,anket,tarih
 - entry_name: |
     şu an okunan kitap
   entry_id:  107619113
@@ -347,36 +331,36 @@ data:
     ahmet handi tanpınar - (bkz: <a class="b" href="/?q=huzur">huzur</a>)
   entry_channels: anket,bilim,sanat,tarih,edebiyat,eğitim
 - entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  107599000
-  entry_writer: bikdimbiliyonmu
+    chp iktidarı distopyası
+  entry_id:  107632241
+  entry_writer: b0k
   entry_fav_count: 2
   entry_content: |
-    şu anki hava durumu hakkında :)
-  entry_channels: anket,ilişkiler,ekşi-sözlük
+    %100 istenenler, bu doğru. ama tabii hemen olmaz. aşama aşama yapmaya çalışırlar. hepsini tek seferde yapmazlar.
+  entry_channels: siyaset
 - entry_name: |
-    tansu çiller denince akla gelenler
-  entry_id:  107629164
-  entry_writer: homoheidelbergens
+    babayla yapmak istenip yapılamayanlar
+  entry_id:  107631607
+  entry_writer: glaurung
+  entry_fav_count: 2
+  entry_content: |
+    yanında büyümek
+  entry_channels: anket,ilişkiler,magazin
+- entry_name: |
+    menemen türk yemeği mi
+  entry_id:  107630087
+  entry_writer: tiny bites
   entry_fav_count: 1
   entry_content: |
-    babam ''bu kadın bir daha başbakan seçilirse türk vatandaşlığından çıkarım'' demişti. bu kadın hakkında aklıma kazınan şey bu. bir daha olamadı da neyseki tc vatandaşı olarak kaldık ailecek.
-  entry_channels: siyaset,anket,tarih
-- entry_name: |
-    eski sevgiliden kalan hediyelerin akıbeti
-  entry_id:  107629657
-  entry_writer: sieman
-  entry_fav_count: 1
-  entry_content: |
-    alayı çöpte olması gerektiği yerde. bu kadar romantik olmayın lan
-  entry_channels: anket,ilişkiler
+    ıspanya'da bunun sucuklusunu geleneksel ispanyol yemegi diye sunduklarina sahit oldum. buyuk torenlerde, festivallerde falan da yapilmaktaymis ancak adini su an hatirlayamadim.
+  entry_channels: anket,yeme-içme
 - entry_name: |
     2000 lira ile yapılacak en iyi ticari yatırım
-  entry_id:  107631189
-  entry_writer: evrenozd
+  entry_id:  107628601
+  entry_writer: garip seyin dogrusu
   entry_fav_count: 1
   entry_content: |
-    borsadan anlamıyorsan altın al koy bir köşeye
+    el yakınlığın varsa eğer. şuan hobi olarak yaptığımı yapabilirsin. ufak tefek aletler al küçük bir atölye kur. incik boncuk, takı tasarım veya marangozluk oymacılık gibi bir şey yapabilirsin. bu aralar popüler. birazda epoksi kullanımı ile güzel şeyler çıkıyor.<br/>veya plastik enjeksiyon, kalıp çıkarma işleri de yapılabilir.<br/>illa büyük girişimcilik olmasına gerek yok.<br/>en kolayı al-sat işleri. az riskli küçük karlı işler.<br/>aslında yapabilecek çok fazla iş var. neyi becerebileceğiniz başlangıç motivasyonunu önemli.<br/>kısa vadede çok kazanma telaşı içine düşmemek lazım.
   entry_channels: anket,ekonomi
 - entry_name: |
     sevdiğin kişiye bir entry bırak
@@ -387,14 +371,6 @@ data:
     ben sana yılmaz vural'ın 3 büyüklere baktıgı gibi bakmıstım, sen kıymetini bilemedin
   entry_channels: ilişkiler,ekşi-sözlük
 - entry_name: |
-    geceye bir şarkı bırak
-  entry_id:  107596782
-  entry_writer: uzakadam
-  entry_fav_count: 0
-  entry_content: |
-    sabah oldu artık o yüzden<br/><br/>"gül renginde gün doğarken<br/>boğazdan gemiler usulca geçerken<br/>gel çıkalım bu şehirden<br/>ağaçlar gökyüzü ve toprak uyurken" <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/72nGwgu3JDg">https://youtu.be/72ngwgu3jdg</a>
-  entry_channels: anket,müzik
-- entry_name: |
     erken seçim istemiyoruz
   entry_id:  107631549
   entry_writer: mikeh reniretev
@@ -402,4 +378,28 @@ data:
   entry_content: |
     seçmen vekilini, başkanını kaç yıl için seçtiyse seçilenler o süreyi sonuna kadar tüketmeli. haaa yönetemiyoruz diyen varsa yönetemediğinden mütevellit işin mantığı gereği kendisi katılmamak şartıyla istifa edip erken seçim isteyebilir. yeni kurulan partiler de bir zahmet gelecek seçimi beklesinler. muhalefet erken seçim çığırtkanlığı yapıp bu milleti daha fazla külfet altına sokmamalı. benim seçtiğim vekili kafasına göre o partiye bu partiye gönderip reyime saygısızlık yapmamalı. yaptığımız seçimin bir ağırlığı ve sonuçları olmalı. şimdi bakıyorum televizyon kanallarına erken seçim konuşuyorlar. bu seçimler bedava mı arkadaş? devlet ekstra bir de seçim masraflarının yükü altına sokulmamalı.
   entry_channels: 
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  107595083
+  entry_writer: arsk
+  entry_fav_count: 0
+  entry_content: |
+    abaza erkekler veritabanı
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    ateist biriyle sevgili olmak
+  entry_id:  107632215
+  entry_writer: ateyizayi
+  entry_fav_count: 0
+  entry_content: |
+    dindarlara göre zor olanmış.<br/><br/>sayın dindar arkadaşlar! bizi türlü sapıklıklar yapan hırpani kılıklı canavarlar olarak görüyor olabilirsiniz. ama size şunu söyleyeyim. istisnalar olabilmekle beraber çoğumuz vicdanlı insanlarız. bizi pek ayırt edemezsiniz. hatta size şunu söyleyeyim, beni gören müslüman "selamün aleyküm mü'min kardeşim, gel ikindi namazımızı camide ifa edelim" der. çok mülayim bir tipim vardır. elimde avcumda ne varsa dağıtırım. hani kendimi övmek gibi olmasın ama başı sıkışan bana gelir. kardeşinden isteyemeyeceği şeyi benden ister. aldığım duanın haddi hesabı yoktur. tanrı diye bir şey olsaydı kesinlikle aziz, evliya falan olurdum. çevremden kimse ateist olduğumu bilmez. <br/><br/>sizi çoooook iyi anlıyorum. 2000li yıllarda ben de sizin gibi düşünüyordum. "olum adam ateist, ne yapsa yapar" diye düşünüyordum. ama vicdan dinle olan bir şey değil. bakın en ufak bir tanrı inancım, cehennem korkum yok. ama sevmediğim insanın bile kalbini kırmaktan korkarım. <br/><br/>siz dindarlar olarak elinizi vicdanınıza koyup kendinizi hesaba çekin bakalım. en son, hiç bir sevap gözetmeksizin kime yardım ettiniz?<br/><br/>son olarak, dünyanın en güzel kadını da olsanız, dinle şekillenmiş bir ahlakla, benimle hiç bir şekilde sevgili olamazsınız zaten. uzaktan uzağa iç geçirip dua edersiniz ancak.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    antalya
+  entry_id:  107632378
+  entry_writer: goldmunt
+  entry_fav_count: 0
+  entry_content: |
+    8 mart 1930'da atatürk lara'dan beydağları'na bakarken söylemiş o meşhur "hiç şüphesiz ki antalya, dünyanın en güzel yeridir" sözünü. antalyalı biri olarak lara'dan beydağları'na bakarken söylediğini yeni öğrendim. utanç verici. lara değil gürsu tarafında oturduğum için de hiç oralara yolum düşmez. birkaç hafta önce sırf beydağları'na bakmak için lara'ya gittim. güneş batıyordu. inanılmazdı.<br/><br/>ben hep şey diyorum, atam 90 sene önce söylemiş bu sözü, şimdi olsa bu kadar rahat söyleyemezdi. nüfus arttıkça şehir kirlendi, mimari falan hak getire zaten. youtube'da bir 92 yılında antalya'da geçen bir video var. meltem falan yeni yapılıyor. o zamanları görünce şüphesiz ki ne şüphesiz diyorum ama şimdi pek emin değilim.<br/><br/>yine de lara'dan beydağları'na bakınca benim de içimden geçmedi değil. bir de iki gün önce artık dayanamayıp kaleiçi'ne girdim. bomboştu. kuş sesleri vardı. sanki counter strike'ta boş haritada dolanıyormuşum gibi hissettim. bir de değişik bir nostalji kapladı içimi. sanki atamın sokaklarında dolandığı kaleiçi'nde yürüdüm (dolanmıştır herhalde evi dibinde). bu şehri sevmemek elde değil.<br/><br/>tanım: türkiye'nin ve dünyanın en güzel şehirlerinden biri.
+  entry_channels: tv,tarih,seyahat
 ---
