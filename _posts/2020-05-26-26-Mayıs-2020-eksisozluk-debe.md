@@ -6,7 +6,7 @@ data:
     odtü mezununa 3500 tl maaş öneren hadsiz şirket
   entry_id:  107774656
   entry_writer: quatermain
-  entry_fav_count: 1028
+  entry_fav_count: 1036
   entry_content: |
     3 sene sonra 2500 liraya okey diyecektir.
   entry_channels: eğitim,ekonomi
@@ -14,7 +14,7 @@ data:
     kadıköy'de polisin kuryeye küfür edip tartaklaması
   entry_id:  107786413
   entry_writer: koladam
-  entry_fav_count: 992
+  entry_fav_count: 1003
   entry_content: |
     -senin bana vurman doğru mu abi ?<br/>-doğru, ben ona karar verdiğim için doğru.(?)<br/>şu diyalog çoğu şeyi anlatmaya yetiyor burada paragraflarca yazsan şu iki satırın anlattığını anlatamazsın.<br/><br/>o atılan tokat soma'daki tekmeye ne kadar çok benziyor değil mi ?<br/><br/>edit :<br/>çok fazla mesaj aldım. kadıköy piçi diyen var , provakasyon yapıyorsun diyen var.<br/>lütfen beni aydınlatın eğer öyle ise bu entry'i kaldıracağım. <br/>videonun içinde geçen diyalogları buraya yazmam provakasyon mudur ? <br/>yoksa ben bir troll saldırısı altında mıyım ?<br/><br/>edit2:<br/>bakın arkadaşlar düzgün bir üslupla gelin tartışalım. <br/>savunduğunuz şey cok ilginç . bu bir ınanç yada siyaset meselesi değil . bunu tabu haline getirmenin anlami yok. salgin zamaninda ekmegini çıkarmaya çalışan bir garibana yapilan şiddet. adamın çaresizliğini görmüyor musunuz ? kaç gece uykusu kaçacak kim bilir.
   entry_channels: siyaset,haber
@@ -22,23 +22,15 @@ data:
     tunç soyer'in troll hesaptan kendini övmesi
   entry_id:  107789915
   entry_writer: benburayaniyegeldim
-  entry_fav_count: 628
+  entry_fav_count: 639
   entry_content: |
     komik durum. <br/><br/>hangi partiden olursa olsun, böyle bir durum aşırı komik oluyor ya. yapmayın şöyle şeyler beyler <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: siyaset,haber
 - entry_name: |
-    cinlere inanmayanların cahil olması
-  entry_id:  107780053
-  entry_writer: incendies
-  entry_fav_count: 556
-  entry_content: |
-    ada cin, gilbey’s cin, gordon’s cin, tanqueray cin, beefeater cin, stamford cin, plymouth cin<br/><br/>ben bu cinlere inanıyorum. <br/><br/>vergileri çok yüksek cinlerdir.
-  entry_channels: anket
-- entry_name: |
     bayraktar'ın 6 iha'yı 36 milyon dolara satması
   entry_id:  107773534
   entry_writer: green stone
-  entry_fav_count: 447
+  entry_fav_count: 449
   entry_content: |
     selçuk bayraktar'ın başında kayınpederinin olduğu devlete 6 ihayı 36 milyon dolara satmasıdır. ayrica vergiden de muaf edilmiştir. bu nasil vatan aşkıdır yiğidim.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.istanbulgercegi.com/damat-devlete-iha-satti-36-milyon-dolar-aldi-_115851.html" title="https://www.istanbulgercegi.com/damat-devlete-iha-satti-36-milyon-dolar-aldi-_115851.html">https://www.istanbulgercegi.com/…-aldi-_115851.html</a><br/><br/>edit2: bir2uc4bes6 ve player one dm attı" heronlar tanesi 18.5 milyon dolardı. bayraktarlar heronlardan çok daha üstün"<a rel="nofollow noopener" class="url" target="_blank" href="http://www.ydh.com.tr/HD7392_turkiye-ile-israil-heronlar-konusunda-anlasmaya-vardi.html" title="http://www.ydh.com.tr/HD7392_turkiye-ile-israil-heronlar-konusunda-anlasmaya-vardi.html">http://www.ydh.com.tr/…nusunda-anlasmaya-vardi.html</a><br/><br/>edit3: kosedekivelet isimli yazar yazdı.2011 yıllından beri havacılık alanında çalışan biriyim.<br/>benim alanım iç kabin ama emin olun ki bu 6 milyon bu araç için çerez sayılabilir.<br/>amerikanın rq-4c yaklaşık fiyatı 150*-200 miyon dolar,<br/>israil heronların fiyatı da 20-25 milyon dolar.<br/><br/>*çok sayıda mesaj aldım muadilerine göre verdigi fiyat ucuzmuş dagılabiliriz.
   entry_channels: teknoloji,haber,ekonomi
@@ -46,7 +38,7 @@ data:
     dünyadaki en büyük gizem
   entry_id:  107759591
   entry_writer: tygertyger
-  entry_fav_count: 420
+  entry_fav_count: 422
   entry_content: |
     (bkz: <a class="b" href="/?q=tarsus%27taki+esrarengiz+kaz%c4%b1">tarsus'taki esrarengiz kazı</a>)
   entry_channels: anket,bilim,tarih
@@ -54,23 +46,15 @@ data:
     tuzlu suya atılan çileklerden böcek çıkması
   entry_id:  107780953
   entry_writer: yasayanolu
-  entry_fav_count: 400
+  entry_fav_count: 401
   entry_content: |
     azıcık bilgisi olan bilir ki organik meyve kurtlu ve böceklidir . özellikle son yıllarda tarım ilaçlarının zararları çokca tartışılıyor ve organik tarıma geri dönüşte bir artış var. bu sebeple ya organik meyve yiyip daha sağlıklı beslenecek ama bu tür riskleri göze alacaksınız ya da ilaçlı meyvelerden şikayet etmeyeceksiniz.<br/>çileği sadece siz mi seviyorsunuz? o böcekler de seviyor.
   entry_channels: sağlık,yeme-içme
 - entry_name: |
-    türkiye'deki en sert ilçe adı
-  entry_id:  107772776
-  entry_writer: monoton kokteyli
-  entry_fav_count: 398
-  entry_content: |
-    (bkz: <a class="b" href="/?q=bo%c4%9fazl%c4%b1yan">boğazlıyan</a>)
-  entry_channels: anket,edebiyat,seyahat
-- entry_name: |
     25 mayıs 2020 psikolojinin kaymaya başlaması
   entry_id:  107800559
   entry_writer: samioferingozlukleri
-  entry_fav_count: 301
+  entry_fav_count: 369
   entry_content: |
     tr'de yasayip da psikolojin yeni kaymaya basladiysa senden guclusu yok diye cevap verilesi serzenistir.
   entry_channels: sağlık
@@ -78,7 +62,7 @@ data:
     z kuşağının inanılmaz boş olması
   entry_id:  107798192
   entry_writer: spectacular111
-  entry_fav_count: 284
+  entry_fav_count: 290
   entry_content: |
     hayatta her şeyi kağıt üzerinde sanan yazar beyanı.<br/><br/>birincisi,z kuşağı dediğin kuşağın eli kolu o kadar bağlı ki genel olarak avrupa'da ki yaşıtları bir çok yer görüp,gezip,tozup kendine tecrübe toplarken senin z kuşağın sinemaya giderken bile iki kere düşünüyor hafta sonunu getirebilir miyiz diye.<br/><br/>ikincisi,türkiye'de ki verilen eğitimi eğitim mi zannediyorsun? eğitimden kastım matematik,türkçe değil.kaç tane lise mezunu öğrenci hayatta ne yapması gerektiğinin farkında? hangi üniversite mezunu okuduğu bölümünün eriştiği alanları,bu alanların nerede,nasıl olduğunu ne kadar biliyor? bu işler matematik çalışacaksın bak çalışmazsan bir bok olamazsın diye dayatmalarla olacak iş değil.bu yüzden ülkenin %10'u eğitim görüyor ve bu yüzden iş veren bir çok dalda asgari ücret teklif edebiliyor. neden? çünkü bu dayatmalar yüzünden okuyan insan çok,talep çok,sen olmasan başkası bu parayı kabul eder diyor.<br/><br/>bu ülkenin z kuşağı dünyayı göremiyor.motivasyonunu toplayamıyor.genel olarak sıkıntı yaşayan ebeveynler de çocuklarına gerekli bilgi ve kişisel eğitimi veremiyor.insanlar da kendini teknolojinin ellerine bırakıyor ve hapsoluyor.dünyayı göreni de buradan çekip gitme peşinde zaten.<br/><br/>edit:imla.
   entry_channels: anket,ilişkiler
@@ -86,23 +70,23 @@ data:
     2020 otomobil ötv indirimi
   entry_id:  107799389
   entry_writer: cbellow
-  entry_fav_count: 280
+  entry_fav_count: 287
   entry_content: |
     insanların temel ihtiyaçlarına zam üstüne zam gelirken ötv indirimi yapılması etik olmaz. o yüzden akp'nin yapabileceğini düşünüyorum.
   entry_channels: otomotiv,ekonomi
 - entry_name: |
-    babayla küs olmak
-  entry_id:  107754812
-  entry_writer: bolivian sucre
-  entry_fav_count: 265
+    ali babacan
+  entry_id:  107754763
+  entry_writer: didierdrogba07
+  entry_fav_count: 232
   entry_content: |
-    kendi evladına lakap takan babalar biliyorum. inanın bana küs olanları asla yadırgamayın. öyle şerefsizdirler ki bunlar, kendi oğlunun-kızının özgüveninin içine etmişlerdir. özellikle zor çocukluk yaşamışsa bu baba, o yaşamış olduğu sevgisizliği ailesine geçirir. ve aile itiraf etmese de bu baba, tüm aile fertlerinin psikolojisini bozmuştur. bu başlığa yazamayan o kadar çok evlat var ki!
-  entry_channels: ilişkiler
+    son 15 senede gençliğini kaybetmiş, en önem verdiği değer ulu önder atatürk olan, gezi'de en ön sıralarda haykırmış dayak yemiş, ülkesini çok seven ama halkına biraz kırgın, iktidardan ise nefret eden azıllı bir muhalifin gözünden (ben) kendisi üç aşağı beş yukarı şu durumdadır;<br/><br/>eksileri;<br/>düne kadar akp sıralarındaydı<br/><br/>artıları;<br/>* akp'yi sevenlerce savunulan en ciddi argüman olan "yiyiyor ama çalışıyor" daki "çalışıyor" işte bu arkadaş...<br/><br/>* ülkenin ekonomisi iyi dönemde iken herşey yolunda giderken dümenin başındaydı<br/><br/>* akp'nin ayak takımından değil, içinden geldiği siyasi gelenekte tıpkı mehmet şimşek gibi bulunduğu yere ahbap çavuş ilişkisi değil gerçekten "liyakat" ile gelmiş ender isimlerden birisi<br/><br/>* genç, dinamik, enerjik bir yüz... belgesellerden, filmlerden bilirsiniz, aşina olduğunuz hikayedir. sürü lideri artık yaşlanmıştır ve sürüye sahip olamamaktadır. zaman içeriden daha genç daha dinamik ve sürünün gerçekten ihtiyacı olan birisini çıkarır ve lideri yenerek sürünün başına geçer... işte tam da bu hikayeye uygun bir isim... genetik kodlarımızda hepimizin aşina olduğumuz hikayeye uygun bir isim<br/><br/>* modern dünyaya hakim, çağın gereklerini bilen bir isim<br/><br/>* iyi derecede eğitimli ülkenin en iyi mühendislerini yetiştiren okuldan derece ile mezun oldu, zaten yabancı dil falan şakır şakır,<br/><br/>* "ananı da al git", yerdeki madenciyi tekmelemek, "takla at da görelim", "bakara makara" gibi akp cenahında sıradanlaşan çiğliklerde asla adı geçmedi, her zaman bulunduğu makamın ağırlığını taşıyabildi. vatandaşa saygısızlık yapmadı.<br/><br/>* gaf falan yapmıyor, meramını çok güzel çok düzgün biçimde ifade edebilirken "merak ediyorum bahçeli'nin bu ülkeye ne faydası var?" gibi muhalefetin yüzyıllardır soramadığı kritik sorularla taşı da çat diye gediğine koyabiliyor.<br/><br/>* ekonomi bakanlığı, dış işleri bakanlığı ve ab müzakereciliği gibi en kritik "sivil (bakın burası çokomelli)" mevkilerde çok önemli tecrubesi var, ülkece militarizmden ve otoriterlikten uzaklaşmaya çok ihtiyacımız olduğu dönemde bu konu düşününce çok büyük artı;<br/><br/>* bakın burası da çok çok çokomelli karşıt cenahtan da ciddi anlamda oy koparabilecek birisi;<br/><br/>* küresel sermaye ile sorun yaşamayacağı bilakis uyumlu çalışacağı düşünülmekte;<br/><br/>* şimdiye kadar seküler kesimi karşısına alabilecek doğrudan bir çıkışı olmadı, hatta eşinin kapalı olması ve muhtemelen inancı ve gereklilikleri dışında modern bir hayat tarzı var, sevgisini bilemem ama ulu önder atatürk'e hep saygılı kaldı<br/><br/>* benzer bir biçimde kürt oyları ve milliyetçi oyları irrite edecek bir açıklaması, çıkışı, yaklaşımı yok, her kesimin en azından nötr yaklaşacağı ender isimlerden birisi. en azından tepki oyları ile karşılaşmayacaktır.<br/><br/>* merkez bankası'nın bağımsızlığı gibi en kritik konularda güç sahibine boyun eğmedi, makamını kaybetti ama aklın ve mantığın tarafında kaldı.<br/><br/>* hiçbir yolsuzluk iddiasında adı geçmedi. reza zarrap'a karşı dik durabilmiş, kendisini para ile satmamış, bu anlamda gerekirse ülkenin en büyük gücünü de karşısına alabilmiş, tepki koyabilmiş bir isim. bu anlamda ülkenin başındaki isimler dahil kimsenin göstermediği dirayeti gösterebildiği bizzat reza tarafından tapelerde itiraf edilmiş. eli bal kasesinde iken parmağını yalamamış birisi, gördüğünüz gibi "yiyiyor ama çalışıyor" daki "yiyen" kişi olmadığı da çok açık...<br/><br/>siyasi rakiplerine baktığımızda ise;<br/><br/>recep tayyip erdoğan; her ne kadar bugün en güçlü figür gibi görünse de siyasi ömrünün sonuna gelmiştir. tutarsız ve yanlış politikaları sonucunda ülke çok ciddi sıkıntılara gebedir. ülkede büyük çoğunluk artık kendisinden nefret ederken bu saatten sonra anlamlı bir siyasi geleceği yoktur.<br/><br/>süleyman soylu; otoriter sevimsiz, gri ve soğuk bir isimdir. aslında tam da o dillerinden düşürmedikleri "eski türkiye'ye" ait bir figürdür. kaybetmeye mahkumdur, halkta karşılığı yoktur, kenan evren v2. ye bu ülkede anlamlı sayılabilecek bir kitle oy vermez.<br/><br/>damat berat albayrak : rte'den nefret edenler, rte'nin kendisini işaret etmesi nedeni ile kendisinden de nefret ediyor. şimdiye kadar başarılı olduğu hiçbir alan, hiçbir görevi yok. muhafazakar kesimde de "yüzüklü partiler", kayın babasının birikimine çöken damat algısı, torpille bir yere gelen insan figürü, yurtdışı eğitimi (muhafazakarlar eğitimli kişileri pek sevmez), başarısız görevleri, fetö sonrası gelişen "pelikan" yapılanmasına mesafeleri vs. vs. nedeni ile önemli oranda sevmeyeni mevcut. kayınbabasının bile siyasi kariyerini devam ettiremeyeceği bir haritada kendisinin de yeri yok. bunun da kendisi ve kayınbabası hariç herkes farkında.<br/><br/>meral akşener; kitleleri peşinden sürüklemeyecek, bunu hepimiz biliyoruz. her ne kadar sempatik meral mommy'miz olsa da siyasi kariyeri ona baki kalacak bir muhalefet sunmakta diye düşünüyorum.<br/><br/>ekrem imamoğlu; bir heyecan yarattı, mansur başkanla birlikte rte'ye karşı gerçekten kazanan ilk isimdi, kendisine de borçluyuz ama geçen 1 senelik süre gösterdi ki kendi partisinin seçmeni dahi kendisine çok sıcak bakamıyor. siyasal islamın sekülerleşmesi projesi vs. chp'nin muhafazakarlaşması projesinin kazananı bu ülkede hem sağ kesim hem sol kesimde cevabı belli bir sorudur. bırakın rakip olmayı, ilerleyen süreçte yola sayın babacan ile devam edebileceğini dahi düşünmekteyim.<br/><br/>mansur yavaş; bu adam aslında on numara, bin oyum olsa binini de kendisine veririm. ama ne yazık ki yaşı var... ne yazık ki kendisi de genetik kodlarımıza kayıtlı olan "sürü liderini yenen genç" hikayesine uygun bir isim değil. 10 sene önce olsa harika olacaktı. bundan sonra zaten çok başarılı olduğu büyükşehir belediye başkanlığı kariyerinde daha çok çok başarılar diliyorum ve başkentin tarihine altın harflerle kazınmasını diliyorum. <br/><br/>diğer isimler arasında ileriye yönelik herhangi bir isim görmüyorum, hemen hemen hepsinin siyaset tarihine gömüleceğini düşünüyorum. hataları ve doğruları ile herkesi olduğu gibi tarih tarafından yargılanacaklardır. bu süreç içerisinde kürt hareketi de siyasi haritada ama demirtaş ile ama her daim içlerinden çıkaracakları başka bir lider ile devam edecektir ancak iktidar yolu en azından yakın gelecekte kendilerine kapalıdır. bu ülkenin dinamikleri budur. görüleceği gibi sayın ali babacan'ın siyasi anlamda kendisini tehdit eden bir rakibi de yoktur.<br/><br/>kendisi ile ilgili olabilecek olası eleştriler;<br/><br/>ekonomik başarısı derviş politikalarından gelmektedir. hep eleştrilen inşaat ekonomisi konusunda da doğrudan sorumludur.<br/><br/>cevap: doğru ilgili dönem öyle bir dönemdir ki; ülkece dibe batılmış doğal afet sonucunda sıfır tüketilmiş, bu afet sebebi ile iktidarın başı yenmiş sonrasında ise ağır kemer sıkma politikaları ve global ekonomik gidişat nedeni ile herşeyin daha iyiye gitmesinin beklenmesi gereken bir dönemdir. bununla birlikte bu adam öncelikle bu küresel dinamikleri küstürmemiş, ilgili dönemden yararlanabilmiş ülkesine para çekmeyi becerebilmiş o söylediğiniz "derviş politikalarını" taviz vermeden devam ettirebilmiş en azından bu anlamdaki tecrubesi kıymetli bir isim. gelelim inşaat politikası konusuna, öncelikle bu konu sadece kendisinin sorumlu olduğunu düşünmediğim bir konu olmakla birlikte ben genel geçer anlamda bu konuda muhalif yorumlardan biraz ayrılmaktayım. bu ülke her şeyden önce büyük bir deprem görmüştü, bu deprem anında yolların, ulaşımın, haberleşmenin hastanelerin, kamu binalarının ve devlet kavramının bizzati kendisinin 45 saniye içerisinde nasıl da işlevsiz kalabildiğini görmüştük. önceki dönemlerde yapılan tüm yapılar boğaz köprüsü (mühendislik ithaldi) gibi birkaç major proje hariç tüm yapılar saatli bombaydı, hala da böyle bir çok yapı var. kamu binalarının, ulaşım altyapısının, kentsel dönüşüm projelerinin, okulların, hastanelerin hepsi velhasıl top yekün bir inşaat hamlesi ilgili dönemde bu ülke için keyfi bir tercihten çok bir zorunluluktu. allah bu ülkenin yüzüne baktı da henüz büyük bir marmara depremi beklenmesine rağmen görmedik, bu hamlenin gerekliliğini anlamak için yeterli doneye sahip olmadık. bu nedenle şimdi inşaat hamlesine sallamak kolay. bu navigasyonun olmadığı dönemde birinci köprüden mi gidelim ikinci köprüden mi gidelim sorusuna benziyor. birinci köprüdeki büyük kazayı ve kilit hali görmeyen kişi ikinci körüdeki şişkinliği görünce "keşke birinciden gitseydik" diyor... allah göstermesin ama sen bir de birinci köprünün (olası marmara depremi) halini görsen koyup gidene rahmet okursun... bununla birlikte tüm ekonomiler tüm para birimleri tüm krizler ve iyi giden dönemler geçicidir. bunu unutmayın, en önemli şey bu... para birimi hayali bir satın alma aracıdır. esas olan şey madden, şeklen karşınızda duran maldır, kalıcı olan medeniyettir, eğer tekniğine uygun yapıldı ise o binalardır (ki o binaların tümünün tekniğine uygun yapıldığından mesleğim gereği ben eminim), ben genel kanınızın aksine inşaat hamlesinin gerekli, doğru ve kaçınılmaz olduğunu düşünüyorum. bu konuda iktidarı eleştrebilecek şey şudur; bütün ihaleler yandaş müteahhitlere verilmiş, eğitimi ve yeterliliği olmayan bir zümreye peşkeş çekilmiş, yeni zenginler yaratılmış, sermayenin el değiştirmesi sağlanmıştır, haksız kazanç, haram para ve yolsuzluklar inşaat ekonomisi ile zirve yapmıştır. ki bu konuya da bir alt maddede değineceğiz;<br/><br/>yolsuzlukları biliyordu;<br/><br/>cevap; ne demiştik bütün ihaleler yandaş müteahhitlere verilmiş, eğitimi ve yeterliliği olmayan bir zümreye peşkeş çekilmiş, yeni zenginler yaratılmış, sermayenin el değiştirmesi sağlanmıştır, haksız kazanç, haram para ve yolsuzluklar inşaat ekonomisi ile zirve yapmıştır.<br/>ancak ben sayı ali babacan'ın bu konuda suçlu olduğuna, müdahil olduğuna veya bu rant çemberini durdurabilecek erki olduğuna inanmıyorum. kendisi yukarıda bahsettiğim 17-25 aralık tapelerinden de gördüğümüz üzere bu rant çemberinin dışında kalmıştır. kendini satmadan doğru bildiği yolda (bu yol kişiden kişiye değişir sayın ali babacan kendi doğru bildiği yolda) mümkün olduğunca ülkesinin menfaatleri doğrultusunda hareket etmiştir. benim kendisinin hikayesinden anladığım budur. malum şahıs dışında ben dahil kimsenin daha fazlasını yapabileceğine inanmamaktayım.<br/><br/>kendisi akp'den gelmektedir, ayrıca çatı aday yaklaşımına da inanmıyorum bir kere ekmeleddin'e verdim bir daha vermem...<br/><br/>cevap; ülkeyi yönetme adına yola çıkan muhalefet çatı aday adı altında çağdaşdaşlıktan uzak, bildiği tek şey bazı doğmaları pazarlamak olan, reel olarak hiçbir ciddi avantaj sunmayan, yaşı geçkin, ekonomiye siyasete ve ülke yönetimine uzak bir kuklayı sunarken; beğenmediğimiz muhafazakarlar iyi bir mühendis, ekonmist, dünya dinamiklerini bilen, genç, yarınlara umut veren bir siyasetçiyi sahneye çıkarıyorsa bu sorunun cevabı sayın ali babacan'da değildir. burada özeleştri yapması gereken ali babacan değil chp'dir... çok mu zordu? milyonlarca size gönül vermiş insan arasında şu yukarıdaki özelliklere sahip ama "siyasal islam geleneğinden gelmeyen" tek bir isim çıkartmak çok mu zordu? bir tane isim bile çıkmıyorsa bunun sorumlularının da gereken tepki ile karşılaşması lazım...<br/><br/>iş bu veriler ışığında değerlendirdiğimizde toplumsal mutabakata en ihtiyacımız olan 15 yıllık yaralarımızı tamir edeceğimiz şu önümüzdeki dönemde sayın babacan "ehven-i şer" falan değildir. ülkece bizim için en makul, en doğru yol, en demokratik sol isimdir... proje midir ben bilmem ama proje ise de emin olun hepimizin ihtiyacı olan bir projedir. her ne kadar benim oyum ülkenin dinamikleri açısından önemli olmasa, esas anlamlı oy karşı cenahtan alacağı oy, önemli olan muhafazakar oyları olsa da benim oyum büyük bir hata yapmazsa gönül rahatlığı ile ilk seçimlerde kendisinindir. <br/><br/>kendisine tavsiyem ise abdullah gül, ahmet davutoğlu, bülent arınç gibi figürlerden kendisini olabildiğince (talep ettiği sağ oylar nedeni ile en azından başlangıçta tamamen izole olamayacağını biliyorum) izole edebildiği takdirde önünün çok açık olduğunu hissetmekteyim. yolu açık olsun...<br/><br/>dipnot : 1999 yılından beri muhtelif hesaplarla şu sözlüğe katkı sağlamış sözlükle beraber büyümüş birisiyim. ben bugüne değin bu kadar boktan bir jenerasyonla karşılaşmadım. bu da senin eserin kanzuk... iki satır kendi kanaatimizi yazdık ki yazının başında da sonunda da belirttiğim üzere tamamen beni bağlar; ne aktrollüğüm, ne çomarlığım kalmış ne de etmedikleri hakaret... ulan sığır! insanı yaftalayacaksan önce bi tıkla oradaki yazar infosuna da bak bakalım ne yazmış beğenilenleri, favorilenenleri neymiş bu adamın da ona göre yaftala... ben neredeyse 40 yaşına gelmiş doktoralı bir mühendisim... sen kimsin? var ise iki çift lafın senin de yazarsın biz de alırız kahvemizi okuruz adam şunu şunu doğru demiş der, fikrimizi gözden geçiririz, sen de birşeyler öğrenirsin biz de... bu budur yani... cevap vermeyip hakarete yaftalamaya tabi tutmak ne? bak senin kafan çalışmıyor ben sana karşıt argüman yazayım da en azından onu anlat, ben eksi olarak "düne kadar akp sıralarındaydı" demiştim ya, sen de ona karşılık şu meşhur "karakteriniz 1'dir, para 0 zeka 0, her seferinde ona katlar ama karakteriniz yoksa - 0 - sınız" hikayesi var ya onu anlat... çok güzel bir karşıt argüman olur... ama yazdığın hikayeden biraz da kendine pay çıkar olur mu? karakterin olsun...
+  entry_channels: siyaset,haber,ekonomi
 - entry_name: |
     yazarları lise zamanlarına götüren şarkı
   entry_id:  107756741
   entry_writer: nitta
-  entry_fav_count: 221
+  entry_fav_count: 222
   entry_content: |
     (bkz: <a class="b" href="/?q=%c3%b6l%c3%bcr%c3%bcm+hasretinle">ölürüm hasretinle</a>)<br/><br/>o zaman için baya hitti.
   entry_channels: anket,ekşi-sözlük,müzik,eğitim
@@ -110,71 +94,39 @@ data:
     boşanırken tuzluğu alan kadın
   entry_id:  107792881
   entry_writer: mayzan
-  entry_fav_count: 217
+  entry_fav_count: 221
   entry_content: |
     <a class="b" href="/?q=bo%c5%9fanan+kad%c4%b1n%c4%b1n+avukata+talimat%c4%b1">boşanan kadının avukata talimatı</a><br/>neyi varsa al allah belasını versin<br/><br/><a class="b" href="/?q=bo%c5%9fanan+adam%c4%b1n+avukata+talimat%c4%b1">boşanan adamın avukata talimatı</a><br/>ne istiyorsa ver allah belasını versin
   entry_channels: ilişkiler
 - entry_name: |
-    ali babacan
-  entry_id:  107754763
-  entry_writer: didierdrogba07
-  entry_fav_count: 210
+    ekonomiyi bir ayda toparlarım
+  entry_id:  107805808
+  entry_writer: demyanenko
+  entry_fav_count: 219
   entry_content: |
-    son 15 senede gençliğini kaybetmiş, en önem verdiği değer ulu önder atatürk olan, gezi'de en ön sıralarda haykırmış dayak yemiş, ülkesini çok seven ama halkına biraz kırgın, iktidardan ise nefret eden azıllı bir muhalifin gözünden (ben) kendisi üç aşağı beş yukarı şu durumdadır;<br/><br/>eksileri;<br/>düne kadar akp sıralarındaydı<br/><br/>artıları;<br/>* akp'yi sevenlerce savunulan en ciddi argüman olan "yiyiyor ama çalışıyor" daki "çalışıyor" işte bu arkadaş...<br/><br/>* ülkenin ekonomisi iyi dönemde iken herşey yolunda giderken dümenin başındaydı<br/><br/>* akp'nin ayak takımından değil, içinden geldiği siyasi gelenekte tıpkı mehmet şimşek gibi bulunduğu yere ahbap çavuş ilişkisi değil gerçekten "liyakat" ile gelmiş ender isimlerden birisi<br/><br/>* genç, dinamik, enerjik bir yüz... belgesellerden, filmlerden bilirsiniz, aşina olduğunuz hikayedir. sürü lideri artık yaşlanmıştır ve sürüye sahip olamamaktadır. zaman içeriden daha genç daha dinamik ve sürünün gerçekten ihtiyacı olan birisini çıkarır ve lideri yenerek sürünün başına geçer... işte tam da bu hikayeye uygun bir isim... genetik kodlarımızda hepimizin aşina olduğumuz hikayeye uygun bir isim<br/><br/>* modern dünyaya hakim, çağın gereklerini bilen bir isim<br/><br/>* iyi derecede eğitimli ülkenin en iyi mühendislerini yetiştiren okuldan derece ile mezun oldu, zaten yabancı dil falan şakır şakır,<br/><br/>* "ananı da al git", yerdeki madenciyi tekmelemek, "takla at da görelim", "bakara makara" gibi akp cenahında sıradanlaşan çiğliklerde asla adı geçmedi, her zaman bulunduğu makamın ağırlığını taşıyabildi. vatandaşa saygısızlık yapmadı.<br/><br/>* gaf falan yapmıyor, meramını çok güzel çok düzgün biçimde ifade edebilirken "merak ediyorum bahçeli'nin bu ülkeye ne faydası var?" gibi muhalefetin yüzyıllardır soramadığı kritik sorularla taşı da çat diye gediğine koyabiliyor.<br/><br/>* ekonomi bakanlığı, dış işleri bakanlığı ve ab müzakereciliği gibi en kritik "sivil (bakın burası çokomelli)" mevkilerde çok önemli tecrubesi var, ülkece militarizmden ve otoriterlikten uzaklaşmaya çok ihtiyacımız olduğu dönemde bu konu düşününce çok büyük artı;<br/><br/>* bakın burası da çok çok çokomelli karşıt cenahtan da ciddi anlamda oy koparabilecek birisi;<br/><br/>* küresel sermaye ile sorun yaşamayacağı bilakis uyumlu çalışacağı düşünülmekte;<br/><br/>* şimdiye kadar seküler kesimi karşısına alabilecek doğrudan bir çıkışı olmadı, hatta eşinin kapalı olması ve muhtemelen inancı ve gereklilikleri dışında modern bir hayat tarzı var, sevgisini bilemem ama ulu önder atatürk'e hep saygılı kaldı<br/><br/>* benzer bir biçimde kürt oyları ve milliyetçi oyları irrite edecek bir açıklaması, çıkışı, yaklaşımı yok, her kesimin en azından nötr yaklaşacağı ender isimlerden birisi. en azından tepki oyları ile karşılaşmayacaktır.<br/><br/>* merkez bankası'nın bağımsızlığı gibi en kritik konularda güç sahibine boyun eğmedi, makamını kaybetti ama aklın ve mantığın tarafında kaldı.<br/><br/>* hiçbir yolsuzluk iddiasında adı geçmedi. reza zarrap'a karşı dik durabilmiş, kendisini para ile satmamış, bu anlamda gerekirse ülkenin en büyük gücünü de karşısına alabilmiş, tepki koyabilmiş bir isim. bu anlamda ülkenin başındaki isimler dahil kimsenin göstermediği dirayeti gösterebildiği bizzat reza tarafından tapelerde itiraf edilmiş. eli bal kasesinde iken parmağını yalamamış birisi, gördüğünüz gibi "yiyiyor ama çalışıyor" daki "yiyen" kişi olmadığı da çok açık...<br/><br/>siyasi rakiplerine baktığımızda ise;<br/><br/>recep tayyip erdoğan; her ne kadar bugün en güçlü figür gibi görünse de siyasi ömrünün sonuna gelmiştir. tutarsız ve yanlış politikaları sonucunda ülke çok ciddi sıkıntılara gebedir. ülkede büyük çoğunluk artık kendisinden nefret ederken bu saatten sonra anlamlı bir siyasi geleceği yoktur.<br/><br/>süleyman soylu; otoriter sevimsiz, gri ve soğuk bir isimdir. aslında tam da o dillerinden düşürmedikleri "eski türkiye'ye" ait bir figürdür. kaybetmeye mahkumdur, halkta karşılığı yoktur, kenan evren v2. ye bu ülkede anlamlı sayılabilecek bir kitle oy vermez.<br/><br/>damat berat albayrak : rte'den nefret edenler, rte'nin kendisini işaret etmesi nedeni ile kendisinden de nefret ediyor. şimdiye kadar başarılı olduğu hiçbir alan, hiçbir görevi yok. muhafazakar kesimde de "yüzüklü partiler", kayın babasının birikimine çöken damat algısı, torpille bir yere gelen insan figürü, yurtdışı eğitimi (muhafazakarlar eğitimli kişileri pek sevmez), başarısız görevleri, fetö sonrası gelişen "pelikan" yapılanmasına mesafeleri vs. vs. nedeni ile önemli oranda sevmeyeni mevcut. kayınbabasının bile siyasi kariyerini devam ettiremeyeceği bir haritada kendisinin de yeri yok. bunun da kendisi ve kayınbabası hariç herkes farkında.<br/><br/>meral akşener; kitleleri peşinden sürüklemeyecek, bunu hepimiz biliyoruz. her ne kadar sempatik meral mommy'miz olsa da siyasi kariyeri ona baki kalacak bir muhalefet sunmakta diye düşünüyorum.<br/><br/>ekrem imamoğlu; bir heyecan yarattı, mansur başkanla birlikte rte'ye karşı gerçekten kazanan ilk isimdi, kendisine de borçluyuz ama geçen 1 senelik süre gösterdi ki kendi partisinin seçmeni dahi kendisine çok sıcak bakamıyor. siyasal islamın sekülerleşmesi projesi vs. chp'nin muhafazakarlaşması projesinin kazananı bu ülkede hem sağ kesim hem sol kesimde cevabı belli bir sorudur. bırakın rakip olmayı, ilerleyen süreçte yola sayın babacan ile devam edebileceğini dahi düşünmekteyim.<br/><br/>mansur yavaş; bu adam aslında on numara, bin oyum olsa binini de kendisine veririm. ama ne yazık ki yaşı var... ne yazık ki kendisi de genetik kodlarımıza kayıtlı olan "sürü liderini yenen genç" hikayesine uygun bir isim değil. 10 sene önce olsa harika olacaktı. bundan sonra zaten çok başarılı olduğu büyükşehir belediye başkanlığı kariyerinde daha çok çok başarılar diliyorum ve başkentin tarihine altın harflerle kazınmasını diliyorum. <br/><br/>diğer isimler arasında ileriye yönelik herhangi bir isim görmüyorum, hemen hemen hepsinin siyaset tarihine gömüleceğini düşünüyorum. hataları ve doğruları ile herkesi olduğu gibi tarih tarafından yargılanacaklardır. bu süreç içerisinde kürt hareketi de siyasi haritada ama demirtaş ile ama her daim içlerinden çıkaracakları başka bir lider ile devam edecektir ancak iktidar yolu en azından yakın gelecekte kendilerine kapalıdır. bu ülkenin dinamikleri budur. görüleceği gibi sayın ali babacan'ın siyasi anlamda kendisini tehdit eden bir rakibi de yoktur.<br/><br/>kendisi ile ilgili olabilecek olası eleştriler;<br/><br/>ekonomik başarısı derviş politikalarından gelmektedir. hep eleştrilen inşaat ekonomisi konusunda da doğrudan sorumludur.<br/><br/>cevap: doğru ilgili dönem öyle bir dönemdir ki; ülkece dibe batılmış doğal afet sonucunda sıfır tüketilmiş, bu afet sebebi ile iktidarın başı yenmiş sonrasında ise ağır kemer sıkma politikaları ve global ekonomik gidişat nedeni ile herşeyin daha iyiye gitmesinin beklenmesi gereken bir dönemdir. bununla birlikte bu adam öncelikle bu küresel dinamikleri küstürmemiş, ilgili dönemden yararlanabilmiş ülkesine para çekmeyi becerebilmiş o söylediğiniz "derviş politikalarını" taviz vermeden devam ettirebilmiş en azından bu anlamdaki tecrubesi kıymetli bir isim. gelelim inşaat politikası konusuna, öncelikle bu konu sadece kendisinin sorumlu olduğunu düşünmediğim bir konu olmakla birlikte ben genel geçer anlamda bu konuda muhalif yorumlardan biraz ayrılmaktayım. bu ülke her şeyden önce büyük bir deprem görmüştü, bu deprem anında yolların, ulaşımın, haberleşmenin hastanelerin, kamu binalarının ve devlet kavramının bizzati kendisinin 45 saniye içerisinde nasıl da işlevsiz kalabildiğini görmüştük. önceki dönemlerde yapılan tüm yapılar boğaz köprüsü (mühendislik ithaldi) gibi birkaç major proje hariç tüm yapılar saatli bombaydı, hala da böyle bir çok yapı var. kamu binalarının, ulaşım altyapısının, kentsel dönüşüm projelerinin, okulların, hastanelerin hepsi velhasıl top yekün bir inşaat hamlesi ilgili dönemde bu ülke için keyfi bir tercihten çok bir zorunluluktu. allah bu ülkenin yüzüne baktı da henüz büyük bir marmara depremi beklenmesine rağmen görmedik, bu hamlenin gerekliliğini anlamak için yeterli doneye sahip olmadık. bu nedenle şimdi inşaat hamlesine sallamak kolay. bu navigasyonun olmadığı dönemde birinci köprüden mi gidelim ikinci köprüden mi gidelim sorusuna benziyor. birinci köprüdeki büyük kazayı ve kilit hali görmeyen kişi ikinci körüdeki şişkinliği görünce "keşke birinciden gitseydik" diyor... allah göstermesin ama sen bir de birinci köprünün (olası marmara depremi) halini görsen koyup gidene rahmet okursun... bununla birlikte tüm ekonomiler tüm para birimleri tüm krizler ve iyi giden dönemler geçicidir. bunu unutmayın, en önemli şey bu... para birimi hayali bir satın alma aracıdır. esas olan şey madden, şeklen karşınızda duran maldır, kalıcı olan medeniyettir, eğer tekniğine uygun yapıldı ise o binalardır (ki o binaların tümünün tekniğine uygun yapıldığından mesleğim gereği ben eminim), ben genel kanınızın aksine inşaat hamlesinin gerekli, doğru ve kaçınılmaz olduğunu düşünüyorum. bu konuda iktidarı eleştrebilecek şey şudur; bütün ihaleler yandaş müteahhitlere verilmiş, eğitimi ve yeterliliği olmayan bir zümreye peşkeş çekilmiş, yeni zenginler yaratılmış, sermayenin el değiştirmesi sağlanmıştır, haksız kazanç, haram para ve yolsuzluklar inşaat ekonomisi ile zirve yapmıştır. ki bu konuya da bir alt maddede değineceğiz;<br/><br/>yolsuzlukları biliyordu;<br/><br/>cevap; ne demiştik bütün ihaleler yandaş müteahhitlere verilmiş, eğitimi ve yeterliliği olmayan bir zümreye peşkeş çekilmiş, yeni zenginler yaratılmış, sermayenin el değiştirmesi sağlanmıştır, haksız kazanç, haram para ve yolsuzluklar inşaat ekonomisi ile zirve yapmıştır.<br/>ancak ben sayı ali babacan'ın bu konuda suçlu olduğuna, müdahil olduğuna veya bu rant çemberini durdurabilecek erki olduğuna inanmıyorum. kendisi yukarıda bahsettiğim 17-25 aralık tapelerinden de gördüğümüz üzere bu rant çemberinin dışında kalmıştır. kendini satmadan doğru bildiği yolda (bu yol kişiden kişiye değişir sayın ali babacan kendi doğru bildiği yolda) mümkün olduğunca ülkesinin menfaatleri doğrultusunda hareket etmiştir. benim kendisinin hikayesinden anladığım budur. malum şahıs dışında ben dahil kimsenin daha fazlasını yapabileceğine inanmamaktayım.<br/><br/>kendisi akp'den gelmektedir, ayrıca çatı aday yaklaşımına da inanmıyorum bir kere ekmeleddin'e verdim bir daha vermem...<br/><br/>cevap; ülkeyi yönetme adına yola çıkan muhalefet çatı aday adı altında çağdaşdaşlıktan uzak, bildiği tek şey bazı doğmaları pazarlamak olan, reel olarak hiçbir ciddi avantaj sunmayan, yaşı geçkin, ekonomiye siyasete ve ülke yönetimine uzak bir kuklayı sunarken; beğenmediğimiz muhafazakarlar iyi bir mühendis, ekonmist, dünya dinamiklerini bilen, genç, yarınlara umut veren bir siyasetçiyi sahneye çıkarıyorsa bu sorunun cevabı sayın ali babacan'da değildir. burada özeleştri yapması gereken ali babacan değil chp'dir... çok mu zordu? milyonlarca size gönül vermiş insan arasında şu yukarıdaki özelliklere sahip ama "siyasal islam geleneğinden gelmeyen" tek bir isim çıkartmak çok mu zordu? bir tane isim bile çıkmıyorsa bunun sorumlularının da gereken tepki ile karşılaşması lazım...<br/><br/>iş bu veriler ışığında değerlendirdiğimizde toplumsal mutabakata en ihtiyacımız olan 15 yıllık yaralarımızı tamir edeceğimiz şu önümüzdeki dönemde sayın babacan "ehven-i şer" falan değildir. ülkece bizim için en makul, en doğru yol, en demokratik sol isimdir... proje midir ben bilmem ama proje ise de emin olun hepimizin ihtiyacı olan bir projedir. her ne kadar benim oyum ülkenin dinamikleri açısından önemli olmasa, esas anlamlı oy karşı cenahtan alacağı oy, önemli olan muhafazakar oyları olsa da benim oyum büyük bir hata yapmazsa gönül rahatlığı ile ilk seçimlerde kendisinindir. <br/><br/>kendisine tavsiyem ise abdullah gül, ahmet davutoğlu, bülent arınç gibi figürlerden kendisini olabildiğince (talep ettiği sağ oylar nedeni ile en azından başlangıçta tamamen izole olamayacağını biliyorum) izole edebildiği takdirde önünün çok açık olduğunu hissetmekteyim. yolu açık olsun...<br/><br/>dipnot : 1999 yılından beri muhtelif hesaplarla şu sözlüğe katkı sağlamış sözlükle beraber büyümüş birisiyim. ben bugüne değin bu kadar boktan bir jenerasyonla karşılaşmadım. bu da senin eserin kanzuk... iki satır kendi kanaatimizi yazdık ki yazının başında da sonunda da belirttiğim üzere tamamen beni bağlar; ne aktrollüğüm, ne çomarlığım kalmış ne de etmedikleri hakaret... ulan sığır! insanı yaftalayacaksan önce bi tıkla oradaki yazar infosuna da bak bakalım ne yazmış beğenilenleri, favorilenenleri neymiş bu adamın da ona göre yaftala... ben neredeyse 40 yaşına gelmiş doktoralı bir mühendisim... sen kimsin? var ise iki çift lafın senin de yazarsın biz de alırız kahvemizi okuruz adam şunu şunu doğru demiş der, fikrimizi gözden geçiririz, sen de birşeyler öğrenirsin biz de... bu budur yani... cevap vermeyip hakarete yaftalamaya tabi tutmak ne? bak senin kafan çalışmıyor ben sana karşıt argüman yazayım da en azından onu anlat, ben eksi olarak "düne kadar akp sıralarındaydı" demiştim ya, sen de ona karşılık şu meşhur "karakteriniz 1'dir, para 0 zeka 0, her seferinde ona katlar ama karakteriniz yoksa - 0 - sınız" hikayesi var ya onu anlat... çok güzel bir karşıt argüman olur... ama yazdığın hikayeden biraz da kendine pay çıkar olur mu? karakterin olsun...
+    olasılığı yüksek iddia.<br/><br/>kastettiği şu: babacan küresel sermaye ile sıkı fıkı bir isim. imf, dünya bankası, soros vesaire. tüm küreselci enstrümanları "türkiye'de bizim gibi liberaller başta. korumacılığı kaldırıp liberal politikalara geçiyoruz. paranız güvende. birlikte büyüyelim"<br/><br/>dediği anda (ki zaten hazırda beklemekteler) ülkeye döviz yağacaktır. kendisi ve ekibi basit insanlar değil.<br/><br/>benim ideolojime uymaz o ayrı mesele.
   entry_channels: siyaset,haber,ekonomi
 - entry_name: |
     patates kızartmasını üst noktaya taşıyan detaylar
   entry_id:  107773747
   entry_writer: patlak fermuar
-  entry_fav_count: 178
+  entry_fav_count: 181
   entry_content: |
     baharatı için;<br/><br/>tuz, pulbiber, sebze çeşni, kırmızı toz biber, kekik, az miktar kimyon az miktar karabiber.<br/><br/>2 sene önce patates kızartması efsane olan bir mekana dadanmıştık arkadaşla, aşçıyla kanki olmuştu bizimki dedim seni sever sorsana ne koyuyor içine diye. sağolsun vermişti adam. <br/><br/>ayrıca patates soyarken suda bekletin nişastasını alır. daha çıtır olur.<br/><br/>edit: anaa şükelaya girmişim buradan hamburgdaki kuzenlerimin bayramını kutluyorum. hepimiz iyiyiz. çok çok selamlar.
   entry_channels: anket,yeme-içme
 - entry_name: |
-    ekonomiyi bir ayda toparlarım
-  entry_id:  107805808
-  entry_writer: demyanenko
-  entry_fav_count: 169
-  entry_content: |
-    olasılığı yüksek iddia.<br/><br/>kastettiği şu: babacan küresel sermaye ile sıkı fıkı bir isim. imf, dünya bankası, soros vesaire. tüm küreselci enstrümanları "türkiye'de bizim gibi liberaller başta. korumacılığı kaldırıp liberal politikalara geçiyoruz. paranız güvende. birlikte büyüyelim"<br/><br/>dediği anda (ki zaten hazırda beklemekteler) ülkeye döviz yağacaktır. kendisi ve ekibi basit insanlar değil.<br/><br/>benim ideolojime uymaz o ayrı mesele.
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
-    bir kadını ilgisiz bırakmak
-  entry_id:  107784760
-  entry_writer: perfect sense
-  entry_fav_count: 160
-  entry_content: |
-    ilgisiz davranan er kişisi kuvvetle muhtemel tüm ciciliği ile bir başkasıyla ilgileniyordur. nasıl da nazik ve de kibardır hem de.
-  entry_channels: ilişkiler
-- entry_name: |
-    2019/2020 euroleague sezonunun iptal edilmesi
-  entry_id:  107782624
-  entry_writer: ncavit
-  entry_fav_count: 124
-  entry_content: |
-    hem türkiye'de hem avrupa'da efes'in şampiyonluğu güme gitmiş,üzüldüm.
-  entry_channels: spor,haber
-- entry_name: |
     25 mayıs 2020 cüneyt özdemir ali babacan yayını
   entry_id:  107803049
   entry_writer: we want it now
-  entry_fav_count: 123
+  entry_fav_count: 129
   entry_content: |
     ''süper kahramanlar sadece çizgi filmlerde olur ,kimse kerameti kendisinde aramamalı''<br/><br/>2020 ali babacan<br/><br/><a class="b" href="/?q=k%c3%bcf%c3%bcr+olmayan+k%c3%bcf%c3%bcr+etkisi+yaratan+s%c3%b6zler">küfür olmayan küfür etkisi yaratan sözler</a>
   entry_channels: siyaset,haber
 - entry_name: |
-    bir orta boy pizzaya 66 lira vermek
-  entry_id:  107787761
-  entry_writer: mrv 25
-  entry_fav_count: 116
-  entry_content: |
-    sağlıklı pizzayı evde yapabilirsiniz.tam buğday unlu lavaşı alın üstüne domates sosu,istediğiniz malzemeler ve rendelenmiş kaşarı (mozerella da olur) koyun,fırına atın :) pizza oluyor. içinde et olmayan pizzaya 66 lira komedi...
-  entry_channels: yeme-içme,ekonomi
-- entry_name: |
     hiç sevgilisi olmamış erkek
   entry_id:  107799859
   entry_writer: williamtell
-  entry_fav_count: 104
+  entry_fav_count: 120
   entry_content: |
     benim bu. <br/>30 yaşındayım ve hiç sevgilim olmadı. insanların ne kadar yalancı ve iki yüzlü olduklarını görünce ihtiyaç duymuyorsunuz.<br/>kadınlar hep ilgi bekliyor evet belki öyle ama bazen erkekleri de anlamaları gerekiyor. biz dünyaya kadın ırkının mutluluğu ve rahatlığı için gelmedik bunları karşılıklı yapmak gerekiyor.<br/><br/>not: sevgilimin olmama sebebi çirkinlik vs değil.
   entry_channels: ilişkiler
@@ -182,7 +134,7 @@ data:
     sezgin tanrıkulu'nun iha tweet'i
   entry_id:  107794129
   entry_writer: eyshian
-  entry_fav_count: 87
+  entry_fav_count: 88
   entry_content: |
     akp'nin ne zaman başı sıkışsa ne zaman oy kaybetse yardımına koşan chp <br/><br/>şu an akp'yi kimler iktidarda tutuyorsa chp'yi de aynı kişiler muhalefette tutuyor. komplo teorilerine normalde inanmam ama artık bu davranışların, söylemlerin başka bir açıklaması kalmadı. <br/><br/>şu chp içerisindeki oluşumun hiçkimse farkında değil mi? resmen kanser hücresi gibi chp'yi içten içe ele geçirip bitiren bir kesim var chp'de. ve sanırım tamamen bitirene kadar da durmayacaklar. <br/><br/>yoksa belli başlı bazı isimler şu partiden ayrılsa, özüne dönse oy oranı çok rahat %15 artabilcek durumda. ama işte dediğim gibi chp'nin görevi iktidar olmak değil, muhalefette kalmak
   entry_channels: siyaset,haber
@@ -190,10 +142,18 @@ data:
     25 mayıs 2020 habertürk'de yine osurulması
   entry_id:  107799947
   entry_writer: rabbim kolla bizi
-  entry_fav_count: 77
+  entry_fav_count: 79
   entry_content: |
     oğlum siz manyak mısınız? biri osurur belki diye sabah akşam habertürk mü izliyorsunuz lan ahahah<br/><br/>tanım: bir iddia
   entry_channels: tv,haber
+- entry_name: |
+    30-31 mayıs sokağa çıkma yasağı ihtimali
+  entry_id:  107803957
+  entry_writer: 07150103454391410726324100634059
+  entry_fav_count: 70
+  entry_content: |
+    yasaklar birkaç hafta sonu daha devam ederse suriyeliler mangal ve nargile keyfi için ülkeyi terk edebilir. savaştan niçin kaçtıklarını sanıyorsunuz ?
+  entry_channels: siyaset
 - entry_name: |
     akıncı (belgesel)
   entry_id:  107755258
@@ -211,6 +171,14 @@ data:
     gördük ki en iyisi yunus emre zor kelimeler geldiği halde. diğerlerine gelen kelimeler gelse 15 bilirdi rahatlıkla
   entry_channels: anket,tv,magazin,spoiler
 - entry_name: |
+    kürt sevgili
+  entry_id:  107803540
+  entry_writer: papuayenigine02561
+  entry_fav_count: 61
+  entry_content: |
+    oral yapamazlar çünkü dilleri yasaklanmıştır. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+  entry_channels: ilişkiler
+- entry_name: |
     sözlükçülerin üç çocuklarına verecekleri isimler
   entry_id:  107797164
   entry_writer: samosata
@@ -219,36 +187,12 @@ data:
     hasan<br/>hüseyin <br/>yezid<br/>not:illa ki biri hayırsız çıkacaktır
   entry_channels: anket,ekşi-sözlük
 - entry_name: |
-    30-31 mayıs sokağa çıkma yasağı ihtimali
-  entry_id:  107803957
-  entry_writer: 07150103454391410726324100634059
-  entry_fav_count: 60
-  entry_content: |
-    yasaklar birkaç hafta sonu daha devam ederse suriyeliler mangal ve nargile keyfi için ülkeyi terk edebilir. savaştan niçin kaçtıklarını sanıyorsunuz ?
-  entry_channels: siyaset
-- entry_name: |
-    kürt sevgili
-  entry_id:  107803540
-  entry_writer: papuayenigine02561
-  entry_fav_count: 58
-  entry_content: |
-    oral yapamazlar çünkü dilleri yasaklanmıştır. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
-  entry_channels: ilişkiler
-- entry_name: |
-    çorlu'da çok sayıda polisin vatandaşı darp etmesi
-  entry_id:  107778419
-  entry_writer: dik duranin gozyaslari
-  entry_fav_count: 55
-  entry_content: |
-    bazı arkadaşlar büyük bir olay olmasa okadar ekip gelmez demişler. konunun başını sonunu bilmiyorum o nedenle video hakkında yorum yapmayacağım.<br/><br/>video'dan bağımsız olarak başıma gelen bir olayı anlatayım. <br/><br/>istanbul kartal petroliş mahallesinde, anahtarını içeride unuttuğumuz bir aracın kapılarını biraz zorlayarak ve camları aşağıya indirmeye çalışarak aracın içine girmeye çalıştık. ruhsatta elimizdeydi. çevre binalardan birisi, arabaya girmeye çalıştığımızı polise bildirmiş. olay cumartesi günü sabah 10:00 - 11:00 gibi gerçekleşti. sokağın başından ve sonundan 3'er ekip arabası olmak üzere toplam 6 araç sirenler ve çakarlarla etrafımızı sardı. baktılar üzerimizde pijama ve eşofman var fazla üzerimize gelmediler. ancak bir kaç gün önce sabaha karşı, karşı binaya hırsız girmeye çalışıyor diye babamın polisi defalarca arayıp durumu anlatmasına rağmen hiç ekip gelmemişti. <br/><br/>demem odur ki, polis riskli veya uğraştıracak olayları hiç sallamazken, basit ve gücünü sonuna kadar kullanabileceği olaylara sanki ülke kurtarıyormuşçasına müdahale eder. <br/><br/>eyyorlamam bukadar.
-  entry_channels: siyaset,haber
-- entry_name: |
     arabası ile fotoğraf çektiren erkek
   entry_id:  107799677
   entry_writer: defoe
-  entry_fav_count: 54
+  entry_fav_count: 58
   entry_content: |
-    satılık olarak ilana koyuyorsa geri zekalı gibi görünen erkektir.<br/>araç bakıyorsun yanında elini kapıya yaslanmış bir hıyar var. veya motosiklet bakıyorsun yanında bir apaçi.<br/>nasıl bir kafa, amaç ne çok enteresan.
+    satılık olarak ilana koyuyorsa geri zekalı gibi görünen erkektir.<br/>araç bakıyorsun yanında elini kapıya yaslanmış bir hıyar var. veya motosiklet bakıyorsun yanında bir apaçi.<br/>aracın yanında kendini de mi satışa koyuyor ne yapıyor anlaşılmıyor.
   entry_channels: anket,otomotiv
 - entry_name: |
     bohemian rhapsody filminin queen'den esinlenilmesi
@@ -259,30 +203,6 @@ data:
     (bkz: <a class="b" href="/?q=low+profile+trolling+vol+23115">low profile trolling vol 23115</a>)
   entry_channels: sinema
 - entry_name: |
-    türkiye'nin dünya lideri olduğu konu
-  entry_id:  107781091
-  entry_writer: 36 etnik unsur
-  entry_fav_count: 43
-  entry_content: |
-    geçende <a class="b" href="/?q=reddit">reddit</a>'in avrupa sayfasında dolaşırken bir liste gördüm. türkiye birinci, azerbaycan ikinciydi ve tüm avrupa ülkelerine fark atmışlardı. türkiye 290, azerbaycan 49, diğer avrupa ülkeleri ise 5-7 civarında gidiyordu. bu ne acaba diye baktım hapishanedeki gazeteci sayılarıymış.
-  entry_channels: anket
-- entry_name: |
-    evlenirken altın isteme saçmalığı
-  entry_id:  107797100
-  entry_writer: samosata
-  entry_fav_count: 43
-  entry_content: |
-    nedir bu kadın milletindeki altın arzusu anlamakta güçlük çekiyorum.bi halta yaramayacak, üstüne dünya kadar borcun içine sokacak bu saçma sapan adet yüzünden evlenemeyen bir sürü genç var.kızı ikna etsen anne istiyor,onu ikna etsen teyze çıkıyor ortaya.ejderha smaug sizin kadar düşkün değil bu metale, alın da gözünüze sokun trabzon burmalarını<br/><br/>edit: yatırım diyenler için.binlerce lira<br/>borca girerek yatırım mı olur ya.yillarca borç ödeyeceğim diye bi taraflarım yırtılacaksa yemişim öyle yatırımı
-  entry_channels: ilişkiler
-- entry_name: |
-    tüm zamanların en iyi türk filmi
-  entry_id:  107788782
-  entry_writer: ne zaman yazar yapacaksiniz la
-  entry_fav_count: 31
-  entry_content: |
-    (bkz: <a class="b" href="/?q=bir+zamanlar+anadolu%27da">bir zamanlar anadolu'da</a>)
-  entry_channels: anket,tv,sinema
-- entry_name: |
     galatasaray'daki 19 mayıs skandalının perde arkası
   entry_id:  107802704
   entry_writer: karaelma
@@ -291,26 +211,26 @@ data:
     18 süper lig ekibinin 17si önemli bir günde etkinlik yapıyor. <br/><br/>davet edilip katılmadıysa düşündürücü, davet edilmemiş ise üzücü.
   entry_channels: spor
 - entry_name: |
-    25 mayıs 2020 covid-19 vakasının 157814'e çıkması
-  entry_id:  107803530
-  entry_writer: chepi
+    necip fazıl kısakürek
+  entry_id:  107780335
+  entry_writer: nerelerdengeldik
+  entry_fav_count: 29
+  entry_content: |
+    "örtüsüz kadın perdesiz eve benzer. perdesiz ev ya satılıktır ya kiralıktır" ona ait olduğu iddia edilen bu söz internette geziyor. halbuki kendi karısı açık olan fuhuş düşkünü bir ahlaksızdır.<br/><br/>gençliğinde, cumhuriyet halk partisi gençlik kollarında faaliyet göstermiştir. kendisi kumar meraklısıdır. devletin okusun diye gönderdiği paris'te paraları kumara, fuhuşa basmıştır.<br/><br/>sistem tarafından dışlanıp, aç kalınca da günümüz uyanıklarının yaptığı gibi din ticaretine başlamıştır. savunduğu cumhuriyet ilkelerine ve onun kurucularına düşman kesilmiştir.<br/><br/>din ticaretinden kazandığı paraları da kumarda yemiştir. ölene kadar kumar tutkusundan vazgeçmemiştir. ayrıca esrarkeştir.
+  entry_channels: siyaset,sanat,tarih,edebiyat
+- entry_name: |
+    dota 2
+  entry_id:  107770819
+  entry_writer: syozkn
   entry_fav_count: 24
   entry_content: |
-    dünyada en çok vaka görülen 9’uncu ülkeyiz, 5bine yakın insan ölmüş, salgının üçüncü ayında test yapıyorsun hala %5’e yakın pozitif çıkıyor, hala 33bin test edebildiğin ve bilmem kaç on/yüz bin tespit edemediğin hasta/ölü var... bakan olacak vatandaş da çıkıp bu başarı sizin eseriniz falan diyor ya kafayı yiyeceğim, bu adama bi de kahraman muamelesi yapılıyor, inanılmaz. ulan resmen bizimle daşşşşşşşak geçiyorlar daşşak. <br/><br/>bu kahraman diye gördüğünüz adamlar baştan işi sıkı tutsalardı bu kadar insan ölmeyecekti, hasta olmayacaktı. salgının ortasında umreye adam gönderip hiçbir önlem almadan geri getiren bunlar, cumayı kıldıran bunlar, son dakika sokağa çıkma yasağı ilan eden bunlar... hala başarı diyorlar ya yuhhh size yuhhhhh.
-  entry_channels: siyaset,sağlık,haber
-- entry_name: |
-    rakıya en iyi meze
-  entry_id:  107785651
-  entry_writer: bogff
-  entry_fav_count: 23
-  entry_content: |
-    sarımsak bulunduran mezelerin hepsi .
-  entry_channels: anket,yeme-içme
+    şurada oyun şöyle oldu böyle oldu diye şikayet edenlerin neredeyse tamamının bir ortak noktası var. bu insanlar ya mid oluyorlar ya carry...<br/><br/>türk halkında böyle garip bir gözlemim var. support rollerine inanılmaz uzaklar. arcade oyun alışkanlıklarından geldiğini düşünüyorum. tüm dota oyuncularında bir core rol oynama isteği var ama bizde çok daha ağırlıklı gibi geliyor. twitch'de yayın yapanlara da bakıyorum, oyunda denk geldiklerime de. 100 türk oynuyorsa bu oyunu, 80'i mid veya carry rol oynuyor. hiç adam akıllı profesyonel oyuncu çıkaramamamızın da en büyük nedenlerinden biri bu kanımca. oyunu öğrenmeye değil de kazanmaya oynuyoruz biz. daha doğrusu kazanmak da demeyelim buna. skor bizi tatmin eden. core roller istediği kadar kötü oynarlarsa oynasınlar, ağır bir hezimet olmadıkça k/d/a oranında "ben aslında iyi oynadım da, takım kötü ne yapayım" yanılgısını daha rahat veriyor. kazandığın oyunlarda da aynı şekilde k/d/a oranı fazlasıyla iyi olduğundan oyunu ben kazandım tatminini daha çok veriyor. oysa alan oluşturma, ganglere verilen tepkiler, pozisyon alma gibi etkenler oyunda kazananı ve kaybedeni belirleyen ana etkenler.<br/><br/>şöyle farmladım, böyle kestim, böyle oldu vs. takım olarak ne yaptın? bilmem. sürekli core roller oynamaya çalışınca da haliyle takımın genel gidişatı konusunda pek bir fikirleri olmuyor. bu roller doğası gereği kendi farmıyla ilgilenmekten takım ne yapıyor pek bir fikri olmadan oyun bitiren roller. en azından pub game seviyesinde. <br/><br/>sürekli yapay zeka tarafından üretilen crepler üzerinden farma odaklanmak gereken bir rolde uslanmaz bir pos 5 oyuncusu olarak ne zevk aldığınızı anlamasam da eleştirmiyorum. tavsiyem neler olduğunu anlayabilmeniz için özellikle pos 5 ve 4 rollerini oynayınız. bu rollerde göreviniz daha çok haritanın neresinde neler oluyor süzmek, takımı yönetmek , farm alamayan bir oyuncu varsa onu tekrar işler hale getirmek ve hatta kombatlarda arka taraflarda kalıp çoğunlukla orkestra şefi gibi takımı yönlendirmek oluyor. kombatlarda da core roller karşı tarafa nasıl daha fazla hasar üretirim/hayatta kalırım ekseninden baktıkları için aksiyonun geneline hakim olamıyorlar. carry roller doğası gereği "ben ben ben" demeniz gereken roller çünkü.<br/><br/>gayet kötü bir oyuncuyum ben ama nacizane bir önerim olur sizlere. oyundaki mikro skillerinizi geliştirmeniz için core rolleri, makro ölçekte neler döndüğünü daha iyi kavrayabilmeniz için de support rolleri mutlaka oynayın. bu ikisinin kombinasyonunu yeterli oranda yaptığınızda win oranlarınız da artacaktır. dünyanın en iyi pos 5 oyuncularından biri olan puppey'in pub gamelerde mid oynadığında karşı tarafı taşak malzemesi yaptığını izleyebildiğiniz bir sürü video var youtube'da. aynı şekilde notail'in geniş rol havuzunu da bilirsiniz pro gamelerde bile. bu adamlar carry oynayamadığı için bu rolleri oynamamazlık yapmıyor yani. oyunu hayvan gibi okuyabildikleri için pos 5'de takımlarını yönlendirebiliyorlar. 1. saniyeden oyunun sonuna kadar tüm haritada olanlarla ilgilendiğiniz bir rol oynamayı tercih ediyorlar.<a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=4TUd7BON-xQ" title="https://www.youtube.com/watch?v=4TUd7BON-xQ">baya bi eski video ama yad edelim lafı geçmişken</a><br/><br/>eleştirmek için söylemiyorum ama üstte bir arkadaş pa'nın farmlamam gerekiyor diye push yapmadığını, bu sebeple de oyunu verdiklerini anlatıyor. pa'nın farmlamaya çalıştığı item olan "deso" dan da anlayabildiğimiz kadarıyla early game'de bir hayli outfarm kalmış, ezilmiş bir pa'dan bahsediyor olsa gerek. pt ile push yapamayacağına göre de pek de mantıksız bir istek değil esasen phantom'un talepleri.<br/><br/>neleri görmediniz? siz ortada troll'ü döverken diğer taraftaki core rollerin ne denli dayak yediğini fark etmediniz. çünkü tamamen ben nasıl dövüyorum girdabına girdiniz. mid'in ortada bilmem kaç kill alması, gang yediğinde bile ölmeyip kill almaya devam etmesi oyunu kazanabilmeniz için gerçekten küçük bir detay. oyunu kazanmak için takım halinde neler yapıyorsunuz o önemli. <br/><br/>1 ve 2 numara rol oyuncularında ağırlıklı olarak maalesef bu sorun mevcut. oyunda ne oluyor ne bitiyor hiç bir fikirleri olmuyor. birileri dayak mı yemiş? olsun ben ortayı kazandım. team fightlarda problem mi var? support feedliyor. iyi kötü bir support oyuncusu varsa takımınızda zaten size açtığı alandan belli bir hasar üretebilecek kıvama gelmemeniz için bir sebep kalmıyor. hiç kimseyi dövemiyorsanız denk getirdiğiniz supportları dövseniz istatistiğiniz de oluyor. <br/><br/>velhasıl bir çok türk insanının aslında bu oyunu oynamadığını ,daha doğrusu kocaman bir derya olan dota oyununun sadece en arcade kısmına odaklanıp, oyunun büyük bir kısmını kaçırdığını düşünüyorum. öyle olmasaydı oyunun büyük bir kısmında creplerin son vuruşunu yapmaya çalıştığınız bir role karşılık, tüm oyun boyunca sağda solda her yerde bir sürü aksiyon, strateji görebildiğiniz , bir o lane'de bir bu lane'de yapay zeka yerine gerçek oyuncularla cebelleştiğiniz support rolleri daha popüler olurdu. en azından bu kadar ezici bir oyuncu kitlesi pos 1 ve 2 için kavga dövüş etmezdi.<br/><br/>core rolleri küçüksemek için söylemiyorum bunları tabi ki. onun da sanatı ayrı. lakin bu oyunu gerçekten öğrenmek istiyorsanız makro ölçekte support roller daha fazla şey vaad ediyor ve oyunu tam anlamıyla oynamanız için tabi ki en iyi olduğunuz bir rol olması gerekmekle birlikte tüm rolleri oynayıp, oyunun genelini anlamanız gerekiyor.<br/><br/>edit: alt tarafta köpek supportları amma övdünüz diyenler var. aha işte bu kafa zaten oyuncu çıkaramamızın nedeni. bu vatandaşlara support rolü seçip ona uygun skill seti olmayan hero ve item kombinasyonu olmayan bir oyuncu ile dota oynamalarını tavsiye ediyorum :) arkada "orkestra şefi gibi" takımını yöneten bir glimmer-force bir dazzle tarafından maymun edilmelerini izlemek oldukça eğlenceli olurdu ehehe. support rolünü ward deward ekseninde değerlendiyor bu arkadaşlar. oysa support rolü en basic ve neredeyse her oyuncu tarafından yapılabilen görevi bunlar. türk oyuncularındaki en büyük yanılgı da bu. yukarıda örneğini verdiğim oyuncular da en iyi oldukları dönemlerde bile "oyunun en az önem arz eden" rolünü herhalde chill bir international keyfi için oynamış olsa gerek(!)
+  entry_channels: oyun,teknoloji
 - entry_name: |
     kellerin yaşama amacı
   entry_id:  107806459
   entry_writer: estergonkalesininasiprensesi
-  entry_fav_count: 15
+  entry_fav_count: 19
   entry_content: |
     göz zevkime hitap etmek.<br/><br/>kel erkeklerin büyük çoğunluğunu gayet beğeniyorum. hatta bazı erkekleri saçlı hayal edemiyorum. aşırı karizmatiksiniz bazı keller, sakın mutsuz olmayın.
   entry_channels: anket,sağlık
@@ -318,18 +238,34 @@ data:
     yanlış iş + yanlış aşk + kötü şans + ilerlemiş yaş
   entry_id:  107794923
   entry_writer: erdenerabi
-  entry_fav_count: 13
+  entry_fav_count: 15
   entry_content: |
     bütün bunların net olarak farkındaysan harekete geçme zamanı.<br/><br/>ilerlemiş yaş falan hikaye. hayatta hiç bir şey için geç değil ve hayatın neler getireceğini en iyi senin bilmen lazım. yanlış bir evlilik yaptığını düşünüyorsan ayrıl. hem kendine hem eşine eziyet etme. ondan sonra işinle alakalı radikal kararlar alıp ummadığın maceralara açılabilirsin. motivasyon ve kendin için bir şeyler yapmaya başladığında o kötü şansın nasıl düzeldiğine şaşıracaksın. aslında sen şu anda aynı kısır döngü içinde debelenip duruyorsun. kendin için bir şey yap.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    beyaz tenli erkekler
-  entry_id:  107770624
-  entry_writer: tayagu
-  entry_fav_count: 11
+    rakıya en iyi meze
+  entry_id:  107786071
+  entry_writer: birkk
+  entry_fav_count: 10
   entry_content: |
-    dünyanın her yerinde olduğu gibi daha çok tercih edilen erkeklerdir. ama bunun gibi konular sadece türkiye gibi aşağılık kompleksli insanların olduğu bir ülkede açılır. çünkü türkiye beyaz bir ülke değildir, ama insanları beyaz olmak ister. saçlarını sarıya ve kızıla boyarlar, burunlarını küçültmek veya çenelerini büyültmek için estetik ameliyat yaparlar--tıpkı beyaz olmayan çoğu ülkeler gibi (güney kore, iran, çin, japonya, hindistan, güney amerika). dünya güzellik standartları gayet açık şekilde beyazların tekelinde. ha medyadan kaynaklı, ha belli bir varlık durumunu temsil ettiği için belli bir genel tercih durumu var beyazlara kayan. normal olarak. <br/><br/>eğer türk televizyonundaki oyuncuları sokaktaki ortalama bir insanlarla karşılıştırırsanız ne dediğim çok daha kolay şekilde anlaşılacaktır. daha beyaz durduğu için oyuncu veya model olabiliyorlar çünkü o fenotip daha kolay satılabiliyor. bu meksika'da da öyle. nüfusun geneli kahverengi ama bi bakıyorsun, telenovela oyuncuları 40'ların nazi propaganda posterinden çıkmış gibi tıpkı. <br/><br/>bu demek değil ki türklerde beyaz yok, var tabii. muhteşem derecede de nadir değil haliyle ama yine de anlaşılacağı üzere nadir. güney italya'daki ortalama bir insan veya yunanistan'daki ortalama bir insan ile görünüş bakımından farkın olmayabilir bu arada ama beyaz avrupalı bir insan hiçbir zaman seni beyaz olarak görmeyecek, çünkü senin kimliğinle ilintili olan bir yabancılık durumu var onlara göre. bu yüzden güney italyalı veya yunan beyaz olabiliyor 2020'de ama sen olamayacaksın. ve işte bu yüzden twitter'da veya herhangi bir mecrada bunun ve benzeri başlıklarla yazılan yazıları görebiliyorsun. bu yüzden hafif beyaz tenli veya renkli gözlü bir kız veya oğlan "off iyi ki beyazım" ayarında şeyler yazabiliyor (bunu beyaz çoğunluklu bir ülkede yazsan senin ırkçılıktan hayatını karartırlar). çünkü beyaz tenli biri olarak türkiye'de nadir olduğunun az da çok farkındasın. ve aynı zamanda bunun standartların üstünde bir özellik olduğunun da farkındasın. aynı şekilde beyaz olmayan (gözükmeyen) başka bir türk de bunun farkında istese de istemese de. sırf bu yüzden altında büyük bir aşağılık kompleksinin yattığı bu tür şeyleri yazabiliyorsun. <br/><br/>tabii bunlar aslen stereotip ama gayet geçerli bir stereotip. türklerin monolit bir yapıda olmadığının farkındayım.<br/><br/>dediğime inanmayan arkadaşlar için şu okcupid istatistiğine bakmalarını öneririm: <a rel="nofollow noopener" class="url" target="_blank" href="https://i.redd.it/kyxij2pyh3901.png">https://i.redd.it/kyxij2pyh3901.png</a>
-  entry_channels: anket,ilişkiler
+    bergama tulum peyniri
+  entry_channels: anket,yeme-içme
+- entry_name: |
+    ali babacan'ın %41 oy oranına dayanması
+  entry_id:  107811211
+  entry_writer: gelmezsen gelme
+  entry_fav_count: 10
+  entry_content: |
+    4,1 ise doğrudur.
+  entry_channels: siyaset
+- entry_name: |
+    mahmut tuncer şarkısındaki inanılmaz detay
+  entry_id:  107812037
+  entry_writer: zargonya
+  entry_fav_count: 7
+  entry_content: |
+    (bkz: <a class="b" href="/?q=derdin+var+m%c4%b1">derdin var mı</a>)<sup class="ab"><a title="(bkz: var var)" href="/?q=var+var" data-query="var var">*</a></sup><br/>(bkz: <a class="b" href="/?q=butonun+var+m%c4%b1">butonun var mı</a>)<sup class="ab"><a title="(bkz: var var)" href="/?q=var+var" data-query="var var">*</a></sup><br/>(bkz: <a class="b" href="/?q=ne+duruyorsun">ne duruyorsun</a>)<br/>(bkz: <a class="b" href="/?q=derdini+sikeyim+butonu">derdini sikeyim butonu</a>)
+  entry_channels: 
 - entry_name: |
     ekşi itiraf
   entry_id:  107767363
@@ -338,6 +274,22 @@ data:
   entry_content: |
     bu sabah bayramlaşmak için babamı aradım. konuştuk ettik. kapatmaya yakın bana “şu yaşlılık zamanlarımızda bizden çok uzağa gittin” dedi (iki sene önce amerika’ya doktoraya gelmiş olmamdan bahsediyor) ve saatlerdir bu sözü düşünüp kendimi yiyorum. öyle şakayla karışık söylemedi, kızarak da söylemedi ama sakin bir ses tonuyla edilmiş, ağır ve yoğun bir sitemdi. <br/><br/>bu beni aşırı yaraladı çünkü hem dediğinde haklıydı hem de ben zaten yıllardır “hayırlı bir evlat olamadım” pişmanlığı yaşıyordum; bu söz, pişmanlığımı daha da arttırdı. annemle babam 20 küsür sene evlilikten sonra 9 sene önce boşandılar ve o zamandan beri de tek yaşıyorlar. ikisi de 60 küsür yaşında. yıllarını benim eğitimime verdiler ve rahat bir şekilde yaşamam için tüm imkanları seferber ettiler. ben de sanki bok varmış gibi doktoraya 8000 kilometre uzağa geldim. türkiye’de doktora programı yok muydu, ya da en azından avrupa’da? en azından onlar üç seneydi, amerika’dakiler ise en az beş sene. veya doktora yapmak elzem miydi? sanki dünyayı kurtaracağım. zaten buraya geldiğimden beri hayat benim için iyice anlamsızlaştı ve özellikle de bilim, kişisel hırslarım ve içinde bulunduğum çağ konusunda max weber’in o tabiriyle bir “disenchantment” yaşıyorum. yüksek lisanstan sonra, onların olduğu veya yakın bir şehirde iş hayatına atılabilirdim. kendi kişisel hırslarımın kurbanı oldum. şimdi de o hırslandığım şeylerin bir anlamı olmadığının farkına vardım. ne onları mutlu edebildim, ne kendimi. babaannemin tabiriyle sıfıra sıfır, elde var sıfır. <br/><br/>geçen yaz akademik yoğunluktan dolayı (belki de kendimi kandırmamı sağlayan geçersiz bir bahane sadece), bu yaz da korona’dan dolayı gidemedim yanlarına. bir de ben lisede ailemin yanından uzaklaşmak isteyen, lisansta da hep başka şehirlerde okumuş ve bundan dolayı kendini rahat ve mutlu hisseden biriydim. son üç dört senedir ise “belki de gelecek bayram artık annem babam olmayacak ve ben bok gibi bir evlat oldum” diye düşünüp duruyorum haftada bir. gerçi onlar haklarını helal ettiler çünkü onlara kötü davranmadım, bağırıp çağırmadım, kötü alışkanlıklara düşmedim ama çok arayıp sormadım veya yanlarına bol bol gitmedim de. onlar haklarını helal etseler de ben kendimi affedemiyorum. büyük ihtimalle onlar vefat ettikten sonra da kendimi ölene kadar affetmeyeceğim. bu duyguyu biliyorum çünkü aynısını on sene önce ölmüş olan babaannem için de yaşıyorum. onu haftada bir arar sorardım, yanına da giderdim, neredeyse annemden çok severdim, beni bu dünyada kırmamış tek insan olabilir. ama vefat etmeden önce son iki üç ayını felçli geçirmişti ve o zamanlar benim de çok bunalımlı bir dönemimdi, o yüzden kendi içime kapanıp o felçli haliyle onu pek arayıp sormamıştım, ama ölümü de hiç beklenmedik bir şekilde oldu, hala kendimi affetmiyorum. ama affetmesem de o zamandan bu zamana kendimi düzeltmemişim anlaşılan çünkü annem babama da aynı şeyleri yapıyorum. <br/><br/>millet her gün anne babasını arıyor, ben haftada veya on günde bir. bazen rüyamda öldüklerini ve benim allah’a “lütfen onları geri getir, söz arayacağım” diye yalvardığımı görüyorum ve uykudan uyanıp rüya olduğunu anlayınca dehşet mutlu oluyorum. rüyanın etkisiyle bir süre daha sık arıyorum ama sonra yine aynı hayırsız moda geri dönüyorum. çünkü kur’an’da da dendiği gibi insanoğlu çok unutkan ve nankördür. allah beni ıslah etsin, daha ne diyebilirim? <br/><br/>yaptığı yanlışın farkında olan ve bu farkındalıktan dolayı acı çeken ama hala kendini düzeltmeyip (oysa düzeltmek o kadar basitken) acı çekmeye ve pişmanlık yaşamaya devam eden bir insandan daha aptal kim olabilir?
   entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    meriç diyerek erkekleri aşağılayan erkek
+  entry_id:  107810021
+  entry_writer: baytatmin
+  entry_fav_count: 6
+  entry_content: |
+    bak bak meriçler saygınlarmış, saygın erkeğe bak amk<br/>meriçlik, karşı cinse karşı adil olacağım derken işin bokunu çıkarıp kendini unutmayla başlıyor. bir yerden sonra kontrolü tamamen kaybeden mericimiz, hemcinslerini yererken kendini aşağılamaktan da geri kalmıyor. kadınları her konuda mutlak haklı görüp kendini bu hizada konumlayan meriçler zaman içinde tam bir puppy oluyor ve bunu doğal sanıyor. kadınlara yakın olmayı bir statü sanıp dokunamamayı sorun etmiyor. bu başlığın sahibi ve onun gibileri, kadınlar tarafından kendimiz olduğumuz için ret yemeyi yenilgi sanan birer zavallılar. bir kadın uğruna eğilip bükülmeyen, kendinden ödün vermeyen dostlara selam olsun.
+  entry_channels: ilişkiler
+- entry_name: |
+    türk futbol tarihinin en bariz hakem hatası
+  entry_id:  107810596
+  entry_writer: ssergenn
+  entry_fav_count: 4
+  entry_content: |
+    anelka’nın konyaspora el ile attığı gol. hayatımda gördüğüm en fahiş hakem hatasıydı.
+  entry_channels: spor
 - entry_name: |
     home office çalışanının kirasını firma ödemeli
   entry_id:  107798099
@@ -355,51 +307,99 @@ data:
     puslu kıtalar atlası <sup class="ab"><a title="(bkz: ihsan oktay anar)" href="/?q=ihsan+oktay+anar" data-query="ihsan oktay anar">*</a></sup>
   entry_channels: anket,bilim,sanat,tarih,edebiyat,eğitim
 - entry_name: |
-    türk futbol tarihinin en bariz hakem hatası
-  entry_id:  107810596
-  entry_writer: ssergenn
+    yazarların bu akşamki alkol tercihi
+  entry_id:  107754613
+  entry_writer: zalu
+  entry_fav_count: 3
+  entry_content: |
+    bolca eyüp sabri tuncer fatura ödemekten kira ödemekten alkol almaya para mı kalıyor
+  entry_channels: anket,ekşi-sözlük,yeme-içme
+- entry_name: |
+    türkiye'de gereksiz yere pahalı olan şeyler
+  entry_id:  107812177
+  entry_writer: corsairsgold35
+  entry_fav_count: 3
+  entry_content: |
+    bira.
+  entry_channels: anket,ekonomi
+- entry_name: |
+    geceye bir şiir bırak
+  entry_id:  107756622
+  entry_writer: fi monade
   entry_fav_count: 2
   entry_content: |
-    anelka’nın konyaspora el ile attığı gol. hayatımda gördüğüm en fahiş hakem hatasıydı.
-  entry_channels: spor
+    "söyle bana selene, <br/>yeteri kadar su var mı kentlerin üzerine boşaltacak. eğer olsaydı şu köşede ağlayıp duran küçük kız susardı belki. ona niye ağladığını sordum. insanların çoğunun yürekleri selüloz da ondan dedi. ona çiçeklerin içine bakıp durmasını ve gözünden akan damlaları biriktirmesini söyledim. daha sonra belki bu damlalardan birini alır kar yağdığında dışarı koyar ve damla da tıpkı onun gibi donarsa kim bilir belki de bir inci oluşur."<sup class="ab"><a title="(bkz: lale müldür)" href="/?q=lale+m%c3%bcld%c3%bcr" data-query="lale müldür">*</a></sup> <sup class="ab"><a title="(bkz: uzak fırtına)" href="/?q=uzak+f%c4%b1rt%c4%b1na" data-query="uzak fırtına">*</a></sup><br/><br/>(bkz: <a class="b" href="/?q=kendime+not">kendime not</a>)
+  entry_channels: sanat,edebiyat
 - entry_name: |
-    meriç diyerek erkekleri aşağılayan erkek
-  entry_id:  107809635
-  entry_writer: ahu gozlu cekmece
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  107754621
+  entry_writer: martymcflyjr
+  entry_fav_count: 2
+  entry_content: |
+    dertleşmekten ziyade muhabbet etmek isteyenlerin mesaj kutumu yeşillendirmesini beklerim.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    türk kızlarının güzelliğinin ardında yatan sır
+  entry_id:  107813465
+  entry_writer: naksidil
   entry_fav_count: 1
   entry_content: |
-    esasında savunma mekanizmasına yenik düşen erkektir. kendisine yüz vermeyen kadının yakınındaki her şey meriçtir onun için. haksız da sayılmaz zira içindeki arzuya söz geçirememek böyle bir bağlamda suç olarak görülmemelidir. meriçler olayı şahsi algılamamalı, herhangi bir aşağılanmışlık hissetmemelidir.<br/><br/>edit: imlâ
-  entry_channels: ilişkiler
-- entry_name: |
-    erkeklerin midesini bulandıran kadın özellikleri
-  entry_id:  107801965
-  entry_writer: sen kendini ne saniyorsun
-  entry_fav_count: 1
-  entry_content: |
-    her şeye tamam da, "ellerinin soğan kokmasi"na takan olmuş. ulan hepinizin anasının eli soğan kokar. yemek yapan kadının eli soğan kokar.<br/><br/>deli mısınız?
+    başkalarını bilemem ama benimkinin altında yatan sırlar: sigara kullanmamak, temiz beslenmek, spor yapmak, makyaj yapmamak and world peace.
   entry_channels: anket,ilişkiler
+- entry_name: |
+    köfteyi bir üst noktaya taşıyan küçük detaylar
+  entry_id:  107813857
+  entry_writer: gksnzn
+  entry_fav_count: 1
+  entry_content: |
+    (bkz: <a class="b" href="/entry/107745243">#107745243</a>)
+  entry_channels: anket,yeme-içme
 - entry_name: |
     hesabı erkek mi öder
   entry_id:  107811101
   entry_writer: metetulpar
-  entry_fav_count: 0
+  entry_fav_count: 1
   entry_content: |
     bu konu ikide bir gündeme geliyor farklı başlıklarda ama artık işin boku çıktı be birader. <br/>hesabı erkek öder. <br/>bunu aması, lakini, şusu busu yok anlayın artık. <br/><br/>bir kadının kendini özel hissedeceği birkaç andan biridir bu. konu para muhabbeti değil. <br/>ister 20 tl ister 200 tl olsun hesap. konu karşınızdaki kadına ikram konusudur. <br/>hem yemeğe davet edeceksin hemde hesaba onu ortak edeceksin. devenin nalı. <br/><br/>buluştuktan sonrada eve de kadınlar mı bırakacak bizi yani bundan sonraki seviye bu mu? <br/>avrupa da şöyle tokyo da böyle diyenlerde ayrı cins. <br/>biz türküz beyler kendinize gelin. <br/>ayıp la bunu böyle uluorta yazıp savunuyosunuz birde.
   entry_channels: ilişkiler
 - entry_name: |
-    en son alınan 2 .el eşya
-  entry_id:  107807968
-  entry_writer: iyi bilirim
-  entry_fav_count: 0
+    evli bir kadına aşık olmak
+  entry_id:  107811455
+  entry_writer: hizligidentren
+  entry_fav_count: 1
   entry_content: |
-    bas gitar.
-  entry_channels: anket
+    böyle bir düşüncede olmadan önce. sizin kariniza birisi aşık olsa düşüncesini aklınıza getirseniz keşke. igrencsiniz
+  entry_channels: ilişkiler
 - entry_name: |
     dizi isimlerini bir harfle değiştirmek
   entry_id:  107810193
   entry_writer: mattilda
-  entry_fav_count: 0
+  entry_fav_count: 1
   entry_content: |
     now i met your mother
   entry_channels: anket,tv
+- entry_name: |
+    en son alınan 2 .el eşya
+  entry_id:  107812249
+  entry_writer: siyahbeyazfotograf
+  entry_fav_count: 0
+  entry_content: |
+    (bkz: <a class="b" href="/?q=smena+symbol">smena symbol</a>) hem de 10 lira gibi komik bir rakama. hala çalışıyor olmasına mı şaşmalı yoksa 83 yapımı bir analogtan şöyle fotoğraflar çıkmasına mı bilemedim.<a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/whsrozjl" title="https://soz.lk/i/whsrozjl">görsel</a>
+  entry_channels: anket
+- entry_name: |
+    birkenstock
+  entry_id:  107811325
+  entry_writer: mor g
+  entry_fav_count: 0
+  entry_content: |
+    kendime yaz için şöyle bir terlik bakayım derken fiyatları görmem ile sitesinden çıkmam bir olan marka. 600 küsür tl'ye terlik mi olur lan vicdansızlar.
+  entry_channels: moda
+- entry_name: |
+    80 bin tl'ye alınacak en iyi ikinci el araba
+  entry_id:  107814605
+  entry_writer: cigo kafa
+  entry_fav_count: 0
+  entry_content: |
+    tercihine göre focus ya da corolla alabilirsin 2010-11 falan. piyasa bu.
+  entry_channels: anket,otomotiv,ekonomi
 ---
