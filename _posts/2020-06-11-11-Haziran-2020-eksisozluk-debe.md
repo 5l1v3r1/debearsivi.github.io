@@ -6,7 +6,7 @@ data:
     19 parça kahvaltılığın 750 tl olduğu ülke
   entry_id:  108618456
   entry_writer: barturo
-  entry_fav_count: 3542
+  entry_fav_count: 3565
   entry_content: |
     evet o ülke türkiye. bugün migros’tan sadece <br/>19 parça kahvaltılık almanın bedeli bana tam tamına 746,62 tl’ye patladı, düz hesap 750 tl. <br/>ülke ekonomisinin tam tamına koyanlar ve onlara <br/>oy verenler markete gidince ne hissediyorlar acaba, çok merak ediyorum.<br/>bu ürünler gıda ürünleri ve bunları tüketmeye mecburuz ama gel gör ki sıradan kahvaltılık ürünlerine 750 tl bayılmak zorunda kalmak koyuyor insana. ulan köpek gibi çalışıyoruz ve bize biçilen hayat bu mu. bir peynir, zeytin için her ay kredi kartı patlatıyoruz. aldığımız otomobil değil, cep telefonu değil, bilgisayar değil, peynir lan peynir. insanın sinir krizine girmemesi elde değil.<br/><br/>bugün aldığım ürünlerin listesini paylaşayım, <br/>bu ürünlerin fiyatlarınında orta kategoride olduğunuda belirteyim.<br/><br/>1 kilo pınar tereyağı 70 tl<br/>10’lu coşkun gezen tavuk yumurta 23,50 tl<br/>marmarabirlik sele zeytin 800 gram 27,45 tl<br/>1 kilo salamura çekirdeksiz yeşil zeytin 34,50 tl<br/>1 kilo ekici beyaz peynir 32,90 tl<br/>tahsildaroğlu taze kaşar peyniri 600 gram 38,45 tl<br/>mersoy tulum peyniri 1 kilo 69,90 tl<br/>koska pekmez 800 gram 16,72 tl<br/>koska fıstıklı helva 500 gram 25,95 tl<br/>balparmak çam balı 850 gram 43,90 tl<br/>calve kahvaltılık sos 290 gram 12,90 tl<br/>nutella 750 gram 21,50 tl<br/>eker kaymak 200 gram 12,95 tl<br/>koska tahin 550 gram 23,90 tl<br/>namet kangal sucuk 79,90 tl<br/>pınar şölen macar salamı 1 kg 85,90 tl<br/>namet dana dilimli pastırma 500 gram 69,95 tl<br/>dörtlü pınar süt 22,45 tl<br/>çaykur kamelya çay 1000 gram 33,90 tl<br/><br/>ülke ekonomisi çoh eyi çoh, değil mi damat efendi.<br/><br/>edit: fiyatları takip et diyenler olmuş. iyi de arkadaşım ben gecesi gündüzü belli olmadan çalışan biriyim vaktim yok ki. <br/>ayrıca neden takip edeyim buna mecbur muyum. <br/>bim’e ya da a101’e git demiş bazıları, eyvallah kardeşim bak bu benim hiç aklıma gelmemişti.<br/>asıl konuya odaklanmayıp abuk subuk şeyler söylemek zaman kaybıdır.<br/>konuya gelecek olursak. <br/>benim kazancım ülke şartlarında iyi olabilir ama bir sabancı değilim ve kahvaltıya 750 tl vermek beni rahatsız ediyor. <br/>eğer asgari ücretliyi rahatsız etmiyorsa zaten konuşmayada gerek yok.<br/>burada alınan ürünler her insanın mutlaka tüketmesi gereken ürünler. <br/>pastırma, kaymak ya da tereyağı yemek <br/>ne zamandan beri lüks zengin gıdası oldu. <br/><br/>sen bu kafayla sadece kendinin değil çocuklarının da hayatını karartıyorsun. <br/>ne yiyor lan o çocuklar. yazık değil mi onlara. <br/>bana kızacağına, o besinlerin tadını bilmeyen çocukları düşün, düşün ki yüreğin sızlasın. <br/>ülkeyi bu hale getirenler kadar günahkarsınız, çünkü cahilsiniz.<br/>üstelik benim yaptığım bu alışveriş normal bir insanın tüketmesi gereken kahvaltının bir miktarı sadece. ona rağmen 750 tl’lik bir fiyat çıktı. <br/>bunun daha meyvesi var, sebzesi var, içeceği var, eti var, balığı var, tavuğu var, suyu var, ekmeği var, varda var.<br/><br/>bu başlık altına yazılanlar, maalesef ülkemizdeki büyük bir sosyolojik sorunu da tam olarak ortaya koymuş bence. toplumun önemli bir kesimi kendilerini açlığa ve ezik bir yaşama mahkum edenleri eleştirmeyi unutmuş. <br/>işin daha da vahim yanı fakirliği ve ezikliği kabullenmiş ve kanıksamışlar.<br/>artık bu saatten sonra ne desem boş.<br/><br/>son edit: kaymak ve pastırma aldığım için beni çarmıha gerenlere teessüflerimi sunuyorum. <br/>ayrıca pastırma dediğiniz şeyi eskiden dedelerimiz çuvalıyla alırmış. çok büyük anlamlar yüklemeyin pastırmaya. sorun şu arkadaşlar, kendi ürettiğimiz yerli gıda maddeleri neden bu kadar pahalı ve neden fakirin sofrasında değil. bu soruyu sorun kendinize. <br/>bu konu bazı ergenlerin iğrenç espirilerine malzeme olamayacak kadar önemli.<br/>çünkü ülkenin büyük bir çoğunluğu, sağlıklı kalabilmek için tüketmek zorunda olduğu besinlere ulaşamıyor. <br/>iyi beslenemeyen bireyler hasta toplumları oluşturuyor. bu durum, aklı iyi çalışmayan, buna mukabil fiziki yönden de yetersiz insanlar meydana getiriyor. yani senin baldan, kaymaktan, sütten, etten mahrum kalan çocuğun potansiyel bir hasta.<br/>bu hastalığa sebep olanda senin hasta zihniyetin, bilmem anlatabildim mi.<br/><br/>açtığım başlık hedefine ulaştı ve düzenin düzenbaz yaratıkları olan aktrolleri kudurtmaya yetti. <br/>tüm kötü sözlerinizi size iade ediyor ve seviyenize inmiyorum.<br/>bu arada destek olan yazar arkadaşlarıma ayrıca teşekkür ediyorum.<br/>sağlıklı beslenmek ve bu besinlere en makul fiyatlarla ulaşmak insani bir haktır.
   entry_channels: yeme-içme,ekonomi
@@ -14,7 +14,7 @@ data:
     tayyip erdoğan'ı denetleyen otorite
   entry_id:  108642859
   entry_writer: ismin e hali
-  entry_fav_count: 729
+  entry_fav_count: 769
   entry_content: |
     (bkz: <a class="b" href="/?q=only+allah+can+judge+me">only allah can judge me</a>)
   entry_channels: siyaset
@@ -22,7 +22,7 @@ data:
     hal hatır sormayıp direkt konuya giren insan
   entry_id:  108628499
   entry_writer: uzunasikoglu
-  entry_fav_count: 544
+  entry_fav_count: 546
   entry_content: |
     zamanı efektif kullanan insandır.
   entry_channels: ilişkiler
@@ -30,47 +30,55 @@ data:
     demet evgar'ı arı sokması
   entry_id:  108641132
   entry_writer: edebiyat surgunu
-  entry_fav_count: 449
+  entry_fav_count: 467
   entry_content: |
     sadece işci bal arıları soktuktan sonra ölürler ve genelde sokmazlar. demet hanımı sokan arı muhtemelen eşek arısıdır sarı olandan ve o orosbu çocukları istedikleri kadar sokarlar. zaten bu piçler genelde bal yapmayıp milletin balına çöken, etini falan yiyen şerefsizlerdir.
   entry_channels: sağlık,magazin
 - entry_name: |
-    10 haziran 2020 tüik işsizlik oranları
-  entry_id:  108623746
-  entry_writer: logicc error
-  entry_fav_count: 394
-  entry_content: |
-    bugün saat 10.00'da açıklanması beklenen orandır.<br/><br/>şubat-mart-nisan ayı ortalama işsizlik oranı açıklanacaktır. mart ve nisan aylarında covid-19 nedeniyle işsizlik uçtuğu için %13.6'dan %20'lere fırlaması beklenmekte.<br/><br/>edit: işsizlik %13.6'dan %13.2'ye düşmüş. ahaha yok artık<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.tuik.gov.tr/PreHaberBultenleri.do?id=33787" title="http://www.tuik.gov.tr/PreHaberBultenleri.do?id=33787">kaynak</a>
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
-    türkiye ve çin'in verileri şüpheli
-  entry_id:  108638844
-  entry_writer: odtubebesi
-  entry_fav_count: 385
-  entry_content: |
-    johns hopkins üniversitesi’nin korona virüsle ilgili iddiası.<br/>dünyaca ünlü üniversite "türkiye ve çin’in verileri şüpheli’ diye açıklama yapmış.<br/>dıj güşlere bak seeen. bu ne şimdi?<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.yenicaggazetesi.com.tr/dunyaca-unlu-universite-kafalari-karistirdi-turkiye-ve-cinin-verileri-supheliymis-283467h.htm" title="https://www.yenicaggazetesi.com.tr/dunyaca-unlu-universite-kafalari-karistirdi-turkiye-ve-cinin-verileri-supheliymis-283467h.htm">kaynak</a><br/><br/>ayrıca bknz: <a class="b" href="/?q=%c3%a7in%27in+corona+vakalar%c4%b1nda+yapt%c4%b1%c4%9f%c4%b1+sahtekarl%c4%b1k">çin'in corona vakalarında yaptığı sahtekarlık</a>
-  entry_channels: siyaset,sağlık,haber
-- entry_name: |
-    atılım üni. hocasının sınavda +18 video izlemesi
+    atılım üni. hocasının sınavda 18+ video izlemesi
   entry_id:  108648060
   entry_writer: hazirlik ogrencisi
-  entry_fav_count: 367
+  entry_fav_count: 451
   entry_content: |
     60 küsür yaşındaki bir adam bu saatten sonra porno izlese ne olur? en fazla gül geç. belli ki teknolojiye hakim değil zoom'a yansıtmış. ama adamın üstüne gitmek gereksiz.<br/><br/>edit: cümlelerimden adama tam destek verdiğim anlaşılmış. ben sadece adam makul bir dille uyarılabilirdi diyorum. görüntülerde de gözüktüğü gibi adama 40 kişi, üstüne de telefonla birileri "hocam porno izliyomuşsun sen görev başında" diye şempanze gibi haykırıyor. adam gereksizce savunmaya geçmiş. tabi iffet abidesi atılım gençleri şimdi bu hocayı şikayet etmeye hazırlanıyordur.
   entry_channels: haber,eğitim
 - entry_name: |
+    türkiye ve çin'in verileri şüpheli
+  entry_id:  108638844
+  entry_writer: odtubebesi
+  entry_fav_count: 402
+  entry_content: |
+    johns hopkins üniversitesi’nin korona virüsle ilgili iddiası.<br/>dünyaca ünlü üniversite "türkiye ve çin’in verileri şüpheli’ diye açıklama yapmış.<br/>dıj güşlere bak seeen. bu ne şimdi?<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.yenicaggazetesi.com.tr/dunyaca-unlu-universite-kafalari-karistirdi-turkiye-ve-cinin-verileri-supheliymis-283467h.htm" title="https://www.yenicaggazetesi.com.tr/dunyaca-unlu-universite-kafalari-karistirdi-turkiye-ve-cinin-verileri-supheliymis-283467h.htm">kaynak</a><br/><br/>ayrıca bknz: <a class="b" href="/?q=%c3%a7in%27in+corona+vakalar%c4%b1nda+yapt%c4%b1%c4%9f%c4%b1+sahtekarl%c4%b1k">çin'in corona vakalarında yaptığı sahtekarlık</a>
+  entry_channels: siyaset,sağlık,haber
+- entry_name: |
+    10 haziran 2020 tüik işsizlik oranları
+  entry_id:  108623746
+  entry_writer: logicc error
+  entry_fav_count: 396
+  entry_content: |
+    bugün saat 10.00'da açıklanması beklenen orandır.<br/><br/>şubat-mart-nisan ayı ortalama işsizlik oranı açıklanacaktır. mart ve nisan aylarında covid-19 nedeniyle işsizlik uçtuğu için %13.6'dan %20'lere fırlaması beklenmekte.<br/><br/>edit: işsizlik %13.6'dan %13.2'ye düşmüş. ahaha yok artık<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.tuik.gov.tr/PreHaberBultenleri.do?id=33787" title="http://www.tuik.gov.tr/PreHaberBultenleri.do?id=33787">kaynak</a>
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
     türkiye'nin en güzel plajı
   entry_id:  108633303
   entry_writer: jupitersubat
-  entry_fav_count: 364
+  entry_fav_count: 370
   entry_content: |
     alaçatı, bodrum... hadi naş naş bakir gizli yerleri buraya yazıp otel yapılmasına izin vermeyiz.
   entry_channels: anket
 - entry_name: |
+    bekçilere silah ve zor kullanma yetkisi verilmesi
+  entry_id:  108616327
+  entry_writer: buralarda11
+  entry_fav_count: 348
+  entry_content: |
+    bundan sonra gecenin o kör karanlığında, belinde tabancasıyla, o kısıtlanan hayatının eksikliğiyle eğitimsiz biri karşınıza çıkıp, ''hayırdır birader'' diyecek. polis devleti olduk derken, bekçi devleti olduk.
+  entry_channels: siyaset,haber
+- entry_name: |
     putları yeniden deviren nesil'in sözlük terörü
   entry_id:  108634210
   entry_writer: evrenozd
-  entry_fav_count: 273
+  entry_fav_count: 282
   entry_content: |
     putları yeniden devir nesil nickli teröristin, sözlük ortamını bataklık olarak nitelendirmesi ve bu bataklığı kendi tabiri ile kurutmak için örgütlenip çete kurması. çete faaliyetlerinin amacı da aşağıdaki gibi<br/><br/>"sevgili yol arkadaşlarım ekşisözlük hareketimiz devam ediyor. alabildiğimiz kadar hesap almaya devam edelim. bu sorunu kökünden çözeceğiz. öyle bir bataklığı kurutacağız ki şaşırıp kalacaklar. hesap alanlar bana mesajla ulaşsın lütfen. kaç kişi olduğumuzu görelim."<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Putlarideviren/status/1270330219077959680" title="https://twitter.com/Putlarideviren/status/1270330219077959680">https://twitter.com/…ren/status/1270330219077959680</a><br/><br/>uygulamayı planladığı terör eylemi için yapılanma planını ise şu şekilde anlatmış.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Putlarideviren/status/1267091053070503937" title="https://twitter.com/Putlarideviren/status/1267091053070503937">https://twitter.com/…ren/status/1267091053070503937</a><br/>"ekşiyi deviren nesil.. ekşi hesabı almak için gerekenleri madde madde izah ediyorum<br/><br/>1- önce kayıt formunu dolduruyoruz. kendimize siyasi olmayan bir isim seçiyoruz<br/>2- seçtiğimiz başlıkların altına tanım cümleleri yazıyoruz.mesela aaraba" başlığını seçtikaraba başlığının altına: dört tekerleği olan motorlu taşıt.<br/>gibi bir tanım cümlesi yazıyoruz. bunu yaptıktan sonra mailinize bir onay linki geliyor. onu tıklayınca çaylak hesabınız onaylanmış oluyor.bu tanım cümlelerinden 10 farklı başlığa yazmalısınız. <br/>3- siyasi başlıklardan uzak durun çünkü chpli moderatörler sizi onaylayacak. başlığa tanım olmayan hiç bir şey yazmayın.çaylak hesabınız oluştuktan sonra bekleme moduna geçiyoruz. arada bir sözlüğe girip bizim fikirlerimizi savunan yazarların yazılarını favlıyoruz. mukaddesata küfür eden yazarların yazılarını da şikayet etme bölümünden şikayet ediyoruz."<br/><br/>twiterda yer alan bir başka kişinin "ekşi sözlük teki kullanıcı adınız aynı mı" sorusuna ise<br/><br/>"evet, onun yasağı kalkana kadar ve cehenneme suruleceksiniz isimli bir hesabı kullanıyorum"<br/><br/>şeklinde cevap vermiştir.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Putlarideviren/status/1267850669479919618" title="https://twitter.com/Putlarideviren/status/1267850669479919618">https://twitter.com/…ren/status/1267850669479919618</a><br/><br/>edit : açtığım başlığı "sözlükte korku bacayı sardı" olarak sayfasına taşımış. benim tek başıma sözlüğü temsil ettiğimi iddia ediyor beyin fakiri. kendisi için kullandığım çete ifadesini de bana karşı kullanmış etrafımda kimse olmamasına rağmen. çalmak fıtratlarında var belliki. korkmaya gelince, çakaldan korkmamayı küçükken öğrettiler. sanal ortamda fıtratını satan ucuz fahişelerden korkmamayı ise internetin gelişi ile beraber. dolayısıyla ne burada, ne sokakta korkmadım 3 kuruşluk soyu belirsizlerden. sabahtan akşama nickler arkasına saklanıp klavye elinde sağa sola ateş etmeye benzemez gerçek korkusuzluk. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://mobile.twitter.com/Putlarideviren/status/1270677967639924737" title="https://mobile.twitter.com/Putlarideviren/status/1270677967639924737">https://mobile.twitter.com/…tus/1270677967639924737</a>
   entry_channels: ekşi-sözlük
@@ -78,7 +86,7 @@ data:
     en kötü kargo şirketini seçiyoruz anketi
   entry_id:  108627661
   entry_writer: zeytin canavari
-  entry_fav_count: 263
+  entry_fav_count: 271
   entry_content: |
     sürat kargodur.
   entry_channels: anket
@@ -86,7 +94,7 @@ data:
     10 haziran 2020 yunanistan-türkiye gerginliği
   entry_id:  108639863
   entry_writer: eduman024
-  entry_fav_count: 252
+  entry_fav_count: 258
   entry_content: |
     yunanlıların devlet olarak regl olduğuna yemin edebilirim ama ispatlayamam. düzenli aralıklarla bize sataşmaları başka türlü açıklanamaz.<br/><br/>t: sıradan bir anonsla bertaraf edilmiş gerginliktir.
   entry_channels: siyaset,haber
@@ -94,7 +102,7 @@ data:
     mahkemelerde kararları yapay zekanın vermesi
   entry_id:  108637506
   entry_writer: qatal
-  entry_fav_count: 223
+  entry_fav_count: 229
   entry_content: |
     hsk'nın yapay zekayı siirt'e sürmesiyle son bulacak durumdur.
   entry_channels: siyaset,programlama,teknoloji
@@ -102,34 +110,58 @@ data:
     son 20 yılın en gıcık lafı
   entry_id:  108629865
   entry_writer: freshmeatt
-  entry_fav_count: 218
+  entry_fav_count: 222
   entry_content: |
     evet arkadaşlar kanalıma hoşgeldiniz.
+  entry_channels: anket
+- entry_name: |
+    kışlasız bedelli yoksa oy yok
+  entry_id:  108634384
+  entry_writer: incilizum
+  entry_fav_count: 201
+  entry_content: |
+    yani varsa oy var?<br/>oyun bu kadar ucuz?<br/>tahmin et senden oy isteyen adamın gözünde kaç para ediyorsun...
   entry_channels: anket
 - entry_name: |
     istiklal caddesi'nin cazibesini kaybetme sebepleri
   entry_id:  108637391
   entry_writer: sipilaspilas
-  entry_fav_count: 193
+  entry_fav_count: 195
   entry_content: |
     (bkz: <a class="b" href="/?q=pakistanl%c4%b1lar">pakistanlılar</a>)<br/>(bkz: <a class="b" href="/?q=afganistanl%c4%b1lar">afganistanlılar</a>)<br/>(bkz: <a class="b" href="/?q=suriyeliler">suriyeliler</a>)<br/>(bkz: <a class="b" href="/?q=bonzai+i%c3%a7ip+kendinden+ge%c3%a7en+tipler">bonzai içip kendinden geçen tipler</a>)
   entry_channels: siyaset,anket,tarih,ekonomi,seyahat
 - entry_name: |
-    10 haziran 2020 valiler kararnamesi
-  entry_id:  108614148
-  entry_writer: jack shephard 95
-  entry_fav_count: 170
+    kyk yurtlarındaki eşyaların çalınması
+  entry_id:  108631132
+  entry_writer: cemaline kurban
+  entry_fav_count: 183
   entry_content: |
-    vali dediğin nedir? akp il başkan yardımcısı.
-  entry_channels: siyaset,haber
+    hangi odada kimin kaldığı belli. odalar arası gezip tozma da yasaktı karantinada. polis bulacak bunları. ama yok polisimiz böyle küçük işlere bakmaz. ancak artistlik.
+  entry_channels: haber,eğitim
+- entry_name: |
+    91 yaşındaki hastanın kanını çöpe atan hastane
+  entry_id:  108633373
+  entry_writer: bende senin
+  entry_fav_count: 183
+  entry_content: |
+    kuşadası sulh ceza hakimliğine sevgilerimi(!) gönderiyorum. ve silinen başlığı aşağıda aynen paylaşıyorum.<br/><br/>--- <a class="b" href="/?q=al%c4%b1nt%c4%b1%2c+silinen+ba%c5%9fl%c4%b1k">alıntı, silinen başlık</a> --- <br/>bir çaylağın ricası üzerine açtığım, 10/10 rezalet olay yaşatan kuşadası devlet hastanesidir. aynen paylaşıyorum:<br/><br/>''annemin bakımında olan 91 yaşındaki 40 kilo civarındaki , %97 engelli yatalak anneannem dün baya bir rahatsızlandı.<br/>kuşadası devlet hastanesi'ne telefon açılıp ekip çağırıldı.<br/>elinden birkaç tüp kan aldılar ve elleri bu hale geldi <a rel="nofollow noopener" class="url" target="_blank" href="https://www.kusadasihaber.com.tr/haber/kusadasi-devlet-hastanesinde-skandal-goruntuler-873" title="https://www.kusadasihaber.com.tr/haber/kusadasi-devlet-hastanesinde-skandal-goruntuler-873">görsel</a><br/><br/>akabinde hastaneye dönen ekip anneme telefon açıp ''hastanın gss borcu var, bu yüzden kan testi yapmadık, kanları da çöpe attık, borcu ödeyip tekrar arayın'' dedi.<br/><br/>inanamadık.<br/>resmen 10/10 rezalet.<br/>anneannem daha önce yeşil kartlıydı ve sağlıktan bu şekilde faydalanıyordu.<br/>yeşil kartı iptal mı edildi, edildiyse neden edildi hiç haberimiz yoktu.<br/><br/>hadi onu da geçtim, acil bir vaka bu sonuçta ki hastaneden ekip gelmiş.<br/>zaten ellerini ne hale getirerek kaç tüp kan aldınız, test yapın bari, çöpe atmak nedir arkadaş?<br/><br/>ülke tamam berbat halde ama bu kadar da olmasın arkadaş ya.<br/>kadın bugün yarın vefat ederse, katilleri bu gss'yi çıkaranlardır.<br/>her yere şikayet edeceğim.<br/>yazıklar olsun! '<br/><br/>edit: arkadaşlar bazı yazarlar yanlış anlamış.<br/>acilden giriş yapıldı veya 112 çağrıldı yazmıyor. nereden uyduruyorsunuz? <br/>kendisi evde bakım hastasıymış<br/>bu yüzden ekip eve gelmiş. sadece durumun aciliyeti varmış ama evde bakım hastası olduğundan evde kan alma işlemi yapılmış.<br/><br/>--- <a class="b" href="/?q=al%c4%b1nt%c4%b1+silinen+ba%c5%9fl%c4%b1k">alıntı silinen başlık</a> ---
+  entry_channels: sağlık,haber
 - entry_name: |
     s-400'lerin şu an ne yaptığı sorunsalı
   entry_id:  108637380
   entry_writer: delirmeyetekbilet
-  entry_fav_count: 169
+  entry_fav_count: 170
   entry_content: |
     büyük heveslerle alınan <a class="b" href="/?q=ko%c5%9fu+bantlar%c4%b1">koşu bantları</a> gibi duruyor. askılık falan olarak da kullanılabilir.
   entry_channels: siyaset
+- entry_name: |
+    survivor 2020 ünlüler-gönüllüler
+  entry_id:  108614177
+  entry_writer: ikikereikiherzamandortetmez
+  entry_fav_count: 166
+  entry_content: |
+    iyi okuyun ekşiciler;<br/><br/>-dün gece acun: kim eleniyor bilmiyorum. kimse bilemez, imkânsız. çünkü "konsey yayından 10 dk önce çekilecek."<br/><br/>-bu gece eleme olur. saatler 00:00 civarı.<br/>yunus elenir. 10 dk sonra biz öğreniriz. (güyaaa amk)<br/>-10 dk lık toplam süre içinde bir sonraki güne ışınlanırız. izafiyet kuramı gereği zamanı büker ve yunus emre olmadan yeni kaptanlık oyunu oynanır.<br/>-acunun mucize montaj ekibi arada montajı halleder. <br/>- yunus arkadaşlarıyla veda ederken sağ alta kronometre düşer. 'survivorda yarın'.<br/><br/>lan madem eleme 10 dk önce oldu, kaptanlık hangi ara emresiz çekildi.
+  entry_channels: anket,tv,magazin,spoiler
 - entry_name: |
     izlendikten sonra işte sinema bu dedirten film
   entry_id:  108612442
@@ -139,29 +171,13 @@ data:
     <a rel="nofollow noopener" class="url" target="_blank" href="http://sketchtoy.com/69219976">http://sketchtoy.com/69219976</a>
   entry_channels: anket,sinema,spoiler
 - entry_name: |
-    pahalılıktan şikayet edene ucuz ürün önermek
-  entry_id:  108639501
-  entry_writer: optimum level
-  entry_fav_count: 151
-  entry_content: |
-    son dönemde, özellikle market alışveriş fiyatlarındaki yükselmeye, enflasyona, ürün ayırt etmeksizin hepsine bir anda gelen zamlara dikkat çekmek isteyenlerin karşılarında buldukları tepki. hayat pahalılığının karşısına sorgulamadan kalitesizliği koyup, başını eğip devam etme hali.<br/><br/><a class="b" href="/?q=ben+hep+50+liral%c4%b1k+al%c4%b1yorum">ben hep 50 liralık alıyorum</a>culardan bir farkı olmayan, hayat kalitesini belirli bir seviyede tutmak isteyen insanı sığlıkta ve cehalette aşağı çekmeye çalışan bir tutum. <br/><br/>"peynire zam gelmiş" diyorsun, "a101'de kampanya var, sekiz sınıf aşağı filanca markası hep ucuz" diyor.<br/><br/>"kangal sucuk altın fiyatına" diyorsun, "at etinden hallice bilmemne sucuk alsaydın" diyor.<br/><br/>"telefonlara ek vergi de binince el yakıyor" diyorsun, "ayfon da almayıver, havan batsın" diyor.<br/><br/>"kahvaltılık aldım şu kadar lira" diyorsun, "biz hep ekmek-peynir yiyoruz, sen de öyle yapsaydın" diyor.<br/><br/>önerdiği ucuz ürüne de bir yılda kimbilir ne zamlar gelmiş, kendi yediği -ya da artık cep yaktığı için yiyemeyeceği- bokun farkında değil; elektriğe, suya, doğalgaza gelen zamlara gıkını çıkartmıyor, "yapmasaydın, etmeseydin, almayıver" üzerinden milleti yargılıyor, sürüye katmaya çalışıyor.<br/><br/>kendisinin <a class="b" href="/?q=insan+gibi+ya%c5%9famak">insan gibi yaşamak</a> gibi bir derdi yok, istiyor ki başkaları da şikayet etmesin, zamlara, fiyat artışlarına gıkını çıkartmadan aynı bokun içinde debelensin.<br/><br/>şimdi duyarı da gelecektir, "cebinde parası olmayan adam ne yapsın, tabii ki ucuza yönelecek". kimse ucuza yönelmesin demiyor, hepimiz cebimizde ne kadar varsa ona göre harcıyoruz. ancak dünden bugüne arşa çıkan pahalılığı sorgulayana, şikayet edene karşı da bi'zahmet bu argümanla çıkılmasın.
-  entry_channels: ekonomi
-- entry_name: |
     alkol zararlı iddiasının yalan olması
   entry_id:  108642933
   entry_writer: nart zevatha
-  entry_fav_count: 150
+  entry_fav_count: 155
   entry_content: |
     kocaman bir yalandır. bunun türkiye toplumunda bu şekilde var sayılması, <a class="b" href="/?q=alkol+b%c3%bct%c3%bcn+k%c3%b6t%c3%bcl%c3%bcklerin+anas%c4%b1d%c4%b1r">alkol bütün kötülüklerin anasıdır</a> ve benzeri sözlerle desteklenmesinin altında yatan temel, referans olarak dini almaktadır. daha doğrusu <a class="b" href="/?q=t%c3%bcrkiye+tipi+m%c3%bcsl%c3%bcmanl%c4%b1k">türkiye tipi müslümanlık</a> idir demeliyiz. <br/><br/>peki kuran'a göre alkol zararlı mıdır? alkol ile alakalı ilk ayet <a class="b" href="/?q=nahl+suresi">nahl suresi</a> 67. ayettir: hurma ağaçlarının ve üzüm asmalarının ürünlerinden hem içki hem de güzel besinler elde edersiniz. bunda da aklını kullanan bir topluluk için açık -delil vardır.<br/><br/>burada zararlı olduğuna ya da yasak olduğuna dair bir ibare yok. hatta "güzel besinler" diye övüyor. <br/><br/>dahan sonra <a class="b" href="/?q=nisa+suresi">nisa suresi</a> 43. ayet var: ey iman edenler! siz sarhoş iken ne söylediğinizi bilinceye kadar, yolcu olan müstesna olmak üzere, cünüp iken de gusül edinceye kadar namaza yaklaşmayın. eğer hasta olur veya yolculuk halinde bulunursanız yahut sizden biriniz ayak yolundan gelirse ya da kadınlara dokunup da –bu durumlarda– su bulamamışsanız o zaman temiz bir toprağa yönelin (teyemmüm edin); yüzlerinize ve ellerinize sürün. şüphesiz allah çok affedici ve bağışlayıcıdır.<br/><br/>burada da alkolün zararlı olduğuna dair bir durum yok. kısmen bir yasak var. o da diyor ki, alkol aldıysanız camiye, namaza yaklaşmayın. <br/><br/>sonra <a class="b" href="/?q=bakara+suresi">bakara suresi</a> 219. ayet var: sana içkiyi ve kumarı sorarlar. de ki: “onlarda hem büyük günah, hem de insanlar için (bazı zahirî) yararlar vardır. ama günahları yararlarından büyüktür.” yine sana allah yolunda ne harcayacaklarını soruyorlar. de ki: “ihtiyaçtan arta kalanı.” allah, size âyetleri böyle açıklıyor ki düşünesiniz.<br/><br/>burada da kesin bir yasaklama var diyemeyiz. aksine yararlı olduğu da kabul ediliyor. taa ki <a class="b" href="/?q=maide+suresi">maide suresi</a> 90. ayete kadar. orada tam anlamıyla "şeytan işi bir pislik" olduğu söylenip, yasaklanıyor. işin tarihsel kısmına girmek istemiyorum ama bu konuda, islam öncesinde arap toplumunda yaygın şarap içme geleneği olduğundan dolayı hemen yasaklanmadığı zamana yayıldığına dair tartışmalar var. <br/><br/>kuran'a göre alkol yasak. ama zararlı olduğu söylenmiyor. aksine bir miktar yararlı olduğu da söyleniyor. <br/><br/>şimdi işin dini kısmını bırakalım. <br/><br/>gelelim günümüz medeniyetine. alkol zararlıdır diyenler, bunu iki çerçevede ele alıyorlar. birincisi tıbbi olarak zararları, ikincisi de toplumsal zararları. <br/><br/>tıbbi olarak zararlı mıdır bakalım. günümüzdeki alkollü içeceklerin tamamı etil alkolden oluşur. etil alkol içki yapımı dışında, endüstride, organik kimyasalların sentezinde, otomotiv ve kozmetiv sektöründe ve tıp alanında yaygın olarak kullanılmaktadır. <br/><br/>peki alkol zararlı mıdır? ilk yudumdan 30 saniye sonra beyne ulaşıyor alkol. beyin hücrelerinin mesaj göndermek için kullandığı kimyasalları ve yolları yavaşlatıyor. bu da ruh halini değiştiriyor, refkleksleri yavaşlatıyor ve dengenizi bozuyor. burada şunu belirtmekte fayda var. ruh halinizi değiştiriyor derken, sizde olmayan bir huy bir anda ortaya çıkıyor gibi bir şey değil. bilinçaltınıza gizlediğiniz, ayık kafayla yapmaya çekindiğiniz ya da kendinizi frenlediğiniz şeyler ortaya çıkabiliyorlar sadece. uzun süreli alkol mideyi tahriş eder, midenin daha fazla asit üretmesine neden olur. uzun süreli alkol kullananlarda reflü, mide ülseri, ince ve kalın bağırsak problemleri görülür. karaciğer, içilen alkolün neredeyse tamamını parçalar. zamanla aşırı içki, karaciğeri yağlı hale getirir ve kalın lifli doku oluşturur. bu kan akışını sınırlar. bu nedenle karaciğer hücreleri, hayatta kalmak için ihtiyaç duydukları şeyleri alamazlar. aynı şekilde uzun süreli, fazla alkol tüketimi kalp ritminin bozar. kalp kasının zarar görmesine sebep olur. alkol kan damarlarını genişleterek cildinize daha fazla kan akışı oluşturur, bu durum kısa sürelidir ama. öte yandan, uzun süreli alkol kullanımı kan basıncını arttırır. stres hormonlarını serbest bırakır ve kan damarlarını daraltır. buraya dikkat. önce kan damarlarını genişletiyor, ki bu yararlı. sonra daraltıyor. böylece kalp kan pompalamak için daha fazla efor harcar. alkol mikroplarla savaşmak için kullandığımız beyan kan hücrelerinin sayılarını düşürdüğü için bağılıklık sisteminizi de zayıflatır. uzun süreli alkol tüketenlerde zatürre ve tüberküloz gibi akciğer hastalıklarına yakalanma riski daha yüksektir. alkol içerisindeki güçlü kimyasallar üreme sağlığını da olumsuz etkiler. ayrıca kemikleri inceltir, kasları zayıflatır. <br/><br/>bunların hepsi zarar değil mi? peki dikkatiniz çeken nokta ne? hepsi uzun süreli ve fazla alkol kullanımında olan şeyler. <br/><br/>peki kısa süreli? içkilere tek tek bakabiliriz. <br/><br/><a class="b" href="/?q=bira">bira</a><br/><br/>ınternational journal of endocrinology'de yayınlanan bir rapora <a rel="nofollow noopener" class="url" target="_blank" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3671293/" title="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3671293/">göre</a> bira'nın içinde bulunan silikon kemikleri güçlendirir. <br/><br/>bir araştırmaya <a rel="nofollow noopener" class="url" target="_blank" href="https://pubmed.ncbi.nlm.nih.gov/19655312/" title="https://pubmed.ncbi.nlm.nih.gov/19655312/">göre</a> biranın içinde bulunan şerbetçiotu, iltihap oluşumunu engeller. ayrıca şerbetçiotunun içinde bulunan acı asitlerin prostat kanseri riskini azalttığı da <a rel="nofollow noopener" class="url" target="_blank" href="https://pubmed.ncbi.nlm.nih.gov/20547166/" title="https://pubmed.ncbi.nlm.nih.gov/20547166/">şu</a> araştırmaya göre belirlendi. <br/><br/>italyan <a rel="nofollow noopener" class="url" target="_blank" href="https://link.springer.com/article/10.1007/s10654-011-9631-0" title="https://link.springer.com/article/10.1007/s10654-011-9631-0">bilim insanları</a> kararında içilen biranın kalp hastalığına yakalanma riskinin %31 oranında azalttığını söylüyor. <br/><br/>ayrıca bira böbrek taşı oluşumunu engelliyor. clinical journal of american society of nephrology <a rel="nofollow noopener" class="url" target="_blank" href="https://cjasn.asnjournals.org/content/8/8/1389" title="https://cjasn.asnjournals.org/content/8/8/1389">şu</a> araştırmasında söylüyor.<br/><br/>journal of agriculture and food chemistry tarafından yapılan <a rel="nofollow noopener" class="url" target="_blank" href="https://pubs.acs.org/doi/abs/10.1021/jf204306z" title="https://pubs.acs.org/doi/abs/10.1021/jf204306z">şu</a> araştırmaya göre de biranın sindirime yardımcı olan mide asiti ve pankreas enzimleri üretimini tetikleyen bütün malzemeleri içerdiğini bulmuşlar. <br/><br/>şikago'daki loyola üniversitesindeki <a rel="nofollow noopener" class="url" target="_blank" href="https://www.sciencedaily.com/releases/2011/08/110816112134.htm" title="https://www.sciencedaily.com/releases/2011/08/110816112134.htm">araştırmacılar</a> abartmadan bira içenlerin bunama ve alzheimer'a yakalanma riskinin bira içmeyenlere göre %23 daha az olduğunu bulmuşlar. ayrıca biradaki silikonun akıl hastalıklarına, bilişsel yetilerin kaybına sebep olan bileşenlere karşı kalkan görevi gördüğünü de bulmuşlar. ayrıca biradaki kolestrol de bunama ve alzheimer riskini azaltıyormuş. <br/><br/>ayrıca abartmadan bira içmenin, güncel bir araştırmaya <a rel="nofollow noopener" class="url" target="_blank" href="http://www.cell.com/cell-metabolism/abstract/S1550-4131(12)00192-1" title="http://www.cell.com/cell-metabolism/abstract/S1550-4131(12)00192-1">göre</a> kilo almayı engellediğini keşfettiler. nicotinamide riboside adı verilen bir mülekülün obezite ve dibaeti önlemenin önündeki anahtar molekül olabileceği tartışılıyor. <br/><br/><a class="b" href="/?q=%c5%9farap">şarap</a><br/><br/>şarap uzmanlara göre uygun miktarda içildiğinde faydalıdır. bu da akşam veya öğle yemeğinden sonra bir bardaktır. bu konuda profesör doktor mehmet ümit ergenoğlu'nun kişisel sitesindeki <a rel="nofollow noopener" class="url" target="_blank" href="https://mehmetergenoglu.com/kirmizi-sarap-ve-kalp/" title="https://mehmetergenoglu.com/kirmizi-sarap-ve-kalp/">şu</a> yazıya bakabiliriz.<br/><br/><a class="b" href="/?q=rak%c4%b1">rakı</a><br/><br/>sinirleri yatıştırır, iştahı arttırır, gaz söktürücüdür, mideyi güçlendirir, öksürüğü yatıştırır, sindirimi kolaylaştırır, idrarı arttırır, kusmaları ve ishali engeller, migren ağrılarını keser, beyin yorgunluğunu giderir, astım, nefes darlığı ve bronşitte görülen şikayetleri giderir. <br/><br/><a class="b" href="/?q=votka">votka</a><br/><br/>votkanın faydaları kardiyovasküler sağlık, stres oranlarında azalma, diş ağrılarından ve kötü kokudan kurtulmayı içerir. cildin sağlıklı kalmasına yardımcı olur, saç büyümesini arttırır. aynı zamanda değerli antiseptik, anti bakteriyel niteliklere sahiptir, yaraları dezenfekte etmeye yardımcı olur. <br/><br/>bunların dışındaki alkollerin her birisi üç aşağı beş yukarı bir birine benzer. o yüzden aynı faydaları tekrar tekrar yazmaya gerek yok. <br/><br/>şimdi gelelim toplumsal olduğu söylenen zararlara.. toplum nezdinde alkol alan insanların, sarhoş olunca toplum içinde sorun çıkartan tiplere bürünebileceğini gibi genel bir kanı var. bu tamamen yanlış bir algı. doğrusu ise toplum içinde sorun çıkartma potansiyeli olan insanların, alkol alınca, bu potansiyellerini ortaya koyacak cesareti kendilerinde bulmaları. <br/><br/>yani şerefsizlik yapacak birisi, alkol aldığından dolayı değil, zaten hali hazırda şerefsiz olduğundan bunu yapıyor. gündelik yaşamında, önüne gelene salça olmayan, insanlara kibar davranan, toplumsal referanslara uyan insanların ben alkol aldıklarında birer canavara dönüştüklerini görmedim. istisnalar elbette olabilir, bu istisnalar da kaideyi kanıtlar zaten. <br/><br/>peki neden alkol zararlıdır önermesi bu kadar yaygın? en başta dediğim gibi dini referanslardan ötürü. neden? <br/><br/>mesela şeker vücuda bol kullanımında zarar veren bir şeydir. kalbe zarar verir, göbek ve bel çevresi yağlarını arttırır, bağışıklık sistemini zayıflatır,karaciğere aynı bol alkoldeki gibi toksik etki gösterir, kronik hastalıkların öncüsüdür. ama kimse ramazan ayında iftardan sonra çayına şeker atan insanı ayıplamaz. "aa ramazanda şeker mi tüketilir hiç, ne ayıp!" demez. <br/><br/>ya da su.. yaşamımızın kaynağı.. aşırı su tüketiminde su zehirlenmesi yaşayabilirsiniz. su zararlıdır mı diyelim şimdi? <br/><br/>işin özü sizin batıl inançlarınıza göre şekillendirilmiş bu alkol zararlıdır algısını kabul etmiyorum. her gün bir bira, bir bardak şarap içen insan için gayet yararlıdır aksine.<br/><br/>edit: aşağıda bana "mal" ve benzeri şekilde küfür edenlere ve bütün tanıdıklarına, ettikleri küfürleri iade ediyorum. küfür etmeden, derdinizi anlatamıyorsunuz. ayrıca "diğer tarafta ananın amını görürsün" diye söven pek değerli arkadaşa da tam bir müslüman örneği olduğu için tebrik ederim.<br/><br/>edit2: başlık sol frame'e girmişti ama şimdi yok. sözlükteki sansür bile batıl inançların referanslarına göre işliyor.<br/><br/>edit3: şu şekilde bir entry girilmiş: "adam islam'la yasaklanan içkiyi, islam ile paklamaya çalışıyor.<br/>zararlıdır. tartışmaya kapalıdır. velev ki faydaları var. bir şeyin helal olması için onun faydalı olması gerekmez. islamiyet buna bakmaz. kimsenin hevasina göre şekil almaz." ateist, dinsiz, imansız birisi olarak kuran'la paklamaya çalışmıyorum zaten. tam olarak yazdığını söylemeye çalışıyorum ben de.. zararlı diye haram kılınmadı. dinlerde sorgulama yoktur. bir şey haram ise haramdır. bitti.. zararlı veya yararlı diye haram veya helal kılınmaz. kuraldır bu. sorgulayamazsın dine göre. o yüzden batıl diyorum zaten.
   entry_channels: sağlık,yeme-içme
-- entry_name: |
-    91 yaşındaki hastanın kanını çöpe atan hastane
-  entry_id:  108633373
-  entry_writer: bende senin
-  entry_fav_count: 148
-  entry_content: |
-    kuşadası sulh ceza hakimliğine sevgilerimi(!) gönderiyorum. ve silinen başlığı aşağıda aynen paylaşıyorum.<br/><br/>--- <a class="b" href="/?q=al%c4%b1nt%c4%b1%2c+silinen+ba%c5%9fl%c4%b1k">alıntı, silinen başlık</a> --- <br/>bir çaylağın ricası üzerine açtığım, 10/10 rezalet olay yaşatan kuşadası devlet hastanesidir. aynen paylaşıyorum:<br/><br/>''annemin bakımında olan 91 yaşındaki 40 kilo civarındaki , %97 engelli yatalak anneannem dün baya bir rahatsızlandı.<br/>kuşadası devlet hastanesi'ne telefon açılıp ekip çağırıldı.<br/>elinden birkaç tüp kan aldılar ve elleri bu hale geldi <a rel="nofollow noopener" class="url" target="_blank" href="https://www.kusadasihaber.com.tr/haber/kusadasi-devlet-hastanesinde-skandal-goruntuler-873" title="https://www.kusadasihaber.com.tr/haber/kusadasi-devlet-hastanesinde-skandal-goruntuler-873">görsel</a><br/><br/>akabinde hastaneye dönen ekip anneme telefon açıp ''hastanın gss borcu var, bu yüzden kan testi yapmadık, kanları da çöpe attık, borcu ödeyip tekrar arayın'' dedi.<br/><br/>inanamadık.<br/>resmen 10/10 rezalet.<br/>anneannem daha önce yeşil kartlıydı ve sağlıktan bu şekilde faydalanıyordu.<br/>yeşil kartı iptal mı edildi, edildiyse neden edildi hiç haberimiz yoktu.<br/><br/>hadi onu da geçtim, acil bir vaka bu sonuçta ki hastaneden ekip gelmiş.<br/>zaten ellerini ne hale getirerek kaç tüp kan aldınız, test yapın bari, çöpe atmak nedir arkadaş?<br/><br/>ülke tamam berbat halde ama bu kadar da olmasın arkadaş ya.<br/>kadın bugün yarın vefat ederse, katilleri bu gss'yi çıkaranlardır.<br/>her yere şikayet edeceğim.<br/>yazıklar olsun! '<br/><br/>edit: arkadaşlar bazı yazarlar yanlış anlamış.<br/>acilden giriş yapıldı veya 112 çağrıldı yazmıyor. nereden uyduruyorsunuz? <br/>kendisi evde bakım hastasıymış<br/>bu yüzden ekip eve gelmiş. sadece durumun aciliyeti varmış ama evde bakım hastası olduğundan evde kan alma işlemi yapılmış.<br/><br/>--- <a class="b" href="/?q=al%c4%b1nt%c4%b1+silinen+ba%c5%9fl%c4%b1k">alıntı silinen başlık</a> ---
-  entry_channels: sağlık,haber
 - entry_name: |
     kars'ta suriyeliler tarafından gözü oyulan çocuk
   entry_id:  108611010
@@ -174,26 +190,50 @@ data:
     playstation 5
   entry_id:  108638635
   entry_writer: deniz fenerine asik olan gemi
-  entry_fav_count: 116
+  entry_fav_count: 120
   entry_content: |
     fakirler zenginlerin bir yerine mi sokuyor acaba neden fakirlerin eline düşmesin istiyorlar acaba diye düşünmeme sebep olan oyun konsolu.
   entry_channels: oyun,teknoloji
 - entry_name: |
+    ekrem imamoğlu ingilizcesi
+  entry_id:  108636038
+  entry_writer: camdanatlamayanadam
+  entry_fav_count: 99
+  entry_content: |
+    pratiksiz ingilizcedir. kurduğu cümlelerden anlaşılan o ki, iyi bir ingilizce eğitimi almış ancak üzerinden uzun zaman geçtiği için bir şeyler gitmiş. bunları rent a car'la mı aldılar demekten iyidir<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>. dil nankördür dostlar, 10 yıl türkçe konuşmasanız kendi diliniz olmasına rağmen unutursunuz. başkana tavsiyem, her gece uyumadan önce bbc radio dinlesin ve speaking pratiği yapsın. ülkenin yönetiminde söz sahibi olan herkes ingilizce bilmelidir. istesek de istemesek de ingilizce dünya dilidir.
+  entry_channels: siyaset,haber,eğitim
+- entry_name: |
     küfür eden kızlardan hoşlanmayan erkek
   entry_id:  108619289
   entry_writer: juravli
-  entry_fav_count: 85
+  entry_fav_count: 90
   entry_content: |
     küfür eden kadından da, erkekten de hoşlanmıyorum. son yıllarda özellikle gençler, ulu orta küfür etmeyi marifet sanıyor, bana göre ise bu tam bir paçozluk.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    ekrem imamoğlu ingilizcesi
-  entry_id:  108636038
-  entry_writer: camdanatlamayanadam
-  entry_fav_count: 84
+    10 haziran 2020 beyoğlu'nda tokat atan 2 bekçi
+  entry_id:  108648819
+  entry_writer: banyoyaparkenoffspringdinleyenadam
+  entry_fav_count: 69
   entry_content: |
-    pratiksiz ingilizcedir. kurduğu cümlelerden anlaşılan o ki, iyi bir ingilizce eğitimi almış ancak üzerinden uzun zaman geçtiği için bir şeyler gitmiş. bunları rent a car'la mı aldılar demekten iyidir<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>. dil nankördür dostlar, 10 yıl türkçe konuşmasanız kendi diliniz olmasına rağmen unutursunuz. başkana tavsiyem, her gece uyumadan önce bbc radio dinlesin ve speaking pratiği yapsın. ülkenin yönetiminde söz sahibi olan herkes ingilizce bilmelidir. istesek de istemesek de ingilizce dünya dilidir.
-  entry_channels: siyaset,haber,eğitim
+    bekçi değil, mahalle şövalyesi diyeceksiniz. <br/><br/>hiçbir vasfı olmayan adamları otorite sahibi yaparsan eric cartman gibi <a class="b" href="/?q=respect+my+authority">respect my authority</a> diye terör saçarlar.
+  entry_channels: siyaset,haber
+- entry_name: |
+    mesai saatlerin çok uzun olması
+  entry_id:  108636634
+  entry_writer: mariiiposa
+  entry_fav_count: 68
+  entry_content: |
+    dönüşümlü çalışmayla birlikte iyiden iyiye farkettiğim durum. bizden sonraki nesiller günlük yaşantımızın büyük bir kısmını iş için harcadığımız için yüksek ihtimal bize ahmak gözüyle bakacak.<br/>isviçre gibi haftalık çalışma saati 45'ten 30'a indirilmesi gerekli ya da dönüşümlü çalışma veya rusya gibi çalışma günü 4 güne indirme çalışması yapılması gerekli. <br/>iş mesai saati saati içerisinde bitmiyorsa da yeni çalışan alınması gerekli kaldı ki toplu olarak mesai saatleri değişse iş düzeni de buna göre oluşur. devlet dairelerinde birçok insan boş boş masalarında oturup 5.30 un gelmesini bekliyor işini bitiren insanı o masaya mahkum etmek nasıl bir kafa yapısı .. önemli olan çok çalışmaktan öte verimli çalışmak olmalı.<br/><br/>ama öylesine alışmışız ki bu döngüye charlie chaplin'nin modern zamanları filmindeki gibi çarkın dişlisi olmuşuz sanki biz olmazsak çarkın dönmeyeceği düşüncesi kafalarımıza empoze edilmiş. sonuç olarak da birçok insan için sabah sporu yapmak, gündelik işleri tamamlamak ya da sadece çocuğuna bakabilmek lüks haline gelmiş.<br/><br/>diğer ülkelerin çalışma <a rel="nofollow noopener" class="url" target="_blank" href="http://www.gazetevatan.com/en-az-calisilan-ulkeler-belli-oldu-685698-ekonomi/" title="http://www.gazetevatan.com/en-az-calisilan-ulkeler-belli-oldu-685698-ekonomi/">saatleri için</a>
+  entry_channels: haber,ekonomi
+- entry_name: |
+    kızların ayrıldıktan sonra hemen başkasını bulması
+  entry_id:  108640022
+  entry_writer: haremlikselam
+  entry_fav_count: 63
+  entry_content: |
+    o bulunan başka kişisinin "hemen" bulunduğuna inanacak kadar salaksanız diyecek pek bir şey yok sanki.
+  entry_channels: ilişkiler
 - entry_name: |
     insanı en çok rahatlatan koku
   entry_id:  108609936
@@ -203,69 +243,45 @@ data:
     yağmurun ardından gelen toprak kokusu.
   entry_channels: anket,ekşi-sözlük
 - entry_name: |
-    mesai saatlerin çok uzun olması
-  entry_id:  108636634
-  entry_writer: mariiiposa
-  entry_fav_count: 60
-  entry_content: |
-    dönüşümlü çalışmayla birlikte iyiden iyiye farkettiğim durum. bizden sonraki nesiller günlük yaşantımızın büyük bir kısmını iş için harcadığımız için yüksek ihtimal bize ahmak gözüyle bakacak.<br/>isviçre gibi haftalık çalışma saati 45'ten 30'a indirilmesi gerekli ya da dönüşümlü çalışma veya rusya gibi çalışma günü 4 güne indirme çalışması yapılması gerekli. <br/>iş mesai saati saati içerisinde bitmiyorsa da yeni çalışan alınması gerekli kaldı ki toplu olarak mesai saatleri değişse iş düzeni de buna göre oluşur. devlet dairelerinde birçok insan boş boş masalarında oturup 5.30 un gelmesini bekliyor işini bitiren insanı o masaya mahkum etmek nasıl bir kafa yapısı .. önemli olan çok çalışmaktan öte verimli çalışmak olmalı.<br/><br/>ama öylesine alışmışız ki bu döngüye charlie chaplin'nin modern zamanları filmindeki gibi çarkın dişlisi olmuşuz sanki biz olmazsak çarkın dönmeyeceği düşüncesi kafalarımıza empoze edilmiş. sonuç olarak da birçok insan için sabah sporu yapmak, gündelik işleri tamamlamak ya da sadece çocuğuna bakabilmek lüks haline gelmiş.<br/><br/>diğer ülkelerin çalışma <a rel="nofollow noopener" class="url" target="_blank" href="http://www.gazetevatan.com/en-az-calisilan-ulkeler-belli-oldu-685698-ekonomi/" title="http://www.gazetevatan.com/en-az-calisilan-ulkeler-belli-oldu-685698-ekonomi/">saatleri için</a>
-  entry_channels: 
-- entry_name: |
     dirilse konserine gidilecek sanatçı
   entry_id:  108609410
   entry_writer: amaninmorkoyun
-  entry_fav_count: 59
+  entry_fav_count: 60
   entry_content: |
     freddie mercury <br/>(bkz: <a class="b" href="/?q=queen+afyon+konseri">queen afyon konseri</a>)
   entry_channels: anket,müzik
 - entry_name: |
-    10 haziran 2020 beyoğlu'nda tokat atan 2 bekçi
-  entry_id:  108648819
-  entry_writer: banyoyaparkenoffspringdinleyenadam
-  entry_fav_count: 57
-  entry_content: |
-    bekçi değil, mahalle şövalyesi diyeceksiniz. <br/><br/>hiçbir vasfı olmayan adamları otorite sahibi yaparsan eric cartman gibi <a class="b" href="/?q=respect+my+authority">respect my authority</a> diye terör saçarlar.
-  entry_channels: haber
-- entry_name: |
     gps teknolojisinin bedava olması
   entry_id:  108646044
   entry_writer: highborn
-  entry_fav_count: 54
+  entry_fav_count: 57
   entry_content: |
     oldum olası şaşırdığım durumların başında gelir bu olay.<br/><br/>değil yüzyılın, belki de evrenin en önemli buluşudur gps, abartmıyorum. yani şunu zamanında vikinglere versen, şu anda hepimiz vikingdik en basitinden, öyle diyeyim. adamlar sikindirik bir taşa bakarak yön bulmaya çalışmaktan heba oldular. karaya çıkınca savaşacak takatlari kalmadı. her neyse.<br/><br/>çölün ortasında yolunu buluyorsun nokta atışı ya, var mı daha ötesi. yok pusulaymış, yok yosun tutmuş ağaçmış, yok karınca yuvasıymış, kutup yıldızıymış bilmem ne, kasmıyorsun artık doğada, saçma sapan ilkel yöntemlerle yol bulacam diye. aç telefonu, çaat gps. allah aşkına soruyorum, günümüzde kaç tane kaptan vardır, kutup yıldızından yönünü tayin eden? yoktur. varsa da onun amk ben.<br/><br/>yani şu anki telefon markaları sinekten yağ çıkartıyor. her şeyi ekstraya sokmaya çalışıyorlar.<br/><br/>50 mah fazla pil için ya da ne bileyim 32 gb fazla hafıza için bile yüzlerce dolar para istiyorlar ürünlerden. ama gps i ekstra bir özellike olarak sunmuyorlar.<br/><br/>şimdi böylesine hayat kurtarıcı bir özellik nasıl oluyor da ekstra olarak sunulmuyor anlamıyorum. nacizane telefon şirketlerine önerim, gps li modelleri en az bir 200-300 dolar daha pahalıya okutmanız. el mahkum, hepimiz alıcaz.<br/><br/>şahsen ben şu anda navigasyon olmadan evden işe gidemiyorum amk, mecbur alıcam.<br/><br/>edit: cia tarafından 7/24 takip edildiğini savunan ve asıl ürünün kendisi olduğunu düşünen "komple" teorisyenleri, dilerseniz konum bilgisini kapatın (çok kolay, tek tık) ve kullanmayın bu teknolojiyi. ama herhangi bir yerde yönünüzü bulmak için açarsanız da, o zaman ikiyüzlülük yapmış olursunuz.<br/><br/>yahu adam senin hayatını kurtarıyor, hala daha gelmiş "asıl ürün biziz!, takip ediyorlar biziii" diyor. ne önemli adammışsınız amk. kapatın konum bilginizi, olsun bitsin.
   entry_channels: teknoloji
 - entry_name: |
-    ken'in türkiye'de ryu'dan çok sevilmesinin nedeni
-  entry_id:  108625139
-  entry_writer: masum keci
-  entry_fav_count: 52
+    çorum'da görülen aslan
+  entry_id:  108624497
+  entry_writer: sultanahmetli
+  entry_fav_count: 35
   entry_content: |
-    kamuoyu yoklaması mı yapıldı bu konuyla ilgili?<br/><br/>pardon ama bence yersiz bir iddia.<br/><br/>ryu daha bizdendir. kara kaşlı kara gözlüdür. arkasını döner gider, mağrurdur. tam bizim kalemdir.<br/><br/>hiç de öyle bir şey yok. benim gözlemlerim o yöndedir ki necip türk milleti ryu'cudur!<br/><br/>edit: işbu başlık bütünüyle başa kalmıştır. ifadelerin farklı bir bağlamın insicamı olduğu dikkatli gözlerden kaçmayacaktır. dolayısıyla<br/><br/>(bkz: <a class="b" href="/?q=ba%c5%9fl%c4%b1%c4%9f%c4%b1n+ba%c5%9fa+kalmas%c4%b1">başlığın başa kalması</a>)
-  entry_channels: anket,oyun
-- entry_name: |
-    yks'nin ertelenmesi için 5 milyon tweet atılması
-  entry_id:  108648689
-  entry_writer: bunu da ucur bitanesi
-  entry_fav_count: 42
-  entry_content: |
-    yusuf hamza adsız isimli genç kardeşimizin noktayı koyduğu tweet atma hadisesi<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>yusuf hamza adsız:<br/>sorun yks nin tarihi değil, sorun buna hayatında hiç üniversite sınavına girmemiş birinin karar vermesi...<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
-  entry_channels: haber,eğitim
-- entry_name: |
-    kadınlardan kadınlara tavsiyeler
-  entry_id:  108634117
-  entry_writer: x uzeri y nin z ye gore turevi
-  entry_fav_count: 42
-  entry_content: |
-    sözlük ortamında illa ki karşı cinsle konuşmak zorunda değilsiniz kızlar, öyle bir kural yok. bir kadın mesaj atmışsa nezaketen iki satır bir cevap yazıverin. valla sapık değilim, aha dayıya sor. yani benim dayıma sorabilirsiniz, isteyene numarasını veririm. sevgiler.
-  entry_channels: anket
+    fotoğrafa bakılınca,aslında at olan aslandır.
+  entry_channels: haber
 - entry_name: |
     kıdem tazminatı gaspi yeniden gündemde
   entry_id:  108639300
   entry_writer: rastafay
-  entry_fav_count: 31
+  entry_fav_count: 34
   entry_content: |
     kıdem tazminatının fona aktarılmasını da içeren istihdam paketiyle ilgili olarak hazine ve maliye bakanı berat albayrak ve aile, çalışma ve sosyal politikalar bakanı zehra zümrüt selçuk işveren ve işçi sendikaları ile bir araya geldi. masadaki formüllere göre kıdem tazminatının bir kısmının fona ayrılması planlanıyor.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.sozcu.com.tr/2020/ekonomi/kidem-tazminati-icin-kritik-toplanti-5866720/" title="https://www.sozcu.com.tr/2020/ekonomi/kidem-tazminati-icin-kritik-toplanti-5866720/">link</a><br/><br/>ülkeyi yiye yiye bitirdiler şimdi gözlerini bizim alın terimize diktiler yeter ya o bizim emeğimizin karşılığı güvencemiz bir avuç insan türkiyenin kanını eme eme bitridi <br/><br/>şimdi ne güvencemiz kaldı elimizde ? işsiz kalsak ne olacak <br/>virüs krizinde vergi topladığı esnafa beş kuruş destek olmayanlar şimdi emekçinin kıdem tazminatını gaspediyor fonda paramızı piç edecekler ona buna peşkeş çekecekelr ve almamız gereken hakkın yarısını bile alamayacağız <br/><br/>bunları baştacı edip başımıza musallat edenleri allah'a havale ediyorum
   entry_channels: siyaset,haber
+- entry_name: |
+    hdp kapatılsın kampanyası
+  entry_id:  108646700
+  entry_writer: antipatik sempatizan
+  entry_fav_count: 31
+  entry_content: |
+    ileri demokrasinin önündeki kösteklerin sıralı tam listesini içeren kampanyadır. <br/><br/>buraya destek verenler benim gözümde "farklılıkları sevmiyor, görmemek için yok olmalarını istiyoruz." demekteler ve insanlık namına saygınlıkları yok.<br/><br/>kolay gelsin.<br/><br/>edit: listeye millet ittifakındaki bir partiden eklenen-eklenecek herhangi bir ismin de aldığı 'emanet' oylar haram olsun. akp iktidarı size az bile.
+  entry_channels: siyaset
 - entry_name: |
     eş seçiminde en önemli faktör
   entry_id:  108631382
@@ -275,69 +291,61 @@ data:
     şu sebepsiz sevmeleri anlamıyorum.<br/><br/>bir insan diğerini neden sebepsiz sevsin ki??<br/><br/>anneleri anlarım. ama onların nedeni de sebepsiz değildir. <br/><br/>en basiti gebelik sonrası artan prolaktin erkekten uzaklaştırıp, cocuga yakınlaştırıyor.<br/><br/>neyse ve fizyolojik şeyleri geçelim. böyle anlatılınca kimse siklemez zaten.<br/><br/>gelelim mevzuya.<br/><br/>sebepsiz sevmek.<br/><br/>sebepsiz sevmek nedir ya?<br/><br/>hele ki ömrünü geçirmek istediğin birini seçerken “sebepsiz” nedenlere mi güveneceksin??<br/><br/>benim anlamadiğim şey<br/>insanlar araba alırken onlarca kriter araştırır<br/>çocugunu okula gönderirken<br/>ev alırken<br/>don alırken bile düşünüyorsun, eliyorsun, kritik ediyorsun da<br/><br/>eş seçiminde mi sebepsiz olacaksın<br/><br/>geç allahaşkına<br/>2 yıl sonra götünde cocukla ortada kalınca<br/>“ sebepsizce sevmiştim”<br/><br/>dersin.<br/><br/>bunun adı romantizm değil bence<br/><br/>olsa olsa mallık olur.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    hdp kapatılsın kampanyası
-  entry_id:  108646700
-  entry_writer: antipatik sempatizan
-  entry_fav_count: 27
-  entry_content: |
-    ileri demokrasinin önündeki kösteklerin sıralı tam listesini içeren kampanyadır. <br/><br/>buraya destek verenler benim gözümde "farklılıkları sevmiyor, görmemek için yok olmalarını istiyoruz." demekteler ve insanlık namına saygınlıkları yok.<br/><br/>kolay gelsin.<br/><br/>edit: listeye millet ittifakındaki bir partiden eklenen-eklenecek herhangi bir ismin de aldığı 'emanet' oylar haram olsun. akp iktidarı size az bile.
-  entry_channels: siyaset
-- entry_name: |
-    mutsuz bir insana iyi gelecek şey
-  entry_id:  108610104
-  entry_writer: naber coin
-  entry_fav_count: 26
-  entry_content: |
-    çok yorgunken güzel bir duş peşine yeni serilmiş çarşaf kokusu eşliğinde usulca uykuya dalmak. yazarken bile mutlu oldum. bunu okuyunca esneyip uyumak isteyeceksiniz. <br/><br/>(bkz: <a class="b" href="/?q=temiz+%c3%a7ar%c5%9faf+kokusu">temiz çarşaf kokusu</a>) etkisi. mis miss.
-  entry_channels: anket,ilişkiler,ekşi-sözlük,sağlık
-- entry_name: |
     caner çalışır
   entry_id:  108631572
   entry_writer: weparty
-  entry_fav_count: 25
+  entry_fav_count: 26
   entry_content: |
     ulan yani dindar bir adam degilim de islam'a gore escinsellik buyuk gunah ama cennete girmeye engel degil. arastrinca bu sonuc cikiyor kaldi ki islam'a gore nereye gidecegini sen nerden biliyon amk. sen tanri misin? <br/><br/>bi de bu ne demek lan "işin garip yanlarından biri de lgbt lerin kendi burjuvazini kurmuş olmasi. ahmaklığın para ettigi bir burjuvazi. ve her burjuvazi gibi halktan, değerlerinden kopuk, (çoğu yanılgılardan oluşan)kendi gerçekliğini oluşturmuş..." <br/><br/>hayatimda duydugum en kolpa cumlelerden, ne zirvaliyon olm sen ya. adamin takip edenlerin yuzde doksani gay bile degildir ne burjuvazisi amk, bize oyle bir bilgi gelmedi, biz oyle kollektif hareket etmiyoruz, biz yaratmadik, sosyal medyadaki binlerce fenomenden biri, halka da sokayim ayrica, hangi deger, kimin degeri? <br/><br/>bir de cok buyuk laf etmis gibi sonunda uc nokta var. te allam
   entry_channels: magazin
 - entry_name: |
-    10 haziran 2020 asker uğurlamanın yasaklanması
-  entry_id:  108651188
-  entry_writer: bilinmeyene kosan adam
-  entry_fav_count: 22
-  entry_content: |
-    içişleri bakanlığının valilere gönderdiği genelge ile bu terör yasaklanmıştır. <br/>hayırlı olsun.<br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.gundemebakis.com/amp/guncel/icisleri-bakanligi-81-ilin-valiligine-bildirdi-asker-ugurlama-h60727.html" title="https://www.gundemebakis.com/amp/guncel/icisleri-bakanligi-81-ilin-valiligine-bildirdi-asker-ugurlama-h60727.html">kaynak</a>
-  entry_channels: haber
-- entry_name: |
     10 haziran 2020 covid-19 vakasının 173036 olması
   entry_id:  108650421
   entry_writer: santradauclusex
-  entry_fav_count: 21
+  entry_fav_count: 25
   entry_content: |
     maşallah sabah saatlerinde işsizliğe osmanlı tokadını çakan akape akşam da boş durmamış ve bir şamar da corona ya indirmiş. helal olsun valla. yüksek çıkan bütün hain rakamları kafalarına vura vura adam ediyor.
   entry_channels: siyaset,sağlık,haber
 - entry_name: |
-    özgür demirtaş'ın akıllara zarar emlak hesabı
-  entry_id:  108639828
-  entry_writer: tatminci
-  entry_fav_count: 14
+    turknet
+  entry_id:  108620817
+  entry_writer: khrmndgn
+  entry_fav_count: 17
   entry_content: |
-    kira artışını niye hesaba katmadığını videoyu izleseydin anlardın. aynı şeyleri tekrar tekrar yazmana gerek kalmazdı cicim.
-  entry_channels: ekonomi
+    ailem için almıştım ama geçen yanlarına gittiğimde 100 yerine 8 görünce anında iptal ettim. artık türknet ile ilişkimiz bitti. <br/><br/>alacaklara not. alacaksanız destek beklemeyin, size günde 50 mail atarak olayı geçiştirirler. sonuç olarak ay sonunda kullanamadığınız internet için fatura ödersiniz.
+  entry_channels: teknoloji
 - entry_name: |
-    amerika birleşik devletleri
-  entry_id:  108638174
-  entry_writer: yenikullanici2
-  entry_fav_count: 9
+    10 haziran 2020 asker uğurlamanın yasaklanması
+  entry_id:  108651468
+  entry_writer: nero forte
+  entry_fav_count: 13
   entry_content: |
-    aziz sancar - nobel kimya odulu 2015- profesor @ unc<br/>mehmot toner - profesor @ harvard<br/>daron acemoglu - profesor @ mit<br/>asuman ozdaglar - profesor &amp; eecs bolum baskani @ mit<br/>aydogan ozcan - profesor @ ucla<br/>utkan demirci - profesor @ stanford<br/>gozde durmus - asst. prof. @stanford<br/>canan dagdeviren - asst. prof. @ mit<br/>ferya ozel - profesor @ university of arizona<br/>gokhan hotamisligil - profesor @ harvard<br/>mihri ozkan - profesor @ uc, riverside<br/>ivet bahar - profesor @ university of pittsburg<br/><br/>.....<br/><br/>bunlar sadece cok kisa arastirmalarimla, aklima gelen hepimizin tanidigi isimler, daha bir cok degerli hocamiz amerikan universitelerinde var, ustelik post doc, doktora ogrencileri de var. ve bunlar sadece akademi deki ornekler, muhtar kent gibi ceo olanlar, sierra nevada corp. gibi nasa ile calisan sirketlerin oldugunu da unutmayalim.<br/><br/>ve bu basari sadece turklere ozgu degil , hintliside cinliside avrupalisida abd'ye gelip dunyayi degistirmeye ugrasiyor, sizde ancak buradan bok atarsiniz , ekside yazar olmaktan baska ne vasfiniz var ?<br/><br/>sadece sozlukten ornek, whokares'e bakin kendisi abd'ye goc etmis calismis ve onemli sirketlerde yoneticilik yapmis, bilgi icerikli bir entry giriyor ve gelen cevap - saglik sigortana iyi tutun 50 'sinden sonra prostat muayenesi olacaksin eki eki -<br/><br/>iste sonra bu insanlar baslik altinda utanmadan yazmaya devam ediyor.<br/><br/>yazmistim gecmiste, ne kadar hakli oldugumu, cahiliyetle amerikan dusmanliginin artmasindan anlayabilirsiniz.
-  entry_channels: spor,siyaset,bilim,sanat,tarih,müzik,sinema,edebiyat,teknoloji,sağlık,haber,yeme-içme,otomotiv,eğitim,ekonomi,havacılık,seyahat
+    'umarım corona'dan dolayı geçici bir yasaklama değildir' dediğim yasaklama.<br/><br/>yakın zamanda benzeri terör estiren kutlamaların da yasaklanması dileğiyle.<br/><br/><a class="b" href="/?q=edit">edit</a>: geçiciymiş. bir şeyi de tam yapın be!..
+  entry_channels: haber
 - entry_name: |
-    keşke daha çok kitabı olsaydı denilen yazar
-  entry_id:  108614212
-  entry_writer: orta saha oynayan iguana
+    erdoğan'ın enflasyonu %5'in altına düşürme planı
+  entry_id:  108609481
+  entry_writer: deathfuckingangel
+  entry_fav_count: 12
+  entry_content: |
+    enflasyonu hesaplarken bowling topunu falan hesaba katan hükumet için gayet normal olan plandır. yapdıkoldu desen yeterli sn.başgan.
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
+    1 haftalık gıda alışverişinin 315 lira tutması
+  entry_id:  108649462
+  entry_writer: outdoor
+  entry_fav_count: 10
+  entry_content: |
+    haftada 60 yumurta nedir yahu? kurdeşen dökersiniz amk. <br/><br/>evet alışveriş çok pahalı ama saçma bir liste olmuş.
+  entry_channels: yeme-içme,ekonomi
+- entry_name: |
+    schumacher'e karşı hakkinen'i tutan insan
+  entry_id:  108610766
+  entry_writer: berlinli sadi
   entry_fav_count: 8
   entry_content: |
-    <a class="b" href="/?q=ahmet+hamdi+tanp%c4%b1nar">ahmet hamdi tanpınar</a>'a saygılarımla.
-  entry_channels: anket,edebiyat,eğitim
+    formula 1 izlemeye 1998 yılında başlamış olan kişidir. türk televizyon kanalları formula 1’i 1998 yılında naklen vermeye başladılar ve çok ciddi bir izleyici kitlesi oluştu türkiye’de. <br/><br/>efendim bendeniz 1991’den beri uydu kanalları vasıtasıyla f1 izleyen birisi olarak kırmızı sevgim nedeniyle ferrari’yi tutardım ama schumacher’in de farkına varmıştım. çocukça bir hevesle onun ferrari’ye gelmesi için çok dua etmiştim ve sonunda 1996’da gelmişti. <br/><br/>1996’da şampiyonayı 3’üncülükle tamamladı. ama yağmur altında yapılan barcelona gp’de yağmur altında nasıl bir usta olduğunu göstermişti. <br/><br/>1997’de villeneuve ile son yarışa kadar çekişmişti ve hatırlayanlar bilir şampiyonluğu son yarışta kaybetmişti. normalde sezonu 2’nci sırada bitirdi ama villeneuve’e kasıtlı çarptığı için tüm puanları silindi. <br/><br/>1998’de fırtına gibi bir mclaren mercedes vardı f1’de ve fırtına gibi hakkinen. ben 21 yaşına gelmiştim ve mahalledeki tüm arkadaşlarım artık f1 izleyicisiydi. bizim evde toplanıp yarışları izlemek harikaydı. hakkinen taraftarı olan arkadaşlarımı kendine çeken şey “mercedes” ismi ve gri renkti. tabi hakkı dayı da (biz ona böyle derdik) altındaki canavarın hakkını veriyordu gerçekten de. yine de yavaş arabayla son yarışa kadar şampiyonluk kovaladı şumi ama japonya gp’de yaşadığı şanssızlık nedeniyle şampiyon hakkı dayı oldu.<br/><br/>1999’da zaten ingiltere gp’de ayağını kırdı ve malezya gp’ye kadar yarışamamıştı. 1999’da ferrari 1998’e göre daha hızlıydı ama mclaren yine dominanttı. ama yaşadıkları motor arızaları ve kazalar ve pit hataları nedeniyle irvine neredeyse şampiyon oluyordu. şumi ayağını kırmasa kesin şampiyondu. o sezon inanılmaz keyifliydi. 1999 almanya gp var ki irvine’ın kazanıp salo’nun ikinci olduğu ve bir de avusturya gp var ki irvine ve couldhart’ın yarış sonuna kadar tampon tampona yarıştıkları dadından yinmez. :))) (bu paragraf @asetil nickli yazar arkadaşın uyarısı üzerine editlenmiştir)<br/><br/>işte bu iki yıl hakkı dayının sevilmesinin ve şumi’ye rağmen tutulmasının nedenleriydi bence. doğrusu her ne kadar şumi’ci olsam da ben de hakkı dayı’yı severdim. taraflı tarafsız pek çok kişinin saygısını kazanmış bir pilottu. 2001 barcelona gp’de son tura açık ara birinci girmesine rağmen motor arızasıyla yolda kalmasına yarışı izlerken çok sevinmiştim doğru, ama bugün düşününce ne büyük bir dram olduğunu düşünüyorum.
+  entry_channels: spor,haber
 - entry_name: |
     ekşi itiraf
   entry_id:  108613971
@@ -347,29 +355,37 @@ data:
     albert camus okurken "oha lan! o da benim gibi düşünmüş" diyerek mutlu oluyorum sürekli. çok kafa bir arkadaşla muhabbet ediyormuşum gibi geliyor. misal benim bir lafım vardır; sevmek bir gereksinim, ama sevilmek lükstür diye. lükslerin olmadan da yapabilirsin ama gereksinimlerini karşılaman gerekir. neyse az önce camus'nun yaz kitabında şöyle bir şey okudum: "...sevilmemek yalnızca şanssızlıktır, hiç sevmemek mutsuzluktur...". kitabı kapatıp gülümsedim yine baya bir süre.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    1 haftalık gıda alışverişinin 315 lira tutması
-  entry_id:  108649407
-  entry_writer: thearchitect
-  entry_fav_count: 7
-  entry_content: |
-    kardeş yağ, kırmızı et, temizlik ürünü de al
-  entry_channels: yeme-içme,ekonomi
-- entry_name: |
     okuduğu kitabı yarım bırakamayan insan
   entry_id:  108647021
   entry_writer: renksiz hayat
-  entry_fav_count: 3
+  entry_fav_count: 4
   entry_content: |
     ortasından sonra güzelleşen hatta sonunda anlam bulan bir sürü klasik mevcutken mantıklı hareket.
   entry_channels: anket,edebiyat
 - entry_name: |
-    evli erkeklerle ilişkiye giren kadınlar
-  entry_id:  108627310
-  entry_writer: keremcantekin
+    pınar sütün en iyi süt olması
+  entry_id:  108651848
+  entry_writer: boya takintisi olan adam
   entry_fav_count: 3
   entry_content: |
-    yıkılan yuvanın sorumluluğunu en ekstrem, söz konusu erkeğin açıkça tahrik ve teşvik edildiği durumda bile, ortada bir tecavüz (kadının erkeğe tecavüzü), veya tehdit yoksa, ancak paylaşan kadınlardır. <br/><br/>evli bir erkeğin, evlilik kurumunu ayakta tutma sorumluluğu kendisine aittir. bekar bir kadının, evli erkeğin yuvasını ayakta tutmak gibi bir sorumluluğu yoktur. evli bir erkek, başka bir kadınla ilişkiye girmek istiyorsa, artık sonrasında kendi yuvasında olacakların nedeni kendi kararıdır.
+    <a class="b" href="/?q=biraz+i%c3%a7erlemi%c5%9f+gibisin+eruhlu">biraz içerlemiş gibisin eruhlu</a><br/>böyle pr'larla kurtulamazsınız. hep boykot, tam boykot.<br/><br/>t: başarısız pr denemesi.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://prnt.sc/sxdnu6" title="https://prnt.sc/sxdnu6">siler miler</a>
+  entry_channels: anket,yeme-içme
+- entry_name: |
+    sevgilinin geçmişi
+  entry_id:  108651531
+  entry_writer: yousayyesisayno
+  entry_fav_count: 2
+  entry_content: |
+    - x bara gidelim mi bu akşam?<br/>+ yok ya gitmeyelim boş ver havamda değilim.<br/><br/>- kahve alalım şurdan gel.<br/>+ yok ya girmeyelim oraya hem ben kahve içmek istemiyorum.<br/><br/>- zara'daki çiçekli gömleklerden bakalım bana gel hadi.<br/>+ yok ya başka markalarınki daha uygun boş ver şimdi zara mara.<br/><br/>eskişehir'de manita yaptıysanız işte böyle seke seke yaşarsınız çünkü sevgiliniz size dürüstçe eski sevgililerinden ve çalıştığı yerlerden bahsetmezse bin bir türlü bahane ile kısıtlı ilişki yaşarsınız. biri mekanın bateristi çıkar, biri barista, biri mağaza çalışanı vs.<br/>yani esnaf ve sanatkarlar odası başkanıyla sevgili olmuşuz da haberimiz yokmuş. (bkz: <a class="b" href="/?q=swh">swh</a>)
   entry_channels: ilişkiler
+- entry_name: |
+    kocasını uyurken keserle öldüren kadın
+  entry_id:  108652247
+  entry_writer: nero forte
+  entry_fav_count: 2
+  entry_content: |
+    'feminazilerin uğramayacağı başlıktır' diyip fav kasmaya çalışanları gördüğümüz başlık. her kadın tarafından işlenmiş erkek cinayeti başlığına yaz bunu, kafadan bir 200 fav gelsin. yok öyle bi şey. katilin kadını erkeği yoktur bir öğrenemediniz şunu. <br/><br/>neyse habere gelelim. "28 senedir ne çektiğimi bir ben, bir allah bilir. evlilik hayatım boyunca hep şiddet, iftira ve kıskançlık vardı. çok agresif biriydi" demiş kadın. sormazlar mı adama 28 senedir aklın neredeydi diye? boşan bitsin gitsin nine, kafasını keserek kurtulmuş mu oldun şimdi? hapishanede rahat rahat uyursun artık o güzel yatağında. valla çok garip bir ülkede yaşıyoruz. her ay onlarca cinayet haberi görmeye başladık, böyle şeyler normalleşiyorsa işimiz var demektir.
+  entry_channels: ilişkiler,haber
 - entry_name: |
     şu an okunan kitap
   entry_id:  108635590
@@ -386,20 +402,4 @@ data:
   entry_content: |
     36° - 42° kuzey paralelleri ile 26° 45° doğu meridyenleri arasında yer alır
   entry_channels: programlama,teknoloji
-- entry_name: |
-    sevgilinin geçmişi
-  entry_id:  108651531
-  entry_writer: yousayyesisayno
-  entry_fav_count: 0
-  entry_content: |
-    - x bara gidelim mi bu akşam?<br/>+ yok ya gitmeyelim boş ver havamda değilim.<br/><br/>- kahve alalım şurdan gel.<br/>+ yok ya girmeyelim oraya hem ben kahve içmek istemiyorum.<br/><br/>- zara'daki çiçekli gömleklerden bakalım bana gel hadi.<br/>+ yok ya başka markalarınki daha uygun boş ver şimdi zara mara.<br/><br/>eskişehir'de manita yaptıysanız işte böyle seke seke yaşarsınız çünkü sevgiliniz size dürüstçe eski sevgililerinden ve çalıştığı yerlerden bahsetmezse bin bir türlü bahane ile kısıtlı ilişki yaşarsınız. biri mekanın bateristi çıkar, biri barista, biri mağaza çalışanı vs.<br/>yani esnaf ve sanatkarlar odası başkanıyla sevgili olmuşuz da haberimiz yokmuş. (bkz: <a class="b" href="/?q=swh">swh</a>)
-  entry_channels: ilişkiler
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  108609961
-  entry_writer: handel sarabande
-  entry_fav_count: 0
-  entry_content: |
-    boş muhabbet yapıcak manyaklar yazabilir
-  entry_channels: anket,ilişkiler,ekşi-sözlük
 ---
