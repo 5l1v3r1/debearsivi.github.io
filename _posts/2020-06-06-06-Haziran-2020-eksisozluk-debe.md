@@ -3,14 +3,6 @@ layout: post
 title: 06 Haziran 2020 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    91 yaşındaki hastanın kanını çöpe atan hastane
-  entry_id:  108383736
-  entry_writer: kamerarkasi
-  entry_fav_count: 2103
-  entry_content: |
-    bir çaylağın ricası üzerine açtığım, 10/10 rezalet olay yaşatan kuşadası devlet hastanesidir. aynen paylaşıyorum:<br/><br/>''annemin bakımında olan 91 yaşındaki 40 kilo civarındaki , %97 engelli yatalak anneannem dün baya bir rahatsızlandı.<br/>kuşadası devlet hastanesi'ne telefon açılıp ekip çağırıldı.<br/>elinden birkaç tüp kan aldılar ve elleri bu hale geldi <a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/c2embgi5" title="https://soz.lk/i/c2embgi5">görsel</a><br/><br/>akabinde hastaneye dönen ekip anneme telefon açıp ''hastanın gss borcu var, bu yüzden kan testi yapmadık, kanları da çöpe attık, borcu ödeyip tekrar arayın'' dedi.<br/><br/>inanamadık.<br/>resmen 10/10 rezalet.<br/>anneannem daha önce yeşil kartlıydı ve sağlıktan bu şekilde faydalanıyordu.<br/>yeşil kartı iptal mı edildi, edildiyse neden edildi hiç haberimiz yoktu.<br/><br/>hadi onu da geçtim, acil bir vaka bu sonuçta ki hastaneden ekip gelmiş.<br/>zaten ellerini ne hale getirerek kaç tüp kan aldınız, test yapın bari, çöpe atmak nedir arkadaş?<br/><br/>ülke tamam berbat halde ama bu kadar da olmasın arkadaş ya.<br/>kadın bugün yarın vefat ederse, katilleri bu gss'yi çıkaranlardır.<br/>her yere şikayet edeceğim.<br/>yazıklar olsun! '<br/><br/>edit: arkadaşlar bazı yazarlar yanlış anlamış.<br/>acilden giriş yapıldı veya 112 çağrıldı yazmıyor. nereden uyduruyorsunuz? <br/>kendisi evde bakım hastasıymış<br/>bu yüzden ekip eve gelmiş. sadece durumun aciliyeti varmış ama evde bakım hastası olduğundan evde kan alma işlemi yapılmış.
-  entry_channels: sağlık,haber
-- entry_name: |
     kadınların twitter'da başlattıkları ironi akımı
   entry_id:  108396838
   entry_writer: cevirimanyagi
