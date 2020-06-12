@@ -6,7 +6,7 @@ data:
     12 haziran 2020 twitter açıklaması
   entry_id:  108715466
   entry_writer: neoberg
-  entry_fav_count: 3203
+  entry_fav_count: 3207
   entry_content: |
     ust edit: gecen aylarda yapilmis baska ulkelerle ilgili aciklamalar da var. sadece bugunki aciklamada ilk defa turkiye geciyor. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/TwitterSafety/status/1271186240323432452?s=19" title="https://twitter.com/TwitterSafety/status/1271186240323432452?s=19">şu tweet</a>'ten gorulebilecek aciklamadir. turkiye, cin ve rusya hukumetleriyle iliskili, platformu manipule etmeye yonelik sahte hesaplarla yapilan operasyonlari tespit ettiklerini soylemektedir.<br/><br/>turkiye ile ilgili kismi (asagiya turkce cevirisini de ekliyorum):<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>detected in early 2020, this network of accounts was employing coordinated inauthentic activity, which was primarily targeted at domestic audiences within turkey. based on our analysis of the network’s technical indicators and account behaviors, the collection of fake and compromised accounts was being used to amplify political narratives favorable to the ak parti, and demonstrated strong support for president erdogan. we’re disclosing 7,340 accounts to the archive today.<br/>technical signals point to the network being associated with the youth wing of the party and a centralized network that maintained a significant number of compromised accounts. as a result, the network we’re disclosing today includes several compromised accounts associated with organizations critical of president erdogan and the turkish government. these compromised accounts have been repeated targets of account hacking and takeover efforts by the state actors identified above. the broader network was also used for commercial activities, such as cryptocurrency-related spam.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>turkcesi:<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>2020'nin başlarında tespit edilen bu hesap ağı, temel olarak türkiye'deki yerli kitleleri hedefleyen koordineli sahte aktivitelerde bulunuyordu. ağın teknik göstergelerini ve hesap davranışları üzerindeki analizlerimize göre; sahte ve çalıntı hesaplardan oluşan bu ağ ak partinin siyasi söylemini güçlendirmek için kullanıldı ve erdoğan için güçlü bir destek gösterdi. bugün bu ağdaki 7.340 hesabı yayınlıyoruz.<br/>teknik sinyaller ağın partinin gençlik kanadı ile ilişkili olduğunu ve önemli sayıda ele geçirilmiş hesabı da kontrol eden merkezi bir yapıyı gösteriyor. bugün açıkladığımız ağ, cumhurbaşkanı erdoğan ve türk hükümetini eleştiren kuruluşlarla ilişkili olan fakat ele geçirilmiş(hacklenmiş) bazı hesapları da içeriyor. bu ele geçirilen hesaplar, yukarıda tanımlanan devlet aktörleri tarafından hesap hackleme ve ele geçirme çabalarının tekrarlanan hedefleri olmuştur. bu ağ ile ilişkili daha geniş bir ağ, kripto para birimleriyle ilgili spam gibi ticari etkinlikler için de kullanıldı.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>edit: turkce ceviri
   entry_channels: siyaset,teknoloji,haber
@@ -14,7 +14,7 @@ data:
     fahrettin altun'un twitter açıklaması
   entry_id:  108740821
   entry_writer: eeuummm
-  entry_fav_count: 1584
+  entry_fav_count: 1598
   entry_content: |
     bu açıklama yapan arkadaşa göre zaten her şey gerçek dışı sadece kendileri gerçek, biz bile yokuz o derece yalanız.
   entry_channels: siyaset,haber
@@ -22,7 +22,7 @@ data:
     100 liralık musluğu kiradan düşmeye çalışan kiracı
   entry_id:  108732341
   entry_writer: nickerim ulen
-  entry_fav_count: 1197
+  entry_fav_count: 1221
   entry_content: |
     7 senelik bir kiracı bulup söylenmek yanlış.<br/><br/>ayrıca kiracı haklıdır. kiracı evi kullanım bedeli olarak zaten kira ödüyor. yani bu kullanım duş başlığından, kapıya, kalorifer peteğine kadar. evin eskiyen yerini değiştirmek kiracıya ait değildir. bunu düşmek hakkıdır.<br/><br/>şunu da ev sahibi düşebilir evden kiracı çıkacağı zaman evde bir hasar ya da kullanımsal yıpranma varsa bunu depozitodan tazmin edebilir.<br/><br/>düşünsene ev sahibisi adam musluk için para almadı cepten yaptı ama evinin malını yeniledi 2 ay sonra evden ayrıldı ben musluğu 2 ay kullandım bu musluk 5 sene kullanılabilir onu mashuplaşalım mı diyecek.<br/><br/>ev sahipleri anlar demekte sayıp. sakin ol şampiyon kiracı da insan.
   entry_channels: ilişkiler
@@ -30,7 +30,7 @@ data:
     kalıcı homeoffice çalışmaya geçilmesi
   entry_id:  108715198
   entry_writer: i wanna be a lahmacun
-  entry_fav_count: 727
+  entry_fav_count: 728
   entry_content: |
     yer değiştirmek amacıyla motorlu taşıt kullanımını azaltacağı için ekolojik bir eylemdir. sırf bu sebepten bile desteklenesidir.
   entry_channels: teknoloji,haber,ekonomi
@@ -38,7 +38,7 @@ data:
     gençlerde oluşan akp nefretinin sebepleri
   entry_id:  108734279
   entry_writer: nickerim ulen
-  entry_fav_count: 640
+  entry_fav_count: 650
   entry_content: |
     haklı sebeplerdir.<br/><br/>düşünün 2000 doğumlu bir doğan slx pardon lan genç gardaşımız doğduğundan beri her sene eğitim sistemi ve sınav sistemi değişti.<br/><br/>tüm özgürlükleri sosyal medyası vs çok kez yasaklandı.<br/><br/>sürekli ülkede saçma sapan olaylar gördüler düşünün 2000'li bir kişi torununa darbe gördüm ben hey yavrum diyebilecek.<br/><br/>spor yapsa et alacak parayı bulamadı.<br/><br/>evde göt büyütse istediği bilgisayarı alamadı.<br/><br/>yaşlı başlı koskoca adamların polemikleriyle büyüdü.<br/><br/>neden nefret etmesin ki bence daha neler yapmalı da neyse...
   entry_channels: siyaset
@@ -46,23 +46,15 @@ data:
     gözü çıkarılan yusuf'un cam göz çağrısı
   entry_id:  108712360
   entry_writer: don emilio
-  entry_fav_count: 571
+  entry_fav_count: 574
   entry_content: |
     üst edit: <a rel="nofollow noopener" class="url" target="_blank" href="http://www.kars.gov.tr/bazi-basin-yayin-organlari-ile-sosyal-medyada-yer-alan-cumhurbaskanimizdan-sadece-bir-goz-istiyorum-basin-aciklamasi" title="http://www.kars.gov.tr/bazi-basin-yayin-organlari-ile-sosyal-medyada-yer-alan-cumhurbaskanimizdan-sadece-bir-goz-istiyorum-basin-aciklamasi">burada</a> kars valiliğinin müdahil olduğu ve cam göz protezi için bütün masrafları üstleneceği duyurulmuş.sağlık bakanlığı da iletişime geçmiş, yakın takiptelermiş.<br/><br/><a class="b" href="/?q=hepbenibulur">hepbenibulur</a>adlı yazar bunu iletmemi istedi.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>merhaba, ben kafkas üniversitesinde akademisyenim. eğitim bilimleri bölümü ve özel eğitim abd ndan birkaç arkadaş toplanarak önümüzdeki hafta aileye moral ziyareti yapmak istiyorduk. biz çocuğun yaşına ve ihtiyaçlarına uygun birkaç hediye alıp gitmeyi planladık. aile yardım için izin almış mı bilmiyorum. eğer izin ile ilgili henüz bir gelişme yoksa, ve hediye alıp ulaştırmak isteyen olursa kafkas üniversitesi dede korkut eğitim fakültesi eğitim bilimleri bölümü’ne ulaştırabilirler.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>iyi akşamlar. kars’ta suriyeli çocuklar tarafından gözü çıkarılan yusuf’u hatırlarsınız. (bkz: <a class="b" href="/entry/108561679">#108561679</a>) çocuk takma gözle çok rahatsız hissediyormuş ve gözü sürekli enfeksiyon kapıyormuş. başlıktan sonra hayırsever vatandaşlar, ünlüler, zenginler iletişime geçmiştir diye düşünmüştüm ama aileyle irtibat kuran çaylak yazar (<a class="b" href="/?q=heyyekral">heyyekral</a>) bana ulaştı ve hala aynı sorunların devam ettiğini, kimsenin ulaşmadığını söyledi. başlığın çok geride kaldığı için bu konuda yeni bir başlık açmamı rica etti ve şunları yazdı:<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>yusuf’un annesi ile iletişime geçtim. acil ameliyat olması gerekiyor bu yavrucağın. sürekli enfeksiyon olan bölgenin ameliyat olması sonrasında cam göz takılması gerekiyor. lakin annesi 130 liralık ilacı bile alırken zorlanıyor. aileye yardım eli uzatılması gerekiyor.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>zenginler, hayırseverler, yetkililer allah rızası için ulaşın şu çocuğa. o yaşta böyle bir vahşet yaşamasının yanı sıra aylardır acı çekiyor. yaralanan vahşi bir hayvan bile doğaya salınmadan önce rehabilite edilip öyle salınıyor. böyle bir acı yaşamış/yaşamakta olan küçücük bir çocuğu görmezden gelmeyin.<br/><br/>edit: arkadaşlar gönderiyi kamuoyu çağrısı olsun, yusuf’un ailesine bizzat ulaşılsın diye açtım. çaylak arkadaş aileyle iletişimim var diyor ama kendisini tanımıyorum.belki vardır ama dediğim gibi tanımıyorum. mesuliyet olmasın üstümde diye eklemek istedim. valilik izni olmadan hiçbir yere para göndermeyin, yapabilen varsa yusuf’un ailesine direk ulaşmaya çalışsın aracı kullanmadan.
   entry_channels: haber
 - entry_name: |
-    twitter'ın akparti troll hesaplarını kapatması
-  entry_id:  108718436
-  entry_writer: ciddiye almamak gerek
-  entry_fav_count: 467
-  entry_content: |
-    twitter, çin, rusya ve türkiye'de devlet bağlantılı hesapları kapattığını duyurmuştur.<br/><br/>akp'ye yakın olan ve iktidarı eleştirenleri hedef gösteren 7342 hesap twitter tarafından kapatılmıştır.<br/><br/>raporda, kapatılan hesaplarla ilgili öne çıkan tespitler şöyle:<br/><br/>• aynı gün açılan, benzer kullanıcı adı olan, gerçek olmayan kişiler adına açılan çok sayıda hesap var.<br/><br/>• tek görevi, akp adına retweet yapmak olan bir hesaplar ağı ortaya çıkarıldı. bu ağlar, aynı içeriği daha görünür kılmak için uğraşıyor ve aslında “gündem” olamayan etiketleri (hashtag’leri) daha popüler yapmaya çalışıyor.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html" title="https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html">twitter</a>
-  entry_channels: siyaset,teknoloji,haber
-- entry_name: |
     12 haziran 2020 covid-19 vakasının 175218 olması
   entry_id:  108749430
   entry_writer: trachinus
-  entry_fav_count: 454
+  entry_fav_count: 484
   entry_content: |
     tedbiri elden bırakmak istemeyen insanlara küfür edip onları asosyal olarak yaftalayanların, "bu iş mayıs-haziran aylarında biter" tayfasının, "sadece virüsle değil aynı zamanda virüs diye bir şey olmadığını iddia eden bir sürü cahille de mücadele ediyoruz; bu normalleşme çok hızlı ve erken" diyerek süreç yönetimini eleştirenleri felaket tellallığı ile itham edenlerin on gün öncesine kadar 700’lerde seyreden günlük vaka sayılarının ne yazık ki yeniden 1000’e ulaşmasıyla beraber işin ciddiyetinin farkına varıp kendilerini suçlu hissedip hissetmediklerini merak ettiğim verilerdir.
   entry_channels: siyaset,sağlık,haber
@@ -70,71 +62,39 @@ data:
     güreşçiyi vakıfbank yönetim kuruluna atamak
   entry_id:  108749698
   entry_writer: nandomanu
-  entry_fav_count: 353
+  entry_fav_count: 403
   entry_content: |
     evet, son akp icraati.<br/><br/>hali hazırda c.b. başdanışmanı olan hamza yerlikaya vakıfbank yönetim kurulu’na atanmış. engin ekonomi ve piyasa bilgisi ile bizleri aydınlatacak ve geleceğimize ışık tutacaktır (!) faiz lobisiyle güreşiriz artık :)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.gercekgundem.com/siyaset/188745/erdoganin-basdanismani-hamza-yerlikayaya-bir-atama-daha-ucuncu-maasini-kamu-bankasindan-alacak" title="https://www.gercekgundem.com/siyaset/188745/erdoganin-basdanismani-hamza-yerlikayaya-bir-atama-daha-ucuncu-maasini-kamu-bankasindan-alacak">https://www.gercekgundem.com/…mu-bankasindan-alacak</a><br/><br/>edit: kap bildirimi geldi ;<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.kap.org.tr/tr/Bildirim/851090">https://www.kap.org.tr/tr/bildirim/851090</a>
   entry_channels: siyaset,haber,ekonomi
 - entry_name: |
-    tavuk dönerden at eti çıkması
-  entry_id:  108728646
-  entry_writer: freemo716
-  entry_fav_count: 337
-  entry_content: |
-    yanlışlıkla yapmışlardır. çünkü at, tavuktan pahalı.
-  entry_channels: sağlık,haber,yeme-içme
-- entry_name: |
-    playstation 5'in vergi yolculuğu
-  entry_id:  108727130
-  entry_writer: bu sehrin geceleri
-  entry_fav_count: 277
-  entry_content: |
-    <a class="b" href="/?q=%c3%bcst+edit">üst edit</a>: ozan bingöl'in vergilendirmeninnbu şekilde olmadığını söylemiş.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/ozanbingoll/status/1271398504255098885?s=19" title="https://twitter.com/ozanbingoll/status/1271398504255098885?s=19">https://twitter.com/…tatus/1271398504255098885?s=19</a><br/><br/>bir hayli uzun ve zorlu süreçlerden geçen vergi yolculuğudur. <br/>okuyucuya not: hikaye cebimizde geçiyor, en sonunda içimizden geçiyor. yol boyunca önünüze çıkan her kuruma bir tomar para verip yolumuza mutlulukla devam ediyoruz. <br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>playstation 5 için alınacak vergilerin listesi (30 eylül öncesi):<br/><br/>1: 449 abd doları: 3062 tl (geliş fiyatı)<br/>2: +%50 gümrük vergisi: 4593 tl<br/>3: +18 kdv: 5419 tl<br/>4: +%20 ötv: 6502 tl<br/>5: +%1 kültür bakanlığı payı: 6567 tl<br/>6: +%10 trt payı: 7223 tl<br/><br/>*satıştaki kâr oranları hariç*<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/webtekno/status/1271090652940468226?s=19" title="https://twitter.com/webtekno/status/1271090652940468226?s=19">https://twitter.com/…tatus/1271090652940468226?s=19</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/bdalgin/status/1271328155861610497?s=19" title="https://twitter.com/bdalgin/status/1271328155861610497?s=19">https://twitter.com/…tatus/1271328155861610497?s=19</a>
-  entry_channels: siyaset,oyun,teknoloji,ekonomi
-- entry_name: |
-    11 haziran 2020 beşiktaş bağış kampanyası tanıtımı
-  entry_id:  108729923
-  entry_writer: protospher
-  entry_fav_count: 239
-  entry_content: |
-    beşiktaşlıyım ama benden kuruş işlemez.<br/><br/>bağış kampanyası düzenleyecek adam artık kulüplere başkan olmasın. dolar milyoneri adamlar prestijim artsın diye büyük kulüplerin başına geliyorlar, sonra da taraftardan nakit yardımı istiyorlar.<br/><br/>yapmasınlar. kimse onları zorla başkan yapmıyor. para lazım olduğunda servetlerini son kuruşuna kadar beşiktaş'a hibe etmeye hazır olarak gelsinler. gelmeyen de, gelmesin.<br/><br/>neden bir taraftar değil de sanayici başkan oluyor o zaman. ben de yaparım böyle başkanlık. <br/><br/>üstelik şu sıralar bir bağış kampanyası düzenlenir mi allasen. ülke ekonomik krizde, belediyeler yardım kolileri ile halkın açlığını gidermeye çalışıyor, her kurum elinden geldiğince ve durumu olanları da işin içine katarak genel sefaleti gidermeye çalışıyor.<br/><br/>böyle bir dönemde "haydi pamuk eller cebe, futbolcu ve menajerlerin milyon euroluk kontralarını ödeyeceğiz" demek nasıl bir akıl tutulması.<br/><br/>parası olan, yardım edecek olan askıda fatura kampanyasına destek olsun. hiç değilse verdiğiniz para bir ihtiyacı giderir.
-  entry_channels: spor
-- entry_name: |
     ibb taksi kiralama modeli
   entry_id:  108744324
   entry_writer: ego masturbatoru
-  entry_fav_count: 238
+  entry_fav_count: 240
   entry_content: |
     istanbul’da en son 52 yıl önce nüfus 2.3 milyonken taksi plakası verilmiş. şu an nüfus 16-18 milyon deniyor, bu sürede talep bu kadar artarken arzın sabit kalmasıyla ortaya dokunulmaz, terör eyleminden kaçmaya çalışan insanlardan fahiş fiyat isteyen, mesafe beğenmeyen, trafikte kafasına göre araç kullanan bir kitle çıkmış. <br/><br/>bunu da çözerse ancak <a class="b" href="/?q=imamo%c4%9flu">imamoğlu</a> çözer. <br/><br/>bu zamana kadar çoktan yapılması gerekenin geç de olsa yapılması olacaktır.<br/><br/>edit: konunun bilir kişisi değilim, internetten bulduğum ana akım kaynaklarda verilen tarihi verdim, 54 yıl diyen de var. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.haberturk.com/taksi-plakasi-artacak-mi-2561585" title="https://www.haberturk.com/taksi-plakasi-artacak-mi-2561585">örneğin</a>, başka kaynaklar da var ama çok fazla kişi de mesaj atıp 30 sene demiş. anlatımın mantığını sarsan bir şey değil ama bu şerhi de buraya koyayım dedim. yoksa ha 30 ha 50, onlarca yıl diyebiliriz.
   entry_channels: haber,otomotiv,ekonomi
 - entry_name: |
+    11 haziran 2020 beşiktaş bağış kampanyası tanıtımı
+  entry_id:  108729923
+  entry_writer: protospher
+  entry_fav_count: 240
+  entry_content: |
+    beşiktaşlıyım ama benden kuruş işlemez.<br/><br/>bağış kampanyası düzenleyecek adam artık kulüplere başkan olmasın. dolar milyoneri adamlar prestijim artsın diye büyük kulüplerin başına geliyorlar, sonra da taraftardan nakit yardımı istiyorlar.<br/><br/>yapmasınlar. kimse onları zorla başkan yapmıyor. para lazım olduğunda servetlerini son kuruşuna kadar beşiktaş'a hibe etmeye hazır olarak gelsinler. gelmeyen de, gelmesin.<br/><br/>neden bir taraftar değil de sanayici başkan oluyor o zaman. ben de yaparım böyle başkanlık. <br/><br/>üstelik şu sıralar bir bağış kampanyası düzenlenir mi allasen. ülke ekonomik krizde, belediyeler yardım kolileri ile halkın açlığını gidermeye çalışıyor, her kurum elinden geldiğince ve durumu olanları da işin içine katarak genel sefaleti gidermeye çalışıyor.<br/><br/>böyle bir dönemde "haydi pamuk eller cebe, futbolcu ve menajerlerin milyon euroluk kontralarını ödeyeceğiz" demek nasıl bir akıl tutulması.<br/><br/>parası olan, yardım edecek olan askıda fatura kampanyasına destek olsun. hiç değilse verdiğiniz para bir ihtiyacı giderir.
+  entry_channels: spor
+- entry_name: |
     virüs sürecinde nefret edilen şeyler
   entry_id:  108716825
   entry_writer: organizasyonelyapi
-  entry_fav_count: 228
+  entry_fav_count: 230
   entry_content: |
     marketten alınan paketli ürünleri yıkamak,özellikle prili prille yıkarken uzaklara dalıyorum.
   entry_channels: anket,sağlık
 - entry_name: |
-    24 yaşında nasıl pazarcı oldum
-  entry_id:  108733011
-  entry_writer: shah caspian
-  entry_fav_count: 222
-  entry_content: |
-    pazarda bir şeyler satan ilk kadınmış gibi davranılarak yazılmış kıytırık bir hikaye. kızın tam yanında soğan satan teyze var aynı hikayeyi ona neden yazmadınız? cihangirli olmadığı için o teyzeyi kadından saymıyor musunuz ?
-  entry_channels: ekonomi
-- entry_name: |
-    mansur yavaş'ın altyapı taleplerinin reddedilmesi
-  entry_id:  108747160
-  entry_writer: ank30m
-  entry_fav_count: 208
-  entry_content: |
-    ankara büyükşehir belediyesi aralık 2019 oturumunda mansur yavaş'ın acil su yatırımları için istediği kredi reddedilmişti. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/ankaragelisiyor/status/1271454899050557440?s=20" title="https://twitter.com/ankaragelisiyor/status/1271454899050557440?s=20">video</a><br/>mansur yavaş bu toplantıda “bir ay susuz kalırız, yapılmazsa sel olur, afet olur.” demiş fakat talepler cumhur ittifakı'nın “bütçe fazlası var, oradan yapın” sözleri ile kabul edilmemişti. <br/><br/>hatta üstüne geçen ay altyapı talepleri mansur yavaş tarafından meclise sunulmuş ve üstüne yine meclis tarafından reddedilmişti.<br/>başkan konuyla alakalı 'en kötü talep reddedildi asbestli borulara mahkum edildi halk' demişti.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.yenicaggazetesi.com.tr/mansur-yavasin-acil-su-yatirimlari-icin-istedigi-kredi-reddedildi-7824v.htm" title="https://www.yenicaggazetesi.com.tr/mansur-yavasin-acil-su-yatirimlari-icin-istedigi-kredi-reddedildi-7824v.htm">haber/video</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.birgun.net/haber/ankara-daki-altyapi-projelerine-akp-engeli-butce-fazlasi-koz-olarak-kullanildi-278430" title="https://www.birgun.net/haber/ankara-daki-altyapi-projelerine-akp-engeli-butce-fazlasi-koz-olarak-kullanildi-278430">haber 2</a><br/>gelelim şimdi 2 gündür ankara'yı götüren sel felaketine...<br/><br/>25 yıllık yönetimde altyapıya yönelik bir düzenleme yapılmamış. bir de üstüne konuyla ilgilenenler engellenmişken bugünkü tepkiler anlamsız hatta komik gelmektedir.<br/><br/>neyse... <br/>bu kadar çok meclis toplantısından altıntı yapmışken 'allah size muhtaç etmesin' diyerek mansur yavaş'ın meclisten bir sözüyle bitirmek istiyorum
-  entry_channels: siyaset,haber
-- entry_name: |
     dudaklarını yaptıran gencin virüs isyanı
   entry_id:  108743306
   entry_writer: olsa da yemesek
-  entry_fav_count: 202
+  entry_fav_count: 206
   entry_content: |
     çocuğun türk kızlarının %99'undan güzel olması.
   entry_channels: ilişkiler,sağlık,magazin
@@ -142,7 +102,7 @@ data:
     hazal kaya
   entry_id:  108738509
   entry_writer: protospher
-  entry_fav_count: 134
+  entry_fav_count: 143
   entry_content: |
     türkiye'de dizilerde artık lgbt karakter göremememizin sebebinin dizi yapımcıları olduğunu sananları ortaya koyan oyuncu. <br/><br/>insanın hak ettiği gibi yönetilmesi tam da böyle bir şey. <br/><br/>bir sır vereyim öyleyse; onur yürüyüşünü de yerli dizi yapımcıları derneği engellemiş.
   entry_channels: tv,sinema,haber,magazin
@@ -150,98 +110,90 @@ data:
     playstation 5
   entry_id:  108714598
   entry_writer: drjoke
-  entry_fav_count: 125
+  entry_fav_count: 127
   entry_content: |
     fiyat mevzusu burada mı fazla abartılıyor diye düşündüm ama bakıyorum bütün mecralarda sadece fiyatı konuşuluyor. <br/><br/>yabancıların yayınladığı lansman yayınlarına girdim hiç fiyat konuşulmuyor. insanlar oyunları, tasarımı, donanımı falan yorumluyor. biz ise fiyatından başka bir şey düşünemiyoruz. gerçekten acıyorum türk gençliğine, bizlere. biz bunu hak etmiyoruz. bizi bu duruma getiren herkesin allah belasını versin. gençliğimizi, hayatlarımızı çalıyorlar. etmiyorum ulan hakkımı.
   entry_channels: oyun,teknoloji
 - entry_name: |
-    ses izolasyonu olmayan evde oturmak
-  entry_id:  108738438
-  entry_writer: boxer kisot
-  entry_fav_count: 116
-  entry_content: |
-    türk müteahhitlerinin meslek hastaligidir; malzemeden çalmak ya da eksik iş yapmak.<br/><br/>kimileri anılarıyla kimileri anaları ile anılır....
-  entry_channels: anket
-- entry_name: |
     çocuklara kazandırılması gereken yetenekler
   entry_id:  108743474
   entry_writer: starbucksyesili
-  entry_fav_count: 110
+  entry_fav_count: 123
   entry_content: |
     hayatin ilk 10-15 senesinde ogrenilip hayatboyu ise yarayacak yeteneklerdir. asla bosa gitmeyecek yatirimdir<br/>1. kitap ve okuma sevgisi<br/>2. turkce<br/>3. ingilizce<br/>4. 10 parmak klavye<br/>5. temel kodlama<br/>6. matematik<br/>7. insan, hayvan, bitki ve doga sevgisi<br/>8. agiz ve dis hijyeni (dis fircalama ve dis ipi)<br/>9. uzaysal zeka (spatial intelligence)
   entry_channels: anket,eğitim
 - entry_name: |
+    türkiye'de tutmuş en iyi yalanlar
+  entry_id:  108715321
+  entry_writer: kulaktan dolma biber
+  entry_fav_count: 116
+  entry_content: |
+    <a class="b" href="/?q=kand%c4%b1r%c4%b1ld%c4%b1k">kandırıldık</a>
+  entry_channels: 
+- entry_name: |
     ilk defa araç lastiği alacaklara tavsiyeler
   entry_id:  108740267
   entry_writer: sebeke
-  entry_fav_count: 101
+  entry_fav_count: 107
   entry_content: |
     ne yaparsanız yapın, ucuza kaçmayın. arabadaki en önemli 2 şey fren ve lastiktir. fren ise lastik olmazsa bir hiçtir.<br/>arabaya tonla para harcayıp 200 lira lastik parasından kısarsanız o tonla para harcadığınız şeyin 200 lira yüzünden çöpe gitmesine çok ağlarsınız ki gidecektir.<br/>unutmayın ki sadece 4 teker üzerindesiniz ve sizi bağlayan 4 şey sadece lastik.
   entry_channels: otomotiv
 - entry_name: |
-    7340 aktrolün aylık gideri
-  entry_id:  108720548
-  entry_writer: michel angel
-  entry_fav_count: 99
+    survivor 2020 ünlüler-gönüllüler
+  entry_id:  108714388
+  entry_writer: the smiths
+  entry_fav_count: 94
   entry_content: |
-    minimum 100.000.000 liradır...<br/><br/>yazıyla yüz milyon tl... eski parayla 100 trilyon... her ay... günlük yaklaşık 4 trilyon yapar...<br/><br/>milletine kıytırık 1 liralık bir maske dağıtamayan, zor günde milletinden para isteyen akp; her gün tam 4 trilyon, aylık en az 100 trilyon lirayı, yani 50 bin adet asgari ücreti millete ve ülkeye hiçbir faydası olmayan, tek fonksiyonu insanları akp lehine kandırmak olan aktrollere harcıyor...<br/><br/>üstelik bu parayı kimin verdiği de belli değil... 1000 odalı cumhurbaşkanlığı sarayını + yazlık ve uçan sarayları, + o saraylarda ejder meyveli smoothiler tüketen tüm yandaşları + kullandıkları onbinlerce makam arabasını her yıl milyarlarca lira para harcayarak millet alıyor, millet besliyor... <br/><br/>yani senin benim cebimden çıkıyor bu paralar...<br/><br/>ama aktroll maaşlarını + kira, araç, elektrik, su, internet, sigorta gibi masraflarını kim veriyor belli değil...<br/><br/>benim şahsen 1 kuruş hakkım varsa haram zıkkım olsun, ateşten demir lokma olsun çoluğunun çocuğunun boğazında kalsın en tepedekinden en alttaki aktrolüne kadar hepsinin...<br/><br/>edit: aylık 3 bin tl + bir o kadar sigorta yemek vb. masraf + bunların çalıştığı yerin fatura kira vb. masraflarını ekledim. ki hepsinin aynı maaşı almadığını düşünürsek aslında bu rakam yüz milyon liradan çok çok çok daha fazla...<br/><br/>edit: aktroller dışında çalıştıkları yerin temizlikçisi çaycısı aşçısı vb. aklınıza ne geliyorsa hepsini düşünün...<br/><br/>edit 2: kullandıkları bilgisayarlar + çatallar bıçaklar bardaklar masalar sandalyeler... tüm detaylarıyla düşünürsek yüz trilyon lira çekirdek parası gibi bir şey kalır..
-  entry_channels: siyaset
+    yasinin insanların modunu nasıl düşürdüğü kanıtlandı bugün. o mangal ödülünde 5. kişi olarak yasini düşünsenize bir dakika. mangalın başına geçer yaklaştırmazdı, cemal ile barışın konuşmasına izin vermezdi ve saçma saçma laf sokardı. kamp yapmaya gitmiş üniversiteli arkadaş grubu gibi takıldı gençler sırıta sırıta izledik ne kadar sempatiklerdi. yasin gönüllülerin kanseridir.
+  entry_channels: tv,magazin,spoiler
 - entry_name: |
     bilim kurulunun sokağa çıkma yasağı istemesi
   entry_id:  108737215
   entry_writer: luciuscornelius
-  entry_fav_count: 80
+  entry_fav_count: 83
   entry_content: |
     "<a class="b" href="/?q=gerekirse">gerekirse</a>" kelimesiyle kayıtlı olarak ifade edilmiş istektir. gerekip gerekmediğine karar verecek olan bilim kurulu değil o halde...
   entry_channels: sağlık,haber
 - entry_name: |
-    sevgiliden ayrıldıktan sonra yapılan ilk şey
-  entry_id:  108736096
-  entry_writer: mctengineer
-  entry_fav_count: 79
-  entry_content: |
-    5 yıldan fazla süren o uzun ilişkinin ardından terkedilmiştim. bi an için dünya başıma yıkılmıştı. şirketteydim mesai devam ediyordu. saat 16:00 da aramıştı beni. ayrılalım, istemiyorum artık dedi en son. ben ne kadar yalvarsamda kararını vermişti, dönmeyecekti. yalvardım yakardım ama nafileydi. yıkılmıştım. işyerindeki labta hıçkıra hıçkıra ağladım uzun süre. sonra mesainin geri kalanında ağlamıştım tuvalette. sessizce. çünkü bilinsin duyulsun istemiyordum. bi yandan alyansıma bakıyor, diğer yandan olanları düşünüyordum. bitmiş miydi? bu kadar mıydı? nasıl devam edecekti hayat, alışkanlıklar... derken mesai bitti ve masamı topladım, servise bindiğimde de sessiz sessiz ağladım kimseye çaktırmadan. sonra evdekileri aradım. ben geç geleceğim dedim. aldım tekelden biraları. çıktım manzaraya. arabada oturdum içtim. içtikçe sorguladım şu hayatın anlamsızlığını. canım dediğin bile el oluyormuş onu anladım. en son sarhoş olunca bi rahatlama geldi ki anlatamam. sonra kustum. sanki ömrünün son 1894 gününü o toprağa döktüm. sanki onu kustum içimden. öyle bi histi bu. üzerine bikaç yudum su içtim. tekrar yaşadığımı hissettim. şu an üzerinden 5.5 ay geçti o günün. ilk 2-3 ayı saymazsak gerçekten yaşadığımı hissediyorum sözlük. unutmadan. bana yardımlarından dolayı burada yazar olan gökhan abime çok teşekkür ederim. sağolsun çok yardımcı oldu bana
-  entry_channels: anket,ilişkiler
-- entry_name: |
     ozan tufan
   entry_id:  108752297
   entry_writer: spacetimereality
-  entry_fav_count: 74
+  entry_fav_count: 79
   entry_content: |
     adam <br/><br/>- pandeminin ortasında (herkesin daha dikkatli oynaması beklenirken), <br/>- takımının stressiz ve iddiasız çıktığı (sadece türkiye kupası iddiası var), hırs yapmak için herhangi bir sebep bulunmayan, <br/>- tribün baskısı olmayan, seyircisiz oynanan, <br/>- kendisinin kaptan olarak (yani takımın geri kalanına örnek olacak hesapta) çıktığı, <br/>- bir maçın 14. dakikasında (maç sonu değil yani, yorgunluktan sinirlenmiş falan olamaz), <br/>- tehlikeli bir pozisyon yokken, defans yerleşikken (gole giden rakibi falan düşürmedi yani), <br/>- rakibin aşil tendonuna basarak<br/><br/>kırmızı kart görmeyi başardı. tarihe not düşülsün.<br/><br/>edit: işin kartında değilim arkadaşlar, kartın rengi tartışılabilir, fakat bir sonraki resmi maçın önemi belliyken bu hareketin saçmalığı tartışılmaz.
   entry_channels: spor
 - entry_name: |
+    90'larda fakirlik belirtileri
+  entry_id:  108725565
+  entry_writer: bana birak
+  entry_fav_count: 77
+  entry_content: |
+    musluğun ucunda kesik bahçe hortumu takılı olması. özellikle koyu yeşil turkuaz arası renktir bu hortum.
+  entry_channels: anket,tarih,ekonomi
+- entry_name: |
     yazarların kişisel çöküşünün başladığı yıl
   entry_id:  108739048
   entry_writer: seftalicetea
-  entry_fav_count: 72
+  entry_fav_count: 76
   entry_content: |
     1983 yılının 3. ayıdır tam olarak. diğer spermlerle yaptığım yarışı kazandığım tarih. başka da bir şey kazanamadım zaten.
   entry_channels: anket,ekşi-sözlük
 - entry_name: |
-    new york metrosunda akıl almaz kavga
-  entry_id:  108743234
-  entry_writer: 600f
-  entry_fav_count: 59
-  entry_content: |
-    video altındaki "adam tokatla kızı 90'lara geri gönderdi" yorumuyla yarmış videodur.
-  entry_channels: haber
-- entry_name: |
-    15 haziran 2020 hdp'nin demokrasi yürüyüşü
-  entry_id:  108717931
-  entry_writer: ltdsti
-  entry_fav_count: 55
-  entry_content: |
-    içimde bu yürüyüşe provokasyon karışacak ve çıkacak olaylar çok büyük bir hal alacak gibi bir his var. umarım yanılırım.
-  entry_channels: siyaset,haber
-- entry_name: |
     hastaya küfreden doktor
   entry_id:  108744846
   entry_writer: trapperbk
-  entry_fav_count: 51
+  entry_fav_count: 55
   entry_content: |
     "doktoru kizdirmislar,doktorlar bezmis"diyenlerin kendi anasina anneannesine boyle konusan doktorla karsilasirlarsa oyyy poncigim haklisin diye yanaklarini sikmalarini tavsiye ediyorum.
   entry_channels: sağlık,haber
+- entry_name: |
+    kitaplıktaki en kıymetli kitap
+  entry_id:  108744026
+  entry_writer: pultar
+  entry_fav_count: 37
+  entry_content: |
+    <a class="b" href="/?q=ince+memed">ince memed</a>, iki gözümün çiçeğinden imzalı. değirmen, ilk basım. basım hataları için <a class="b" href="/?q=sabahattin+ali">sabahattin ali</a>nin daktilo ile arka kapağa parşömen kağıtla eklediği düzeltme notu ile.
+  entry_channels: anket,bilim,edebiyat,eğitim
 - entry_name: |
     siyah (patron &amp; sagopa kajmer şarkısı)
   entry_id:  108713409
@@ -251,58 +203,50 @@ data:
     yarrrak gibi mixlenmiş şarkı. sözlerden hiç bir şey anlaşılmıyor. özellikle patron'un kısımları.<br/>telefondan değil, referans kulaklıktan dinledim bu arada.
   entry_channels: müzik
 - entry_name: |
-    kitaplıktaki en kıymetli kitap
-  entry_id:  108744026
-  entry_writer: pultar
-  entry_fav_count: 30
+    63 sayısının 3'e bölünebilmesi
+  entry_id:  108756346
+  entry_writer: lordofthebuts
+  entry_fav_count: 27
   entry_content: |
-    <a class="b" href="/?q=ince+memed">ince memed</a>, iki gözümün çiçeğinden imzalı. değirmen, ilk basım. basım hataları için <a class="b" href="/?q=sabahattin+ali">sabahattin ali</a>nin daktilo ile arka kapağa parşömen kağıtla eklediği düzeltme notu ile.
-  entry_channels: anket,bilim,edebiyat,eğitim
+    kemal sunal'ın "allah allah yok yav " repliğini hatırlatan başlık.
+  entry_channels: eğitim
 - entry_name: |
-    virüs yayılımı hatalı iyimserlikten kaynaklanıyor
-  entry_id:  108750467
-  entry_writer: kullanimdaolmayannickarayancaylak
-  entry_fav_count: 22
+    12 haziran 2020 fenerbahçe kayserispor maçı
+  entry_id:  108751796
+  entry_writer: siradan cinko karbon pil
+  entry_fav_count: 24
   entry_content: |
-    meali "halkımız bu kadar salak olduğu için, salgını henüz kontrol altına almaktan uzağız. be damına koduklarım size söylenenlere uyun lan işte, tavsiyelere kulak verin. skecem artık ya" olan süper kahraman fahrettin koca açıklaması.<br/><br/>iç sesi bu değilse ben de bir şey bilmiyorum.
-  entry_channels: siyaset,sağlık,haber
+    maç öncesi tüm futbolcuların sarılıp opuştuğu maç.<br/><br/>ama yedek kulübesindeki futbolcular birer metre arayla oturuyorlar. <br/><br/>komedi filmi gibi ülke amk.
+  entry_channels: spor
+- entry_name: |
+    öğrenildiğinde ufku iki katına çıkaran şeyler
+  entry_id:  108724213
+  entry_writer: tinkerminkerbell
+  entry_fav_count: 21
+  entry_content: |
+    gecen gun bahceye tavuk almaya karar verdik.nedeni de evde yumurtanin herkes tarafindan cok sevilmesi ve musait yerin olmasi.<br/>tavuklari almaya gittigimde “horoz cok rahatsizlik verir mi etrafa ?”diye sordum kadina.<br/>bana “horozu ne yapicaksin civciv mi istiyorsun?” dedi.<br/>“yumurtlayacaklar ya horoza ihtiyaclari yok mu?” dedim<br/>yokmus.tavuklarin yumurtlamasi icin horoza ihtiyaclari yokmus.eger yumurtadan civciv cikmasini istiyorsan horoz alman gerekliymis.yoksa hayvan normal zamanda her gun veya gun asiri yumurtluyormus.o yumurtalardan da benim dusundugum gibi civciv cikmiyormus.<br/>bugune kadar her yedigim yumurtanin potansiyel bir civciv oldugunu dusunuyordum cunku.<br/><br/>edit: valla bilmiyordum horoz olmadan yumurtladiklarini.siz biliyor muydunuz ya? mantikli dusununce yumurtlama donemlerinde disilerin erkege ihtiyaclari yok evet dogru ama ne bileyim.
+  entry_channels: spor,siyaset,anket,ilişkiler,tv,ekşi-sözlük,bilim,sanat,tarih,programlama,müzik,sinema,edebiyat,oyun,teknoloji,sağlık,haber,yeme-içme,otomotiv,motosiklet,moda,magazin,eğitim,ekonomi,havacılık,spoiler,seyahat
 - entry_name: |
     sokrates'in savunması
   entry_id:  108754734
   entry_writer: fullx
-  entry_fav_count: 17
+  entry_fav_count: 21
   entry_content: |
     sokrates suçlu olduğu için değil, haklı olduğu için idam edildi.
   entry_channels: siyaset,tarih,edebiyat
 - entry_name: |
     12 haziran 2020 göztepe trabzonspor maçı
-  entry_id:  108738754
+  entry_id:  108757497
   entry_writer: kalahari belediye baskani
-  entry_fav_count: 16
+  entry_fav_count: 19
   entry_content: |
-    trabzonspor'a karşı şansımız hep tutuyor. beto'nun ise 2 kere tutuyor. <br/>o yüzden şans bizden olursa en kötü beraberlik alırız diye düşünüyorum. birkaç maç kazansak yine uefa hayallerine dalacağız diye de ayrıca korkmuyor değilim.<br/><br/>trabzon bize yenilse de şampiyonluğun en büyük adayı olarak yarışa devam eder ve umarım şampiyon olurlar. şehrine ihanet etmeyen herkesin şehri şampiyonlukla coşsun inşallah.
-  entry_channels: spor
-- entry_name: |
-    ilahi dinleyen ateist
-  entry_id:  108747694
-  entry_writer: kac kadeh kirildi
-  entry_fav_count: 13
-  entry_content: |
-    çoğu zaman büyük keyif alarak yapılandır. din fark etmeksizin, oldukça güzel ilahiler var. birkaç örneğini paylaşayım.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=smg22-BHqP8" title="https://www.youtube.com/watch?v=smg22-BHqP8">es-subhu beda</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=YxdBqdPRvXk" title="https://www.youtube.com/watch?v=YxdBqdPRvXk">bayram o bayram olur</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=FNkTduZBVjU" title="https://www.youtube.com/watch?v=FNkTduZBVjU">şol cennetin ırmakları</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=i-3h9TQ312c" title="https://www.youtube.com/watch?v=i-3h9TQ312c">bizans ortodoks-agni parthene</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=8-EfW7gYzns" title="https://www.youtube.com/watch?v=8-EfW7gYzns">arap ortodoks</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=xsapS7Qu2Ik" title="https://www.youtube.com/watch?v=xsapS7Qu2Ik">yine güzel bir örnek.</a><br/><br/>akla her ne kadar kıbrıs'ta okuyan öğrencilerin çektiği güzel videoyu <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=NXsyRAPU8g0" title="https://www.youtube.com/watch?v=NXsyRAPU8g0">getirse de</a><br/>ameno'da güzel <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=6xUnSVTh8fI" title="https://www.youtube.com/watch?v=6xUnSVTh8fI">esas klip.</a>
-  entry_channels: siyaset,anket
-- entry_name: |
-    12 haziran 2020 fenerbahçe kayserispor maçı
-  entry_id:  108751796
-  entry_writer: siradan cinko karbon pil
-  entry_fav_count: 13
-  entry_content: |
-    maç öncesi tüm futbolcuların sarılıp opuştuğu maç.<br/><br/>ama yedek kulübesindeki futbolcular birer metre arayla oturuyorlar. <br/><br/>komedi filmi gibi ülke amk.
+    ilk yarıda yendiğiniz trabzonspor’a kötü oyunla yenildiğimiz maç. siktik soktuk ifadelerini gerçek trabzonlulara yakıştıramıyoruz ancak bu takıma takviye yapılmasının şart olduğunu da görüyoruz. haberlerde çıkan transfer haberleri topçuları çok etkilemiş belli. berkan ve deniz kadah ı almak isteyen varsa çok iyi oyuncular, yarın sözleşme imzalasın diğer kulüpler. (bkz: <a class="b" href="/?q=swh">swh</a>)<br/><br/>tebrikler. allah var bu maçı alalım şampiyon trabzon olsun diyordum. bizi yendiler ama sonuç değişmez inşallah onlar için. şehrine ihanet etmeyenler kazanırsa kader bir gün bize de güler inşallah.
   entry_channels: spor
 - entry_name: |
     yazarların en kaliteli hobisi
   entry_id:  108752923
   entry_writer: ankarali07
-  entry_fav_count: 12
+  entry_fav_count: 18
   entry_content: |
     ilk önce balık tutmak için küçük bir olta aldım. daha sonra bu olta kalitesiz daha iyisini al dediler. oltayı büyüttüm.<br/><br/>sonra baktım deniz kenarında balık tutmak pek keyif vermiyor. en iyisi ben kendime bir bot alayim dedim. <br/><br/>aradan 2 ay geçtikten sonra bu bot olmadı, gidip bir sandal aldım. <br/><br/>tekrar olmadı, dalgalar bir türlü rahat bırakmıyordu gittim en son tekne aldım, hem balık tutuyorum hem denizde yatıyorum. <br/><br/>sadece balık tutmaktı istediğim,şimdi kendimi sorguluyorum ben bu noktaya nasıl geldim anlamadım.<br/><br/>bütün bunlar sadece bir hobi için yaşandı. <br/>değermi orasını size bıraktım. şu an teknedeyim. manzara şahane. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/yq5s2xte" title="https://soz.lk/i/yq5s2xte">görsel</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/afl7chxi" title="https://soz.lk/i/afl7chxi">görsel</a>
   entry_channels: anket,ekşi-sözlük
@@ -310,18 +254,34 @@ data:
     estetiksiz kadın kalmaması
   entry_id:  108755262
   entry_writer: cirkinlik ne kadar kolay
-  entry_fav_count: 11
+  entry_fav_count: 15
   entry_content: |
     jet sosyeteden yazarların toplandığı başlık.<br/>çevrede estetiksiz kadın kalmadı diyor. sizin çevre neresi? benim çevremde 1-2 geniz eti kılıflı burun ameliyatını saymazsak estetikli kimse yok. dağda köyde falan yaşamıyorum. çevremdeki kadınların neredeyse tamamı üni. mezunu, işli güçlü insanlar ama estetik falan yok.
   entry_channels: anket,sağlık
 - entry_name: |
-    ufo'nun türkçesinin tun olması
-  entry_id:  108753821
-  entry_writer: slash in torunu
-  entry_fav_count: 10
+    ali koç
+  entry_id:  108727927
+  entry_writer: insurer
+  entry_fav_count: 15
   entry_content: |
-    <a class="b" href="/?q=ufo">ufo</a> kelimesi parçalarına ayrılıp incelendiği vakit aksi iddia edilemeyecek olan gerçektir. <br/><br/>ufo: <a class="b" href="/?q=u">u</a>nidentified <a class="b" href="/?q=f">f</a>lying <a class="b" href="/?q=o">o</a>bject, yani <a class="b" href="/?q=t">t</a>anımlanamayan <a class="b" href="/?q=u">u</a>çan <a class="b" href="/?q=n">n</a>esne, kısaca <a class="b" href="/?q=tun">tun</a>. <br/>dünyanın en zengin dili ve kültürümüzün temsilcisi olan güzel türkçemizi kirletmemek adına, hepinizi <a class="b" href="/?q=ufo">ufo</a> kelimesi yerine <a class="b" href="/?q=tun">tun</a> kelimesini kullanmaya davet ediyorum.<br/><br/>iyi akşamlar, saygılar, kucak kucak sevgiler...<br/><br/>edit: <a class="b" href="/?q=janna+hanim+diyeceksiniz">janna hanim diyeceksiniz</a> rumuzlu yazar, türk semalarında bir <a class="b" href="/?q=tun">tun</a> görüldüğü vakit <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=vTIIMJ9tUc8" title="https://www.youtube.com/watch?v=vTIIMJ9tUc8">şu</a> dansı yapmamızı öneriyor. katılıyor ve destekliyorum.
-  entry_channels: anket
+    jose mourinho real madrid'in başına geçtiğinde; takımdan deve dişi gibi iki tane adamı yolladı. bunlar takımın sembolü olan raul ile guti gibi bir adamdı. <br/>jose mourinho inter'in başına geçtiğinde; quaresma, adriano, recoba gibi adamları yolladı. <br/>jose mourinho chelsea'nın başına geçtiğinde; desailly, petit, hasselbaink, veron, zenden, crespo gibi adamlarla yollar ayrıldı. <br/><br/>yani sayın başkan olay sadece almak değil, biraz da ayıklamak hatta ülkedeki iklimi, insan kalitesini düşündüğünde daha çok ayıklamakta. <br/>hep bir truva atı olduğunu düşündüğüm emre'ye takımın iplerini vermekle hatalara devam ediliyor. <br/>keza bu tür yapılarda yıllardır bulunan kişiler istemeden de olsa camiaya zarar verir volkan'ın durumu da buyken teknik ekibe alınması mantıksız. <br/>volkan orada adeta devrecilik yapıp, burası benim çöplüğüm şeklinde gezinmiyorsa ben de bir şey bilmiyorum. bu ortamda hoca da rahat çalışamaz, yeni gelen oyuncular da huzurlu olamaz, gençler de palazlanamaz.
+  entry_channels: spor,siyaset,ekonomi
+- entry_name: |
+    emre belözoğlu
+  entry_id:  108756875
+  entry_writer: kolamisenkoy
+  entry_fav_count: 13
+  entry_content: |
+    ulan gene ne varsa 40 yaşındaki emre'de var. aldı topu tek başına penaltı yaptırdı. işte gerçek kaptanlık bu takımını 10 kişi bırakmak değil!
+  entry_channels: spor
+- entry_name: |
+    beyaz kızlara botlarını öptüren siyahiler
+  entry_id:  108757654
+  entry_writer: delikurdun ruyasi
+  entry_fav_count: 13
+  entry_content: |
+    söyledik, yine söyleyeceğiz.<br/><br/>siyahlar eşitlik, adalet vs. istemiyorlar. onlar çalışmadan yaşamak, suç işleyip ceza almamak, istediğine istediğini yapabilmek istiyorlar. istediği yerde istediğini yapabilmek istiyorlar beyazlara. gasp, hırsızlık, tecavüz vs. her türlü suçu işleyip sırf dedesinin dedesi köleydi diye bedel ödemeden yaşamak istiyorlar. tabii ki sikerler öyle davayı. <br/><br/>"dedem senin kölendi, sen de benim kölen olacaksın" kafasındalar. bu kafa tehlikeli bir kafa ve solcu kopiller dışında toplumdan destek de görmüyor. politik doğruculuk yüzünden sesleri çıkmıyor fakat ne latinolar ne de asya/arap/avrupalı göçmenlerle iyi anlaşamıyor siyahlar. hiç de özeleştiri yapmıyorlar.
+  entry_channels: haber
 - entry_name: |
     ekşi itiraf
   entry_id:  108739318
@@ -339,20 +299,20 @@ data:
     yarrak gibi film.
   entry_channels: müzik,sinema
 - entry_name: |
-    ali koç
-  entry_id:  108727927
-  entry_writer: insurer
-  entry_fav_count: 10
+    virüs yayılımı hatalı iyimserlikten kaynaklanıyor
+  entry_id:  108750756
+  entry_writer: lin yallen
+  entry_fav_count: 7
   entry_content: |
-    jose mourinho real madrid'in başına geçtiğinde; takımdan deve dişi gibi iki tane adamı yolladı. bunlar takımın sembolü olan raul ile guti gibi bir adamdı. <br/>jose mourinho inter'in başına geçtiğinde; quaresma, adriano, recoba gibi adamları yolladı. <br/>jose mourinho chelsea'nın başına geçtiğinde; desailly, petit, hasselbaink, veron, zenden, crespo gibi adamlarla yollar ayrıldı. <br/><br/>yani sayın başkan olay sadece almak değil, biraz da ayıklamak hatta ülkedeki iklimi, insan kalitesini düşündüğünde daha çok ayıklamakta. <br/>hep bir truva atı olduğunu düşündüğüm emre'ye takımın iplerini vermekle hatalara devam ediliyor. <br/>keza bu tür yapılarda yıllardır bulunan kişiler istemeden de olsa camiaya zarar verir volkan'ın durumu da buyken teknik ekibe alınması mantıksız. <br/>volkan orada adeta devrecilik yapıp, burası benim çöplüğüm şeklinde gezinmiyorsa ben de bir şey bilmiyorum. bu ortamda hoca da rahat çalışamaz, yeni gelen oyuncular da huzurlu olamaz, gençler de palazlanamaz.
-  entry_channels: spor,siyaset,ekonomi
+    sabahtan akşama kadar profesörleri kanallara çıkarıp iyimserlik aşılayan, aşılatan kimler? yasakları kaldırıp 'yeni normal' diye bir saçmalığı çıkaran, virüs aniden mucizevi şekilde bitmiş gibi avmleri, yolları, kafeleri açan kimler?<br/>hatalı iyimserlik demek de epey iyimser bir tanım olmuş...
+  entry_channels: siyaset,sağlık,haber
 - entry_name: |
     sosyalistler ile dincilerin benzerlikleri
-  entry_id:  108753374
-  entry_writer: zirek
+  entry_id:  108754929
+  entry_writer: lautremont
   entry_fav_count: 6
   entry_content: |
-    gerçek islam / sosyalizm bu değil<br/><br/>kesinlikle var olan bir benzerlik bunu bir tek ben fark ediyorum zannediyordum .yalnız değilmişim .
+    zamanında sosyalist bir arkadaşım vardı karl marx bağışlasın tatlı bir insandı. ancak ne zaman konu siyasete gelse tüm o engin bilgi birikimine tüm o ortadoğu ideolojilerinden uzaklaşmış kafa yapısına rağmen, mesele kendi ideolojosine ve argümantasyonuna yönelik bir itiraz olduğunda dünyanın sırları çözülmüş; en doğru sistem bulunmuşcasına bir çeşit kibre, kendinden eminliğe bürünürdü. tartışmada hatalı olduğunu kabul etmek ağrına gider, sürekli aşağılayıcı bir tutum sergiler ve en sonunda mükemmel sisteminin seviyesine yükselemememizden dem vururdu. bu bahsettiğim insan öyle taşradan okula gelip iki kitap okuyarak da bürünmedi bu tutuma. birçok siyasi ve tarihi okumanın üstüne oluşturduğu bir birikim vardı kendisinin. buna rağmen verdiği argümanların çoğunda aynı inançlı insanlarda da oluşan bir kurtarma refleksi, bir romantizm, gönülden gelen(!) bir bağlanmışlık var. ben bu durumu aslında genelde siyasi konularda dincilerden daha bilgili olduklarına şahit olduğum bir güruh olan türkçülerde<sup class="ab"><a title="(bkz: ülkücü değil türkçü)" href="/?q=%c3%bclk%c3%bcc%c3%bc+de%c4%9fil+t%c3%bcrk%c3%a7%c3%bc" data-query="ülkücü değil türkçü">*</a></sup> de görüyorum. siyasi tarihi bilen, iktisadi teorilere az buçuk aşina ama bir ideolojiye aklıyla değil gönlüyle bağlandığı için olayları ve olguları yanlış okuyan insanlar. aslına bakarsanız ideolojisinden ziyade herhangi bir görüşe karşı duyulan romantizmin benzer etkileri desek daha doğru. yine de söze dinciler ve sosyalistler olarak başladık, benzerliklere de öyle yaklaşalım.<br/><br/>türkiye'deki dinci ve sosyalistlerin tavır ve söylemlerindeki dikkatimi çeken benzerlikler:<br/><br/>- ideal düzen, kurtarıcı sistem onlar için barizdir. ancak hakkıyla uygulanmadığı için dünya kıymetini bilmemektedir.<br/><br/>"gerçek islam bu degil."= "20. yüzyıldaki sosyalist rejimlerin hiçbiri bizi yansıtmıyor."<br/><br/>- ırkçılığa karşıdırlar, türklere de karşıdırlar.<br/><br/>"yaradan hepimizi eşit yaratmış. zaten türk diye bir şey de kalmadı artık."<br/>= "hepimiz ermeyiniz, hepimiz kürdüz ama türklerin anasını sikeyim. foşikler."<br/><br/>- hep bir uçuk kafalar, hep bir gerçeklerden uzaklık vardır.<br/><br/>"avrupa reisten korkuyor. yakında herkes haddini bilecek."=<br/>"avrupa'da bir hayalet dolaşıyor. yakında devrim gelecek."<br/><br/>- ideolojik olarak yakın hissettiği insan katil bile olsa onun hatırasını (!) el üstünde tutabilir. inandığı fikirler (dava) uğruna ölmeyi değerli görür. <br/><br/>- değişime kapalıdırlar. düşünce ve düşünmeye yönelik serüvenleri büyük ölçüde bitmiştir. zaten doğru olan "hak" olan uygun olan onların görüşüdür. kendilerini çok daha yüksek bir zümreye (cennete vip girecekler veya "proleterya bilinci" hakkında kadıköy'de sohbet edebilen kızlı erkekli tayfa) ait görürler. <br/><br/>not: şimdi düşününce de insan meselenin ideoloji olmadığını anlıyor aslında. dinci ve sosyalist taban tabana zıt olduğu için bu kıyaslama birçok yönden çarpıcı geliyor.<br/><br/>çok güzel bir sözle bitirelim.<br/><br/>"<a class="b" href="/?q=d%c3%bc%c5%9f%c3%bcncelerim+i%c3%a7in+%c3%b6lmeyi+g%c3%b6ze+almam">düşüncelerim için ölmeyi göze almam</a>. çünkü yanılıyor olabilirim. "<br/><br/>-bertrand russell<br/><br/>edit: bir arkadaş hangi solcunun kötü bir insan olup yüceltildiğini sordu. <br/>yılmaz güney, mahir çayan ve hatta daha yaşattığı acı taze olan şafak yayla. kendisi grup yorumun konserlerinde de bol bol anılmıştır.
   entry_channels: anket
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
@@ -363,29 +323,69 @@ data:
     baya baya fakbadi arıyor millet.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
+    cüneyt özdemir
+  entry_id:  108736960
+  entry_writer: bakin burasi cokomelli
+  entry_fav_count: 5
+  entry_content: |
+    korkuyorsa gazetecilik yapmasın. bu da yeni çıktı amk, gazeteci çıkıyor silivri soğuktur diyor, kimse de demiyor "ulan dalyaprak biz zorla mı gazetecilik yaptırıyoruz sana, yapma" diye. ekmek parası peşinde denen adam, amerika'da yaşıyor bu arada. yersen amk.
+  entry_channels: siyaset,tv,haber,seyahat
+- entry_name: |
     piyano sesini şikayete gelen komşu
   entry_id:  108755708
   entry_writer: filosofia
-  entry_fav_count: 1
+  entry_fav_count: 3
   entry_content: |
     bakın yerli/yersiz saatlerde çalarsanız ve çalma işlemini rutin haline getirirseniz illa ki insanlar rahatsız olacaktır. eski evimde oturduğum zamanlar karşı komşunun oğlu sürekli ney çalardı. ilk taşındığım zaman bana huzur veren o ney sesi artık işkenceye dönüşmüştü. çünkü ansızın, saat fark etmeksizin çalıyor ve insani hayattan bezdiriyordu. yaz günleri terasa çıkar ve orada çalardı. artık tüm cadde illallah etmişti. ne çocuk uyutabiliyor, ne film izleyebiliyor, ne kitap okuyabiliyor, ne de kafa dinleyebiliyordum. kafamın içinde sabah uyandığım andan itibaren ney sesi yankılanıyordu. taşındım ve kurtuldum.
   entry_channels: ilişkiler,müzik
 - entry_name: |
-    ölünce bilinç nereye gidiyor sorunsalı
-  entry_id:  108753629
-  entry_writer: eeuummm
-  entry_fav_count: 0
+    alexander sörloth
+  entry_id:  108755252
+  entry_writer: borkluce mustafa
+  entry_fav_count: 2
   entry_content: |
-    nereye gittiğinin ne önemi var.
+    poko gibi hızlı, çevik adama yakalanmadı, üstüne bir de penaltı yaptırdı. ligimizin mvp'si.
+  entry_channels: spor
+- entry_name: |
+    ölünce bilinç nereye gidiyor sorunsalı
+  entry_id:  108756447
+  entry_writer: l e 1 0
+  entry_fav_count: 1
+  entry_content: |
+    doğmadan önce neredeyse oraya.
   entry_channels: bilim
 - entry_name: |
-    oynanan ilk playstatin oyunu
-  entry_id:  108756798
-  entry_writer: baskin basan
+    çocuğunuz lgbt olsaydı sorusu
+  entry_id:  108758293
+  entry_writer: eren kemal
+  entry_fav_count: 1
+  entry_content: |
+    siyasal islamci olmadiktan sonra sorun yok. diledigini olabilir.
+  entry_channels: anket
+- entry_name: |
+    luiz gustavo dias
+  entry_id:  108757713
+  entry_writer: lordofcinder
+  entry_fav_count: 1
+  entry_content: |
+    harika bir futbolcu. altay bayındır ile birlikte bugün maçın kazanılmasının en önemli 2 adamından biri.
+  entry_channels: spor
+- entry_name: |
+    çaylaklardan mesaj bekleyen yazarlar veritabanı
+  entry_id:  108712458
+  entry_writer: usame bin ladinin en iyi arkadasi
   entry_fav_count: 0
   entry_content: |
-    tony hawk pro skater 4 (ps1)
-  entry_channels: oyun,teknoloji
+    istanbul da bilimum sanat/kültür faaliyetleri icra eden istanbul modern vb. gibi yerlere cidden gitmek isteyen varsa buyursun. tek başına gitmek çok sıkıcı. insanlar hep 2 kişiden fazla gidiyor ben ise hep tekim.<br/>(üniversite öğrencisiyim, gelin 2 yol muhabbet edelim)<br/><br/>gecenin bir vakti kalpten gitmek istemiyorsanız eğer sesi kısın. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/-uARMdTfMKc">https://youtu.be/-uarmdtfmkc</a>
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    oynanan ilk playstation oyunu
+  entry_id:  108756507
+  entry_writer: vusta
+  entry_fav_count: 0
+  entry_content: |
+    fifa 99
+  entry_channels: anket
 - entry_name: |
     hamza yerlikaya
   entry_id:  108747907
