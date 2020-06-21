@@ -6,7 +6,7 @@ data:
     21 haziran 2020 içişleri bakanlığı genelgesi
   entry_id:  109158427
   entry_writer: besiktasjk
-  entry_fav_count: 1478
+  entry_fav_count: 1487
   entry_content: |
     haraç bahane değildir. ilimden, irfandan, saygıdan uzak bir milletin parayla terbiyesi böyle olur maalesef.
   entry_channels: siyaset,sağlık,haber,ekonomi
@@ -14,31 +14,39 @@ data:
     kick boks sporcusunun trafik magandalarını dövmesi
   entry_id:  109167896
   entry_writer: skyward
-  entry_fav_count: 688
+  entry_fav_count: 704
   entry_content: |
     yemeye doymayan açık renkli giyinimli kekonun, videonun sonlarına doğru yalandan boksör adımları/zıplamaları yapıp biz de boş değiliz demeye getirmesi yarmıştır.
   entry_channels: haber
 - entry_name: |
+    20 haziran 2020 mersin akkuyu'nun son hali
+  entry_id:  109146890
+  entry_writer: albino bukalemun
+  entry_fav_count: 668
+  entry_content: |
+    nükleer santral yapılınca yanına nükleer silahı, hediye olarak verdiklerini zanneden suserlerin savunmaya çalıştığı rezalettir.
+  entry_channels: siyaset,haber
+- entry_name: |
     salgın bitti algısı var toplum kontrolü kaybetti
   entry_id:  109168919
   entry_writer: chessboard
-  entry_fav_count: 634
+  entry_fav_count: 640
   entry_content: |
     dış hatları bile uçuşa açtınız, normalleşme adı altında ne kadar yasak varsa kaldırdınız da, bize mi bok atıyorsun "toplum kontrolü kaybetti" diye...<br/><br/>yoo hayır! siz kontrolü kaybettiniz sevgili "bilim insanı" <br/><br/>bundan sonra her ölen sizin hesabınıza yazar!
   entry_channels: haber
 - entry_name: |
-    kavga etmekten korkan erkek
-  entry_id:  109137315
-  entry_writer: kivanco
-  entry_fav_count: 397
+    hayatında otelden hiç havlu çalmamış insan
+  entry_id:  109147373
+  entry_writer: chessboard
+  entry_fav_count: 426
   entry_content: |
-    normal bir dünyada kavga etmekten korkan erkek fiziksel olarak zarar görmek istemeyen erkektir.<br/><br/>ama ekşici evrenindeyseniz durum farklı. başlık altında defalarca kez değinildiği gibi ekşici bünye hulk gibi ayarsız gücüyle karşındakileri bir vuruşta öldürmekten çekindiği için kavgadan korkar. bu sınırsız kuvvet ekşicilere çaylaklıktan çıkıldığında kanzuk tarafından imza karşılığında teslim edilmiştir. <br/><br/>ben yine de ekşisözlük'ün adının klavyeli kolpacılar otağı olarak değiştirilmesini rica ediyorum.<br/><br/>kolpacı demişken bir de şu modelllerimizden var: (bkz: <a class="b" href="/?q=bana+denk+gelmez+ki+insan%c4%b1">bana denk gelmez ki insanı</a>)
-  entry_channels: ilişkiler
+    tanrılar kimseyi o otel odasındaki, birilerinin götünü sildiği havluyu çalmaya tenezzül edecek kadar düşürmesin...<br/><br/>hele o dünyanın en dandik şampuanlarını falan götürüyorlar ya... <br/><br/>hani maliyeti 50 kuruş bile olmayan terlikleri, tv kumandasının pillerini, o ufak sabunları...<br/><br/>al oğlum al, yastık kılıflarını da al amına koyayım! lazım olur!<br/><br/>yazık lan!
+  entry_channels: anket,seyahat
 - entry_name: |
     gece sokakta öpüşen çifte söven çomar
   entry_id:  109176309
   entry_writer: ppisine
-  entry_fav_count: 364
+  entry_fav_count: 410
   entry_content: |
     çirkini öpmemişler kendini namuslu sanmış diye bir söz var bizde. orada dayak yiyen bir kadın olsa böyle tepki gösterir miydi acaba sayın namus timsali a. kodumun ahlak bekçisi motorcu...
   entry_channels: siyaset,ilişkiler,tv,haber,eğitim,ekonomi
@@ -46,7 +54,7 @@ data:
     #savunmayürüyor
   entry_id:  109138002
   entry_writer: kuyrukrotoru
-  entry_fav_count: 338
+  entry_fav_count: 358
   entry_content: |
     bugün, ankara'ya doğru yürüyen baro başkanlarının söylediklerinden anladığım şu. <br/><br/>bilindiği gibi, yargının 3 ayağı var, savcılık ayağı, hakimlik ayağı ve avukatlık ayağı. akp savcılık ve hakimlik ayağını kendi kontrolüne aldı mı? aldı. hatta içinden geçti. geriye avukatlık yani savunma ayağı kalıyor. akp yıllardır ne yapsa ne etse bu savunma ayağını kendi kontrolüne alamadı. işte bu ayağı da kendi kontrolüne almak için her ilde bir adet bulunan baro başkanlığını iki üç artık o ilde kaç adet baro olunca kendi çıkarına olacaksa o kadar baro başkanlığı oluşturmaya çalışıyor. yani savunma ayağının da anasını bellemeye çalışıyor. neden? çünkü tek amaç var. her kuruma, her kuruluşa siyaseti sokarak içini boşaltmak, anasını bellemek.<br/><br/>işte yapılmaya çalışılan bu harekete karşı baroların yani savunma ayağının, protesto amaçlı yaptığı yürüyüş.<br/><br/>ayrıca, yargı tabutuna son çivi çakılırken milletin uyuduğu, hak ettiği ilgiyi görmeyen yürüyüş.<br/><br/>ekleme
   entry_channels: siyaset,haber
@@ -54,7 +62,7 @@ data:
     günlük kiralık villa kurnazlığı
   entry_id:  109163452
   entry_writer: opridon
-  entry_fav_count: 308
+  entry_fav_count: 310
   entry_content: |
     karşılıklı bir kurnazlık öyküsü. herkes birbirinden kurnaz olduğu için sizi baş başa bırakmak en iyisi.<br/><br/>edit: bir organizasyoncu, o evi kendisi için kiralayacağını söyleyip 2.500'e kiralar, 50-60 kişilik bir gruba hazırlayacağı organizasyonla 20 ila 60-70 bin lira bandında para kazanabilir. bahsi geçen organizasyon düğün de olabilir, kumar partisi de, orgy de, koko parti de olabilir. bu mülk sahibinin denetleyebileceği bir şey değil. <br/><br/>mülk sahibinin <sup class="ab"><a title="(bkz: ahbabınız değil ise)" href="/?q=ahbab%c4%b1n%c4%b1z+de%c4%9fil+ise" data-query="ahbabınız değil ise">*</a></sup> "organizasyon amacıyla" yapılan kiralamalara bu şekilde yaklaşması çok normal.<br/><br/>aile arasında nişan, doğum günü vb bir amaçtan bahsedilseydi, mülk sahibi fiyatı buraya çekmez konuyu da ticari kullanım olarak değerlendirmezdi muhtemelen. fakat düğün, ses sistemi, organizasyon vb anahtar kelimeler konuyu ticari alana taşıyor. <br/><br/>meselenin özü şudur; herhangi bir malı ticari saikle kiralamak ve bireysel kullanım için kiralamak arasında fark vardır. bu fark fiyata yansır. bu bir çok alanda kullanılan bir yöntem. "personal use" ve "commercial use" tabirlerini neredeyse her alanda görebilirsiniz.
   entry_channels: ekonomi
@@ -62,7 +70,7 @@ data:
     bir kızın evlenilecek kız olduğunu anlamanın yolu
   entry_id:  109156824
   entry_writer: birsinemafilminebiletalmisim
-  entry_fav_count: 294
+  entry_fav_count: 304
   entry_content: |
     iş aradığım,cebimde beş para olmadığı ve ailemle aramın aşırı derecede kötü olduğu zamanda konuşurken ''boşver,atla gel yanıma ne varsa ikiye bölüşürüz '' dediği andı benim için.<br/><br/>edit: sonrası evlilik olmadı maalesef evlilik teklifi edecekken terk edildik.
   entry_channels: anket,ilişkiler
@@ -70,7 +78,7 @@ data:
     imf'nin 2020 yılı satın alma gücü sıralaması
   entry_id:  109173607
   entry_writer: boh mu lan bu
-  entry_fav_count: 161
+  entry_fav_count: 166
   entry_content: |
     ülkemizin ekonomide şahlanıp, çığır açtığını gösteren sıralamadır.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://tr.wikipedia.org/wiki/Kişi_başına_satın_alma_gücü_paritelerine_göre_ülkeler_listesi" title="https://tr.wikipedia.org/wiki/Kişi_başına_satın_alma_gücü_paritelerine_göre_ülkeler_listesi">https://tr.wikipedia.org/…rine_göre_ülkeler_listesi</a>
   entry_channels: haber,ekonomi
@@ -78,7 +86,7 @@ data:
     ak partili olmayanların tamamı vatan hainidir
   entry_id:  109170265
   entry_writer: kalemsiz bir yazar
-  entry_fav_count: 109
+  entry_fav_count: 111
   entry_content: |
     parsel parsel vatan satan, vatandaşlık satan adamlar. fetö sümüklüsüne ne istedilerse veren, açılımla megri megri diye anıran adamlar vatan seviyor oluyorsa bi basın gidin mk.
   entry_channels: siyaset
@@ -86,7 +94,7 @@ data:
     mezar taşına yazılması istenen söz
   entry_id:  109160636
   entry_writer: yaptim ama bi sor niye yaptim
-  entry_fav_count: 75
+  entry_fav_count: 77
   entry_content: |
     (bkz: <a class="b" href="/?q=merhaba+arkada%c5%9flar+mezar%c4%b1ma+ho%c5%9f+geldiniz">merhaba arkadaşlar mezarıma hoş geldiniz</a>)
   entry_channels: anket
@@ -94,7 +102,7 @@ data:
     20'li yaşların komple bomboş geçmesi
   entry_id:  109173196
   entry_writer: gilmer
-  entry_fav_count: 71
+  entry_fav_count: 75
   entry_content: |
     amerika'da üniversiteye başlamadan <a class="b" href="/?q=gap+year">gap year</a> alıp bir sene dünyayı gezen, sosyal sorumluluk projelerinde çalışan gençler, ne istediklerini bilerek başlıyorlar üniversiteye. bir yıl boşa geçti diye kaygılanmadan.<br/>üniversiteye başladıktan sonra branş seçiyorlar. okul bittikten sonra da pek çok program var burslu, iş hayatı öncesi başka bir ülkede bambaşka işler yapmak isteyen gençler için. yine bir gap year işte.<br/>sonra bir kaç yıl çalıştıktan sonra, sektör, şehir, iş değiştiren ya da grad school'a başlayan insanlar. doktor mu olacaklar, avukat mı ona göre yine okuyorlar. kimse bir şeyler kaçıyor diye koşturmuyor, hayat uzun, seçenekler çeşitli, hep sorgulama araştırma. <br/>kırkından sonra bambaşka bir kariyere korkmadan başlayabiliyorlar. 18 yaşındaki akılla, bir tek sınavda alınmış puana göre seçilmiş bir okul, meslekle sınırlı kalmadan yaşıyorlar...
   entry_channels: ilişkiler
@@ -102,7 +110,7 @@ data:
     ikinci el otomobil piyasası
   entry_id:  109141751
   entry_writer: tamuhalif
-  entry_fav_count: 69
+  entry_fav_count: 72
   entry_content: |
     2 senedir istedigim arabayi almak icin para biriktiriyordum. 3 ayi kalmisti simdi 10 yili kaldi.<br/><br/>ıs tam anlamiyla boyle oldu. otv denen verginin orani dusmedigi surece hep belli bir zumre araba alir satar. bu sekilde de cakalliklar daha cok artar.<br/><br/>benim tahminime gore fiyatlar daha da artacak. 10 yil sonraki halimizi gormek isteyen ukrayna'ya gidebilir. her yer eski araba.
   entry_channels: anket,haber,otomotiv,ekonomi
@@ -110,7 +118,7 @@ data:
     serdar savaş
   entry_id:  109179787
   entry_writer: balthazar blake
-  entry_fav_count: 61
+  entry_fav_count: 70
   entry_content: |
     şu an habertürk kanalında katıldığı canlı yayında " madem risk yok sınav salonlarına cumhurbaşkanı ve sağlık bakanı da girsin, kenarda oturup gazete okusunlar " minvalinde muhteşem bir laf edendir.<br/><br/>tabi fatih altaylı mosmor oldu.<br/><br/>edit : iktidar yalakası profesörlere gerizekalı dedi ya içimin yağları eridi. gerçekleri saklayan sözde profesörleri perişan etti helal olsun.
   entry_channels: bilim,sağlık
@@ -126,26 +134,42 @@ data:
     21 haziran 2020 kasımpaşa fenerbahçe maçı
   entry_id:  109177090
   entry_writer: camlicagazoz
-  entry_fav_count: 58
+  entry_fav_count: 60
   entry_content: |
     fenerbahçe' nin 1 maçlık galibiyet serisi sona erdi.
   entry_channels: spor
 - entry_name: |
-    21 haziran 2020 galatasaray gaziantep fk maçı
-  entry_id:  109180908
-  entry_writer: hattorihanzo f8
-  entry_fav_count: 49
+    emrah safa gürkan
+  entry_id:  109138424
+  entry_writer: cagliari
+  entry_fav_count: 59
   entry_content: |
-    avrupa'nın en iyi forvetlerinden birisi ile karşı karşıya kalarak gol yiyen kaleciyi rüşvet almakla suçlayan mal suserleri gördüğümüz maçtır
-  entry_channels: spor
+    gereksiz yere linç edilmiyor. konunun ekşisözlük ile de alakası yok. her şeyi çorba yapıyorsunuz.<br/><br/>linç yememesi için <br/><br/>1. ya sosyal medya' da popüler bir figür olmayacak. ne yaptığını bilmeyeceğiz sadece kitaplarını okuyacağız ve konferanslarına katılacağız.<br/><br/>2. ya da popüler bir sosyal medya figürü olarak kimin ile çalıştığına ne yaptığına çok dikkat edecek her hangi bir hareketinin sonuçları ne olur diye çok özen gösterecek.<br/><br/>bilgisine kültürüne bir şey diyen yok zaten. bu blackface olayı da "gerizekalı sjw ler ağlamasın" bahnesi ile değil de özür dileyerek hemen değiştirilseydi kimse bu kadar abartmazdı. <br/><br/>ama türkiye' de tepki gösterene yayıncısı küfrederken yurtdışındaki akademik çevresine bizzat özür dilemesi ile hala konu kapanmış değil. <br/><br/>insanların neye tepki gösterdiğini bile anlamadan savunmak da tam bir ekşisözlük kültürü diyeyim ben de o zaman.
+  entry_channels: tarih,edebiyat,eğitim
 - entry_name: |
     survivor 2020 ünlüler-gönüllüler
-  entry_id:  109138059
-  entry_writer: ceann deas
+  entry_id:  109138150
+  entry_writer: ataride ordek vuran adam
+  entry_fav_count: 43
+  entry_content: |
+    evrim nasıl algıcı bir varoşsun ya. 4 aydır başramadılar beni göndermeyi diyor. lan zaten yarısına kadar kadınların elenme yasağıyla geldin. benim hakkımdan gelemediler diyor. acun medya müsade etmedi ki gelsinler.
+  entry_channels: tv,magazin,spoiler
+- entry_name: |
+    boxersız gezmek
+  entry_id:  109178779
+  entry_writer: 31feetunder
   entry_fav_count: 41
   entry_content: |
-    berkan evrimin adaylığının düşmeyeceğine emin olmaya çalışıyor sjdkdmdmdmx
-  entry_channels: tv,magazin,spoiler
+    (bkz: <a class="b" href="/?q=pipiyi+fermuara+kapt%c4%b1rmak">pipiyi fermuara kaptırmak</a>)
+  entry_channels: anket,moda
+- entry_name: |
+    afyonkarahisar da 2.5 tl ye tavuk döner
+  entry_id:  109180915
+  entry_writer: okb18
+  entry_fav_count: 38
+  entry_content: |
+    civar bölgedeki kedi köpek nüfusu araştırılmalı.
+  entry_channels: anket,yeme-içme,ekonomi
 - entry_name: |
     vedat muriqi
   entry_id:  109173883
@@ -155,21 +179,29 @@ data:
     vedat vegan olmuş.
   entry_channels: spor
 - entry_name: |
-    boxersız gezmek
-  entry_id:  109178779
-  entry_writer: 31feetunder
-  entry_fav_count: 36
+    babalar günü
+  entry_id:  109139672
+  entry_writer: bilgemergen
+  entry_fav_count: 29
   entry_content: |
-    (bkz: <a class="b" href="/?q=pipiyi+fermuara+kapt%c4%b1rmak">pipiyi fermuara kaptırmak</a>)
-  entry_channels: anket,moda
+    yarın sabah beni sahilde kahvaltıya götürecekmiş iki gözümün çiçeği kızım.<br/><br/>ama sürprizmiş, telefonda arkadaşı ile konuşurken yanlışlıkla kulak misafiri oldum.<br/><br/>umarım yarın sabah şaşırmış gibi yapabilirim çünkü çok sevinçliyim.
+  entry_channels: ilişkiler
 - entry_name: |
-    afyonkarahisar da 2.5 tl ye tavuk döner
-  entry_id:  109180915
-  entry_writer: okb18
-  entry_fav_count: 35
+    bir kadını kendine bağlamanın en iyi yolu
+  entry_id:  109164850
+  entry_writer: wu
+  entry_fav_count: 27
   entry_content: |
-    civar bölgedeki kedi köpek nüfusu araştırılmalı.
-  entry_channels: anket,yeme-içme,ekonomi
+    <a class="b" href="/?q=afedersin+ama+yarak">afedersin ama yarak</a> diyen arkadaşlara ithafen yazıyorum. <br/>sevişmenle, çükünün boyutuyla falan bunu yaptığını düşünüyorsan sana üzülürüm dostum. uykundan uyan. zaten bu mümkün olsa tarikat falan kurmalısın. bilesin ki gölgesinde güneşlenecek... motorları maviliklere süreceğiz.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    bir insanın boş biri olduğunu anlama yöntemi
+  entry_id:  109182400
+  entry_writer: cakmaayfon
+  entry_fav_count: 27
+  entry_content: |
+    en önemli gösterge , her konuda fikri olmasıdır...
+  entry_channels: anket,ilişkiler
 - entry_name: |
     hayatı stressiz ve huzurlu yaşamak için gerekenler
   entry_id:  109141338
@@ -179,37 +211,37 @@ data:
     bana göre tek bir şey gerekli, o da: en nihayetinde ölüp gideceğimizin sürekli farkında olmak, bunu hiç aklından çıkarmamak ve böylece dünyaya ve dertlerine çok saplanmamak. şurada max 50-60 yıl sonra ölüp gideceğiz ve her şey bitecek, anlamını yitirecek; bu gerçeğin karşısında diğer tüm dertler sıkıntılar anlamını yitiriyor. en azından bende böyle işliyor.
   entry_channels: anket,sağlık
 - entry_name: |
-    yaran başlıklar
-  entry_id:  109181691
-  entry_writer: benibekledinse
-  entry_fav_count: 23
-  entry_content: |
-    (bkz: <a class="b" href="/?q=recep+tayyip+erdo%c4%9fan+%c3%bcniversitesi+hukuk+fak%c3%bcltesi">recep tayyip erdoğan üniversitesi hukuk fakültesi</a>)
-  entry_channels: anket,ekşi-sözlük
-- entry_name: |
-    mansur yavaş'ın imamoğlu'ndan fazla sevilme nedeni
-  entry_id:  109167736
-  entry_writer: afti ine i sparti
-  entry_fav_count: 23
-  entry_content: |
-    mansur yavaş görmüş ekrem imamoğlu geçirmiştir. kime mi? ayıp.
-  entry_channels: siyaset,anket
-- entry_name: |
     üzüntüden kusmak
   entry_id:  109174948
   entry_writer: nediyorsunsamuray
-  entry_fav_count: 21
+  entry_fav_count: 22
   entry_content: |
     psikolojik kökenlidir ve bu durumun en önemli nedeni, duyguların net ifade edilememesidir.
   entry_channels: ilişkiler,sağlık
 - entry_name: |
-    yalnızlık güzeldir
-  entry_id:  109172838
-  entry_writer: gozlemlenemezevren
+    togg 2022'de yollarda olacak
+  entry_id:  109184244
+  entry_writer: masteryoda
+  entry_fav_count: 17
+  entry_content: |
+    2020 haziran bitiyor.<br/>henüz fabrika yok.<br/>servis ve bayi ağı yok.<br/>pazarlama, satış ve planlama yok.<br/>togg 2022'de yollarda.<br/>yersen.
+  entry_channels: siyaset,otomotiv
+- entry_name: |
+    şato sahibi olunsa yapılacak ilk şey
+  entry_id:  109180757
+  entry_writer: screenwriter
   entry_fav_count: 16
   entry_content: |
-    havadan sudan muhabbetler içine girmek, hiç ilginizi çekmeyen konular hakkında sözde sosyal olalım maksadında bir ortamda bulunma zorunluluğundan daha iyidir. <br/><br/>yalnız olduğumda en azından kendimi topluyor, maskeleri kenarı bırakıyor, bir kalıp içine girmek zorunda kalmıyorum. ancak teknik, tarihi, felsefi, bilimsel konular hakkında derin tartışmalar, sohbetler içerisinde bulunabileceğiz bir yer varsa eminim çok ama çok kafa açıcı olacaktır. <br/><br/>yani yalnızlık var yalnızlık var. yani sosyal ortam var, sosyal ortam var.
-  entry_channels: ilişkiler,edebiyat
+    filmcilere kiraya veririm, 15 lira gelir, rahat ederim.
+  entry_channels: anket,spoiler
+- entry_name: |
+    yalnız insanların ortak özellikleri
+  entry_id:  109167659
+  entry_writer: yaptim ama bi sor niye yaptim
+  entry_fav_count: 16
+  entry_content: |
+    kargo adresi olarak iş adreslerini gösterirler.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     ali koç
   entry_id:  109178073
@@ -219,37 +251,45 @@ data:
     nankör herifler, geçen sene son haftalarda kümede kalmayı garantilemiştiniz, bu sene bitime 6-7 hafta kala rahat rahat maç izliyorsunuz, daha ne istiyorsunuz?<br/><br/>(bkz: <a class="b" href="/?q=vizyon+reis">vizyon reis</a>)
   entry_channels: spor,siyaset,ekonomi
 - entry_name: |
-    şato sahibi olunsa yapılacak ilk şey
-  entry_id:  109180656
-  entry_writer: yamaliozon
-  entry_fav_count: 15
-  entry_content: |
-    pencerelere pimapen, dış cepheye de yalıtım yaptırmak. <br/><br/>şaton mu var derdin var.
-  entry_channels: anket,spoiler
-- entry_name: |
-    yalnız insanların ortak özellikleri
-  entry_id:  109167659
-  entry_writer: yaptim ama bi sor niye yaptim
-  entry_fav_count: 15
-  entry_content: |
-    kargo adresi olarak iş adreslerini gösterirler.
-  entry_channels: anket,ilişkiler
-- entry_name: |
     ekşi itiraf
   entry_id:  109138625
   entry_writer: 1123581321
-  entry_fav_count: 12
+  entry_fav_count: 13
   entry_content: |
     daha icat edilmemiş kelimeler var sanki. sanki o kelimelerin icat edilmesiyle keşfedilecek duygular saklı kaldığı yerden çıkacak. daha çok kelimeye ihtiyacım var. eskiden altında ezildiğim kelimeler olurdu, artık bilmediğim kelimelerin düştüğü yeri merak ediyorum. yaşamak hiç bu kadar sıradanlaşmamıştı. yeni kelimeler lazım hepimize.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
+    alper ulusoy
+  entry_id:  109185165
+  entry_writer: zuleyman
+  entry_fav_count: 13
+  entry_content: |
+    düdüğünü astirmayan yönetim görevi bıraksın dediğim hakem
+  entry_channels: spor
+- entry_name: |
+    ışid'in katlettiği 2 askerin katilinin yakalanması
+  entry_id:  109138938
+  entry_writer: uckuruslukopera
+  entry_fav_count: 12
+  entry_content: |
+    şehitlerin adlarını da haberlerde kısaltarak vermeye başladık demek. <br/><br/>ya rab, kopar şu kıyametini...
+  entry_channels: siyaset,tarih,haber
+- entry_name: |
     yarına tek bilet
   entry_id:  109140432
   entry_writer: cifut
-  entry_fav_count: 9
+  entry_fav_count: 10
   entry_content: |
     sanki birisi spotify çalma listesininin takip edilmemesine içerleyip film çekmiş gibi bir film.
   entry_channels: tv,müzik,sinema,seyahat
+- entry_name: |
+    okan kocuk
+  entry_id:  109185585
+  entry_writer: beredayi
+  entry_fav_count: 9
+  entry_content: |
+    amin oglu antebe karsi iki defa oyun mu yavaslatir kaldi ki ilkinden sari yemissin amacin nedir amk? seni kume dusen bursadan alip galatasaraya ikinci kaleci yapan yonetimi de sikeyim
+  entry_channels: spor
 - entry_name: |
     yağmur yağarken akla ilk gelen şey
   entry_id:  109169008
@@ -259,14 +299,6 @@ data:
     "sokaklar boşalmıştır şimdi, dışarı çıkayım."
   entry_channels: anket
 - entry_name: |
-    neden sevgilin yok
-  entry_id:  109172041
-  entry_writer: apwbd
-  entry_fav_count: 8
-  entry_content: |
-    az sayıda istisna dışında insanların çoğu için sıralama şu şekildedir bence; güzel ilişki&gt;yalnızlık&gt;kötü ilişki.<br/><br/>güzel bir ilişki bulup sürdürebilmek aşırı zor ve insanların bunu yapacak enerjileri kalmadı. benim için sebep budur. burada yazılanlara baktığımızda çoğu insan için de sebebin bu olduğunu görüyoruz. <br/><br/>burada ilişkileri gömenlere, ıssız adam/kadın triplerine girenlere bakmayın. saygı, sevgi, eğlence, karşılıklı paylaşım, heyecan, tutku... içeren bir ilişki yaşayıp da sonra bunun gereksiz ve kötü bir şey olduğunu düşünen insana babam olsa güvenmem. yerim sizin triplerinizi.<br/><br/>"kıza para yedirmek, trip çekmek istemiyorum." falan yazanlara da yaz tatilinin tadını çıkarmalarını diliyor ama rehavete kapılmadan lise ve üniversitelere giriş sınavlarına çalışmalarını sürdürmelerini öneriyorum.
-  entry_channels: anket,ilişkiler
-- entry_name: |
     insanı yoran şeyler
   entry_id:  109176460
   entry_writer: irsaliyeli
@@ -275,53 +307,37 @@ data:
     evden çalışmak. iş yerinde biriken işler vardı, günün yoğunluğu nedeniyle bir türlü yapamadığım, yaklaşık 6 aylık iş hergün azar azar yapsam da bir türlü bitmeyen, üstüne yeni yeni işlerin eklenmesi ve artık ipin ucunun kaçmaya başlamasıyla; bu hafta sonu ne var ne yoksa eve getirdim. dün sabah 9'dan akşam 23:30'a kadar aralardaki ufak tefek molalar hariç hiç durmadım. bu sabah da 6:30'da uyandım ve bu saate kadar yine ufak molalar dışında durmadan çalıştım ve hâlâ yapılacak bir yığın iş var, yaptıkça artıyor sanki. iş yerinde bu kadar yorulmuyorum.<br/><br/>edit: harf hatası.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    bir insanın boş biri olduğunu anlama yöntemi
-  entry_id:  109182802
-  entry_writer: yakinlariuzakedenradyo
-  entry_fav_count: 8
-  entry_content: |
-    iyi niyetle soranlar yanlış anlamasın lütfen ama karşılaşır karşılaşmaz memleket sorması daha doğrusu insanları memleketine,diline,dinine göre ayırması yeterlidir bana göre.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    21 haziran 2020 teke tek bilim yayını
-  entry_id:  109182134
-  entry_writer: arsiz sirin
-  entry_fav_count: 8
-  entry_content: |
-    an itirabi ile biliminsanlarının birbirine girdiği program olmaktadır. kaynak daha sonra eklenecektir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://streamable.com/0y2p9i">https://streamable.com/0y2p9i</a><br/><br/>edit: kaynak eklendi.
-  entry_channels: tv,bilim,sağlık,haber
-- entry_name: |
-    babalar günü
-  entry_id:  109166137
-  entry_writer: delfina
+    21 haziran 2020 siglufjördur depremi
+  entry_id:  109185880
+  entry_writer: finveben
   entry_fav_count: 7
   entry_content: |
-    öldüğü zaman ardında üzüntüyle ağlayan bir evlat bırakacak olan tüm babaların günü kutlu olsun.<br/><br/>gerisinin canı cehenneme
-  entry_channels: ilişkiler
+    hepiniz çok ağır geri zekalısınız. amına kodumun beyinsiz ergenleri.
+  entry_channels: haber
+- entry_name: |
+    erdoğan'ın akp'den ayrılıp yeni parti kurması
+  entry_id:  109184764
+  entry_writer: sisli etfalde ayakustu sican teyze
+  entry_fav_count: 6
+  entry_content: |
+    yanına da bülent arınç, abdullah gül, ali babacan, sadullah ergin, hüseyin çelik, bekir bozdağ gibi izimleri de alırsa tadından yenmez. ülke şahlanır billahi!
+  entry_channels: siyaset
 - entry_name: |
     3 eylül 2081 güneş tutulması
-  entry_id:  109177953
-  entry_writer: zirrealist
-  entry_fav_count: 5
+  entry_id:  109181268
+  entry_writer: birarabira
+  entry_fav_count: 6
   entry_content: |
-    allah izin verirse ölümümden yaklaşık 31 yıl 3 ay sonra gerçekleşecektir. lol.
+    98 yaşımda, altmışlık çıtır sevgilimle, elimde birayla izleyeceğim tutulma.
   entry_channels: bilim
 - entry_name: |
-    f/p oranı en iyi şarap
-  entry_id:  109155375
-  entry_writer: bogurtlenli baryum
-  entry_fav_count: 4
+    instagram yüzünden soğunulan şeyler
+  entry_id:  109138470
+  entry_writer: narvezar
+  entry_fav_count: 5
   entry_content: |
-    j.p. chenet olduğu konusunda ısrarcıyım
-  entry_channels: anket,yeme-içme
-- entry_name: |
-    fenebahçe'deki kötü gidişatı durdurabilecek kişi
-  entry_id:  109179771
-  entry_writer: bolpantolongiyinenmualifmemur
-  entry_fav_count: 3
-  entry_content: |
-    siyasi durumla alakalıdır, herhangi bir akrabanın alması yeterli olacaktır. damat olur, enişte olur, bacanak olur<br/><br/>taraftarına konuşma yaparken 13 saniyede bir sayın cımhırbaşkanımız dese de olur
-  entry_channels: spor,anket
+    canlı yayınlar ve daha önce de yazdım plastik cerrahi.bazılarını takibi biraktım.birçok estetik uygulamayı kendi karısı üzerinde uygulamış plastik cerrah kocalar.daha çok para kazanmak için branşından vazgeçip botoksçu olan dermatologlar.bir ekleme daha yapmak istiyorum.küçük çocuklarını onların sırtından para kazanmak için ünlü yapmaya çalısan ebeveynler.
+  entry_channels: anket,teknoloji
 - entry_name: |
     en çok küfür yiyen eşyalar
   entry_id:  109176345
@@ -331,61 +347,21 @@ data:
     ekranlar.<br/><br/>layk diğz: <a rel="nofollow noopener" class="url" target="_blank" href="http://sketchtoy.com/69245391">http://sketchtoy.com/69245391</a>
   entry_channels: anket
 - entry_name: |
-    trendyol
-  entry_id:  109175739
-  entry_writer: bir filmdir hayallere yon veren
-  entry_fav_count: 2
+    21 haziran 2020 teke tek bilim yayını
+  entry_id:  109182314
+  entry_writer: we are being watched
+  entry_fav_count: 3
   entry_content: |
-    hiçbir şekilde herhangi bir satıcıdan alışveriş yapmamanız gereken site. elimde tüketici hakem heyetinin iade kararı verdiği bir ürün olduğunda bile "gidin satıcıyla görüşün, iletişim kurun." diyen bir yer.<br/><br/>kısacası ürünü trendyol üzerinden almakla. xyzsatis.com gibi bir siteden almak arasında hiçbir fark yok. ne iade, ne de herhangi bir süreçte yardımcı olmadılar. görselleri atayım da her gün trendyol'a sallıyor olmasın. n11 denilen pazar yeri bile süreçle daha ilgili.<br/><br/>1- <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/OVuMoM.jpg">https://i.hizliresim.com/ovumom.jpg</a><br/>2- <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/cD5cCM.jpg">https://i.hizliresim.com/cd5ccm.jpg</a>
-  entry_channels: teknoloji,moda,ekonomi
-- entry_name: |
-    sokakta yürürken bira içmek
-  entry_id:  109179333
-  entry_writer: birarabira
-  entry_fav_count: 1
-  entry_content: |
-    güzel bir eylem olabilir ama sokakta yürürken bira içerseniz entel ya da klas olarak görülmezsiniz, en hafif tabirle "müptezel" olarak görülürsünüz.
-  entry_channels: anket,yeme-içme
-- entry_name: |
-    sinyal vermeden dönen sürücü
-  entry_id:  109181654
-  entry_writer: joker hakki
-  entry_fav_count: 1
-  entry_content: |
-    <a class="b" href="/?q=%c4%b1sparta">ısparta</a> bu ve bunun gibi medeniyetsiz ayılıkların spawn olduğu membalardan biridir.
-  entry_channels: otomotiv,motosiklet
-- entry_name: |
-    okan kocuk
-  entry_id:  109184215
-  entry_writer: jewfro
-  entry_fav_count: 1
-  entry_content: |
-    ilk yarıda sektirdiği top haricinde hatasız oynayan kaleci.<br/><br/>(bkz: <a class="b" href="/?q=21+haziran+2020+galatasaray+gaziantep+fk+ma%c3%a7%c4%b1">21 haziran 2020 galatasaray gaziantep fk maçı</a>)
-  entry_channels: spor
-- entry_name: |
-    letgo'ya konulan 15.000 tl'lik laptop ilanı
-  entry_id:  109171451
-  entry_writer: cesurinsan
-  entry_fav_count: 1
-  entry_content: |
-    keşke gereksiz letgo başlıklarına blok şansı koysalarda, telefonu kasıyor; kafalar 15 bin
-  entry_channels: 
+    üniversite sınavları konusunda bilimadamlarının birbirlerine girdiği ve hatta hakaretler ettiği program olmakta şu an. videoları düşünce eklenecektir.<br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Dayanisma_Hatti/status/1274769517797945344?s=19" title="https://twitter.com/Dayanisma_Hatti/status/1274769517797945344?s=19">kısım 1</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/oguzzatsiz/status/1274784540981186561?s=19" title="https://twitter.com/oguzzatsiz/status/1274784540981186561?s=19">ana kısım</a>
+  entry_channels: tv,bilim,sağlık,haber
 - entry_name: |
     ingilizcenizden ana dilinizi tespit eden test
-  entry_id:  109171433
-  entry_writer: terbiyesiz
-  entry_fav_count: 1
+  entry_id:  109173368
+  entry_writer: seytanlardaguler
+  entry_fav_count: 2
   entry_content: |
-    aksan: 1. singapur 2. ingiltereli siyahların argosu 3. ingiliz<br/>anadil: 1. ispanyolca 2. türkçe 3. portekizce
+    our top 3 guesses for your english dialect<br/>1- australian<br/>2- scottish (uk)<br/>3- english ( england)<br/><br/>our top 3 guesses for your native language<br/>1- spanish<br/>2- arabic<br/>3- turkish <br/><br/>teşekkürler coğrafya kaderdir.
   entry_channels: eğitim
-- entry_name: |
-    youtube'daki çocuk işçiler
-  entry_id:  109181801
-  entry_writer: sessizmod
-  entry_fav_count: 0
-  entry_content: |
-    gündemde yer edinemeyecek haklı serzeniştir.<br/>bu çocukların çektiği belki tüm videoların bir ajans tarafından belirlendiğinden adım gibi eminim. prodüksiyon tv kalitesi, bunu gerçekten o çocuktan ya da ailesinden bekliyorsanız diyecek sözüm yok.
-  entry_channels: haber,eğitim
 - entry_name: |
     fenerbahçe
   entry_id:  109178366
@@ -402,4 +378,28 @@ data:
   entry_content: |
     hahaha adama bak “güzel kadınlar” demiş. çirkin erkekle dertleşilmiyor mu? bu kadar ezik olmayın olm niyetinizi belli edin, veritabanının içine sıçmayın.
   entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    bira içmelik arkadaş veritabanı
+  entry_id:  109179397
+  entry_writer: medeni ceset
+  entry_fav_count: 0
+  entry_content: |
+    ankaradaki hanımefendi ekle beni. insta whatsapp gelsin biralar ;)
+  entry_channels: anket,ilişkiler,ekşi-sözlük,yeme-içme
+- entry_name: |
+    an itibarıyla yazarların nerede olup ne yaptığı
+  entry_id:  109159086
+  entry_writer: casuall
+  entry_fav_count: 0
+  entry_content: |
+    artvin hopadayım. istanbuldan artvine otobüsle gitmeyin sakın ebem ağladı 2 büklüm indim otobüsten. otelin 2. katından sahili izliyorum şuan hava mis insanlarıda naif pek sevdim yaşanır mı burda bence evet
+  entry_channels: anket,ekşi-sözlük
+- entry_name: |
+    ahmet çalık
+  entry_id:  109183504
+  entry_writer: ippon
+  entry_fav_count: 0
+  entry_content: |
+    rahmetli cavcav’ın son döneminde, galatasaray’a 2.5 milyon euroya okuttuğu top tepici.aynı dönem de irfan can kahveci başakşehir’e 1.750.000 euroya transfer olmuştu.dursun özbek’in pazarlık gücünün eseri...
+  entry_channels: spor
 ---
