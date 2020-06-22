@@ -6,7 +6,7 @@ data:
     faizsiz bankacılık
   entry_id:  109196326
   entry_writer: harrage
-  entry_fav_count: 1855
+  entry_fav_count: 1859
   entry_content: |
     benim inandigim din olan zutturizm'de elma almak haramdir!!! tanri elmayi haram, armutu da helal kilmistir.<br/><br/>simdi iki secenek var.<br/><br/>1) manava gidiyorum. manava elma almak istedigimi soyluyorum. manav da bana kirmizi yuvarlak meyveler veriyor. bu haramdir!!<br/><br/>2) zutturist manava gidiyorum. manava elma almak istedigimi soyluyorum. manav bana elmanin haram oldugunu ama armut satabilecegini soyluyor. tamam diyorum. manav bana kirmizi yuvarlak meyveler veriyor ve bunlarin adinin armut oldugunu soyluyor.<br/><br/>benim icin degisen bir sey var mi? yok. her iki halde de kirmizi yuvarlak meyveler yiyorum. manav icin degisen bir sey var mi? her iki halde de kirmizi yuvarlak meyveler satarak ayni parayi kazaniyor.<br/><br/>ama iste bu yedigim armuttur. helaldir!!<br/><br/>tekrar soyluyorum, tanri armutu helal, elmayi haram kilmistir.<br/><br/>salam ve duga ile.
   entry_channels: ekonomi
@@ -14,7 +14,7 @@ data:
     mercedes'ine acemiyim özür dilerim yazan şoför
   entry_id:  109215692
   entry_writer: leroy smith
-  entry_fav_count: 1414
+  entry_fav_count: 1434
   entry_content: |
     şu nahifliğe bile kusur bulmak... vay arkadaş.<br/><br/>tanım: tatlı bir davranış.
   entry_channels: otomotiv
@@ -22,7 +22,7 @@ data:
     emine erdoğan'ın çantasını konuşmaya yasak
   entry_id:  109202392
   entry_writer: eskibirev
-  entry_fav_count: 1007
+  entry_fav_count: 1009
   entry_content: |
     biz de “bi lâle anlatır gibi”anlatırız artık.anlayan anlar artık.
   entry_channels: siyaset,ilişkiler,ekşi-sözlük,haber,yeme-içme,ekonomi
@@ -30,7 +30,7 @@ data:
     baro başkanlarının ankara yürüyüşü
   entry_id:  109203114
   entry_writer: maverick12
-  entry_fav_count: 551
+  entry_fav_count: 558
   entry_content: |
     olayı şöyle açıklayayım sevgili yazar arkadaşlar,<br/><br/>neredeyse tüm türkiye'nin karşı olduğu bir yasal değişiklik olduğunu ve her partinin buna karşı fikir belirttiğini düşünün. yani sizin oy verdiğiniz her siyasi partinin karşı olduğu, sizlerin de karşı olduğunuz bir yasal düzenlemenin tamamen tepeden inme bir şekilde getirilmesi ile aynı durumda olan barolarla ilgili yapılması planlanan yasal değişikliğe ve hukuk sistemimizdeki problemlere tepki olarak 56 baro başkanının tamamen demokratik, en ufak şiddet yahut ideolojik bir fikir içermeyen biçimde ankara'ya yaptığı yürüyüşün ankara girişinde polis şiddeti ile engellenmesi hadisesidir. <br/><br/>b. toplantı ve gösteri yürüyüşü düzenleme hakkı<br/>madde 34- (değişik: 3/10/2001-4709/13 md.)<br/>herkes, önceden izin almadan, silahsız ve saldırısız toplantı ve gösteri yürüyüşü düzenleme hakkına sahiptir.<br/>toplantı ve gösteri yürüyüşü hakkı ancak, millî güvenlik, kamu düzeni, suç işlenmesinin önlenmesi, genel<br/>sağlığın ve genel ahlâkın veya başkalarının hak ve özgürlüklerinin korunması amacıyla ve kanunla sınırlanabilir.<br/>toplantı ve gösteri yürüyüşü düzenleme hakkının kullanılmasında uygulanacak şekil, şart ve usuller<br/>kanunda gösterilir.<br/><br/>yukarıda anayasal dayanağı da açıkça ortaya konan bu hakkın gaspedilmesi, tam anlamıyla cebinizdeki paraya, malınıza veya hanenize devletin hiçbir gerekçe belirtmeksizin müdahalesi ile eş değerde bir durumdur. <br/><br/>sessiz kalınmaması, destek olunması gerekir.<br/><br/>edit: "(<a class="b" href="/entry/109203114">#109203114</a>) sayın cumhurbaşkanı başkomutan recep tayyip erdoğan veliyül emir efendimizin emr-ü fermanıyla engellenen yürüyüş. kudurun zuhahahahahahah"<br/>bu hukuksuz uygulamanın emrini veren kişiyi @this thing of ours nickli yazar arkadaş bana attığı mesaj ile ifşa etti. sağ olsun, ben de kim tarafından yapıldı diye merak içerisindeydim. bilgilerinize sunarım.<br/><br/>edit-2:twitter için #savunmayürüyor hashtag'i ile gündemde kalmasına yardımcı olabilirsiniz. @manuelka adlı yazar arkadaşa teşekkür ederim uyarısı için.
   entry_channels: siyaset,haber
@@ -38,7 +38,7 @@ data:
     900 tl'lik kira geliriyle 8 yıl çalışmadan yaşamak
   entry_id:  109200840
   entry_writer: kurk mantolu panda
-  entry_fav_count: 384
+  entry_fav_count: 386
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/2g2orx43" title="https://soz.lk/i/2g2orx43">görsel</a>
   entry_channels: anket,ekonomi
@@ -46,7 +46,7 @@ data:
     taksicilerin dolaylı yoldan rte'yi tehdit etmesi
   entry_id:  109205771
   entry_writer: umberto d
-  entry_fav_count: 361
+  entry_fav_count: 362
   entry_content: |
     devlet bu mafyalaşmış topluluğa boyun eğmez diye düşünüyorum.<br/><br/>eğmez, değil mi?
   entry_channels: siyaset,haber
@@ -70,7 +70,7 @@ data:
     türk ordusu vs mısır ordusu
   entry_id:  109214084
   entry_writer: incilizum
-  entry_fav_count: 195
+  entry_fav_count: 196
   entry_content: |
     mısır ordusu son savaşında 3 günde dümdüz olup saldırdığı ülke tarafından topraklarına el konulmuştur. (bu bir ilk olabilir) <br/>türk ordusunun son savaşı nedir bilmiyorum ama kesin girdiği gibi dümdüz etmiştir.<br/><br/>edit: anti militarist bir insanım ama kör de değilim. mısır askeri tarihin en büyük kepazeliklerine imza atarken korede galip gelen tek birlik türkiye'ye aitti. hatta sıkılıp görev dışı toprak da aldılar.<br/>amerikanın 5 sene stabilite yaratamadığı suriyenin kuzeyini iki haftada mum etti adamlar.<br/>her savaşı kazanır demiyorum ama türklerin %50 bonusla savaştığını kimse yadsıyamaz.
   entry_channels: siyaset,anket
@@ -86,7 +86,7 @@ data:
     martı scooter
   entry_id:  109198710
   entry_writer: deepblue82
-  entry_fav_count: 152
+  entry_fav_count: 154
   entry_content: |
     bisiklet yolu olmadığı için kaldırımda kullanılan hede. ne yapsın adam çevre yolunda, otobanda mı kullansın?
   entry_channels: teknoloji,motosiklet,seyahat
@@ -110,7 +110,7 @@ data:
     kastamonu'da kadınları döven kişi
   entry_id:  109192705
   entry_writer: doras
-  entry_fav_count: 126
+  entry_fav_count: 127
   entry_content: |
     gelen tepkiler üzerine tekrar içeri alınıp tutuklanacaktır.<br/><br/>bir twit az atsak, bir entry az yazsak gereken yapılmayacak gibi hissediyorum, toplumda adalete güven bırakmadılar. özellikle yapılsa bu kadar kötü olmaz.
   entry_channels: haber
@@ -131,6 +131,14 @@ data:
     barolardan sonra sıra z kuşağına gelecektir. akp-mhp işbirliğiyle hazırlanan kanun taslağında z kuşağının 18 değil, 25 yaşında reşit sayılacağı ve oy kullanma hakkını 2025'ten önce elde edemeyecekleri yönünde teklif verilecektir.<br/><br/>sonuç olarak ağır işsizlik ve yoksullukla akp z kuşağını ezerek bitirecektir.
   entry_channels: siyaset
 - entry_name: |
+    siklememe yaş sınırı
+  entry_id:  109216421
+  entry_writer: mantarlitavuk
+  entry_fav_count: 106
+  entry_content: |
+    33 yaştır benim için.şimdi de bokunu çıkardım sanırım, dünya yansa umurumda değil. 'aaa öyle mi olmuş, aaa bunu mu demiş benim için, aaa beni aldatmış mı, ağzından da öpmüş olabilir tatlış şey' deyip geçiyorum.
+  entry_channels: anket,ilişkiler
+- entry_name: |
     kahveyi sütsüz içmek
   entry_id:  109204400
   entry_writer: tyrcae
@@ -139,18 +147,34 @@ data:
     kahve dediğin sek içilir, şekersiz ve sütsüz. sek içilmeyen kahve, kahve değildir.
   entry_channels: anket,yeme-içme
 - entry_name: |
-    siklememe yaş sınırı
-  entry_id:  109216421
-  entry_writer: mantarlitavuk
-  entry_fav_count: 103
+    ekşi sözlük'ün yavaşlaması
+  entry_id:  109189367
+  entry_writer: one does not simply walk into eksisozluk
+  entry_fav_count: 101
   entry_content: |
-    33 yaştır benim için.şimdi de bokunu çıkardım sanırım, dünya yansa umurumda değil. 'aaa öyle mi olmuş, aaa bunu mu demiş benim için, aaa beni aldatmış mı, ağzından da öpmüş olabilir tatlış şey' deyip geçiyorum.
-  entry_channels: anket,ilişkiler
+    artık kabak tadı veren durum.
+  entry_channels: ekşi-sözlük,teknoloji
+- entry_name: |
+    tunç soyer'e sokak köpeklerinin saldırması
+  entry_id:  109221458
+  entry_writer: cevirmen
+  entry_fav_count: 88
+  entry_content: |
+    çok iyi etmişler. keşke poposundan ısırsalardı. belediyenin bir görevi olduğunu hatırlamıştır umarım tunç bey. sokakta köpek olmaz. dünyada tek bir medeni şehirde bile yoktur. imamoğlu'nu da ısırsınlar. bütün ilçe belediye başkanlarını da tek tek ısırsınlar. çocuklarını da ısırsınlar. sonra bu fanatik ruh hastası köpektaparların kendilerini ağır ısırsınlar. çoluğunu çocuğunu da ısırsınlar. dinlene dinlene ısırsınlar. başka türlü uyanmayacak bu beyinsizler. <br/><br/>bu sorumlular ve suçlular haricinde tek bir kişiye bile dokunmasınlar.
+  entry_channels: haber
+- entry_name: |
+    kürtleri hiç sevmiyorum türklerden korkup kaçtılar
+  entry_id:  109221601
+  entry_writer: dusakabinn
+  entry_fav_count: 88
+  entry_content: |
+    kürtlerden başka herkes kürtlerin devlet kuracak basirete sahip olmadığının farkında. adamlara tam teşekküllü toprak parçası vereceksin ve her türlü devlet kurum ve kuruluşunu işler halde sunacaksın ki devlet olabilsinler. onu batırmaları da 15 dakika sürer en fazla.<br/><br/>aslansınız kobani yiğitleri len mq <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>edit akbayram: mesaj atacaksanız bari fikriniz olsun. tartışabilin. sen ırkçısın sen nefret suçu işliyorsun deyip de ağlamayın.<br/><br/>ırkçılık : kendi ırkını öteki ırklardan üstün sayma ve siyasal tutumunu buna dayandırma eğilimi.<br/>nefret suçu : fbı'a göre nefret suçu kişinin ırkı, dini, engellilik durumu, etnik kökeni ya da cinsel yönelimine karşı bir önyargı faktörünün bulunduğu suç olarak tanımlanıyor.<br/><br/>google'a yazınca ilk çıkan sonuçlar bunlar. önce suçladıklarınızın ne olduğunu bilin. ortada ırkçılık yok. kürtlerden nefret etme durumu da yok. abd ile kuzey ırak kavimleri bir yatağa girmiş. abd başkanı kürtlere basiretsiz demiş. ırkçı ben olmuşum. <br/><br/>bu kadar edit yaptım da bunlar yine anlamayacak.
+  entry_channels: siyaset,haber
 - entry_name: |
     ios 14
   entry_id:  109190171
   entry_writer: herhangi1adam
-  entry_fav_count: 86
+  entry_fav_count: 88
   entry_content: |
     bakalım bu sene yenilik olmayan hangi yeniliği sunacaklar.
   entry_channels: programlama,teknoloji
@@ -158,18 +182,10 @@ data:
     22 haziran 2020 covid-19 vakasının 188897 olması
   entry_id:  109222002
   entry_writer: the4horsemen
-  entry_fav_count: 83
+  entry_fav_count: 85
   entry_content: |
     bu süreçte onlarca hasta entübe etmiş bir tıp doktoru olarak inanmakta güçlük çektiğim rakamlardır. bulaşıcı hastalıklarda vaka sayıları uzun dönemde sabit durmazlar. bizde ise her gün 50.000 test yapılmasına rağmen aynı vaka sayısı çıkar.<br/><br/>daha vahimi ise, her gün entübe ve yoğun bakımda hasta sayısı daha da artmaktayken kimsenin buna vurgu yapmaması. çok manidar...
   entry_channels: siyaset,sağlık,haber
-- entry_name: |
-    kürtleri hiç sevmiyorum türklerden korkup kaçtılar
-  entry_id:  109221601
-  entry_writer: dusakabinn
-  entry_fav_count: 80
-  entry_content: |
-    kürtlerden başka herkes kürtlerin devlet kuracak basirete sahip olmadığının farkında. adamlara tam teşekküllü toprak parçası vereceksin ve her türlü devlet kurum ve kuruluşunu işler halde sunacaksın ki devlet olabilsinler. onu batırmaları da 15 dakika sürer en fazla.<br/><br/>aslansınız kobani yiğitleri len mq <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>edit akbayram: mesaj atacaksanız bari fikriniz olsun. tartışabilin. sen ırkçısın sen nefret suçu işliyorsun deyip de ağlamayın.<br/><br/>ırkçılık : kendi ırkını öteki ırklardan üstün sayma ve siyasal tutumunu buna dayandırma eğilimi.<br/>nefret suçu : fbı'a göre nefret suçu kişinin ırkı, dini, engellilik durumu, etnik kökeni ya da cinsel yönelimine karşı bir önyargı faktörünün bulunduğu suç olarak tanımlanıyor.<br/><br/>google'a yazınca ilk çıkan sonuçlar bunlar. önce suçladıklarınızın ne olduğunu bilin. ortada ırkçılık yok. kürtlerden nefret etme durumu da yok. abd ile kuzey ırak kavimleri bir yatağa girmiş. abd başkanı kürtlere basiretsiz demiş. ırkçı ben olmuşum. <br/><br/>bu kadar edit yaptım da bunlar yine anlamayacak.
-  entry_channels: siyaset,haber
 - entry_name: |
     metin feyzioğlu
   entry_id:  109195634
@@ -178,14 +194,6 @@ data:
   entry_content: |
     türkiye barzolar birliği başkanı.
   entry_channels: siyaset,haber
-- entry_name: |
-    tunç soyer'e sokak köpeklerinin saldırması
-  entry_id:  109221458
-  entry_writer: cevirmen
-  entry_fav_count: 76
-  entry_content: |
-    çok iyi etmişler. keşke poposundan ısırsalardı. belediyenin bir görevi olduğunu hatırlamıştır umarım tunç bey. sokakta köpek olmaz. dünyada tek bir medeni şehirde bile yoktur. imamoğlu'nu da ısırsınlar. bütün ilçe belediye başkanlarını da tek tek ısırsınlar. çocuklarını da ısırsınlar. sonra bu fanatik ruh hastası köpektaparların kendilerini ağır ısırsınlar. çoluğunu çocuğunu da ısırsınlar. dinlene dinlene ısırsınlar. başka türlü uyanmayacak bu beyinsizler. <br/><br/>bu sorumlular ve suçlular haricinde tek bir kişiye bile dokunmasınlar.
-  entry_channels: haber
 - entry_name: |
     mert hakan yandaş
   entry_id:  109200427
@@ -227,18 +235,10 @@ data:
     doğruysa yavrucağın annesi olacak şahısa çok fena bilendiğim haber. <br/><br/>1. kocandan ayrıl.<br/>2. mahkemeler klasik olarak velayeti sana yani anneye versin. (büyük ihtimal üstüne nafaka bağlanmasına da hükmetmiş olabilir) <br/>3. çocuğun 1.5 yaşındayken sözde sevgili bul.<br/>4. sevgili olacak zat çocuğu öldürsün.<br/>5. anne olarak sen durumu emniyet birimlerine bildirme. sonradan itiraf et.<br/><br/>sana ne dense az. kadının ilk kocası olsam cinnet geçirirdim herhalde.
   entry_channels: ilişkiler,haber
 - entry_name: |
-    istanbul taksiciler odası başkanının tehdidi
-  entry_id:  109224744
-  entry_writer: malchik spalchik
-  entry_fav_count: 38
-  entry_content: |
-    antalyada yaşıyorum,burada bir otel var,bulunduğumuz yere iki üç kilometre.taksiciler yüzünden tam 20 yıldır yoluna gece lambaları yapılmadı.<br/>evet,sırf turist karanlıkta yürüyemesin,30 lira taksiye versin diye.<br/>geçen belediye seçimlerinde taksicilerin oy vermediği aday seçildi.geçen hafta sokak lambaları takıldı yola.ve tabiki taksiciler ne dese beğenirsiniz ;<br/><br/>ekmeğimizle oynadınız , size oy moy yok.<br/><br/>demem o ki tüm genellemeler yanlıştır ama bu o.ç lar bildiğiniz mafya.parası ile müsteri getirir,müşteri bizden alışveriş yapar gelir komisyon ister.sezon başlamadan kapına gelir , 10 bin lira verirsen tüm müşterileri senin dükkanın önüne bırakalım der.
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
     z kuşağının çoğunlukla sahip olduğu politik görüş
   entry_id:  109218734
   entry_writer: retrovision
-  entry_fav_count: 35
+  entry_fav_count: 37
   entry_content: |
     kuşağım ile ilgili ne zaman bir başlık açılsa x ve y kuşağından çok değerli abilerim/ablalarım hemen damlayıp tamamen fav kaygısıyla klavyeye oturup tiktok ve snapchat kokulu toksik atığını seriyor gözlerimizin önüne. keşke komik olsa ama komik de değil yani. bu ülkede z kuşağı ne kadar tiktok kullanıyorsa siz de o kadar kullanıyorsunuz.
   entry_channels: siyaset,anket
@@ -246,7 +246,7 @@ data:
     gaming kulaklıkla müzik dinlenir mi sorunsalı
   entry_id:  109222970
   entry_writer: taktakatak
-  entry_fav_count: 32
+  entry_fav_count: 35
   entry_content: |
     gaming diyorsa gaming içindir. müzik dinleyemezsin. kulaklık ne diyorsa o.
   entry_channels: anket,müzik,oyun,teknoloji
@@ -254,7 +254,7 @@ data:
     corona yüzünden yapılamayan ve en çok özlenen şey
   entry_id:  109215942
   entry_writer: fatandfurious
-  entry_fav_count: 26
+  entry_fav_count: 28
   entry_content: |
     tedirgin olmadan seyahat etmek ve bir şeye dokunmaktan korkmamak
   entry_channels: anket
@@ -266,6 +266,30 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=baileys">baileys</a>)
   entry_channels: anket,yeme-içme
+- entry_name: |
+    yarına tek bilet
+  entry_id:  109189266
+  entry_writer: grunge days
+  entry_fav_count: 19
+  entry_content: |
+    tren kızdan iyi oynamış
+  entry_channels: tv,müzik,sinema,seyahat
+- entry_name: |
+    avukatların mücadelesinin sözlükte umursanmaması
+  entry_id:  109225602
+  entry_writer: pirrrt
+  entry_fav_count: 19
+  entry_content: |
+    muhaliflerin çok olduğunu düşündüğüm ekşisözlük'te barolara darbe girişiminin ve avukatlara yapılan kötü muamelenin pek de önemsenmemesi olayı.<br/><br/>avukatlar 3 gündür yürüyor, bugün de ankara'da engellendi ve yürüyüşleri yasaklandı, az önce de gördüğüm <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/odatv/status/1275132812509806595?s=19" title="https://twitter.com/odatv/status/1275132812509806595?s=19">kadarıyla</a> yağmurda avukatlara ve gazetecilere polis müdahale etmeye devam ediyor ama sözlüğe girip bakıyorum filtre kahveyi, mercedes şoförünü, siklememe yaşını falan tartışıyor yazarlar. böylesi önemli bir olay en fazla 4., 5. sırada yer bulmuş. akp'nin kalan son kaleyi ele geçirme çabaları ve avukatların mücadelesi bunlar kadar değer görmüyor. <br/><br/>sonra ağlayıp duruyor muhalifler akp nasıl bu kadar ileri gidebiliyor diye. gider tabii amk. sizin gibi ülke yansa umursamayacak insanlarla dolu ülke. akp az bile yapıyor. baroları da ele geçirsin. sizi savunacak adamlar da susturulsun zaten bu cahil ve umursamaz halka ne yapsan az.
+  entry_channels: 
+- entry_name: |
+    trabzonspor
+  entry_id:  109206846
+  entry_writer: delikurdun ruyasi
+  entry_fav_count: 18
+  entry_content: |
+    sampiyon olursa kayrılan kulüptür.<br/><br/>olmaz da belediye olursa kayrılan kulüp başakşehir'dir.<br/><br/>gs aradan süpriz yapıp çıkarsa "temmuzlar bizimdir".<br/><br/>size çekim uygulayan yerin kuvvetini sileyim sayın istanbul dilberleri. döner bile sizin kadar dönmüyordur.
+  entry_channels: spor
 - entry_name: |
     sırrı çözülememiş esrarengiz olaylar
   entry_id:  109224013
@@ -283,18 +307,10 @@ data:
     korkmuyorum.<br/><br/>bu sefer kaçmayacağım. <br/>duvar örmeyeceğim. <br/>kendimi ateşe özgürce bırakıyorum. <br/>kanatlarımın yanmasından korkmuyorum.<br/><br/>hoşgeldin.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    yarına tek bilet
-  entry_id:  109189266
-  entry_writer: grunge days
-  entry_fav_count: 15
-  entry_content: |
-    tren kızdan iyi oynamış
-  entry_channels: tv,müzik,sinema,seyahat
-- entry_name: |
     mario gomez
   entry_id:  109219927
   entry_writer: barrak obama
-  entry_fav_count: 13
+  entry_fav_count: 14
   entry_content: |
     o sikik yılda istanbulun orasında burasında bombalar patlamasaydı belki futbolu beşiktaşta bırakacaktı<br/>yazık
   entry_channels: spor
@@ -307,6 +323,14 @@ data:
     opta'nın verilerine göre, fabrice n'sakala'nın bu sezon süper lig'de yer alan sol bekler arasındaki performansı:<br/><br/>ikili mücadele kazanma - 172 (birinci)<br/>sahipsiz top kazanma - 168 (birinci)<br/>başarılı çalım - 37 (birinci)<br/>top kapma - 38 (ikinci) <br/>akan oyunda orta % - 30.8 ( ikinci)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/OptaCan/status/1252929964057464833?s=20" title="https://twitter.com/OptaCan/status/1252929964057464833?s=20">işte o tweet</a><br/><br/>öncelikle, rıdvan ile sezon falan tamamlanmaz. ki rıdvan üstüste 10 maç oynayabilecek bir fizik kalitesine de sahip değil. bunu unutalım. <br/><br/>caner erkin'i beğenen biriyimdir, yıllardır. ama özellikle son 2 senedir müthiş defansif zaafiyetler gösteriyor. tabi güdümlü ortaları benzersiz, asist sayısı da o yüzden yüksek ama yıllık ücreti tartışmalı. <br/><br/>n'sakala'nın son 2,5 sezonda en az 30 maçını falan izlemiş biri olarak söyleyebilirim ki, tam anlamıyla taraftarın hayalini kurduğu sol bek olmasa da, sırıtmaz o bölgede, özellikle defansif anlamda aksamaz, istikrarlıdır, önündeki sol açığı açıklarını kapatır, üstün top tekniği falan yoktur ama kazma değildir, bilir futbolu. arada bir saçma sapan hareketler yapar mı yapar, fazla özgüveninden herhalde. <br/><br/>bonservissiz, düşük maliyetli, uyumlu bir sol bek alternatifi olarak optimum çözümdür nsakala. ha geçen sene sonunda douglas için de benzer şeyleri söylüyorduk, hatta douglas, nsakala'dan çok daha ofansif bir bekti ama beşiktaş kariyeri 'sakatlıkların da etkisiyle' tam bir hayalkırıklığı olmuştu. <br/><br/>sergen yalçın'ın da alanyaspor'daki has adamlarından biri olduğunu unutmamak gerekli.. <br/><br/>imdb : 7,1 / 10
   entry_channels: spor
 - entry_name: |
+    kocam sıfırdan araba yapabilmeli diyen kız
+  entry_id:  109226068
+  entry_writer: tomriskatun36
+  entry_fav_count: 6
+  entry_content: |
+    benimki de ev yapabilmeli. ameleler eklesin.
+  entry_channels: 
+- entry_name: |
     aykut kocaman
   entry_id:  109224117
   entry_writer: hadibeoradan
@@ -315,6 +339,22 @@ data:
     fenerbahçelilerin 2. olmak yerine 7. olalım diye istemediği teknik direktör.
   entry_channels: spor
 - entry_name: |
+    orhan veli'nin de dediği gibi
+  entry_id:  109226912
+  entry_writer: dabsem
+  entry_fav_count: 3
+  entry_content: |
+    işim gücüm budur benim,<br/>gökyüzünü boyarım her sabah.<br/>hepiniz uykudayken.<br/>uyanır bakarsınız ki mavi.<br/><br/>deniz yırtılır kimi zaman,<br/>bilmezsiniz kim diker;<br/>ben dikerim.
+  entry_channels: 
+- entry_name: |
+    zil sesi yapılabilecek en iyi şarkı
+  entry_id:  109212410
+  entry_writer: levobo
+  entry_fav_count: 2
+  entry_content: |
+    (bkz: <a class="b" href="/?q=the+imperial+march">the imperial march</a>) <br/><br/>evliyken eşim aradığında bu çalardı...
+  entry_channels: anket,müzik
+- entry_name: |
     yaş ilerledikçe azalan şeyler
   entry_id:  109221709
   entry_writer: kuzularin sessizligi
@@ -322,30 +362,6 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=kolajen">kolajen</a>) bu meret yaş ilerledikçe azalıyor kuzum, sinsi sinsi kırışıklar çıkıyor, “ulan dün yoktu bu” diyosun bi bakmışsın minik bi kırışık, işte böyle böyle geçtiğin yolları titrettiğin zamanlar ufuk çizgisinde gözden kayboluyor. <br/><br/>ah ulan kolajen, şu hayatta eksikliğini hissettiğim nadide şeysin..
   entry_channels: anket,sağlık
-- entry_name: |
-    insan olmasaydın ne olmak isterdin
-  entry_id:  109199212
-  entry_writer: gaffarson
-  entry_fav_count: 2
-  entry_content: |
-    bir soru.<br/><br/>ben de ağaç olmak isterdim ama az yukarıdaki pollyanna arkadaşımız gibi değil. ne birilerinin salıncak kurmasını istiyorum ne de birilerine gölgelik olmak. siktirsinler gitsinler başka yerde takılsınlar.<br/><br/>ben ulu bir ağaç olup insanlardan özellikle uzak, kimsenin araçla gelemediği araçsız da saatlerce yürümek zorunda olunduğu için gelinemeyen derinlerde bir noktadaki ulu bir ağaç olmak isterdim.<br/><br/>ben gelmişim 300-500 yaşına ve koskoca asırlar neler görmüş nelere şahit olmuşum tanıklık etmişim yaşayan tarih olmuşum gelip 3-5 köpek mangal yapacak dallarımdan belki kıracak gölgemde, ulu bilge gölgesinde bana saygı duymaları yerine oturup içkilerini içecek, 2 çocuk dallarıma basa basa çıkacak belki oynamak için ince olanları kıracak sonra siktirip gidecek evlerine yok ya ?<br/><br/>bir cahil gelecek aşkını kazıyacak gövdeme ve kendince büyük bir bok yediğini zannedip bende yara açacak öyle mi ?<br/><br/>sırf birilerine eşya lazım diye gelip baltasını vuracak ya da bana kıyıp odun yapacak öyle mi ?<br/><br/>harry potter'daki o ağaç gibi yerden yere vururum insanları. köklerimle tutup çekip de gömerim ama gübre niyetine bile kullanmak istemem insanları. ne insanı aq ? dallarımda doğanın diğer güzellikleri adına kuşu kelebeği bilmem nesi dahil hayvanlar harici bir canlı bulunamaz, kabul etmiyorum.<br/><br/>siktirsinler gitsinler. zaten insanlardan uzak olmak için yeni şans verildiğinde başka bir şey seçiyorum. ne diye yine insanlarla iç içe olayım ? insanlar bir ağacın yaprağını bile hak etmiyor. bok yesinler.
-  entry_channels: anket,ekşi-sözlük,edebiyat
-- entry_name: |
-    22 haziran 2020 alanyaspor trabzonspor maçı
-  entry_id:  109222771
-  entry_writer: book writer
-  entry_fav_count: 2
-  entry_content: |
-    malum takım şampiyon olamasın diye trabzon'u destekliyorum vurduğunuz gol olsun bu maçta .<br/><br/>not: sergen .
-  entry_channels: spor
-- entry_name: |
-    zil sesi yapılabilecek en iyi şarkı
-  entry_id:  109212410
-  entry_writer: levobo
-  entry_fav_count: 1
-  entry_content: |
-    (bkz: <a class="b" href="/?q=the+imperial+march">the imperial march</a>) <br/><br/>evliyken eşim aradığında bu çalardı...
-  entry_channels: anket,müzik
 - entry_name: |
     fatih mehmet maçoğlu
   entry_id:  109224266
@@ -370,22 +386,6 @@ data:
   entry_content: |
     tom ford tobacco vanille.
   entry_channels: anket
-- entry_name: |
-    ingilizcenizden ana dilinizi tespit eden test
-  entry_id:  109195480
-  entry_writer: i dont know you dont know who knows
-  entry_fav_count: 0
-  entry_content: |
-    ıp adresinden faydalanan, kullanici verilerini emcukleyen tirt test.<br/><br/>our top three guesses for your native (first) language:<br/>1. arabic (su an s.arabistandayim)<br/>2. turkish (goruyorsunuz her sey ortada)<br/>3. portuguese (cristiano ronaldo videolarinin altinda messi'ye anali bacili soverim)<br/><br/>eyyorlamam bu kadar.
-  entry_channels: eğitim
-- entry_name: |
-    ilk dinleyişte aşık olunan şarkılar
-  entry_id:  109221879
-  entry_writer: lsd
-  entry_fav_count: 0
-  entry_content: |
-    (bkz: <a class="b" href="/?q=blue+moon">blue moon</a>)<br/><br/>bunun revisited’ı da gayet iyidir.
-  entry_channels: anket,müzik
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  109222438
