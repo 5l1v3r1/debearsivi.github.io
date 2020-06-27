@@ -6,7 +6,7 @@ data:
     fetö botları dislike attı
   entry_id:  109431803
   entry_writer: nilli
-  entry_fav_count: 1766
+  entry_fav_count: 1780
   entry_content: |
     bugün fetö botu olduğumu öğrendim.
   entry_channels: siyaset,haber
@@ -14,7 +14,7 @@ data:
     2020 yks sınavında zorla 30 dk erken çıkarma olayı
   entry_id:  109439868
   entry_writer: efespixeltr
-  entry_fav_count: 808
+  entry_fav_count: 862
   entry_content: |
     istanbul küçükçekmece eşref bitlis anadolu lisesinde 27 haziran 2020 tarihinde yapılan tyt sınavında öğrencilerin zorla çıkış saatinden 30 dakika daha erken çıkarıldığı yönünde iddialar var. kesin olarak ne olduğunu bilmiyoruz ancak ortada bir bit yeniği varsa öğrencilerinin hakkını yedikleri için birilerinin başı fena halde ağrıyacak gibi görünüyor.<br/><br/>edit: mod arkadaşlar başlığı "2020 yks zorla 30 dakika erken çıkarma olayı" olarak düzenlerlerse sevinirim.<br/><br/>edit 2: tweet sahibi ile iletişime geçtim. şu şekilde açıklama yaptı. "açıklama yapıyorum hemen, sınav salonuna girdiğimde zamanımı planladım sıraya yazarak (sınav başlamadan önce) yasak olmadığı halde gözetmen beni uyardı sil dedi sildim sadece süreyi hesaplıyordum. sınıflarda iki gözetmen olması gerekiyor tek gözetmen vardı. 12.30 da bitirdi kalemleri bırakın dedi biz de çıktık. kimse uyarmadı farketmedik de. fark edince içeri giremedik zaten almaları yasak. ne müdür açıklama yaptı ne bir öğretmen geldi yanımıza biz okul bahçesinde o sınıfta erken çıkarılan öğrenciler olarak 3 saate yakın durduk açıklama bekledik. müdür polislerle birlikte üç farklı yalan yolladı bize. okulun polisine ilk başta velilere gözetmenin saatinin bozuk olduğunu söyletti. aynı polis on dakika sonra tekrar müdürün yanına gidip gelip bize o tahtada yazılan saatler geçen hafta yazılmış gözetmen hatalı değil dedi. üçüncü gidişinde de gözetmenin dalgınlığına gelmiş çok pişman ağlıyor dedirtti. tutanak tuttuklarını iddia ettiler ama öyle bir şey yapmamış da olabilir. velilere açıklama yapılmadı biz okul bahçesinde perişan olduk o şekil evimize geldik"<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>twitter:<br/>merhaba, sesimizi duyurmak ve mağduriyetimizin giderilmesi için burayı kullanmak zorunda kaldık.yks öğrencisiyim, bugün girmiş olduğum tyt sınavında ilan edilen bitiş süresinden tam 30 dakika önce gözetmen öğretmenimiz tarafından zorla sınıftan çıkarıldık. daha sonra ise çoğumuz sınav stresi ve heyecanıyla durumu kavrayamadan, ailelerimizle eve dönüş yolunda durumu farkedip okula geri döndük.. okulun bahçesindeki polis memuruyla durumu görüşüp okul müdürü, kat görevlisi,yök görevlisi ile görüşmek istedik ancak hiçbiri ile görüşemedik,mağduriyetimiz yetmezmiş gibi bir de saatlerce gözü yaşlı şekilde,kaygılı ailelerimiz ile bekletildik...<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> --- <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/malkaralikizan" title="https://eksisozluk.com/biri/malkaralikizan">@malkaralikizan</a> adlı kişinin özelden yaptığı açıklama <br/>"konu ile ilgili başlıkta bir çok yanlış bilgi var. ben bugün o okulda görevliydim. durumu aktarayım istersen editlersin.<br/>öncelikle bu sınavla ilgili ösym ciddi görevli zorluğu çekti bundan dolayı öğretmen olmayan kişiler görevli oldu.<br/>normal şartlar altında sınıfta 20 kişi ve 2 görevli olur. bugünkü sınavda sınıflarda 12 kişi ve tek görevli vardı.<br/>durum şu sınav 13:00'de bitecekken görevli öğrencileri 12:30'da sınav bitti diyip dışarı çıkarıyor. bilenler bilir salon tutanağının ilk sayfasında eşşek kadar tüm giriş çıkış süreleri belirtilir. demem o ki bu işi yapan acemi ilk defa ve tek başına görev yapmış olmanın beceriksizliğidir. bir art niyet veya farklı bir durum söz konusu değil."<br/><br/>bir sınav görevlisinin yapmış olduğu soru cevap (bkz: <a class="b" href="/entry/109450735">#109450735</a>)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://mobile.twitter.com/berilbusratask/status/1276874368451334145" title="https://mobile.twitter.com/berilbusratask/status/1276874368451334145">ilgili tweet</a> <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Ege67289300/status/1276914191727824896?s=19" title="https://twitter.com/Ege67289300/status/1276914191727824896?s=19">bir başka öğrencinin açıklamaları</a> <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.ortadogugazetesi.com/m/egitim/yks-sinavinda-skandal-30-dakika-erken-cikarildilar-h18766.html" title="https://www.ortadogugazetesi.com/m/egitim/yks-sinavinda-skandal-30-dakika-erken-cikarildilar-h18766.html">ortadoğu gazetesi haberini yapmış</a> <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/berilbusratask/status/1276890998480744448?s=20" title="https://twitter.com/berilbusratask/status/1276890998480744448?s=20">bina görevlileri ile tartışma anı</a><br/>link patlarsa lütfen uyarın.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/berilbusratask/status/1276890998480744448?s=20" title="https://twitter.com/berilbusratask/status/1276890998480744448?s=20">başka açıdan bir video</a>
   entry_channels: haber,eğitim
@@ -22,7 +22,7 @@ data:
     murat bardakçı'nın açıkladığı atatürk gerçeği
   entry_id:  109436300
   entry_writer: ineffective
-  entry_fav_count: 752
+  entry_fav_count: 769
   entry_content: |
     bu başlığı okuyup da "yani?" diye sormayan biri muhtemelen zihin olarak geri kalmıştır. <br/><br/>tamamen yazılanın doğru veya yanlış olduğundan bağımsız olarak söylüyorum bunu. atatürk müslüman olsa nolur, hristiyan olsa nolur, şeytana tapıyor olsa nolur? nolur yani kardeşim neden önemli bir insanın neye inanıp inanmadığı? bireysel bir kavram olan inanç bizde neden her şeyin üzerinde tutuluyor? atatürk sıfırdan modern bir ülke kurup onu miras bırakmış sana bu mirası korumakla, ileriye götürmekle ilgileneceği yere düşündüğü araştırdığı şeylere bak insanların.<br/><br/>şimdi verilen kaynaktaki şeyi biraz inceledim. devamında "atatürk'ün kınadığı şey aslında tanrıya hizmet etmek değil, genel olarak doğru olduğu kabul görülegelmiş inanışlar (bağnaz düşünce yapısı). selanik'te doğup büyümüş birisi için bu çok doğal." diyor. neyse o kısmı bir kenara bırakıyorum, devamı daha önemli, bakın ne demiş atatürk:<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/4bjfxu6d" title="https://soz.lk/i/4bjfxu6d">görsel</a><br/><br/>"kurduğu hükümetin düşmesine engel olmak için dine ihtiyaç duyan birisi zayıf bir liderdir. dini kullanarak liderlik yapmaya çalışan biri insanları bir kapana sıkıştırmış gibidir. benim halkım demokrasinin ilkelerini, doğruluğu, gerçekliği ve bilimi öğrenecek. batıl inançlardan kurtulacak. gerçeklikle çatışmadığı ve diğerlerinin özgürlüğüne kast etmediği müddetçe herkes kendi vicdanını takip etmekte ve istediğine inanmakta özgürdür."
   entry_channels: tarih,haber
@@ -30,7 +30,7 @@ data:
     yks sorularının fotoğrafını çekmek
   entry_id:  109439169
   entry_writer: serendiptytr
-  entry_fav_count: 643
+  entry_fav_count: 667
   entry_content: |
     yapan kişinin sınavı iptal edilip davalık olacaktır. sorunun fotoğrafını çekerken kitapçık numarasını da kadraja almıştır. kendisine geçmiş olsun.<br/><br/>tanım: mal.
   entry_channels: haber,eğitim
@@ -38,7 +38,7 @@ data:
     türkiye'deki miras kavgalarının sebepleri
   entry_id:  109428794
   entry_writer: chessboard
-  entry_fav_count: 349
+  entry_fav_count: 350
   entry_content: |
     anne tarafındaki dayılar.
   entry_channels: anket,ilişkiler,ekonomi
@@ -46,7 +46,7 @@ data:
     eylül 2020'de okulların açılmama ihtimali
   entry_id:  109412162
   entry_writer: haydarlisk
-  entry_fav_count: 317
+  entry_fav_count: 327
   entry_content: |
     2. dalga de gelse açılır. para insan hayatından çok çok daha değerlidir bu ülkede.<br/><br/>edit: ticaretle uğraştığını düşündüğüm yazarlardan çokça mesaj aldım. sizleri de anlıyorum, hepimizin evine ekmek götürmek gibi bir derdi var. ben konunun uzmanı değilim uzmanlar, bilim insanları tartışır en doğru kararı verir. fakat bir öğretmen olarak eğitim alanında da bırakın yorum yapabileyim. önerimi soranlar olmuş, okullarla ilgili önerim %100 uzaktan eğitime geçilmesidir. diğer alanları bilemem, ben okulda korona kapıp 2 aylık kızıma veya kalp hastası babama bu virüsü bulaştırmak istemiyorum. şu an en yakınınızdaki kişiye bakın ve sizin yüzünüzden virüs kapıp entübe şekilde yattığını hayal edin ne demek istediğimi anlarsınız.
   entry_channels: siyaset,sağlık,eğitim
@@ -54,23 +54,15 @@ data:
     üniversite tercihlerinde yazılmaması gereken bölüm
   entry_id:  109436383
   entry_writer: burki242
-  entry_fav_count: 259
+  entry_fav_count: 267
   entry_content: |
     inşaat mühendisliği
   entry_channels: anket,eğitim
 - entry_name: |
-    online tanışılan erkeğin hemen görüşmek istemesi
-  entry_id:  109430384
-  entry_writer: onemsiz1i
-  entry_fav_count: 250
-  entry_content: |
-    yüz yüze görüşme imkanı varsa ergenler gibi günlerce yazışarak iletişim kurmaya çalışmaktan hazzetmeyen erkektir.<br/><br/>bundan kaçınan kadınların çoğu da full efektli fotoğraflar kullanan / gönderen ve fotoğraftakiyle alakası olmayan biridir.<br/><br/>beyler oyuna gelmeyin ve böyle tatlı su kurnazlarından kendinizi koruyun.
-  entry_channels: ilişkiler
-- entry_name: |
     bekar erkek kahvaltısı
   entry_id:  109416670
   entry_writer: daha sakin olamazdim
-  entry_fav_count: 237
+  entry_fav_count: 239
   entry_content: |
     dışarıda serpme kahvaltı yediğinizi, ben her gün kendime hazırlıyorum. bunun bekarlıkla alakası yok, çalışkanlıkla ve kendine saygıyla ilişkisi var.
   entry_channels: anket,ilişkiler,sağlık,yeme-içme
@@ -78,15 +70,23 @@ data:
     password.kaspersky.com
   entry_id:  109442276
   entry_writer: varolmanin mide bulantisi
-  entry_fav_count: 169
+  entry_fav_count: 170
   entry_content: |
     ne yani, parolamizi oraya girmemiz mi bekleniyor? bu antivirus programlari tam keriz silkeleme araci oldu. 2010'dan beri kullanmiyorum.
   entry_channels: programlama,teknoloji
 - entry_name: |
+    sende büyü var diyen falcıya yüz bin tl veren prof
+  entry_id:  109449256
+  entry_writer: 600f
+  entry_fav_count: 154
+  entry_content: |
+    nasıl profesör olduğu mutlaka araştırılması gereken kişi.
+  entry_channels: haber
+- entry_name: |
     şekersiz içiyorum terör örgütü
   entry_id:  109422182
   entry_writer: xyclonb
-  entry_fav_count: 151
+  entry_fav_count: 153
   entry_content: |
     böyle bir terör örgütü yoktur. şekersiz içiyorumcular legal bir yapılanmadır, taraftar toplama derdinde değildir ve kar amacı gütmeden topluma faydalı hizmetlerde bulunmak ister. şekerleri iade ettiğimiz doğrudur lakin ki ıslanıp ziyan olmalarını istemeyişimizdendir. ayrıca ortamdaki çay karıştırma seslerinin iticiliği de ne kadar haklı olduğumuzu gösteren bir husustur. bu sivil toplum kuruluşuna destek ve legal yapıyı terörize etmeye çalışanların çabalarını boşa çıkarmak amacıyla şekerleri saklayıp çay kaşığını iade etme eylemine davet ediyorum.
   entry_channels: anket,yeme-içme
@@ -102,31 +102,15 @@ data:
     emre belözoğlu
   entry_id:  109443669
   entry_writer: notnecessarily
-  entry_fav_count: 129
+  entry_fav_count: 141
   entry_content: |
     bugun <a class="b" href="/?q=gokhan+tore">gokhan tore</a>'yi attirdigi pozisyonda neden turk futbolundan silinmesi gerektigini bir kez daha hatirlatti. cok yazik. koskoca fenerbahce camiasinin kaderi bunun eline teslim ediliyor. cok cok yazik.
   entry_channels: spor
 - entry_name: |
-    üç yıl sonra kordon'da denize girilecek
-  entry_id:  109427307
-  entry_writer: mdeernviez
-  entry_fav_count: 125
-  entry_content: |
-    birisi demiş ki arabama koku doldu çıkmıyor. hadi ulan ordan izmiri bir türlü ele geçiremeyen tayfanın personelleri her izmir başlığında doluşup kokuyor muhabbeti yapıyor hiç biri izmirli değil vatan haini şerefsiz troller. ben izmirde doğdum izmirde büyüdüm bir dönem koku vardı evet ama şu an öyle bir şey yok hatta yıllardır yok. eskiden körfezden çıkan balıklar yenmezdi içlerinde pisliği ayrıştıran keseler oluşmaya başlamıştı balıklar evrim geçiriyordu pislikten ama şu an ahtapot vatoz dahil pis suda yaşamayacak bir sürü balık çeşidini görme imkanınız var başkanın dediği doğru 3 yıl içinde bu gerçek olabilir. ızmirde katı atık ayıklama tesisleri var denize insanların kıyılardan attıkları çöpler hariç pis birşey dökülmüyor. <br/><br/>edit: koku muhabbeti yapanlar mesaj kutumda giderek lokasyan küçültüyor. bi yerden dönünce orda bi direk var tam orası kokuyor gibi 3 metre kare alana kadar düştüler. sokağa çıkma yasağı bitince kordona koşup koklaya koklaya lokasyan belirleyecekler. hatta bir uygulama yapın körfezde kokan yerleri tektek işaretleyin gidip içinize çekersiniz.<br/><br/>edit 2: arkadaşlar yapmayın mesaj kutum lokasyon doldu mahalledeki dere yatağından koku alıp kokuyor işte diyen bile var olay körfezide aştı yakında tuvaletinizin kokusu için lokasyon atacaksınız. ayrıca inciraltı kent ormanından denize giren yaşlı amcalarla hiç mi karşılaşmadınız bugüne kadar.
-  entry_channels: haber
-- entry_name: |
-    sende büyü var diyen falcıya yüz bin tl veren prof
-  entry_id:  109449256
-  entry_writer: 600f
-  entry_fav_count: 114
-  entry_content: |
-    nasıl profesör olduğu mutlaka araştırılması gereken kişi.
-  entry_channels: 
-- entry_name: |
     kredi ile ev almak vs kirada oturmak
   entry_id:  109423826
   entry_writer: kamuran guleryuz
-  entry_fav_count: 83
+  entry_fav_count: 84
   entry_content: |
     yaşadığı ülkeden bihaber insanlar gelmiş burada kiracılığı savunuyor. ekşi sözlük gerçekten çok ilginç bir yer olmaya başladı.<br/><br/>adam demişki ailenizden kalan ev neyinize yetmiyor, en az bir tane ev düşer. sanıyor ki herkesin ailesinin 3-4 tane evi var. inşallah ironidir, inşallah şakadır. <br/><br/>lan ben 30 yaşımda anne babama ev aldım yaşlılıklarında rahat etsinler diye ne ev kalması? hiç mi ülke şartlarını görmüyorsunuz? hiç mi etrafınıza bakmıyorsunuz? bu kadar mi bi habersiniz ülkeden?
   entry_channels: anket,ekonomi
@@ -134,15 +118,23 @@ data:
     27 haziran 2020 radyasyon sızıntısı
   entry_id:  109449708
   entry_writer: bi ona bi ona ver allahim ver
-  entry_fav_count: 62
+  entry_fav_count: 66
   entry_content: |
     adam ne güzel bir bilgi verip paylaşım yapmış,mallar gelmiş klavye hatasına takmış.<br/>aga siz niye böylesiniz amk.
   entry_channels: haber
 - entry_name: |
+    ruh eşini bulamamak
+  entry_id:  109448471
+  entry_writer: cok garip bi durum
+  entry_fav_count: 65
+  entry_content: |
+    ruh eşini bulduğunu fark edemeyip bir daha asla hayatında onun gibi birinin olmayacağını bilmek daha acı bir şey. 5 yıl önce biri ile tanıştım deli dolu bir adam... evlenmeyi çok istiyordu ben o zaman kendimi evlenmek için çok yol kat etmesi gereken bir insan olarak düşünüp ve korktuğumdan yollarımızı ayırmıştım. hep iyi olmasını istedim... bir yıl sonra yurt dışında yaşadığım o dönemde çok tesadüfi bir şekilde telefonda konuştuk ve benim için çok güzel dilekler dilemişti, bende onun için. hayatında biri vardı, mutluydu. ve 2 buçuk yıl önce ani gelişen bir kanserle bu dünyaya veda etti gitti. yaklaşık 3 yıldır hiç kimse ile duygusal bir süreç yaşayamadım. herkes çok talepkar, nazlı, sabırsız... birini sevmek için zaman gerekiyor... birini sevmek için sabır gerekiyor... ve inanıyorum ki insanın hayatına güzel insan bir kez geliyor, ıskalarsan o anı bir daha tekrarı olmuyor.
+  entry_channels: ilişkiler
+- entry_name: |
     ruh eşini arayanlara tavsiyeler
   entry_id:  109413575
   entry_writer: lavishiri
-  entry_fav_count: 61
+  entry_fav_count: 65
   entry_content: |
     cem karaca’nın sevda kuşun kanadında şarkısında şöyle bir bölüm var: “hayat sırrının suyunu çeşmelerden bulamazsın. ansızın bir deli çaydan içersin de kanamazsın” <br/><br/>bence yaptığımız en büyük hata; çeşmeye ağzımızı dayayıp bekliyor olmamız. e domalmışız çeşmeden su içmeye çalışıyoruz. pandik atanı, kazık atanı eksik olmuyor. neyin açlığı neyin acelesidir bu? ayrıca ruh eşi dediğin şey aynı hobilere sahip olmak, aynı müzikleri dinlemek ya da aynı düşünceleri desteklemek gibi basit bir şey olmamalı. hem böylesi çok boktan çok sıkıcı. ruh eşi dediğin kişi tartışabildiğin, sana bir şeyler katabilen, sana yeni ufuklar açabilen bir insan olmalı. yavrusuna uçmayı öğreten anne kumru gibi. bütün kaosun ardından aynı manzaraya bakıp huzurla susup gözlerine bakabildiğin birisi ruh eşi olmalı. haliyle ruh eşini zıtlıkların ardında aramak daha bilgece gözüküyor.<br/><br/><a class="b" href="/?q=ordo+ab+chao">ordo ab chao</a>.
   entry_channels: anket,ilişkiler
@@ -150,10 +142,26 @@ data:
     yks 2020
   entry_id:  109413224
   entry_writer: yalniz olmak tercihtir
-  entry_fav_count: 60
+  entry_fav_count: 61
   entry_content: |
     istediğiniz bölümü kazanamazsanız üzülmeyin. siz de <a class="b" href="/?q=cumhurba%c5%9fkan%c4%b1">cumhurbaşkanı</a> olursunuz.<br/><br/>gelen hakaretler üzerine edit: arkadaşlar neden kızıyorsunuz ülkenin <a class="b" href="/?q=cumhurba%c5%9fkan%c4%b1">cumhurbaşkanı</a>na da ihtiyacı var. bence çok önemli o da yani.
   entry_channels: haber,eğitim
+- entry_name: |
+    iban ile toplanan paralar nereye gitti
+  entry_id:  109446422
+  entry_writer: karisinin arabasina bomba koyan koca
+  entry_fav_count: 60
+  entry_content: |
+    ismi lazım olmayan hanımefendinin markasının söylenmesi mahkeme kararıyla yasaklanan çantasına gitti.<br/><br/>türkiye’de devlet herzaman vatandaşın cebinden alır. asla cebine koymaz!
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
+    trabzonspor
+  entry_id:  109448012
+  entry_writer: post translational regulation
+  entry_fav_count: 59
+  entry_content: |
+    30-35 bin liraya oyuncu oynatırlar,<br/><br/>statlarını devlet yapar,<br/><br/>locaları nereden geldiği belli olmayan bir bütçeyle dolar, zorla satılır,<br/><br/>berat ve süleyman isimli iki karanlık şahıs açık açık destek verdiğini söyler,<br/><br/>guilherme, pereira gibi her maç kırmızı kart görmesi gereken oyuncularına hiçbir şey olmaz,<br/><br/>abdülkadir x2 adamlar sürekli kendilerini yere atarlar, hiçbir yaptırımları olmaz, bazen beleşten penaltı-faul alırlar,<br/><br/>yenildikleri maçlarda taraftarları sahaya girer hakeme arkadan kahpece saldırır, hiçbir yaptırımı olmaz,<br/><br/>yedikleri tertemiz gol (fb maçında), var olmasına rağmen verilmez,<br/><br/>fenerbahçe elenince, gs üzerinde oyun oynanır, şampiyonluktan uzaklaştırılır, bunlar devam eder,<br/><br/>şehirlerinde başka takımların otobüsü kurşunlanır, sonuç çıkmaz,<br/><br/>şampiyon olduklarını iddia ettikleri sezonda bütün takımlar yatmak zorunda bırakılır, bucaspor maçında santradan yürüyerek gol bile attırılır, yine şampiyon olamazlar...<br/><br/>bu liste uzar. türkiye'nin malum partisinin bir kopyasıdır. <br/><br/>kavgacı, kaba, küfürbaz, ırkçı, dinci insanların çoğunlukta olduğu, yaylalarını bile araplara peşkeş çekmiş bir şehrin gurur duyduğu, uğruna öleceğini, öldüreceğini söyleyen insanların takımıdır.<br/><br/>son olarak mesaj alımımı kapatmama sebep olan takımdır. çünkü ne zaman aleyhlerine bir şey yazsam, anneme, eşime, doğmamış kızıma kadar küfür eden insanların takımıdır.
+  entry_channels: spor
 - entry_name: |
     survivor 2020 ünlüler-gönüllüler
   entry_id:  109413721
@@ -163,106 +171,50 @@ data:
     acun yarın 283838337. kez aynı parkuru koymuş. valla pandemi ayağına 3 parkuru aylardır çevire çevire izletti. yarışmacılar 1 aydır büyük ödül için dominiğin farklı şehirlerine, avmlere gidiyor ama bu parkurlar ne hikmetse olduğu yerden gelemiyor.<br/><br/>bari dokunulmazlık oyunlarını zeka, güç, denge farklı bir şey yap sıkıldık
   entry_channels: tv,magazin,spoiler
 - entry_name: |
-    marmaris'te üzerine su deposu düşen genç
-  entry_id:  109419760
-  entry_writer: kurtarin kendinizi
-  entry_fav_count: 54
-  entry_content: |
-    bu ülkede ne kadar şansa yaşadığımızı bir kere daha gösteren feci olaydır. çocuğa allah'tan rahmet, ailesine ve sevenlerine ise sabır ve baş sağlığı diliyorum.<br/><br/>ve hep diyorum. <br/><br/>bu ülkede dalgınlık, yolda müzik dinlemek, telefon ile uğraşmak, sarhoş vaziyette dolaşmak falan ölüm ile sonuçlanabilir. <br/><br/>bu ülkede kafanıza intihar etmek için atlayan insan düşebilir, yolcu otobüsünün altında kalabilirsiniz,kaldırımda yürürken kafanıza beton düşebilir,motorlu kurye size çarpabilir veya serseri bir maganda mermisi ile hayatınızdan olabilirsiniz. <br/><br/>bu ülkede dışarıda dolaşırken ayık olun ve uyanık olun. <br/><br/>telefonla uğraşmayın, müzik dinlemeyin,sarhoş şekilde dolaşmayın, arkadaşınızla çeneye dalmayın. <br/><br/>binaların altında durmayın, arabalara ve motorlu araçlara aşırı dikkat edin, kavga etmeyin ve kavga seyretmeyin.. <br/><br/>bu ülke normal bir ülke değil. <br/><br/>hiç hesapta yokken ölmek ve sakat kalmak istemiyorsanız çok dikkatli olun.
-  entry_channels: haber
-- entry_name: |
-    ruh eşini bulamamak
-  entry_id:  109448471
-  entry_writer: cok garip bi durum
-  entry_fav_count: 52
-  entry_content: |
-    ruh eşini bulduğunu fark edemeyip bir daha asla hayatında onun gibi birinin olmayacağını bilmek daha acı bir şey. 5 yıl önce biri ile tanıştım deli dolu bir adam... evlenmeyi çok istiyordu ben o zaman kendimi evlenmek için çok yol kat etmesi gereken bir insan olarak düşünüp ve korktuğumdan yollarımızı ayırmıştım. hep iyi olmasını istedim... bir yıl sonra yurt dışında yaşadığım o dönemde çok tesadüfi bir şekilde telefonda konuştuk ve benim için çok güzel dilekler dilemişti, bende onun için. hayatında biri vardı, mutluydu. ve 2 buçuk yıl önce ani gelişen bir kanserle bu dünyaya veda etti gitti. yaklaşık 3 yıldır hiç kimse ile duygusal bir süreç yaşayamadım. herkes çok talepkar, nazlı, sabırsız... birini sevmek için zaman gerekiyor... birini sevmek için sabır gerekiyor... ve inanıyorum ki insanın hayatına güzel insan bir kez geliyor, ıskalarsan o anı bir daha tekrarı olmuyor.
-  entry_channels: ilişkiler
-- entry_name: |
-    iban ile toplanan paralar nereye gitti
-  entry_id:  109446422
-  entry_writer: karisinin arabasina bomba koyan koca
-  entry_fav_count: 50
-  entry_content: |
-    ismi lazım olmayan hanımefendinin markasının söylenmesi mahkeme kararıyla yasaklanan çantasına gitti.<br/><br/>türkiye’de devlet herzaman vatandaşın cebinden alır. asla cebine koymaz!
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
     27 haziran 2020 cem yılmaz'ın netflix'e kapağı
   entry_id:  109447397
   entry_writer: fishermenswharf
-  entry_fav_count: 45
+  entry_fav_count: 47
   entry_content: |
     yalnız o netflix'in cem yılmaz'a kapağı olmasın sakın.
   entry_channels: sinema
 - entry_name: |
-    27 haziran 2020 fenerbahçe yeni malatyaspor maçı
-  entry_id:  109442161
-  entry_writer: karismak istemem ama
-  entry_fav_count: 44
-  entry_content: |
-    ilk yarının son dakikalarında fenerbahçe korner kazandı. önce <a class="b" href="/?q=mehmet+ekici">mehmet ekici</a> kullanacaktı. <a class="b" href="/?q=deniz+t%c3%bcr%c3%bc%c3%a7">deniz türüç</a> “bende bende” dedi gelip topu aldı. ama bir yandan da <a class="b" href="/?q=mehmet+ekici">mehmet ekici</a>’yi çağırıp “gel gel gel” dedi. <br/><br/>sonuç: <br/><br/>deniz topu mehmet’e attı. mehmet geri denize attı. bir türlü orta yapacak pozisyonu bulamadılar. top öyle böyle derken kaleci <a class="b" href="/?q=altay+bay%c4%b1nd%c4%b1r">altay bayındır</a>’a kadar gitti. yani dümdüz korner kullansalar şans daha yüksekti. öyle bir futbol zekası düşünün işte. <br/><br/>bir fenerli olarak sizin ben oynayacağınız futbolun içine edeyim.
-  entry_channels: spor
-- entry_name: |
     insan ilişkilerinden çıkarılmış en önemli ders
   entry_id:  109413693
   entry_writer: ilgisiz garson
-  entry_fav_count: 42
+  entry_fav_count: 46
   entry_content: |
     insanlardan iletişiminiz kopacak kadar ne uzaklaşın, ne de insanları kişisel alanınıza girecek kadar yaklaştırın. kimseye güvenmeyin.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    z kuşağına bir mesaj bırak
-  entry_id:  109411899
-  entry_writer: ilgisiz garson
-  entry_fav_count: 39
+    27 haziran 2020 fenerbahçe yeni malatyaspor maçı
+  entry_id:  109442161
+  entry_writer: karismak istemem ama
+  entry_fav_count: 45
   entry_content: |
-    <a class="b" href="/?q=z">z</a>: z kuşağı<br/><a class="b" href="/?q=y">y</a>: y kuşağı<br/><a class="b" href="/?q=x">x</a>: x kuşağı<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/><a class="b" href="/?q=z">z</a>: oglim gel buraya kırmızı şortli. len sen benim elimden tuttun ibine, beni buradan yukarı çikmedin ulen. ben bogulim çekmedin beni. senle x.<br/><a class="b" href="/?q=y">y</a>: başaramadık abi<br/><a class="b" href="/?q=z">z</a>: neyyyi başaramadınn mnnnaagoyim<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=396gGW4VhM4">https://www.youtube.com/watch?v=396ggw4vhm4</a><br/><br/>bizim gençliğimiz gitti, siz gençliğinizi kurtarın bari. <a class="b" href="/?q=silivri">silivri</a> esprileri yaparak aslında süreci meşrulaştıran x ve y kuşağını dikkate almayın, gönlünüzce tepkinizi gösterin düşüncelerinizi ifade edin.
+    ilk yarının son dakikalarında fenerbahçe korner kazandı. önce <a class="b" href="/?q=mehmet+ekici">mehmet ekici</a> kullanacaktı. <a class="b" href="/?q=deniz+t%c3%bcr%c3%bc%c3%a7">deniz türüç</a> “bende bende” dedi gelip topu aldı. ama bir yandan da <a class="b" href="/?q=mehmet+ekici">mehmet ekici</a>’yi çağırıp “gel gel gel” dedi. <br/><br/>sonuç: <br/><br/>deniz topu mehmet’e attı. mehmet geri denize attı. bir türlü orta yapacak pozisyonu bulamadılar. top öyle böyle derken kaleci <a class="b" href="/?q=altay+bay%c4%b1nd%c4%b1r">altay bayındır</a>’a kadar gitti. yani dümdüz korner kullansalar şans daha yüksekti. öyle bir futbol zekası düşünün işte. <br/><br/>bir fenerli olarak sizin ben oynayacağınız futbolun içine edeyim.
   entry_channels: spor
 - entry_name: |
     utanmadan otomatik vitesli araç kullanan erkek
   entry_id:  109430526
   entry_writer: mudavim5824
-  entry_fav_count: 33
+  entry_fav_count: 35
   entry_content: |
     bi şeyin başını tutup ileri geri oynatmak istiyorsanız vereyim elinize oynayın oğlum, dediğimdir.
   entry_channels: anket,teknoloji,otomotiv
 - entry_name: |
-    trabzonspor
-  entry_id:  109448012
-  entry_writer: post translational regulation
-  entry_fav_count: 27
-  entry_content: |
-    30-35 bin liraya oyuncu oynatırlar,<br/><br/>statlarını devlet yapar,<br/><br/>locaları nereden geldiği belli olmayan bir bütçeyle dolar, zorla satılır,<br/><br/>berat ve süleyman isimli iki karanlık şahıs açık açık destek verdiğini söyler,<br/><br/>guilherme, pereira gibi her maç kırmızı kart görmesi gereken oyuncularına hiçbir şey olmaz,<br/><br/>abdülkadir x2 adamlar sürekli kendilerini yere atarlar, hiçbir yaptırımları olmaz, bazen beleşten penaltı-faul alırlar,<br/><br/>yenildikleri maçlarda taraftarları sahaya girer hakeme arkadan kahpece saldırır, hiçbir yaptırımı olmaz,<br/><br/>yedikleri tertemiz gol (fb maçında), var olmasına rağmen verilmez,<br/><br/>fenerbahçe elenince, gs üzerinde oyun oynanır, şampiyonluktan uzaklaştırılır, bunlar devam eder,<br/><br/>şehirlerinde başka takımların otobüsü kurşunlanır, sonuç çıkmaz,<br/><br/>şampiyon olduklarını iddia ettikleri sezonda bütün takımlar yatmak zorunda bırakılır, bucaspor maçında santradan yürüyerek gol bile attırılır, yine şampiyon olamazlar...<br/><br/>bu liste uzar. türkiye'nin malum partisinin bir kopyasıdır. <br/><br/>kavgacı, kaba, küfürbaz, ırkçı, dinci insanların çoğunlukta olduğu, yaylalarını bile araplara peşkeş çekmiş bir şehrin gurur duyduğu, uğruna öleceğini, öldüreceğini söyleyen insanların takımıdır.<br/><br/>son olarak mesaj alımımı kapatmama sebep olan takımdır. çünkü ne zaman aleyhlerine bir şey yazsam, anneme, eşime, doğmamış kızıma kadar küfür eden insanların takımıdır.
-  entry_channels: spor
-- entry_name: |
     27 haziran 2020 trabzonspor ankaragücü maçı
   entry_id:  109452107
   entry_writer: denizdevrim
-  entry_fav_count: 26
+  entry_fav_count: 33
   entry_content: |
     trabzon'un bu maçta bıraktığı 2 puanla şampiyonluk ihtimallerinde hiç bir değişiklik olmadı çünkü öyle bir ihtimal zaten yoktu<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: spor
 - entry_name: |
-    dark (dizi)
-  entry_id:  109429028
-  entry_writer: alezengi
-  entry_fav_count: 22
-  entry_content: |
-    ulrich al bütün amlar senin olsun amk al hepsini sen sik ne doymaz bi orospu çocuğuymuşsun aq<br/><br/>tanım: 3.sezonu bugün yayınlanan alman dizisi.
-  entry_channels: tv,spoiler
-- entry_name: |
-    karakomik filmler 2
-  entry_id:  109413875
-  entry_writer: day zero
-  entry_fav_count: 20
-  entry_content: |
-    özkan uğur'un tek rakibim <a class="b" href="/?q=jack+nicholson">jack nicholson</a> dediği film. gerisi boş.
-  entry_channels: sanat,sinema
-- entry_name: |
     ilişkinin bittiğinin anlaşıldığı an
   entry_id:  109449228
   entry_writer: teryxx
-  entry_fav_count: 19
+  entry_fav_count: 28
   entry_content: |
     o kendi mutlu hayatını yaşarken siz kenarda oturup onun size gelecegi anı beklerken, aslında o anın hic gelmeyeceğini fark ettiğiniz andır. o an herseyin bittiği andır iste.
   entry_channels: anket,ilişkiler
@@ -270,10 +222,42 @@ data:
     vedat milor sorularınızı yanıtlıyor
   entry_id:  109451055
   entry_writer: vedat milor
-  entry_fav_count: 17
+  entry_fav_count: 26
   entry_content: |
     iyi geceler arkadaşlar<br/><br/>ikinci kez birlikteyiz ekşi sözlük'te. ben çok keyif almıştım ilk toplantımızdan bugün de eminim özellikle bu covid zamanı benim için son derece güzel bir olay sizlerle diyalog kurmak, çünkü evdeyiz sosyalleşemiyoruz, amerika'dayım, doya doya sohbet edeceğiz.<br/><br/>(bkz: <a class="b" href="/?q=rehber+(belgesel)">rehber (belgesel)</a>) <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/BNiZNS1orMc" title="https://youtu.be/BNiZNS1orMc">belgeselin linki</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/p/CB81lDHAVGS/" title="https://www.instagram.com/p/CB81lDHAVGS/">kanıt</a><br/><br/>sorularınıza verilmiş yanıtları görmek için şu bağlantıyı kullanabilirsiniz: (bkz: <a class="b" href="/?q=vedat+milor+sorular%c4%b1n%c4%b1z%c4%b1+yan%c4%b1tl%c4%b1yor%2f%40vedat+milor">vedat milor sorularınızı yanıtlıyor/@vedat milor</a>)<br/><br/>not: soru cevap etkinliğini ekşi sözlük <a rel="nofollow noopener" class="url" target="_blank" href="https://apps.apple.com/tr/app/ekşi-sözlük/id1216400454" title="https://apps.apple.com/tr/app/ekşi-sözlük/id1216400454">ios</a> uygulamasından ve mobil/web tarayıcınızdan takip edebilirsiniz.
   entry_channels: ekşi-sözlük,yeme-içme,magazin
+- entry_name: |
+    dark (dizi)
+  entry_id:  109429028
+  entry_writer: alezengi
+  entry_fav_count: 24
+  entry_content: |
+    ulrich al bütün amlar senin olsun amk al hepsini sen sik ne doymaz bi orospu çocuğuymuşsun aq<br/><br/>tanım: 3.sezonu bugün yayınlanan alman dizisi.
+  entry_channels: tv,spoiler
+- entry_name: |
+    karakomik filmler 2
+  entry_id:  109413875
+  entry_writer: day zero
+  entry_fav_count: 21
+  entry_content: |
+    özkan uğur'un tek rakibim <a class="b" href="/?q=jack+nicholson">jack nicholson</a> dediği film. gerisi boş.
+  entry_channels: sanat,sinema
+- entry_name: |
+    istanbul başakşehir futbol kulübü
+  entry_id:  109427094
+  entry_writer: ti mani
+  entry_fav_count: 19
+  entry_content: |
+    bein gelirleri için şampiyon yapılmamalıymış. <br/>böyle diye diye yıllardır 3 büyükler denen sikimtronik takımları izliyoruz.
+  entry_channels: spor
+- entry_name: |
+    fsm tablosunu tayyip alsaydi olacaklar
+  entry_id:  109414450
+  entry_writer: natteravn
+  entry_fav_count: 19
+  entry_content: |
+    eleştirenler bizanslı vatan haini ilan edilirdi.
+  entry_channels: siyaset,anket
 - entry_name: |
     eskişehirspor
   entry_id:  109442939
@@ -283,45 +267,37 @@ data:
     cok degil, daha 7-8 sene evvel <a class="b" href="/?q=alper+potuk">alper potuk</a> ve <a class="b" href="/?q=tar%c4%b1k+%c3%a7amdal">tarık çamdal</a>'ı buyuklere itelemesiyle kasasina 12 milyon euro koymus kuluptu... buyuk paralara futbolcu almadi, oynayan oyunculara acayip acayip maaslar odemedi... ne oldu da bu paralar eridi ve mali sorunlar yuzunden aldigi cezalar nedeniyle bu takim kume dustu diye sormak lazim elbette...<br/><br/>benzer durum gaziantepspor icin de gecerliydi...<br/><br/>iste bu yuzden kuluplerin dernek statusunun degismesi lazim... kuluplerin basina gelen yonetimlerin mali konulardaki mesuliyeti cok daha agir olmali... yoksa boyle kulupleri batirip batirip kacmaya devam ederler... olan yarim asirlik geleneklere ve futbolseverlere olduguyla kalir...
   entry_channels: spor
 - entry_name: |
-    istanbul başakşehir futbol kulübü
-  entry_id:  109427094
-  entry_writer: ti mani
-  entry_fav_count: 16
-  entry_content: |
-    bein gelirleri için şampiyon yapılmamalıymış. <br/>böyle diye diye yıllardır 3 büyükler denen sikimtronik takımları izliyoruz.
-  entry_channels: spor
-- entry_name: |
-    fsm tablosunu tayyip alsaydi olacaklar
-  entry_id:  109414355
-  entry_writer: ommo
-  entry_fav_count: 14
-  entry_content: |
-    bir buçuk ay boyunca camilerden her gün anons yapilir ve kafamizi sikerlerdi.
-  entry_channels: siyaset,anket
-- entry_name: |
     dünyanın kaderini değiştiren 3 nesne
   entry_id:  109431966
   entry_writer: limonbekcisi
-  entry_fav_count: 14
+  entry_fav_count: 15
   entry_content: |
     para<br/>barut<br/>transistör
   entry_channels: siyaset,anket,tarih,teknoloji
 - entry_name: |
-    itümahremiyetistiyor
-  entry_id:  109446514
-  entry_writer: whovian1571
-  entry_fav_count: 11
-  entry_content: |
-    (bkz: <a class="b" href="/?q=witwiser">witwiser</a>) uygulamanın verdiği izinler: <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/asliozturk/status/1276949112261394433?s=20" title="https://twitter.com/asliozturk/status/1276949112261394433?s=20">https://twitter.com/…tatus/1276949112261394433?s=20</a><br/><br/>üstedit3: talebin ülke gündeminde 2.sıraya oturmasının ardından itü rektörü bir karikatür retweetledi, herhangi bir açıklama yok: itü öğrencileri kopya çekmemize izin verin demiyordu zaten, bu yazılım olmasın, bir uzlaşı sağlansın ve öğrenci merkezli bir sınav sistemi olsun istiyorlardı. itü yine pass/fail uygulamasını getirmemişti:<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Mikdatca/status/1276944346085023746?s=20" title="https://twitter.com/Mikdatca/status/1276944346085023746?s=20">https://twitter.com/…tatus/1276944346085023746?s=20</a> (karikatür)<br/><br/>üstedit2: itü çimen değil mahremiyet ve taleplerinin duyulmasını istiyor. zaten öğrencinin kamerayla görüntülendiği ve diğer tedbirlerin alındığı sınavlarda gerçekten buna gerek var mı?<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/yduhgtv0" title="https://soz.lk/i/yduhgtv0">görsel</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/vekilince/status/1276907965623263234?s=20" title="https://twitter.com/vekilince/status/1276907965623263234?s=20">https://twitter.com/…tatus/1276907965623263234?s=20</a><br/>üst edit: itülü profesörün pandemi sürecinde itü'de tepki doğuran ve öğrencilerin yalnız hissetmesine neden olan kararların nasıl alındığını anlatan floodu: <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/GurluOguzhan/status/1276909998057062400?s=20" title="https://twitter.com/GurluOguzhan/status/1276909998057062400?s=20">https://twitter.com/…tatus/1276909998057062400?s=20</a><br/><br/>muharrem ince'nin de destek verdiği ve itü'lü öğrencilerin sınav döneminde witwiser denilen ve ziyaret ettiğimiz sitelerdeki tüm verileri okuyabilen ve değiştirebilen bir uygulamayı kullanmak zorunda bırakılmasına verdiği tepki.<br/><br/>uygulama daha birkaç aylık bir şey, bildirimleri görüntüleme , ekranınızın içeriğini yakalama gibi daha birçok izni istiyor. ülkenin diğer öncü üniversiteleri böyle bir uygulamayı kullanmak zorunda kalmamasına rağmen, itüdeki gereksinimin ne olduğu merak unsuru. diğer üniversiteler çevirim içi sınavlarda mahremiyeti ihlal etmeyen uygulamalar kullanmıştı.<br/><br/>#itümahremiyetistiyor etiketiyle tweeterda gündemde.<br/><br/>buna ek olarak fizik, kimya gibi sınavlarda çözülen soruya geri dönülememesi gibi kararlar alındı. daha bilgisayarı ve internet erişimi olmayan öğrenciler bile varken bazı öğretmenlerin ikinci kamera ve tripod istekleri gözden kaçmadı.
-  entry_channels: haber,eğitim
-- entry_name: |
     27 haziran 2020 istanbul semalarında ufo
   entry_id:  109450251
   entry_writer: boya takintisi olan adam
-  entry_fav_count: 10
+  entry_fav_count: 15
   entry_content: |
     yıllardır ufo diye tost makinesiyle çekilmiş görüntülerden şikayet etmiştik, adam bu sorunu çözmüş.<br/><br/>görüntü mörüntü yok, bam bam bam.<br/><br/>işi hayal gücümüze bırakmış, inovatif bir yazar entrysidir.
   entry_channels: haber
+- entry_name: |
+    #itümahremiyetistiyor
+  entry_id:  109446514
+  entry_writer: whovian1571
+  entry_fav_count: 14
+  entry_content: |
+    (bkz: <a class="b" href="/?q=witwiser">witwiser</a>) uygulamanın verdiği izinler: <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/asliozturk/status/1276949112261394433?s=20" title="https://twitter.com/asliozturk/status/1276949112261394433?s=20">https://twitter.com/…tatus/1276949112261394433?s=20</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://chrome.google.com/webstore/report/jiobmdeglpiihigcpbnkcbnadckfnipj?hl=tr&amp;gl=TR&amp;fbclid=IwAR0MF5okzoA3FZIll6UDed9tg0CgodNJfncJmtKKi4Y73RA-XyIdjs9RIQU" title="https://chrome.google.com/webstore/report/jiobmdeglpiihigcpbnkcbnadckfnipj?hl=tr&amp;gl=TR&amp;fbclid=IwAR0MF5okzoA3FZIll6UDed9tg0CgodNJfncJmtKKi4Y73RA-XyIdjs9RIQU">link</a> bu linkle eklenti şikayet ediliyor googleda.<br/><br/>üstedit3: talebin ülke gündeminde 2.sıraya oturmasının ardından itü rektörü bir karikatür retweetledi, herhangi bir açıklama yok: itü öğrencileri kopya çekmemize izin verin demiyordu zaten, bu yazılım olmasın, bir uzlaşı sağlansın ve öğrenci merkezli bir sınav sistemi olsun istiyorlardı. itü yine pass/fail uygulamasını getirmemişti:<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Mikdatca/status/1276944346085023746?s=20" title="https://twitter.com/Mikdatca/status/1276944346085023746?s=20">https://twitter.com/…tatus/1276944346085023746?s=20</a> (karikatür)<br/><br/>üstedit2: itü çimen değil mahremiyet ve taleplerinin duyulmasını istiyor. zaten öğrencinin kamerayla görüntülendiği ve diğer tedbirlerin alındığı sınavlarda gerçekten buna gerek var mı?<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/yduhgtv0" title="https://soz.lk/i/yduhgtv0">görsel</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/vekilince/status/1276907965623263234?s=20" title="https://twitter.com/vekilince/status/1276907965623263234?s=20">https://twitter.com/…tatus/1276907965623263234?s=20</a><br/>üst edit: itülü profesörün pandemi sürecinde itü'de tepki doğuran ve öğrencilerin yalnız hissetmesine neden olan kararların nasıl alındığını anlatan floodu: <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/GurluOguzhan/status/1276909998057062400?s=20" title="https://twitter.com/GurluOguzhan/status/1276909998057062400?s=20">https://twitter.com/…tatus/1276909998057062400?s=20</a><br/><br/>muharrem ince'nin de destek verdiği ve itü'lü öğrencilerin sınav döneminde witwiser denilen ve ziyaret ettiğimiz sitelerdeki tüm verileri okuyabilen ve değiştirebilen bir uygulamayı kullanmak zorunda bırakılmasına verdiği tepki.<br/><br/>uygulama daha birkaç aylık bir şey, bildirimleri görüntüleme , ekranınızın içeriğini yakalama gibi daha birçok izni istiyor. ülkenin diğer öncü üniversiteleri böyle bir uygulamayı kullanmak zorunda kalmamasına rağmen, itüdeki gereksinimin ne olduğu merak unsuru. diğer üniversiteler çevirim içi sınavlarda mahremiyeti ihlal etmeyen uygulamalar kullanmıştı.<br/><br/>#itümahremiyetistiyor etiketiyle tweeterda gündemde.<br/><br/>buna ek olarak fizik, kimya gibi sınavlarda çözülen soruya geri dönülememesi gibi kararlar alındı. daha bilgisayarı ve internet erişimi olmayan öğrenciler bile varken bazı öğretmenlerin ikinci kamera ve tripod istekleri gözden kaçmadı.
+  entry_channels: haber,eğitim
+- entry_name: |
+    evlenirken alınmaması gereken şeyler
+  entry_id:  109416154
+  entry_writer: samstone
+  entry_fav_count: 9
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ah">ah</a>)
+  entry_channels: anket,ilişkiler
 - entry_name: |
     ekşi itiraf
   entry_id:  109413992
@@ -339,6 +315,14 @@ data:
     eski sevgiliye yeni sevgiliyi anlatan kadar gaddar değildir ya da acımasız.
   entry_channels: ilişkiler
 - entry_name: |
+    sayısal loto
+  entry_id:  109447859
+  entry_writer: dersuzala
+  entry_fav_count: 5
+  entry_content: |
+    yok artık gerçekten yok artık.<br/>geçen çarşamba devretti. ve bugün yapılan çekiliş sonucu;<br/><br/>ankara/çankaya <br/>ankara/yenimahalle <br/><br/>2 kişiye çıkıyor ve ikisi de sürekli gündeme gelen yerlerden. bu çekilişlerin tv kanallarında yapılması lazım. insanların hayalleriyle oynama hakkını nasıl buluyorlar kendilerinde.<br/><br/>daha perşembe günü süper loto çankaya ilçesine çıktı.
+  entry_channels: oyun
+- entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  109412508
   entry_writer: sen adisin
@@ -347,21 +331,29 @@ data:
     çirkin erkeklerin doluştuğu veritabanı. yakışıklı olsalardı, bu kadar aç kalmazlardı. paraları da yoktur bunların. ciğercinin kedisi gibi bekleşiyorlar.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    yazarların bu akşamki alkol tercihi
-  entry_id:  109447747
-  entry_writer: kola basili
-  entry_fav_count: 4
+    insanı yoran şeyler
+  entry_id:  109422362
+  entry_writer: baklava yiyen kedi
+  entry_fav_count: 3
   entry_content: |
-    bir limon, bir portakal sıkılarak bir bardağa konur. bir ölçü schweppes limon ve bir ölçü votka bol buzla karıştırılır. <br/><br/>sürahi dolu evet. cumartesi eğlencesi, biraz içince ankara havası açıp kediyle karşılıklı oynamayı düşünüyorum. gözüm de biraz segiriyor. <br/><br/>güzel bir tercihtir kendimce. carpmasa iyi.
-  entry_channels: anket,ekşi-sözlük,yeme-içme
+    empatiden yoksun arkadaş.
+  entry_channels: anket,ilişkiler
 - entry_name: |
-    sayısal loto
-  entry_id:  109447859
-  entry_writer: dersuzala
-  entry_fav_count: 4
+    galatasaray'ın sinsi gibi gelip şampiyon olması
+  entry_id:  109453515
+  entry_writer: aeco
+  entry_fav_count: 2
   entry_content: |
-    yok artık gerçekten yok artık.<br/>geçen çarşamba devretti. ve bugün yapılan çekiliş sonucu;<br/><br/>ankara/çankaya <br/>ankara/yenimahalle <br/><br/>2 kişiye çıkıyor ve ikisi de sürekli gündeme gelen yerlerden. bu çekilişlerin tv kanallarında yapılması lazım. insanların hayalleriyle oynama hakkını nasıl buluyorlar kendilerinde.<br/><br/>daha perşembe günü süper loto çankaya ilçesine çıktı.
-  entry_channels: oyun
+    “<a class="b" href="/?q=galatasaray">galatasaray</a>’ın kendisine güvenmeyenleri g.t etmek gibi bir huyu vardır” - türk atasözü<br/><br/>açıkçası imkansıza yakın bir durum ben de biliyorum, ama saldığımız korku yeter yemin ediyorum..
+  entry_channels: spor
+- entry_name: |
+    dünya döndükçe varolacak sektör
+  entry_id:  109445603
+  entry_writer: o nick buraya gelecek aga
+  entry_fav_count: 2
+  entry_content: |
+    (bkz: <a class="b" href="/?q=d%c3%bcnyan%c4%b1n+en+eski+mesle%c4%9fi">dünyanın en eski mesleği</a>)
+  entry_channels: anket
 - entry_name: |
     çaylaklardan mesaj bekleyen yazarlar veritabanı
   entry_id:  109411959
@@ -379,6 +371,14 @@ data:
     <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/ZGTds-WRsNQ" title="https://youtu.be/ZGTds-WRsNQ">gamzedeyim, deva bulmam</a><br/><br/>ruhu şad olsun <a class="b" href="/?q=tatyos+efendi">tatyos efendi</a> 'nin.
   entry_channels: anket,ekşi-sözlük,müzik
 - entry_name: |
+    şu anda çalan şarkı
+  entry_id:  109453396
+  entry_writer: muhammedmirza
+  entry_fav_count: 0
+  entry_content: |
+    ahmet kaya - neden saza gelmedin
+  entry_channels: anket,ilişkiler,ekşi-sözlük,müzik
+- entry_name: |
     harika bir an yaşayıp fotoğraflamamak
   entry_id:  109452874
   entry_writer: venus
@@ -387,19 +387,19 @@ data:
     konferans icin <a class="b" href="/?q=toronto">toronto</a>'ya gelmisiz. kaldigimiz otel de tam <a class="b" href="/?q=cn+tower">cn tower</a>in dibinde. neyse odaya yerlestik falan aaaa deli gibi yagmur basladi. ben de ozellikle simsek fotografi cekmeyi seven bir fotografciyim. hemen pencerede nobete basladim, simsek cakar mi diye. baya bir nobet tuttuktan sonra umudumu kaybedip makineyi indirmemle, cn tower'in antenine yildiri, dusmedi mi!! yemin ederim arada 10 saniye falan vardir. hala aklima geldikce kafayi yerim. bi daha ne zaman toronto'ya gidicem de cn tower'a yildirim dusecek, neyse allahtan umit kesilmez.<br/><br/>yakalasam soyle bir foto olacakti herhalde<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://media.blogto.com/articles/2-100415-cntowerlightning.jpg?w=2048&amp;cmd=resize_then_crop&amp;height=1365&amp;quality=70" title="https://media.blogto.com/articles/2-100415-cntowerlightning.jpg?w=2048&amp;cmd=resize_then_crop&amp;height=1365&amp;quality=70">https://media.blogto.com/…op&amp;height=1365&amp;quality=70</a>
   entry_channels: anket,sanat,teknoloji
 - entry_name: |
-    dünya döndükçe varolacak sektör
-  entry_id:  109448073
-  entry_writer: gemideki kedi
+    galatasaray
+  entry_id:  109453527
+  entry_writer: orgutitirafcisi
   entry_fav_count: 0
   entry_content: |
-    kesinlikle gıda sektörüdür. gelecekte geçen uzay filmlerindeki gibi yemek yerine küçültülmüş haplarla bile beslensek temelde bir şeyler yemek zorundayız.
-  entry_channels: anket
+    hemen gaza gelmemek gerekiyor. galatasaray öncelikle yarın maçını kazanmalı ve potaya burnunu sokmalı. ondan sonra trabzonspor maçı var. ancak onu da kazanırsak bir şansımız olabilir. o da %100 değil. ipler yine bizim elimizde olmaz, oturup başakşehir'in puan kaybetmesini bekleriz. tabii bu arada biz hep kazanmalıyız. imkansıza yakın. ama imkansız değil.
+  entry_channels: spor,eğitim
 - entry_name: |
-    cem yılmaz
-  entry_id:  109447884
-  entry_writer: judith ile holofern
+    an itibarıyla yazarların nerede olup ne yaptığı
+  entry_id:  109442601
+  entry_writer: tuolcer
   entry_fav_count: 0
   entry_content: |
-    hala kaliteli işler çıkartıyor ancak filmlerinin bu kadar olumsuz eleştirilmesinin sebebi bence gora, hokkabaz, yahşi batı gibi inanılmaz eğlenceli filmlerle oyuncu, yönetmen ya da senarist olarak sinema seyircisini doyurmuş olması. ve evet seyirci doymak bilmeden tüketmek istiyor. artık cem yılmaz'ın doyurmak gibi bir gayesi yok çünkü bu işlerle kendini ispatladı ve bir çok sanat insanı gibi gün geçtikçe kendi iç dünyasına dönüyor, artık daha çok mesaj veriyor, eskisi kadar eğlendirmese de daha çok düşündürüyor (özellikle karakomik filmler serisiyle), artık doyurmak değil kendi doymak istiyor. yerinde saymıyor ve yeni işler deniyor (ne yapsın gişesi iyi diye 6 tane gora mı çeksin?) ki bence gayet güzel işler çıkartıyor. <br/><br/>öte taraftan; özellikle son bir kaç yıldır sürekli kişiliğine, karakterine dair olumlu/olumsuz eleştiriler yapılıyor. bu eleştirileriler çok anlamsız, cem yılmaz bizim için bir "sinema adamı" eleştireceksek sinema yönünü eleştirelim. adamın ne içip yediğinden kime ne. bilim ve sanat tarihi işinde başarılı kötü insanlarla dolu biz o insanların gündelik hayatta neler yaptıklarıyla, kişilikleriyle değil bize ne verdikleriyle ilgileniyoruz.
-  entry_channels: tv,sanat,sinema,magazin
+    hollanda'nın orta büyüklükteki sakin ve huzurlu bir şehrinde meydandaki kiliseye karşı oturmuş sangriamı içip meydanı seyrederken aralarında ekşici yazarların da olduğu arkadaşlarımla sohbet ediyorum.
+  entry_channels: anket,ekşi-sözlük
 ---
