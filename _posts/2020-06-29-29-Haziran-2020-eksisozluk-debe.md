@@ -6,23 +6,15 @@ data:
     gurbetçi oy hakkının iptali kampanyası
   entry_id:  109462824
   entry_writer: incircekirdeginidolduranadam
-  entry_fav_count: 2473
+  entry_fav_count: 2476
   entry_content: |
     ülkede yaşamayan, ülkeyi tanımayan, ülkeye vergi vermeyen insanların oy hakkı olmamalı.<br/><br/>gel euroyla ülkeye tatile, 7 ile çarp ye iç sıç sonra ögöhöhöhöh.
   entry_channels: siyaset
 - entry_name: |
-    bizi burak'ın ve bebeğimin melekleri korudu
-  entry_id:  109462998
-  entry_writer: memisak
-  entry_fav_count: 1171
-  entry_content: |
-    düşük gelirli insanların arabalarındaki melek nedense hep azrail oluyor
-  entry_channels: magazin
-- entry_name: |
     28 haziran 2020 yeni gümrük vergileri
   entry_id:  109467610
   entry_writer: bakin burasi cokomelli
-  entry_fav_count: 969
+  entry_fav_count: 973
   entry_content: |
     (bkz: <a class="b" href="/?q=halk+a%c4%9f%c4%b1r+vergiler+alt%c4%b1nda+sikiliyordu">halk ağır vergiler altında sikiliyordu</a>)
   entry_channels: siyaset,haber,ekonomi
@@ -30,7 +22,7 @@ data:
     ülken için ölür müsün
   entry_id:  109471125
   entry_writer: ne rakisi sevim
-  entry_fav_count: 919
+  entry_fav_count: 928
   entry_content: |
     olmem.<br/>hic kimse ya da hicbir sey ugruna canimdan olmam. <br/>hayata bir kere gelme sansim var ve onu da kaybetmek istemem.<br/>kaldi ki; ulkelerin kendileri ugruna olecek insanlara degil gelisimine katki saglayacak, katma deger yaratacak insanlara ihtiyaci olmali.
   entry_channels: siyaset,anket,tarih
@@ -38,7 +30,7 @@ data:
     ibrahim tatlıses'in 26 yaşındaki yeni sevgilisi
   entry_id:  109472604
   entry_writer: cakmaayfon
-  entry_fav_count: 816
+  entry_fav_count: 827
   entry_content: |
     ben kustum...<br/>bir kıza baktım. bir ibo ya. <br/>sonra bir daha baktım. kızın yüzüne baktım. sonra ibo nun boyalı, saçına kaşına, bir daha kustum..<br/>sonra utandım. kızın adına. öperken hiç mi tiksinmeyeceksin. hiç mi iğrenmeyeceksin. <br/><br/>adamı sevmediğin belli. para için değer mi...<br/>şöhret için değer mi. zengin mezesi olmaya değer mi... <br/>söyleee haaa söyleeee değer miiiiiiiiiiiiiiiiiiiiii (burasını ibo nun hülyaya bağırması gibi okuyacaksınız)<br/><br/>asıl önemli edit : biraz önce hürriyetinden, sözcüsüne, takviminden habertürküne kadar basında bu haberin veriliş biçimine baktım. aşk demişler bu rezilliğe. içimden tüm küfürleri ettim medyaya..<br/>yazıklar olsun. sokaktaki çocuk bile bunun aşk olmadığını bilir..
   entry_channels: magazin
@@ -46,7 +38,7 @@ data:
     obp'nin kaldırılması gerekliliği
   entry_id:  109478275
   entry_writer: zarbi sarioglu
-  entry_fav_count: 535
+  entry_fav_count: 620
   entry_content: |
     obp(ortaöğretim başarı puanı), öğretimde fırsat eşitliğini en çok zedeleyen kavramlardan birisi. özellikle bu sene olduğu gibi soruların basit ve puanların yığılma yaptığı sınav senelerinde birçok insanın hakkının yenmesine sebep oluyor.<br/><br/>bir örnekle, en zor fen liselerinden birinden 60 puanla mezun olup üniversite sınavında 5 bine giren öğrenci ile özel berkecan kolejinden 98 puanla mezun olup 25 bine giren öğrenci gün sonunda aynı sıralamayı yapmış sayılıyor. halbuki bu iki öğrenci profili arasında dağlara taşlara bir fark varken birinin tek suçu zor bir okulda kaliteli bir eğitim almış olmak.<br/><br/>#obpkaldırılsın
   entry_channels: haber,eğitim
@@ -54,7 +46,7 @@ data:
     türk kara kuvvetlerimizin 2229'uncu yıl dönümü
   entry_id:  109470260
   entry_writer: ordiinaryus
-  entry_fav_count: 497
+  entry_fav_count: 502
   entry_content: |
     mezopotamya eşekleri ve vahabi köpeklerinin zoruna gideceği yıl dönümüdür.<br/><br/>kutlu olsundur!
   entry_channels: tarih,haber,eğitim
@@ -62,7 +54,7 @@ data:
     yağ yakma metotları
   entry_id:  109485592
   entry_writer: orengulzade
-  entry_fav_count: 339
+  entry_fav_count: 369
   entry_content: |
     opel corsa 1.7 dtı
   entry_channels: spor,anket,sağlık
@@ -70,74 +62,58 @@ data:
     bodrum belediye başkanının döner açıklaması
   entry_id:  109480582
   entry_writer: turkiyeden bikan pilot
-  entry_fav_count: 296
+  entry_fav_count: 306
   entry_content: |
     bir turizm mezunu olarak diyebilirim ki bu tarz tatil beldelerinde orta ve dar gelirli insanlara insan muamelesi yapılmaz. bakkala girip bir su alsanız bile trip yersiniz. <br/><br/>kısacası parası olan gelsin olmayan günübirlik halk plajına gitsin tarzı bir açıklama. devlet firmaya, firma işletmeye, işletme müşteriye sonra hepsi müşteriye...
   entry_channels: yeme-içme,ekonomi,seyahat
 - entry_name: |
-    üniversite tercihlerinde yazılmaması gereken bölüm
-  entry_id:  109455030
-  entry_writer: dimachaerus
-  entry_fav_count: 211
-  entry_content: |
-    sevgili gençler. burayı gerek yazar, gerek çaylak, gerek misafir olarak okuyan insanlar. söyleyeceklerim için lütfen beni yanlış anlamayın. iyiliğiniz için konuşacağım.<br/><br/>bu ülkede iş garantili bazı bölümler haricinde bir hedefinizin olması için tanıdığınızın olması gerekiyor. tanıdığınız, referansınız, torpiliniz yoksa bu yazıyı okuyan, bu devranın başında olan sizlerin %95'i iğrenç hayat gerçeklikleriyle yüzleşecek. <br/><br/>mühendis olsanız, sizi asgari ücret ile başlatıp ilkokul mezunu şefe ezdirtecekler, avukat olursanız kodaman avukatlara çay servisi yaparak staj yapmanızı bekleyecekler, psikolog olursanız asgari ücreti size çok görecekler, öğretmen olup atanamazsanız özel kurumlar size asgari ücretin 2/3'ünü önerecekler. <br/><br/>hepsini biliyorum, çünkü neredeyse her bölümden arkadaşım var. arkeoloji mezunu arkadaşım özel eğitim kurumunda müdür yardımcılığı yapıyor(maaş:2500 tl) , mühendis arkadaşım şu an tezgah açtı pazarcılık yapıyor(yaklaşık 3000 tl), ben yüksek lisanslı terapist olarak zamanımın çoğunu aile işimde(tekstil) geçiriyorum, kendi yerimde haftada 1-2 danışan bulabilirsem ne mutlu. <br/><br/>ben ve saydığım bu insanların hiçbiri başarısız, salak, yetersiz falan değil. hepimizin yabancı dili vardır, hepimiz oturup başlangıç seviyesinde bile olsa atomaltı parçacıklardan, darwinist evrimden, kübizmden bahsedebiliriz ancak bunların hiçbir para etmediğini, maddi olarak size hiçbir fayda sağlamadığını göreceksiniz. bu ülkede size para kazandıracak tek şey <a class="b" href="/?q=yalamakt%c4%b1r">yalamaktır</a>. yalayacaksınız, üst statüdeki herkesi belli bir süre yalayıp onun açıklarını yakalayacak ve üstüne çıkacaksınız. <br/><br/>yalamazsanız ne mi olur? lisans diplomanız evinizdeki vitrinde tozla kaplanırken yalayanların instagram hikayelerinde partiler verdiğini, altlarına lüks araçlar çektiklerini, daireler aldıklarını göreceksiniz. size verilen en büyük lütuf da hala kapatılmadığına inanamadığınız netflix ve dertlendikçe sarıldığınız 2 bira şişesi olacak.
-  entry_channels: anket,eğitim
-- entry_name: |
     bacak kıllarını tıraş eden erkekler
   entry_id:  109485534
   entry_writer: ucan kacan pirasa
-  entry_fav_count: 188
+  entry_fav_count: 219
   entry_content: |
     ikinci bacağı traş ederken ilk bacakta tüylenme başlıyor, söyleyeceklerim bu kadar.
   entry_channels: ilişkiler
 - entry_name: |
+    üniversite tercihlerinde yazılmaması gereken bölüm
+  entry_id:  109455030
+  entry_writer: dimachaerus
+  entry_fav_count: 215
+  entry_content: |
+    sevgili gençler. burayı gerek yazar, gerek çaylak, gerek misafir olarak okuyan insanlar. söyleyeceklerim için lütfen beni yanlış anlamayın. iyiliğiniz için konuşacağım.<br/><br/>bu ülkede iş garantili bazı bölümler haricinde bir hedefinizin olması için tanıdığınızın olması gerekiyor. tanıdığınız, referansınız, torpiliniz yoksa bu yazıyı okuyan, bu devranın başında olan sizlerin %95'i iğrenç hayat gerçeklikleriyle yüzleşecek. <br/><br/>mühendis olsanız, sizi asgari ücret ile başlatıp ilkokul mezunu şefe ezdirtecekler, avukat olursanız kodaman avukatlara çay servisi yaparak staj yapmanızı bekleyecekler, psikolog olursanız asgari ücreti size çok görecekler, öğretmen olup atanamazsanız özel kurumlar size asgari ücretin 2/3'ünü önerecekler. <br/><br/>hepsini biliyorum, çünkü neredeyse her bölümden arkadaşım var. arkeoloji mezunu arkadaşım özel eğitim kurumunda müdür yardımcılığı yapıyor(maaş:2500 tl) , mühendis arkadaşım şu an tezgah açtı pazarcılık yapıyor(yaklaşık 3000 tl), ben yüksek lisanslı terapist olarak zamanımın çoğunu aile işimde(tekstil) geçiriyorum, kendi yerimde haftada 1-2 danışan bulabilirsem ne mutlu. <br/><br/>ben ve saydığım bu insanların hiçbiri başarısız, salak, yetersiz falan değil. hepimizin yabancı dili vardır, hepimiz oturup başlangıç seviyesinde bile olsa atomaltı parçacıklardan, darwinist evrimden, kübizmden bahsedebiliriz ancak bunların hiçbir para etmediğini, maddi olarak size hiçbir fayda sağlamadığını göreceksiniz. bu ülkede size para kazandıracak tek şey <a class="b" href="/?q=yalamakt%c4%b1r">yalamaktır</a>. yalayacaksınız, üst statüdeki herkesi belli bir süre yalayıp onun açıklarını yakalayacak ve üstüne çıkacaksınız. <br/><br/>yalamazsanız ne mi olur? lisans diplomanız evinizdeki vitrinde tozla kaplanırken yalayanların instagram hikayelerinde partiler verdiğini, altlarına lüks araçlar çektiklerini, daireler aldıklarını göreceksiniz. size verilen en büyük lütuf da hala kapatılmadığına inanamadığınız netflix ve dertlendikçe sarıldığınız 2 bira şişesi olacak.
+  entry_channels: anket,eğitim
+- entry_name: |
     2020 otomobil ötv indirimi
   entry_id:  109477453
   entry_writer: mcbtr
-  entry_fav_count: 187
+  entry_fav_count: 188
   entry_content: |
     el mahkum inecek diyen bazı romantikler görüyorum. indirim neden olur?<br/><br/>elde fazla mal vardır, stok eritmek gerekir<br/>ürünün son kullanma tarihi geçiyordur paraya çevirmek gerekir.<br/><br/>dünya genelinde üretim daha rayına oturmamış, ülkeye araç girmiyor, girenler 3 ay önceden garanti şekilde satılmışken, tıkır tıkır vergi girecekken bana ötv'de indirimin mantıklı bir gerekçesini gösterin. piyasayı canlandırmak desen, e zaten indirimsiz fiyattan cayır cayır satılıyor, stok fazlası yok. niye gelecek paradan feragat edesin? desen ki oradan artan para diğer sektörlere gidecek, hiç sanmam. 500bin arabaya gömen, gıda mı alamıyor yani? ya da 300e alsa, 200ü harcayacak mı? harcasa bile devletin kasasına çok daha az para girmiş olacak. neden yapsın? istihdam mı? hiç sanmıyorum.<br/><br/>edit: bundan önceki ötv indiriminde bayilerin elinde deli gibi stok patlamıştı, ondan indirim oldu. ondan sonra sipariş üzerine çalışmaya başlamışlardı. o yüzden fazla stok olayı da yok artık.<br/><br/>edit2: şu an ekonomi zaten kötü, deli gibi cari açık varken, 300binlik aracı 200bine satıp, aradaki 100binden de vazgeçip, üstüne kendisine zerre hayrı olmayan, sadece cari açık yaratan bir şeyi yapacağını söylemek de, net ekonomi bilmemektir. biri de çıkmış ithal ürünlere gelen vergiler ötv indiriminin habercisi demiş, bak ben bu kadar ekonomiden anlamayıp da çıkarım yapan çok az gördüm. hadi bu ithal ürünlere gelen verginin içerideki ürünlerin kullanımı dolayısıyla cari açığın dengelenmesi için olduğunu düşünemeyecek kadar ekonomi bilgisinden yoksunsunuz, 80 milyonun kullandığı her şeye vergi bindirme sebebini 15-20 bin tane araba sevdalısının gönlünü etmek şeklinde düşünebilecek kadar ne kafalar yaşıyorsunuz anlamıyorum. he amk durduk yere 15-20 bin tane adamın gönlünü edip oy kazanmak için, 80 milyona zam yapınca daha çok kazancı olacak.<br/><br/>öteki de benzinden falan o ötv ile kapanacak deniyor. ulan 200binlik araçtan alınan vergi, 100bin tl. 100bin tl'lik benzin 16bin litre yapıyor. 16bin litre dediğin şey ile, 200-300bin km arası yol yaparsın. standart kullanıcı senede 50bin bile yapmaz, 5-6 senede alacağı farktan cart diye vazgeçecek diye düşünüyor. bak benzinin hepsini de vergi olarak aldım haa, benzinin kendisi 0tl yani bu hesapta. abi insan hiç hesap da mı yapmaz? vergisi sigortası desen senede 2000-3000 normal bir arabada. yani devletin benzinden sigortadan gelecek zaten dediği şeyde 1 yılda aynı miktarda kazanması için 1 yerine 4-5 araç satması lazım en az. böyle bir istek var mı? yok. o da patladı yani.<br/><br/>edit 3: yerli üretim için olur diyenler var. yerli üretime indirdin. c-hr oldu yaris'ten daha ucuz. toyota demeyecek mi "abi sen manyak mısın?" hepsini indirsen oradan alman çıkacak diyecek ki, "e bunlar yerli üretim değil, benim ne suçum var?" hele ki distribütörü doğuş iken. ha sonra renault var, bazı modelleri burada üretiliyor. şimdi ona ötv'yi kaldırırsan, alman sana gümrük birliği ile gelmeyecek mi? devlet ne kadar iyi veya ne kadar kötü yönetilirse yönetilsin, bazı hukuki prosedürler, anlaşmalar var arkadaşlar, öyle "şunu yapsınlar" deyince yapamıyorsun. bir de tabi 300 yerine 200e çekip 100 yerine 50 vergi alır, 100 değil 300 satar, dengeleriz kafası olmuyor. sıfır satışı 3 katına çıkınca para daha çok yurtdışına gidince tl'nin değer kaybı, dolayısıyla sizin ucuz araba sevdanız yüzünden ülkedeki her şeyin daha da pahalı olması var. yoksa ben de isterim golf alacağım paraya q3'e/glc'ye binmeyi(golf highline vergili ile diğerleri vergisiz aynı evet).
   entry_channels: haber,otomotiv,ekonomi
 - entry_name: |
-    instagram'da kızların profilini ara sıra açması
-  entry_id:  109471134
-  entry_writer: renksiz hayat
-  entry_fav_count: 163
-  entry_content: |
-    zengin bir erkek ağa düşünce tekrar gizli yapılır. yolma aktivitesi bittiğinde tekrar açılır.aç kapa, aç kapa artema.
-  entry_channels: anket,teknoloji
-- entry_name: |
-    atatürk'ün bir gözünün kör olması
-  entry_id:  109482685
-  entry_writer: luisherr
-  entry_fav_count: 161
-  entry_content: |
-    gözü görenlerden daha çok ileriyi görmüştür.
-  entry_channels: tarih
-- entry_name: |
     yoğun bakımdaki şeyh için tweet atan tarikatçılar
   entry_id:  109482327
   entry_writer: altay horda
-  entry_fav_count: 92
+  entry_fav_count: 93
   entry_content: |
     <a class="b" href="/?q=%23sultan%c4%b1m">#sultanım</a> tagı ile twitter tt listesine giren ismailağa cemaatine mensup <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/volkan_giritli/status/1277237028204224513" title="https://twitter.com/volkan_giritli/status/1277237028204224513">tarikatçılardır.</a><br/><br/>ismailağa şeyhi mahmut ustaosmanoğlu yoğun bakımdaymış, bunlar da twitter üzerinden şefaat dileniyorlar.<br/><br/>yahu sizin şeyhiniz istediği zaman allahla, peygamberle görüşen(!), hatta peygamberden daha üstün(!) biri değil mi?<br/>hastaneye, yoğun bakıma ne ihtiyacı var ki???<br/><br/>sizin şeyhiniz aya bakıp allah ile konuşuyordu ya hani;<br/>(bkz: <a class="b" href="/?q=ismaila%c4%9fa+%c5%9feyhinin+aya+bak%c4%b1p+allah%27la+konu%c5%9fmas%c4%b1">ismailağa şeyhinin aya bakıp allah'la konuşması</a>)<br/><br/>hani bu şeyhin huzurunda durmak 150 sene ibadete bedel idi;<br/>(bkz: <a class="b" href="/?q=%c5%9feyh+huzurunda+durmak+150+sene+ibadete+bedeldir">şeyh huzurunda durmak 150 sene ibadete bedeldir</a>)<br/><br/>düşünsene şeyhsin, senin huzurunda durmak 150 sene ibadete bedel(!), ama başı açık bir hemşire gelip sana sonda takıyor.<br/>bu dinen caiz midir?<br/><br/>kafayı yemiş bunların hepsi.<br/>biraz düşünebilseler bu yaptıklarının ne kadar saçma olduğunu anlayabilirler, ama allah onlara düşünmeyi bile bahşetmemiş. onlar da gidip şeyh dedikleri bu adama köle olmuşlar.<br/><br/>bu arada şeyh dedikleri, kutsal saydıkları adam da şu kişi;<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://streamable.com/6s7vtu">https://streamable.com/6s7vtu</a><br/><br/>adamcağızın kendine hayrı yok.<br/>zavallı...<br/><br/>edit: şuna bak bir tane daha buldum, kafalar pırıl pırıl.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/cqyi9bob" title="https://soz.lk/i/cqyi9bob">görsel</a>
   entry_channels: siyaset,sağlık,haber
 - entry_name: |
+    survivor 2020 ünlüler-gönüllüler
+  entry_id:  109454959
+  entry_writer: not my business
+  entry_fav_count: 87
+  entry_content: |
+    berkan sanane lan sercan potaya nisa'yı koysa? bizim tirifimizdin yinliş inlişilir.<br/><br/>asla şampiyon olamazsın bu kafayla.<br/><br/>dudaksız bir kız acun dahil tüm erkekleri parmağında çeviriyor. ah be çıplak ayağıyla odun kıran nagehan olacaktı 3. hafta ağlayarak evine giderdin adwdwdwfw
+  entry_channels: tv,magazin,spoiler
+- entry_name: |
     karakomik filmler 2
   entry_id:  109454906
   entry_writer: global village
-  entry_fav_count: 80
+  entry_fav_count: 85
   entry_content: |
     ülkemizde yanlış yorumlanıyor olmasına gerçekten üzüldüğüm eserler. cem yılmaz deyince tabii hepimizin aklına gişe geliyor, neden? çünkü kendisi bir popüler kültür nesnesi. ancak karakomik filmlerde ben kendisinin gerçek anlamda gişe kaygısı güttünü sanmıyorum; çünkü zeki biri. <br/><br/>karakomik filmler gibi arthouse işleri gişe kaygısıyla dünyada yapan var mı? galiba yok. cem yılmaz'ın trajikomik ve çoğu zaman da gerçek anlamda anadolu insanını konu aldığı hikâyeleri bunlar. bir nuri bilge ceylan üslubu ya da bir orhan pamuk yazınsallığı beklemiyoruz elbette; ancak farklı bir anlatım var. hüzünlendiren ve yer yer alışkın olduğumuzun dışında bir trajediye, cem yılmaz sineması için, sürükleyen bir ortam görüyoruz.<br/><br/>ben açıkçası cem yılmaz'ın bu üslubunu çok beğendim ve beğeniyorum. keşke seriyi de devam ettirse ve bu anlatıları zenginleştirse.
   entry_channels: sanat,sinema
-- entry_name: |
-    4 yaşındaki kuzeninden kazık yiyen yks adayı
-  entry_id:  109474731
-  entry_writer: kamburkelimat
-  entry_fav_count: 80
-  entry_content: |
-    abi şunun bile troll olduğunu anlamayacak kadar düşük iq'lu aptallarsınız ya. siz gerçekten gerizekalısınız. işte z kuşağı bu falan demişler bir de. ahahaha. ulan siz nesiniz ki? <br/><br/>bu sözlüğün iq ortalaması ülke ortalamasının üstündeydi bir zamanlar. şu haline katlanamıyorum. bu kadar beyinsizi nasıl yazar yaptılar buraya acaba?
-  entry_channels: haber
 - entry_name: |
     dolandırıcıya 800 bin liralık altın kaptıran teyze
   entry_id:  109476511
@@ -150,10 +126,18 @@ data:
     28 haziran 2020 başakşehir galatasaray maçı
   entry_id:  109455595
   entry_writer: cozulemeyen adam
-  entry_fav_count: 76
+  entry_fav_count: 78
   entry_content: |
     valla maç ne olur bilmem ama, gs kazara bu sene şampiyon olursa, bir daha besmelesiz adını anmam.<br/>not:fb<br/>zorunlu edit: (bkz: <a class="b" href="/entry/76853707">#76853707</a>)
   entry_channels: spor
+- entry_name: |
+    sars-cov-2
+  entry_id:  109456873
+  entry_writer: akakame
+  entry_fav_count: 61
+  entry_content: |
+    bugünün önemli gelişmeleri,<br/><br/>* toplam ölüm sayısı 499.192<br/><br/>* amerika 759 yeni ölüm bildirdi ve ülkedeki sayı 128.073 'e yükseldi. <br/><br/>* brezilya 893 yeni ölüm bildirdi ve ülkedeki sayı 56.197 'ye yükseldi.<br/><br/>* birleşik krallık 100 yeni ölüm bildirdi ve ülkedeki sayı 43.514 'e yükseldi.<br/><br/>* italya bugün 8 yeni ölüm bildirdi ve ülkedeki sayı 34.716 'e yükseldi.<br/><br/>* fransa bugün yeni ölüm bildirmedi.<br/><br/>* meksika 719 yeni ölüm bildirdi ve ülkedeki sayı 25.779 'a yükseldi. <br/><br/>* hindistan bugün 414 yeni ölüm bildirdi ve ülkedeki sayı 16.103 'e yükseldi.<br/><br/>* iran bugün 125 yeni ölüm bildirdi ve ülkedeki sayı 10.364 'e yükseldi.<br/><br/>* belçika 1 yeni ölüm bildirdi ve ülkedeki sayı 9.732 'ye yükseldi.<br/><br/>* almanya yeni ölüm bildirmedi.<br/><br/>* peru yeni ölüm bildirmedi.<br/><br/>* rusya 188 yeni ölüm bildirdi ve ülkedeki sayı 8.969 'a yükseldi.<br/><br/>* kanada 8 yeni ölüm bildirdi ve ülkedeki sayı 8.516 'ya yükseldi.<br/><br/>* isveç yeni ölüm bildirmedi.<br/><br/>* şili 279 yeni ölüm bildirdi ve ülkedeki sayı 5.347 'ye yükseldi. böylece şili, isveç'i geride bırakarak salgında en çok kayıp veren 16. ülke konumuna yükseldi.<br/><br/>* ekvador 18 yeni ölüm bildirdi ve ülkedeki sayı 4.424 'e yükseldi.<br/><br/>* pakistan 73 yeni ölüm bildirdi ve ülkedeki sayı 4.000 sınırını aşarak 4.035 'e yükseldi.<br/><br/>* kolombiya 157 yeni ölüm bildirdi ve ülkedeki sayı 2.811 'e yükseldi.<br/><br/>* endonezya 37 yeni ölüm bildirdi ve ülkedeki sayı 2.720 'ye yükseldi.<br/><br/>* mısır 88 yeni ölüm bildirdi ve ülkedeki sayı 2.708 'e yükseldi.<br/><br/>* güney afrika yeni ölüm bildirmedi.<br/><br/>* bangladeş 34 yeni ölüm bildirdi ve ülkedeki sayı 1.695 'e yükseldi.<br/><br/>* ırak bugün 101 yeni ölüm bildirdi ve ülkedeki sayı 1.660 'a yükseldi.<br/><br/>* türkiye 17 yeni ölüm bildirdi ve ülkemizde salgından hayatını kaybedenlerin sayısı 5.082 'ye yükseldi.<br/><br/>bugün dünya genelinde 4.480 kişi salgın nedeniyle hayatını kaybetti.<br/><br/>amerika: 128.073 ( + 759)<br/>brezilya : 56.197 ( + 893)<br/>birleşik krallık : 43.514 ( + 100)<br/>italya: 34.716 ( + 8)<br/>fransa : 29.778 <br/>ispanya: 28.341 ( + 3)<br/>meksika: 25.779 ( + 719)<br/>hindistan: 16.103 ( + 414) <br/>iran : 10.364 ( + 125)<br/>belçika: 9.732 ( + 1)<br/>almanya: 9.026 <br/>rusya: 8.969 ( + 188)<br/>peru: 8.939 <br/>kanada: 8.516 ( + 8)<br/>hollanda: 6.103 <br/>şili: 5.347 ( + 279)<br/>isveç: 5.280 <br/>türkiye: 5.082 ( + 17) <br/>çin: 4.634<br/>ekvador: 4.424 ( + 18)<br/>pakistan: 4.035 ( + 73)<br/>kolombiya: 2.811 ( + 157) <br/>endonezya: 2.720 ( + 37)<br/>mısır: 2.708 ( + 88)<br/>güney afrika: 2.340<br/>isviçre: 1.962 <br/>irlanda: 1.734 ( + 4)<br/>bangladeş: 1.695 ( + 34)<br/>ırak: 1.660 ( + 101)<br/>romanya: 1.589 ( + 10)<br/>portekiz: 1.561 ( + 6)<br/>suudi arabistan: 1.511 ( + 37)<br/>polonya: 1.435 ( + 6)<br/>filipinler : 1.236 ( + 12)<br/>arjantin: 1.192 ( + 25)<br/>ukrayna: 1.110 ( + 24)<br/>japonya : 969 ( + 1)<br/>bolivya: 934 ( + 21)<br/>cezayir: 892 ( + 7)<br/>dominik cumhuriyeti: 718 ( + 6)<br/>afganistan: 703 ( + 20)<br/>avusturya: 700 ( + 2)<br/>guatemala: 672 ( + 49)<br/>danimarka: 604 <br/>macaristan: 578<br/>panama: 575 ( + 11)<br/>sudan: 572 ( + 13)<br/>nijerya: 554 ( + 5) <br/>moldova: 521 ( + 6)<br/>honduras: 471 ( + 45)<br/>ermenistan : 421 ( + 11)<br/>belarus : 377 ( + 4)<br/>çekya: 346 <br/>kuveyt: 344 ( + 3)<br/>finlandiya: 328 <br/>israil: 317 ( + 3)<br/>kamerun: 313<br/>birleşik arap emirlikleri : 311 ( + 1)<br/>yemen: 296 ( + 3)<br/>güney kore : 282<br/>kuzey makedonya: 277 ( + 9)<br/>sırbistan: 267 ( + 2) <br/>norveç: 249<br/>fas: 220 ( + 2)<br/>bulgaristan: 215 ( + 4)<br/>azerbaycan: 193 ( + 6)<br/>yunanistan: 191<br/>bosna hersek: 178 <br/>umman: 159 ( + 6)<br/>kazakistan: 158 ( + 18)<br/>kenya: 141 ( + 4) <br/>malezya: 121<br/>lüksemburg: 110<br/>katar : 110 ( + 1)<br/>slovenya: 109<br/>hırvatistan: 107<br/>avusturalya: 104<br/>gana: 103 <br/>somali: 90<br/>küba: 86 ( + 1)<br/>litvanya: 78<br/>estonya: 69<br/>tayland: 58<br/>burkina faso: 53<br/>andorra: 52<br/>arnavutluk: 53 ( + 2)<br/>tunus: 50<br/>kırgızistan : 46 ( + 3)<br/>kuzey ve güney kıbrıs : 19<br/>özbekistan : 20<br/>gürcistan: 14<br/>diamond princess: 11<br/><br/>* tbmm'de coronavirüse yakalanan milletvekili sayısı 3'e yükseldi. hdp'den yapılan açıklamaya göre, coronavirüse yakalanan bir aktif milletvekilinin temas zincirindeki hdp grup başkanvekilleri meral danış beştaş ve saruhan oluç'un coronavirüse yakalandığı tespit edilmiş ve karantinaya alınmışlar.<br/><br/>* komünist başkan fatih mehmet maçoğlu'nun eşi ve kızının da coronavirüs testleri pozitif çıktı. maçoğlu "ilk günler ağrılarım çoktu ancak doktorlar ve sağlık emekçisi arkadaşlar, çok iyi bir tedavi süreci uyguladı. şu an ağrılarım geçti ve kendimi iyi hissediyorum." açıklamasında bulundu.<br/><br/>* ülkelerdeki yeni vaka oranlarını, test kapasitesini, yürürlükteki önleme kurallarını dikkate alan ab ruanda, tayland, uruguay, cezayir, fas gibi pek çok ülkeye sınırlarını açarken abd, brezilya, suudi arabistan, rusya ve türkiye’ye sınırlarını kapalı tutma kararı aldı. avrupa birliği'ne (ab) üye ülkelerin büyükelçilerini bir araya getiren daimi temsilciler komitesi 14 ülkeye sınırların açılmasını kabul etti. bunlar avustralya, kanada, güney kore, japonya, yeni zelanda, ruanda, tayland, uruguay, üç mağrip devleti (cezayir, fas, tunus) ) ve üç balkan ülkesi (gürcistan, karadağ, sırbistan). geçiş döneminde hala ab'nin bir parçası olduğu için brexit'ten önce birleşik krallık'a üye ülke muamelesi yapılmaktadır. çinli gezginler avrupa'ya girebilir, ancak ülkelerinin avrupalıların çin'e seyahat etmesine izin verme karşılıklılık ilkesine uyması şartıyla. <br/><br/>* cnn'de yer alan habere göre, abd - new mexico'da el dezenfektanını içmeleri sonucunda üç kişi öldü, bir kişi ise kalıcı olarak kör oldu.<br/><br/>* abd - houston sağlık yetkilisi david persee, şehir sakinleri eğer kısıtlamalara uymazsa hastanelerin covıd-19 hastaları ile dolup taşmasına birkaç hafta uzaklıkta olduklarını söyleyerek vatandaşları uyardı. acil servis önündeki <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/alexdstuckey/status/1276653523636273152" title="https://twitter.com/alexdstuckey/status/1276653523636273152">test sırası</a><br/><br/>* abd- florida tek başına bir günde 9.585 bildirerek bir <a rel="nofollow noopener" class="url" target="_blank" href="https://www.cbsnews.com/news/florida-breaks-daily-record-nearly-10000-new-coronavirus-cases/?ftag=CNM-00-10aab7e&amp;linkId=92089222" title="https://www.cbsnews.com/news/florida-breaks-daily-record-nearly-10000-new-coronavirus-cases/?ftag=CNM-00-10aab7e&amp;linkId=92089222">rekor kırdı.</a><br/><br/>* dünya sağlık örgütü, aşı çalışmalarının devam ettiğini ve 2021 yılı sonuna kadar 2 milyar doz aşının dağıtımının planlandığını duyurdu. gelecek 12 ay içinde covid-19 test, tedavi ve aşısı için 31,3 milyar dolara ihtiyacı duyuluyormuş. <br/><br/>* brezilya, astrazeneca tarafından geliştirilen ve covıd-19 salgınıyla mücadele vaat eden deneysel aşıyı üretmeye başlamak için 127 milyon dolarlık bir anlaşma imzaladığını duyurdu. dünya sağlık örgütü'ne göre astrazeneca aşısı, lisans almak ve hastalığa karşı resmi bir aşı olmak için dünyanın önde gelen adayı ve en gelişmişi olarak kabul ediliyor. sağlık yetkilisi elcio franco, ülkenin başlangıçta yarısını aralık ayının ikinci yarısına, yarısının da 2021 ocak ayına kadar, yaklaşık 30 milyon doz aşı üreteceğini söyledi. aşı, brezilya'nın ülkenin önde gelen halk sağlığı kuruluşu fiocruz olarak da bilinen fundação osvaldo cruz tarafından <a rel="nofollow noopener" class="url" target="_blank" href="https://www.reuters.com/article/us-health-coronavirus-brazil-vaccine-idUSKBN23Y0NB?taid=5ef78f0189f4230001063abb&amp;utm_campaign=trueAnthem%3A+Trending+Content&amp;utm_medium=trueAnthem&amp;utm_source=twitter" title="https://www.reuters.com/article/us-health-coronavirus-brazil-vaccine-idUSKBN23Y0NB?taid=5ef78f0189f4230001063abb&amp;utm_campaign=trueAnthem%3A+Trending+Content&amp;utm_medium=trueAnthem&amp;utm_source=twitter">üretilecekmiş.</a><br/><br/>* birleşik krallık'ta hükumet covıd-19 için daha düşük riskli olduğunu düşündüğü ülkelerden gelen insanlar için 14 günlük bir karantina dönemini kaldırmaya hazırlanıyor. bu değişiklik ingilizlerin yaz tatillerinde yurt dışına seyahat etmesini kolaylaştıracak. bir uzman paneli ülkeleri üç kategoriye ayıracak: yeşil, sarı ve kırmızı. yeşil ve sarı ülkelerinden gelen yolcular, geldikten sonra 14 gün boyunca karantinaya almak zorunda kalmayacaklar. kırmızı kategorili ülkeler için kurallar değişmeyecek. kategoriler önümüzdeki hafta açıklanacak ve kural değişikliklerinin bir hafta sonra yürürlüğe girmesi <a rel="nofollow noopener" class="url" target="_blank" href="https://www.reuters.com/article/us-health-coronavirus-britain-quarantine/uk-ditches-quarantine-for-arrivals-from-low-covid-19-risk-countries-idUSKBN23X2VA" title="https://www.reuters.com/article/us-health-coronavirus-britain-quarantine/uk-ditches-quarantine-for-arrivals-from-low-covid-19-risk-countries-idUSKBN23X2VA">bekleniyor.</a><br/><br/>* ispanya, turizm sektörü yeniden açılsa bile yolcu gemileri için uygulanan yasakların kalkmayacağını duyurdu. her sene binlerce yolcu gemisi, balear adaları, kanarya adaları, barselona ve malaga'daki limanlarda düzenli olarak duruyorlar ancak 14 mart'ta karantina önlemleri çerçevesinde bu yasaklanmıştı. kruvaziyer gemileri, gsyih'nın % 12'sine katkıda bulunuyor ve ispanya turizm sektörünün önemli bir parçası. 2019 yılında 10 milyon yolcu ispanya'yı ziyaret etmiş. üstelik" who acil durum komitesi tarafından virüsün yayılmasını durdurmak için belirlenen hedefe uygun orantılı, nesnel ve ayrımcı olmayan önlem” diyerek hala örgütün almadığı bir karar olduğuna gönderme <a rel="nofollow noopener" class="url" target="_blank" href="https://www.reuters.com/article/us-health-coronavirus-spain-cruiseship-idUSKBN23Y0QM?taid=5ef77c4089f4230001063a82&amp;utm_campaign=trueAnthem%3A+Trending+Content&amp;utm_medium=trueAnthem&amp;utm_source=twitter" title="https://www.reuters.com/article/us-health-coronavirus-spain-cruiseship-idUSKBN23Y0QM?taid=5ef77c4089f4230001063a82&amp;utm_campaign=trueAnthem%3A+Trending+Content&amp;utm_medium=trueAnthem&amp;utm_source=twitter">yapmışlar.</a> <br/><br/>* almanya'nın ardından ingiltere'de de coronavirüs tespit edilen mezbaha sayısı 8'e yükseldi. avrupa birliği, dünyanın en büyük domuz ihracatçısı ve çin'in en büyük tedarikçisi olarak küresel et pazarlarında zirvede yer alıyor. ancak coronavirüsün sevdiği nemli ve soğuk ortama sahip olan mezbahalar virüsün yayılması için çok uygun <a rel="nofollow noopener" class="url" target="_blank" href="https://www.bloomberg.com/news/articles/2020-06-24/virus-hotspots-european-meat-plants-back-in-pandemic-spotlight?utm_source=twitter&amp;utm_content=business&amp;utm_campaign=socialflow-organic&amp;cmpid=socialflow-twitter-business&amp;utm_medium=social" title="https://www.bloomberg.com/news/articles/2020-06-24/virus-hotspots-european-meat-plants-back-in-pandemic-spotlight?utm_source=twitter&amp;utm_content=business&amp;utm_campaign=socialflow-organic&amp;cmpid=socialflow-twitter-business&amp;utm_medium=social">oluyor.</a> <br/><br/>* irlanda baş sağlık görevlisi tony holohan son iki hafta boyunca 35 yaşın altındaki kişiler arasında giderek artan sayıda covıd-19 enfeksiyonu tespit edilmeye başlanmasının “endişe verici bir eğilim” olduğunu <a rel="nofollow noopener" class="url" target="_blank" href="https://www.reuters.com/article/us-health-coronavirus-ireland-idUSKBN23Y0QY?taid=5ef780f01da48f00010f7e5e&amp;utm_campaign=trueAnthem%3A+Trending+Content&amp;utm_medium=trueAnthem&amp;utm_source=twitter" title="https://www.reuters.com/article/us-health-coronavirus-ireland-idUSKBN23Y0QY?taid=5ef780f01da48f00010f7e5e&amp;utm_campaign=trueAnthem%3A+Trending+Content&amp;utm_medium=trueAnthem&amp;utm_source=twitter">söyledi.</a><br/><br/>* sudan, salgınla mücadele için avrupa birliği tarafından finanse edilen proje kapsamında, dünya sağlık örgütü ile 11,5 milyon avro değerinde bir anlaşma imzaladı.<br/><br/>* dünya bankası, kolombiya'ya coronavirüs salgınında yardımcı olması için 700 milyon dolar kredi verecek.<br/><br/>* iran sağlık bakan yardımcısı ireç herirçi, ülke genelinde her 33 saniyede bir iranlının coronavirüse yakalandığını ve her 13 dakikada bir iranlının virüs nedeniyle hayatını kaybettiğini açıkladı. ancak iran'da hala maske takmak zorunlu değil. sinemalar dün itibariyle <a rel="nofollow noopener" class="url" target="_blank" href="https://www.reuters.com/article/us-health-coronavirus-iran/facing-surge-in-cases-iran-launches-campaign-to-urge-wearing-of-masks-idUSKBN23Y0LG" title="https://www.reuters.com/article/us-health-coronavirus-iran/facing-surge-in-cases-iran-launches-campaign-to-urge-wearing-of-masks-idUSKBN23Y0LG">açıldı.</a> <br/><br/>* mısır vaka sayılarındaki artışa rağmen kısıtlamaları hafifletiyor. mısır'da üç aydan fazladır kapalı olan kafeler, kulüpler, spor salonları ve tiyatrolar açılıyor. yetkililer ayrıca camilerin ve kiliselerin sınırlı bir şekilde yeniden açılmasına izin verdiler ve gece sokağa çıkma yasağını da kaldırdılar. uluslararası para fonu, zaten daha önceden vermiş olduğu 2.8 milyar $ 'a eklenecek olan 5.2 milyar dolarlık bir kredi daha <a rel="nofollow noopener" class="url" target="_blank" href="https://abcnews.go.com/International/wireStory/egypt-eases-restrictions-surge-virus-infections-71489334?cid=social_twitter_abcn" title="https://abcnews.go.com/International/wireStory/egypt-eases-restrictions-surge-virus-infections-71489334?cid=social_twitter_abcn">onayladı.</a><br/><br/>* tayland'da hava yolu şirketi nokscoot'un salgın nedeniyle uğradığı zarar sonucunda tasfiye edileceği bildirildi. <br/><br/>* bill gates, coronavirüs salgınının ekim ve kasın aylarında daha büyük rakamlarla geri döneceğini iddia etti. <br/><br/>* arjantin milli takımı'na son dünya kupası'nı kazandıran teknik direktör carlos bilardo'nun coronavirüs testi pozitif çıktı.<br/><br/>* mulan filminin gösterim tarihi ağustos ayına ertelendi.<br/><br/>dünya genelinde vaka sayısı 10 milyonu aştı. 1 milyondan 10 milyon vakaya 86 günde ulaşıldı. iyileşenlerin sayısı 5.400.000 i geçti.<br/><br/>hindistan ilk kez 20 bin üzerinde vaka bildirdi.<br/><br/>dominik cumhuriyeti'nde vaka sayısı 30.000 sınırını aştı.<br/><br/>kazakistan'da vaka sayısı 20.000 sınırını aştı.<br/><br/>ülkemiz 1.372 yeni vaka bildirdi ve ülkemizdeki vaka sayısı 195.883 'e yükseldi. türkiye'nin yaptığı toplam test sayısı 3.231.835, iyileşenlerin sayısı 169.182 oldu. <br/><br/>dünya genelinde görülen vaka sayıları,<br/><br/>amerika: 2.587.217 ( + 46.648)<br/>brezilya: 1.284.214 ( + 39.795)<br/>rusya: 627.646 ( + 6.852)<br/>hindistan : 529.577 ( + 20.131)<br/>birleşik krallık: 310.250 ( + 890)<br/>ispanya : 295.549 ( + 564)<br/>peru: 272.364 <br/>şili: 267.766 ( + 4.406)<br/>italya: 240.136 ( + 175) <br/>iran: 220.180 ( + 2.456)<br/>meksika: 208.392 ( + 5.441)<br/>pakistan: 198.883 ( + 3.138)<br/>türkiye: 195.883 ( + 1.372)<br/>almanya : 194.642 ( + 243)<br/>suudi arabistan: 178.504 ( + 3.927)<br/>fransa: 162.936 <br/>bangladeş: 133.978 ( + 3.504)<br/>güney afrika: 124.590 <br/>kanada: 102.963 ( + 169)<br/>katar: 93.663 ( + 879)<br/>kolombiya: 84.442 ( + 3.843)<br/>çin: 83.483 ( + 21)<br/>isveç: 65.137 <br/>mısır: 63.923 ( + 1.168)<br/>belçika: 61.209 ( + 103)<br/>belarus: 61.095 ( + 382)<br/>arjantin: 55.343 ( + 2.886)<br/>ekvador: 53.856 <br/>endonezya: 52.812 ( + 1.385)<br/>hollanda: 50.074 ( + 69)
+  entry_channels: bilim,teknoloji,sağlık,haber
 - entry_name: |
     2020 yks'de zorla 30 dakika erken çıkarılma olayı
   entry_id:  109454911
@@ -171,6 +155,22 @@ data:
     dünyada 3 tane ana lcd panel üreticisi vardır. lg, samsung ve philips. evet diğer bildiğiniz tüm markalar bu markaların panellerini kullanırlar.<br/><br/>o nedenle çok şaşırmayın. lcd panel üretmek, ekmek yapmaya benzemez.
   entry_channels: tv,teknoloji
 - entry_name: |
+    turistin parasını sonuna kadar almakla mesulüz
+  entry_id:  109484084
+  entry_writer: bakin burasi cokomelli
+  entry_fav_count: 41
+  entry_content: |
+    aynısını vergiler bazında hükümetimiz de bizim için düşünüyor zaten. imam osurursa cemaat sıçarmış.
+  entry_channels: siyaset,ekonomi,seyahat
+- entry_name: |
+    kadınların ilişkide yaptıkları hatalar
+  entry_id:  109487231
+  entry_writer: mraynen
+  entry_fav_count: 39
+  entry_content: |
+    milyon kere yazılmış olabilir ama yine de yazmak istiyorum bir milyon birinci kez :<br/><br/><a class="b" href="/?q=ben+bu+erke%c4%9fi+adam+ederim">ben bu erkeği adam ederim</a> gibi salakça düşüncelere kapılmayın. onu ailesi, öğretmenleri adam edememiş siz mi ediceksiniz?<br/><br/>hıyar hıyardır.<br/>en fazla cacık olur ondan.<br/><br/>sonra erkekler katil, erkekler öyle , erkekler böyle diye ağlıyorsunuz burada.<br/><br/>adamın 17 ayrı suçtan sabıkası var. hala bir şansı hak ediyor diyo. ulan biz erkekler bile o heriflere yaklaşmıyor,tahammül edemiyoruz. <br/><br/>çok cesursunuz. yapmayın kuzum.<br/>bu işin sonu adliyede biter.<br/>prim vermeyin bu barzolara.
+  entry_channels: anket,ilişkiler
+- entry_name: |
     yks 2020
   entry_id:  109454937
   entry_writer: uzun adamdan uzun adam
@@ -179,10 +179,18 @@ data:
     3 senedir bir sütçüye kurulmama neden olan sınav. belki bilenleriniz vardır. küçükçekmece, avcılar, esenyurt bölgesinde kamyonetle süt satan, geldiğini de korna çalarak ifade eden bir sütçü var. ama korna sesi hayatımda duyduğum en iğrenç ses. bu adam haftasonları sabah saatlerinde korna çalarak geçiyor ve bu sınav zamanları da böyle. <br/><br/>küçükçekmece'de otururken bu adamı aklınıza gelecek her mecraya şikayet ettim ancak sonuç alamadım. bak sütçü kardeşim, sana çok fena kuruldum haberin olsun. senin köyünü bulacağım ve o arabanı ateşe vereceğim. senin bu terbiyesizliğine biri dur demeli artık.
   entry_channels: haber,eğitim
 - entry_name: |
+    175 cm'den kısa erkeklerin yaşama nedeni
+  entry_id:  109489306
+  entry_writer: bir aslan burcu erkegi
+  entry_fav_count: 35
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/oi3999503d97" title="https://eksiup.com/p/oi3999503d97">ülke kurtarmak</a>
+  entry_channels: anket,ilişkiler
+- entry_name: |
     yaratılan en kusursuz hayvan
   entry_id:  109466745
   entry_writer: cevziyye
-  entry_fav_count: 33
+  entry_fav_count: 34
   entry_content: |
     <a class="b" href="/?q=ay%c4%b1">ayı</a> favorilerdendir. <a class="b" href="/entry/81139271">#81139271</a>'e ek olarak herşeyi yiyen nadir hayvanlardandır, hem etobur hem otoburdur yani. ayrıca o kiloyla ağaca da çıkabilmektedir.
   entry_channels: anket,bilim
@@ -198,7 +206,7 @@ data:
     mert hakan yandaş
   entry_id:  109469889
   entry_writer: defansa firca atan kaleci
-  entry_fav_count: 28
+  entry_fav_count: 29
   entry_content: |
     adam paranın a.. koyacak, siz de gelip burada yok gs yok fb diyorsunuz. kasmayın bu kadar gençler.
   entry_channels: spor
@@ -206,7 +214,7 @@ data:
     çay koyulur mu dökülür mü sorunsalı
   entry_id:  109462877
   entry_writer: isvicre cakisi gibi adam
-  entry_fav_count: 22
+  entry_fav_count: 23
   entry_content: |
     doldursak olmuyor mu?
   entry_channels: anket,yeme-içme
@@ -214,10 +222,18 @@ data:
     ölümüyle üzen roman karakterleri
   entry_id:  109458738
   entry_writer: chohihankyul
-  entry_fav_count: 18
+  entry_fav_count: 19
   entry_content: |
     (bkz: <a class="b" href="/?q=melez+prens">melez prens</a>)(bkz: <a class="b" href="/?q=albus+dumbledore">albus dumbledore</a>)
   entry_channels: anket,edebiyat,spoiler
+- entry_name: |
+    #lgbtfaaliyetleridurdurulsun
+  entry_id:  109487557
+  entry_writer: asimetrik kelebek
+  entry_fav_count: 19
+  entry_content: |
+    bu insanlarin faaliyetleri sizi neden rahatsiz ediyor anlamiyorum. biri gercekten aciklasin. ozgurluk dedigimiz kavram bu degil midir? birakin insanlar nasil mutlu oluyorsa oyle yasasin, sana ne?<br/><br/>cocuk tecavuzlerine, kadin cinayetlerine, cocuk gelinlere de bu kadar ses cikarsaniz keske!
+  entry_channels: siyaset,ilişkiler
 - entry_name: |
     oda tv'nin fake türbanlı yazarı
   entry_id:  109479050
@@ -227,34 +243,34 @@ data:
     a haber ve sabah gazetesi sonrasında türkiye'de <a class="b" href="/?q=en+az+g%c3%bcvenilen+medya">en az güvenilen medya</a> aygıtı olmak kolay değil <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://ibb.co/y6hM2cy">https://ibb.co/y6hm2cy</a><br/><br/>orjinal kaynak: <a rel="nofollow noopener" class="url" target="_blank" href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2020-06/DNR_2020_FINAL.pdf" title="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2020-06/DNR_2020_FINAL.pdf">https://reutersinstitute.politics.ox.ac.uk/…nal.pdf</a>
   entry_channels: 
 - entry_name: |
-    emirhan'ın youtube kanalına abone oluyoruz
-  entry_id:  109473647
-  entry_writer: dekolteli kefen
-  entry_fav_count: 14
-  entry_content: |
-    arkadaşlar bu kampanya ve benzerleri sözlükte defalarca yapıldı. <br/>bir anda binlerce aboneye çıkartıyorsunuz. sonra bir daha dönüp bakmıyorsunuz. anlık popülarite ile mutlu olan çocuklar sonra izlenme sayıları dibe düşünce daha çok üzülüyorlar. <br/><br/>abone olun, zili tıklayın, paylaştığı videoları biraz olsun izleyin. bunları yapmayacaksanız hiç tıklamayın o abone butonuna. anlamsız oluyor o zaman.
-  entry_channels: ekşi-sözlük,teknoloji
-- entry_name: |
-    #lgbtfaaliyetleridurdurulsun
-  entry_id:  109487557
-  entry_writer: asimetrik kelebek
-  entry_fav_count: 14
-  entry_content: |
-    bu insanlarin faaliyetleri sizi neden rahatsiz ediyor anlamiyorum. biri gercekten aciklasin. ozgurluk dedigimiz kavram bu degil midir? birakin insanlar nasil mutlu oluyorsa oyle yasasin, sana ne?<br/><br/>cocuk tecavuzlerine, kadin cinayetlerine, cocuk gelinlere de bu kadar ses cikarsaniz keske!
-  entry_channels: ilişkiler
-- entry_name: |
     motosiklet kazası geçirmiş sözlükçüler
   entry_id:  109473637
   entry_writer: raho busa
-  entry_fav_count: 13
+  entry_fav_count: 15
   entry_content: |
     küçük yaşımdan beri motosiklet sahibiyim.<br/>şu zamana kadar toplamda 24 tane motosikletim oldu. 25. motosikleti almak üzereyim.<br/>8 yaşındayken alman motosiklet dergilerine bakıp pist yarışçılarını incelerdim.<br/>bisiklet kullanırken bile virajlı yollarda herkesi arkamda bırakırdım. <br/><br/>ilk motosikletim <a class="b" href="/?q=yamaha+dt+125">yamaha dt 125</a>, ikincisi ise <a class="b" href="/?q=yamaha+dt+125+re">yamaha dt 125 re</a> 'di.<br/>16 yaşımda <a class="b" href="/?q=kawasaki+klr+250">kawasaki klr 250</a> ile ormanda enduro yapmaya başladım en azından ben öyle sanıyordum.<br/>işte her şey o zaman başladı! <br/>ormanda enduro yapmanın gereksiz özgüveni ile istanbul/maçka'daki demokrasi parkının merdivenlerinden inme girişimi(merdivenlerden indim ama motosikletle değil ,yuvarlanarak) sırasında 3 kaburgamı kırdım.<br/>bu olay beni durdurmamıştı hatta felaketler zinciri yeni başlıyordu:<br/>tek teker yapmayı öğrendim. o tarihte <a class="b" href="/?q=honda+nx+650">honda nx 650</a> 'im vardı ve muhteşem teker yapıyordu. sayısını hatırlamadığım kadar çok ters döndüm. nasıl olduysa bedenen hiç hasar almadım.<br/>bu arada 500 ve 650 cc tek ve çift silindir birçok motosiklet değiştirdim.<br/><br/>yıllar geçtikçe motosiklet konusunda ekonomik bağımsızlığımı ilan etmeye başladım.<br/>motosiklet ile o kadar kafayı bozmuştum ki yapmadığım iş kalmadı diyebilirim.<br/>lise zamanı ngk motosiklet bujilerinin türkiye distribütörünün olmadığı fark ettim ve babamın bir arkadaşı üzerinden buji getirtmeye başladım. o tarihler de bir ürünün bayisi ya da distribütörü olmak çok kolaydı. <br/><br/>birgün yurtdışına taşınırsam geçmiş tarihte tr gümrüğünde dönen mevzuları buraya yazmayı çok istiyorum. <br/><br/>lise bitmek üzereyken <a class="b" href="/?q=suzuki+rf+600">suzuki rf 600</a> kullanıyorum. sonrasından üniversite yılları ve <a class="b" href="/?q=suzuki+gsxr+600+srad">suzuki gsxr 600 srad</a> aldım. inanılmaz bir motordu(o tarih için) .<br/>yağmurlu bir günde okuldan eve giderken taksinin birinin yolun ortasında durması sebebiyle taksinin köşesinden vurup ,park etmiş bir arabanın altına girdim.<br/>kırığım yoktu ancak aldığım darbeden dolayı çok fazla eziğim ve doku hasarım vardı.<br/>motorum pert olmuştu.<br/>2009 yılında 2008 model <a class="b" href="/?q=suzuki+gsxr+1100+special+edition">suzuki gsxr 1100 special edition</a> aldım.<br/>300 km/h süratin ne olduğunu ilk defa o zaman gördüm. <br/>benim için çok büyük bir anlam ifade etmemişti. evet diğer araçlara göre çok hızlıydı ama fren ve viraj kabiliyeti istediğim gibi değildi.<br/>viraj kabiliyetinden benim bazı kötü alışkanlıklarımdan kurtulmam gerekiyordu.<br/>zil gibi sarhoşken düşüp evimin önünden kayarak geçtim. sağ ayak bileğim çatladı.<br/><br/>alkollü araç kullanmayacağıma yemin ettim, yıl 2000 !<br/><br/><a class="b" href="/?q=kawasaki+zx6r">kawasaki zx6r</a> sipariş ettim. kasa değiştirdiği ve o tarihte distribütör lük sisteni şahıs firmasından öteye geçemediği için motor türkiye'de sadece 4 kişiye gelmiş. buradan yedek parçanın olmayacağı anlıyoruz.<br/><br/>çok keyifli bir motordu . diğer kullandığım motorlara nazaran inanılmaz bir viraj kabiliyeti vardı. <br/><br/>ben artık pistte yarışmak istiyordum fakat bu işi gerçek manada bilen kimse yoktu.<br/>o tarihte türkiye pist şampiyonu olmuş kişinin tekniği yoktu hatta ayakları yanlış pozisyonda duruyordu. yani henüz işin a'sını bile bilmiyorlardı. sadece motosikletlere para harcayıp kendilerini riske atıyorlardı.<br/>benim istediğim bu değildi, üstelikte harcayaracak o kadar çok param yoktu. tüm hesaplamaları yapmıştım. paranın büyük miktarını yol tutuş ve frenler için harcayacaktım. <br/><br/>hesaplarımın hiçbiri tutmadı... bana yardımcı olabilecek kimseyi bulamadım.<br/>motosikletin frenlerine ,yarış dişli takımına ve ateşleme sistemine dünyanın parasını harcadıktan sonra o yıl kendi başıma hiçbir şey yapamacağıma karar verdim ve apaçiliğe devam ettim. <br/>sonrasında bir çok motosikletim oldu. sayısını hatırlamadığım <a class="b" href="/?q=kawasaki+zx9r">kawasaki zx9r</a> kullandım.<br/>bir tanesi ile maslak yolunda ters döndüm ,kazanın boyutuna bakıldığı zaman az hasar ile kurtardım sadece dirseğim delindi.<br/><br/>sonra <a class="b" href="/?q=suzuki+hayabusa+gsxr1300">suzuki hayabusa gsxr1300</a> ile tanıştım. <br/>daha önce hızlı dediğim her şeyden çok daha hızlıydı.<br/>artık uzun yol yapabildiğim ve arka koltuğuna hard case kamera çantamı koyabileceğim bir motorum olmuştu. işin içine fotoğraf çekmek girince 1 yılda 30.000km'den fazla yol yapmıştım.<br/>sonraki yıl hayabusa'mı satıp fuardan yeni bir tane aldım.<br/><br/>pist konusunda kaderime boyun eğdim ve yanlış ülkede doğduğuma kadar verdim.<br/><br/>o yıl maslak atatürk sanayide süleyman memnun'da kahve içerken kıvırcık saçlı ,gözlüklü biri geldi. <br/><a class="b" href="/?q=s%c3%bcleyman+memnun">süleyman memnun</a> ile piste gitmekten bahsediyorlardı. <br/>o gün benim hayatım değişti. <br/>aradığım bilgi kaynağını bulmuştum.<br/>ilk denemeler mecburen <a class="b" href="/?q=hayabusa">hayabusa</a> ile oldu ancak sonrasında o motoru piste hiç uygun olmadığını anlayarak <a class="b" href="/?q=suzuki+gsxr1000">suzuki gsxr1000</a> aldım.<br/>bir süre motora, piste ve sürüş tekniğine alışmakla geçti . <br/><br/>nihayet :<br/>kan ,ter ve göz yaşı ile 2006 yılında <a class="b" href="/?q=t%c3%bcrkiye">türkiye</a> <a class="b" href="/?q=superbike">superbike</a> 1000cc <a class="b" href="/?q=pist+%c5%9fampiyonu">pist şampiyonu</a> oldum.<br/><br/>2007 yılının ekim ayında (sezon sonunda) 17 titanyum vida ve 52 dikiş sahibi oldum.<br/><br/>yıl 2020 sürmeye devam ediyorum.<br/><br/>hayalimi gerçekleştirmemi sağlağan <a class="b" href="/?q=fuat+domani%c3%a7">fuat domaniç</a> 'e teşekkür ederim.
   entry_channels: anket,motosiklet,seyahat
 - entry_name: |
+    emirhan'ın youtube kanalına abone oluyoruz
+  entry_id:  109473647
+  entry_writer: dekolteli kefen
+  entry_fav_count: 15
+  entry_content: |
+    arkadaşlar bu kampanya ve benzerleri sözlükte defalarca yapıldı. <br/>bir anda binlerce aboneye çıkartıyorsunuz. sonra bir daha dönüp bakmıyorsunuz. anlık popülarite ile mutlu olan çocuklar sonra izlenme sayıları dibe düşünce daha çok üzülüyorlar. <br/><br/>abone olun, zili tıklayın, paylaştığı videoları biraz olsun izleyin. bunları yapmayacaksanız hiç tıklamayın o abone butonuna. anlamsız oluyor o zaman.
+  entry_channels: ekşi-sözlük,teknoloji
+- entry_name: |
+    15 temmuz darbesi başarılı olsaydı neler olurdu
+  entry_id:  109490834
+  entry_writer: kanalizasyondaki niyazi
+  entry_fav_count: 15
+  entry_content: |
+    bir tiyatro olduğundan başarılı olması hiç planlanmıştır.
+  entry_channels: siyaset
+- entry_name: |
     çocukken beğenilip şimdi anlam verilemeyen araba
   entry_id:  109485904
   entry_writer: delikanlininja
-  entry_fav_count: 11
+  entry_fav_count: 12
   entry_content: |
     görüyorum ve azaltıyorum<br/>(bkz: <a class="b" href="/?q=ford+ka">ford ka</a>)
   entry_channels: anket,otomotiv
@@ -270,58 +286,66 @@ data:
     oyunculuğu da müzisyenliği de başarılı kişiler
   entry_id:  109485979
   entry_writer: ucanankarali
-  entry_fav_count: 8
+  entry_fav_count: 10
   entry_content: |
     <a class="b" href="/?q=%c3%b6zkan+u%c4%9fur">özkan uğur</a> tabiki de.
   entry_channels: anket,tv,sanat,müzik,sinema
 - entry_name: |
+    ekşi sözlük'ün şaka maka 30'luk teyze kaynaması
+  entry_id:  109491973
+  entry_writer: yamis
+  entry_fav_count: 10
+  entry_content: |
+    sıkıntı 30’luk olmak mı?<br/>kadın olmak mı?<br/>nesinden şikayet edildiğini anlamadığım bir ergen beyanı.
+  entry_channels: anket,ekşi-sözlük
+- entry_name: |
     28 haziran 2020 muğla depremi
   entry_id:  109491268
   entry_writer: ver kurtul
-  entry_fav_count: 7
+  entry_fav_count: 10
   entry_content: |
     il yazan tamam da mahallesine başlık açmış adam amk<br/>28 haziran cumhuriyet mahallesi depremi
   entry_channels: haber
 - entry_name: |
-    15 temmuz darbesi başarılı olsaydı neler olurdu
-  entry_id:  109490834
-  entry_writer: kanalizasyondaki niyazi
-  entry_fav_count: 7
-  entry_content: |
-    bir tiyatro olduğundan başarılı olması hiç planlanmıştır.
-  entry_channels: siyaset
-- entry_name: |
-    kadınların ilişkide yaptıkları hatalar
-  entry_id:  109487852
-  entry_writer: fulistug
+    internet üzerinden cin çıkaran adam
+  entry_id:  109487236
+  entry_writer: buralarda11
   entry_fav_count: 6
   entry_content: |
-    güçlü olmaya çalışmak daha doğrusu güçlü olan taraf zorunda kalmak insanın bazı zamanlar canını çok acıtıyor. son ilişkimde bunu yaşamıştım. karşımdaki kişi benim öylesine güçlü ve güvenilir olduğumu düşünüyordu ki beni fazlasıyla üzen bir şey yaptığı zaman "sen bunlara üzülecek kadın değilsin, ben senin üzüleceğini hiç düşünmemiştim."diyerek kendini savunmuştu. halbuki benim de duygularım vardı ve onun yüzünden güçlü olmak zorunda kaldığımı, her şeyi düşünmek zorunda kaldığımı anladığımda kendimi ne kadar hırpaladığımı da anlamış oldum. halbuki kendi salaklığım, konuş işte" ben güçlüyüm, bana bir şey olmaz" diye kendini kandırıp durma. güçlü olmak zorunda olamadığın konusunda önce kendini ikna et. <br/><br/>bir yerden sonra artık kendinizi kandırmaya başladığınızı anlamaya başlıyorsunuz. insan bir ilişkiyi kendine yük olsun diye değil yükünü paylaşmak için yaşamak istiyor. bu nedenle sizin yanınızda olmayan, sizin neler hissettiğinizi düşünmeyen insanlarla birlikte olmak sadece sizi üzüyor. canım acımıyor, ben dayanırım dedikçe üstünüze daha çok yük biniyor ve en sonunda koca bir enkazın altında kalmış oluyorsunuz. o enkazın altından tek başına çıkmak zorunda kalmak ve sizi o enkaza hapseden insanın yardım için uzattığınız elinizi tutmaması sizi bambaşka bir insana dönüştürüyor.
+    bu tür din tüccarlarını destekliyorum. faydasız, vasıfsız cahil cühela tiplerin parasını alarak, ayaküstü sikmesi mutlu ediyor beni.
+  entry_channels: 
+- entry_name: |
+    insana kendini iyi hissettiren şeyler
+  entry_id:  109487195
+  entry_writer: frkr
+  entry_fav_count: 5
+  entry_content: |
+    bir anlığına hayatın genişliğini fark etmek. <br/><br/>yani istesem şu karşı kaldırımdaki ağacın altına gider otururum yarım saat, kimse de bişey demez. ağaç da error vermez. aklıma kestirdiğim çapraz bi yönde dümdüz gidebilirim.
   entry_channels: anket,ilişkiler
 - entry_name: |
     mario gomez
   entry_id:  109487203
   entry_writer: feanorr
-  entry_fav_count: 3
+  entry_fav_count: 4
   entry_content: |
     her zaman hatırlanacaksın eyşan.
   entry_channels: spor
 - entry_name: |
-    karı koca arasında olabilecek max yaş farkı
-  entry_id:  109481443
-  entry_writer: oylmz
+    şu anda çalan şarkı
+  entry_id:  109455578
+  entry_writer: zamanisayanadam
   entry_fav_count: 3
   entry_content: |
-    yoktur aslında.<br/>ancak bizde otuz yaş erkeklerde kırk yaş kadın sevdası çok fazla. evlenme durumunda kadının on yaş fazlası enerji açığına yol açabilir. adam yaşıtlarıyla eğlenmeye giderken kadın da evde dinlenir. <sup class="ab"><a title="(bkz: gerçek hikaye)" href="/?q=ger%c3%a7ek+hikaye" data-query="gerçek hikaye">*</a></sup><br/><br/>tersi durumda da geçerli bir örneğim var tabii. arkadaşım yirmi ilken sevgilisi kırk yaşındaydı. gel zaman git zaman başkalarıyla evlenip boşandılar. bizim kız kırk iken görüştüler döndü “dede” olmuş dedi. <br/><br/>her zaman böyle olmaz elbet yaşı enerjisi ile denk olan fiziksel olarak da göstermeyen de az değildir ama hatırı sayılır örneğe sahip benim yazdıklarım. <br/><br/>madem fikrim soruluyor, yaşıt ilişki güzel. <br/>aynı dönemlere tanık olan insanların birlikteliğinin daha renkli olduğunu düşünüyorum.
-  entry_channels: anket,ilişkiler
+    ibrahim maalouf-beirut
+  entry_channels: anket,ilişkiler,ekşi-sözlük,müzik
 - entry_name: |
-    immanuel tolstoyevski
-  entry_id:  109483011
-  entry_writer: immanuel tolstoyevski
+    oyunda kazanınca yapılan hareket
+  entry_id:  109489170
+  entry_writer: 20 yasinda hala cizgi film izleyen mal
   entry_fav_count: 3
   entry_content: |
-    3 gündür gıda zehirlenmesidir diye çektiğim acının, bugün semptomların değişmesiyle aslında prostat iltihabı olduğunu öğrendim. sabah hastaneye giderken takside <a class="b" href="/?q=knockin+on+heaven%27s+door">knockin on heaven's door</a> çalmasıyla aha dedim, maymunlar cennetini boylayacağız. şansına normalde kötü olan -ve türkiye'dekileri mumla aratacak- devlet hastanelerinde bugün kimse yoktu, doktorla oturup 1 saat muhabbet ettik, testler mestler derken adam gider ayak öyle bir prostat muayenesi yaptı ki, o 10 saniye cenevre konvansiyonu'na göre kesin işkencedir.<br/><br/>velhasıl, bugün acıya olan toleransım epey yükseldi, pamuk gibi oldum, o yüzden içinizde kalmasın, tüm eleştirilere eyvallah. tek diyeceğim şu:<br/><br/><a class="b" href="/?q=whataboutism">whataboutism</a>/<a class="b" href="/?q=red+herring">red herring</a>: x'e çok yüklenmeyin çünkü y de şunu yaptı.<br/><br/>normal muhabbet: x'e yüklenmişsiniz, eyvallah, avukatı değilim, ama bana ilginç gelen y konusu, kendi platformumda onu konuşacağım.<br/><br/>bunların arasındaki ayrım, özellikle twitter'da kolayca kaybolabildiğinden, yorumlarınızda biraz daha esnek olunuz. baştan yargıyı dağıtıyorsunuz, sonra açıklamaya çalışınca "ya o da olabilir" demek yerine "politikacı gibi kıvırtıyorsun"a geliyor iş. belki de biraz kıvırtıyorum -ve bunu kendime bile itiraf etmiyorum-, biraz da ben haklıyım, o da bir olasılık. hepinizi gıdınızdan öperim, önje sağlık abijim.
-  entry_channels: ekşi-sözlük,seyahat
+    online oyunlarda all chat kısmına hemen "easy game" yazmak.
+  entry_channels: anket,oyun
 - entry_name: |
     ekşi itiraf
   entry_id:  109462456
@@ -331,6 +355,14 @@ data:
     6 ay evvel ananem vefat etti. vefatının öncesinde 10 gün boyunca yoğun bakımdaydı. ben de tüm o sürede yanındaydım. cenazesinin 3. gününde ise ben terk edildim. 1,5 yılımı koşulsuz, sorgusuz paylaştığım insan, konuşma tenezzülü bile göstermeden bıraktı beni. ardından bir ay içinde de başkasıyla oldu. şu anda da bir başkasıyla muhtemelen. <br/><br/>çok iyi anlaşıp çokça ortak noktalarda buluşuyor olmanın yanında birçok konuda çatıştığımız da bir birliktelikti. bıçaktan keskin diline, söylediği saplayıcı cümlelerin varlığına rağmen güzellikler fazlaydı. <br/><br/>daha önce bu başlığa, ölümlere dair yankılarımın sonradan, mütemadiyen ortaya çıktığını yazmıştım. aynı mekanizma burada da varlığını gösterdi. bunca süre geçmesine rağmen ben bu gerçekliği aşamadım, aşamıyorum. zihnim öyle bir karmaşa içindeki.. <br/><br/>alışkanlıklar, rutinler, ifadeler, mimikler, gülüşü, sövdüğü, iğnelediği, meydan okumaları, terk edişi, hemen ardımdan başkalarıyla birlikte olması beni bocalatıyor. hangi duyguyu yaşayacağımı şaşırdım. mutlak kötü biri olsa belki bu kadar zorlanmayacaktım. nefretim baskın gelecekti. ama değil. yaşattıklarına rağmen.<br/><br/>ben aklımın yettiğince, bildiğim şekilde, tüm benliğimle sevmiştim. kendim olabildiğim bir tek gerçeklikti. çatışmalara, pürüzlere, sorunlara rağmen. hayatımdaki yaratıcı, tanrı, inanç gibi manevi eksikleri, varoluş sancılarımı karşımdaki somut varlık ile tamamlıyor, törpülüyordum. bunu ona hiçbir zaman ifade etmedim. bir yük gibi hissetmesin diye. bu denklem uzun süredir bozuldu. <br/><br/>önceki kusurlu ilişkisinde eksik ne varsa fazlasıyla tamamlamaya çabaladım. sadece o istediği için, mutlu etmek için değil. ortak arzulardı. ayrıca mutsuz görmeyi, gülüşünden mahrum olmayı hiç sevmiyordum. her yanına gidişimde tempolu, hızlı hızlı bir an evvel ulaşma çabasıyla hareket ediyordum. kendisinin işe koştuğu gibi ben ona koşuyordum. <br/><br/>söylemde benden fersah fersah yukarıda olsa da realitede ibre benden yanaydı. bu entry bir umutla yazılmıyor. zira o inancımı çoktan paramparça etti. ne yana nasıl savrulacağını, tüm bunları nasıl atlatacağını bilmeyen, yine arafta bir duyguyla kaldım evrende. öyle bir iç döküş entrysi bu.
   entry_channels: anket,ilişkiler,ekşi-sözlük,edebiyat
 - entry_name: |
+    şu an okunan kitap
+  entry_id:  109464673
+  entry_writer: suserman
+  entry_fav_count: 1
+  entry_content: |
+    ince memed (tekrar)
+  entry_channels: anket,sanat,tarih,edebiyat,sağlık,eğitim,ekonomi,seyahat
+- entry_name: |
     solosu için dinlenen şarkılar
   entry_id:  109481846
   entry_writer: ego
@@ -339,21 +371,13 @@ data:
     pinhani-dön bak dünyaya
   entry_channels: müzik,eğitim
 - entry_name: |
-    insana kendini iyi hissettiren şeyler
-  entry_id:  109488614
-  entry_writer: end of the life
+    karı koca arasında olabilecek max yaş farkı
+  entry_id:  109493601
+  entry_writer: başlık taşıyan
   entry_fav_count: 1
   entry_content: |
-    sadece sen oldugun icin sevilmek.
+    (bkz: <a class="b" href="/?q=evlilikte+kad%c4%b1nla+erkek+aras%c4%b1ndaki+azami+ya%c5%9f+fark%c4%b1">evlilikte kadınla erkek arasındaki azami yaş farkı</a>)
   entry_channels: anket,ilişkiler
-- entry_name: |
-    ekşi sözlük'ün şaka maka 30'luk teyze kaynaması
-  entry_id:  109492144
-  entry_writer: pythian
-  entry_fav_count: 1
-  entry_content: |
-    efsanevi nesil artik 30'u gordu diyedir.<br/>bizi biz anlariz.<br/>iyidir.
-  entry_channels: anket,ekşi-sözlük
 - entry_name: |
     doksanları en iyi ifade eden otomobil
   entry_id:  109489536
@@ -371,22 +395,6 @@ data:
     türkiye'de marmaris, güney kore'de gangnam. ikisini de çok özledim.
   entry_channels: anket,seyahat
 - entry_name: |
-    oyunda kazanınca yapılan hareket
-  entry_id:  109489491
-  entry_writer: lmrvnx
-  entry_fav_count: 0
-  entry_content: |
-    (bkz: <a class="b" href="/?q=rahatlamak">rahatlamak</a>)
-  entry_channels: anket,oyun
-- entry_name: |
-    okan buruk
-  entry_id:  109462482
-  entry_writer: yakuba kolasa
-  entry_fav_count: 0
-  entry_content: |
-    hem uefa’da hem ligde yoluna dolu dizgin devam eden teknik direktör. galatasaray maçını da kazanırsa artık şampiyon apoletli teknik adam diyebiliriz.
-  entry_channels: spor
-- entry_name: |
     mesajınız var yeşili
   entry_id:  109487649
   entry_writer: alfist
@@ -394,12 +402,4 @@ data:
   entry_content: |
     ben chpyi eleştirdiğim için:<br/><br/>(bkz: <a class="b" href="/?q=k%c3%bcf%c3%bcr%c3%bcn%c3%bcz+var+ye%c5%9fili">küfürünüz var yeşili</a>)
   entry_channels: ilişkiler,ekşi-sözlük
-- entry_name: |
-    fenerbahçe'yi kurtaracak formül
-  entry_id:  109490275
-  entry_writer: anladigi dilden konusucaz
-  entry_fav_count: 0
-  entry_content: |
-    mevcut kadro iyisiyle kötüsüyle tamamına yakın değişmeli. istesek orta sahadan kurulu ilk 11 çıkıyoruz amk zaten hemen hemen öyle oynuyoruz zaten. <br/><br/>kale: <br/><br/>- harun ile helalleşilmeli, yedekte çürütülmemeli<br/>- altay rotasyon kaleci olmalı<br/>- mert çetin ayarında ayağa pas isabeti yüksek kaleci bulunmalı<br/><br/>defans:<br/><br/>- serdar aziz kalmalı<br/>- hak, falette, sadık uğurlanmalı<br/>- murat sağlam, ömer çakı rotasyon kadroda olmalı<br/>- sol bek: n'sakala, melnjak sözleşmeleri bitiyor yapışın<br/>- sağ bek: sangare, skubic 1.5m €'nun altında değerleri var yapışın<br/>- stoper: appindangoye'nin 1.2m € değeri var kaçırmayın<br/><br/>orta saha:<br/>- tolga, deniz türüç, dirar, rodrigues, tolgay, zajc, ekici, alper hepsini uçur<br/>- gustavo, ozan 11 devam, jailson yedek<br/>- ferdi, ömer faruk rotasyon kadro<br/>- emre, teknik heyette bu agresiflikle olur mu bilemem ama futbolcu olarak artık bitti<br/>- dos: mensah, kayseri küme düşüyor kaçırılmayacak bir orta saha<br/>- sağ kanat: visca, şu adama sarı lacivert forma giydirmezseniz edepsiz şerefsizsiniz. tek büyük yatırım bu olacak ama kuruşu kuruşuna hak eden bir futbolcu.<br/>- 8-10: mert hakan, gelirse iyi olur<br/>- sol kanat: emre kılınça basın parayı moruk, taraftar bayılıyor zaten böyle şeylere<br/>- sol kanat alternatifler: junior fernandes sözleşmesi bitiyor, not. frest'ta sammy ameobi diye bir adam var stoch ayarında goller atıyor onunda sözleşmesi bitmiş, rize küme düşerse umar aminu'da çok iyi<br/>- paraya kıyılacaksa emre'den önce irfan can için kıyılmalı<br/><br/>forvet:<br/><br/>- muriqi ile devam<br/>- mevlüt acilen yollanmalı<br/>- allahyar'da iş var mı onu bile bilmiyoruz varsa rotasyona dahil edilsin yoksa boşa maaşa bağlamayın<br/>- başakşehir'den gulbrandsen kapılmalı ya da gençlerbirliği düşerse giovanni sio, mame thiam'ın bitiriciliği de çok iyi<br/><br/>reçete böyle, daha fazlası için biraz maddi darlığım var. başkanımız onu çözüp beni maaşa bağlarsa ben bütün gün kulüp binasında transfermarkt'ten topçu kovalayıp skillerini başkanıma izletebilirim.
-  entry_channels: spor,anket
 ---
