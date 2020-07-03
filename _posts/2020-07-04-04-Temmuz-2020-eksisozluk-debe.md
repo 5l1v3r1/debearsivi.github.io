@@ -6,7 +6,7 @@ data:
     mabel matiz sorusuna inceleme başlatılması
   entry_id:  109697852
   entry_writer: canned
-  entry_fav_count: 947
+  entry_fav_count: 964
   entry_content: |
     ösym başkanı prof. dr. halis aygün'ün duyurduğu müjde. kendisi "kurumumuz yönetiminin milli, manevi değerlerimiz ve toplumsal değer yargılarımız konusundaki hassasiyeti açıktır. 2020 yks’nin tyt oturumunda yer alan türkçe alanındaki ilgili sorunun içeriği hakkında inceleme başlatılmıştır. sorumlu kişiler soru hazırlama süreçlerinden çıkartılacaktır.” diye açıklama yapmış.<br/><br/>ben bu açıklamayla çok rahatladım. biliyorsunuz ösym hiçbir zaman soruları belli bir zümreye el altından dağıtmamış, sehven çaldırmamış, şifreli sorular hazırlamamış, sınavlarda hiçbir şaibeye bulaşmamış tertemiz ve cennetteki melekler kadar günahsız bir kurumdur. alakasız bir soruda alelade bir şarkıcının isminin geçmesi ve bu şarkıcının eşcinsel olması elbette ki manevi değerlerimizle asla örtüşmez ve kabul edilemezdi. olağanüstü hâl ilan edip vakit kaybetmeden harekete geçtiğiniz için teşekkür ederiz ösym.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://gzone.com.tr/yobazlar-sordu-osym-cevapladi-mabel-matiz-sorusunu-hazirlayanlarla-ilgili-islem-yapilacak/" title="http://gzone.com.tr/yobazlar-sordu-osym-cevapladi-mabel-matiz-sorusunu-hazirlayanlarla-ilgili-islem-yapilacak/">http://gzone.com.tr/…nlarla-ilgili-islem-yapilacak/</a>
   entry_channels: siyaset,müzik,haber,eğitim
@@ -14,7 +14,7 @@ data:
     bir ateistin cevap bulamadığı soru
   entry_id:  109681532
   entry_writer: birgaripadamimben
-  entry_fav_count: 788
+  entry_fav_count: 790
   entry_content: |
     hala muazzam düzen diyenleri görüyor ve gidiyorum.
   entry_channels: anket
@@ -22,7 +22,7 @@ data:
     madımak için katliam diyemem
   entry_id:  109703295
   entry_writer: what makes you think i m not a superhero
-  entry_fav_count: 742
+  entry_fav_count: 747
   entry_content: |
     düzeltelim; "dönemin sivas belediye başkanı olan" temel karamollaoğlu'na ait görüş.<br/><br/>elbette katliam diyemez, zira kendisi de katliamın sorumlularındandır..
   entry_channels: siyaset
@@ -30,23 +30,15 @@ data:
     sol şerit doluyken arkadan selektör yapan sürücü
   entry_id:  109688802
   entry_writer: masumiyet ve kader
-  entry_fav_count: 728
+  entry_fav_count: 736
   entry_content: |
     bunu yapana diyecek söz yok. allah en yakın zamanda akıl sağlığına kavuştursun.<br/><br/>benim kurulduğum tip de şöyle:<br/><br/>orta şeritte aheste giden bir araç vardır, sollayıp geçmek istersin aynaya bakar sola geçiş yaparsın. her şey çok güzeldir ilerleyip sollayarak orta şeride geçmeyi kollarken pat solda sellektör yapan bir yavşak ısrarla yol ister. arka arkaya sellektör yapar durur. oysa zaten orada kalıcı değilsinizdir ve orta şeride sinyal vermiş geçmeye hazırlanıyorsunuzdur. ibne istiyo ki yandaki arabanın içinden geçeyim sağa. bekle lan 2 saniye sonra sağdayım zaten. neyin telaşı bu?<br/><br/>bu eylemi haklı bulan mesaj atsın. çok doluyum.<br/><br/>edit: destek mesajı atan dava arkadaşlarıma teşekkür ediyorum. bu siboplardan dert yanan o kadar kişi var ki hepsine geri dönemedim kusura bakmasınlar. arada birkaç maganda çıktı tabii onlara da selektör koluyla mutlu bir yaşam diliyorum.
   entry_channels: otomotiv
 - entry_name: |
-    erkeklerin işyerinde şort giyme hakkı
-  entry_id:  109691382
-  entry_writer: seferoglusuphi
-  entry_fav_count: 589
-  entry_content: |
-    bugün sıcakların ayyuka çıkmasıyla aklıma gelen ama ülkemde gündeme bir türlü gelmeyen haktır.<br/><br/>kadınlar ne güzel işe efil efil geliyorlar. bizimse bu sıcakta pantolon kıçımıza yapışıyor. <br/><br/>daha sabahın dokuzu hava ısınmadı bile ama bayılacağız resmen.<br/><br/>edit: ulan kimse de dememiş ki bu ilk cümle ne diye. <br/>bakmasam haberim olmayacak
-  entry_channels: ilişkiler,moda
-- entry_name: |
     31 ağustos 2020 okulların açılması
   entry_id:  109710028
   entry_writer: varolan
-  entry_fav_count: 573
+  entry_fav_count: 582
   entry_content: |
     sözde 31 ağustosta okullar açılacakmış.<br/>ne olacağını söyleyeyim size.<br/>çocukları özel okullara giden velilerden tüm yılın parasını bir güzel aldıktan sonra okulları tatil edecekler.<br/>sırf o parayı almak için okulları erken açıyor şark kurnazları.
   entry_channels: bilim,sağlık,haber,eğitim
@@ -54,7 +46,7 @@ data:
     ingiliz turistlerin bodrum'a gelmek istememesi
   entry_id:  109690659
   entry_writer: kubilayerkec
-  entry_fav_count: 517
+  entry_fav_count: 520
   entry_content: |
     1 sterlin an itibariyle 8,54 tl yapıyor. bu adamlara bile bodrum pahalı geliyorsa biz tatili unutalım.
   entry_channels: haber,yeme-içme,ekonomi,seyahat
@@ -62,23 +54,39 @@ data:
     1 temmuz 2020 renault rezaleti
   entry_id:  109713855
   entry_writer: gravatli okuz
-  entry_fav_count: 188
+  entry_fav_count: 198
   entry_content: |
     ulan adam mağdur olmuş.<br/>renoya 165.000 verilmez denmiş.<br/>sanki memlekette 165.000e ferrari var da adam gidip reno alıyo
-  entry_channels: otomotiv
+  entry_channels: haber,otomotiv
 - entry_name: |
     sen kimsin sorusuna verilecek karizmatik cevaplar
   entry_id:  109688994
   entry_writer: annebentraderoldum
-  entry_fav_count: 149
+  entry_fav_count: 150
   entry_content: |
     entrylere bakınca "sen kimsin sorusuna verilecek gerizekalica cevaplar" olarak güncellenmesi gereken başlık.
   entry_channels: anket,ilişkiler
 - entry_name: |
+    az nüfuslu denize kıyısı olan bir kasabada yaşamak
+  entry_id:  109693958
+  entry_writer: montaya
+  entry_fav_count: 144
+  entry_content: |
+    sana 2012 bu zamanlar. <br/><br/>eşim ile datcadaydik. <br/><br/>bi işimiz düştü bankalardan birine girdik. neyse orada bireyselci bir kız bizimle ilgileniyor falan kızla muhabbete başladık. <br/><br/>kız datcaya nasıl yerleştiğini anlattı. kız aslında söz konusu bankanın genel müdürlüğünde yani istanbulda muhabir bankalar bölümünde arap bankaları biriminde çalışıyormuş. <br/><br/>çok iyi arapça biliyormuş v.s <br/><br/>bir gün otobüsle ise giderken saatine bakmış 1 saattir yoldaymış. her gün böyle 1 saat 15 dk gidiş 1 saat 15 dakika eve dönüş. <br/><br/>demiş ben ne yapıyorum????<br/><br/>bu arada aynı bankada datça şubesinde uzak bir akrabası varmış. <br/><br/>o demişki bizim şube bireysel bankacı arıyor. <br/><br/>kız anli sanli kariyerini bırakıp tayin istemiş. müdürü falan delirmiş. kızım işte dil tazminatı alıyorsun eşşek gibi şöyle kazanıyorsun falan bireysel bankacılık kariyerinde bir geri adım sonuçta<br/><br/>kız inat etmiş genel müdür yardımcısı ile falan konuşmuş resmen torpille kız datça şubesine bireysel bankacı olarak tayinini yaptırmış. <br/><br/>neyse bize bunları anlattı şimdi mobilet ile 5 dk da ise gidip geliyorum dedi. bazı öğlenleri de denize giriyoruz dedi. plaj da düş var dusumuzu alıp öğleden sonra ise devam ediyoruz dedi. <br/><br/>ben kıza hayran hayran bakarken eşim kritik soruyu sordu <br/><br/>"saçını nasıl kurutuyorsun?"
+  entry_channels: sağlık,seyahat
+- entry_name: |
+    3 temmuz 2020 alkol ve sigaraya zam yapılması
+  entry_id:  109717958
+  entry_writer: cptcmps
+  entry_fav_count: 132
+  entry_content: |
+    ağam yeter ben iptalim
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
     kısa boylu kızların uzun boylu erkek tercihi
   entry_id:  109703992
   entry_writer: i am cookie monsters nipple
-  entry_fav_count: 126
+  entry_fav_count: 128
   entry_content: |
     oncelikle boyumun 2.56 oldugunu belirteyim. benim de anlamadigim durum. yani kiz utanmadan 1.80 - 1.90 boyuyla bana sulaniyor. var mi arkadasim boyle bir sey? kendin gibi hobbitlerle takilsana? cafede mafede hep yaliyorlar beni. sirf bu yuzden kadinlarla evlenmeyecegim. zaten erkek adam erkekle evlenir.
   entry_channels: ilişkiler
@@ -86,7 +94,7 @@ data:
     3 temmuz 2020 sakarya'da fişek fabrikası patlaması
   entry_id:  109696897
   entry_writer: ernestchee21
-  entry_fav_count: 117
+  entry_fav_count: 118
   entry_content: |
     sakarya büyükşehir başkanı ntvye konuşuyor. 2 3 cümlesinden biri çok saygın bir işyeri vb vb.<br/><br/>teknik bilgileri sonra veririm , ortam müsait değil diyor.<br/><br/>niye bağlandın o zaman
   entry_channels: haber
@@ -94,7 +102,7 @@ data:
     teknoseyir'i 1 milyon aboneye taşıyoruz
   entry_id:  109680362
   entry_writer: doxanikee
-  entry_fav_count: 109
+  entry_fav_count: 113
   entry_content: |
     ya abi sıkılmadınız mı bu geyikten? devamlı birileri bir kanala abone/twitter hesabına takipçi ıvır zıvır kazandırmaya çalışıyor. kendinizi bir şey yapmış hissedecek daha anlamlı işler bulun kendinize.
   entry_channels: teknoloji
@@ -110,50 +118,50 @@ data:
     manuel otomobilin yasaklanması gerekliliği
   entry_id:  109708201
   entry_writer: illegalstar
-  entry_fav_count: 102
+  entry_fav_count: 106
   entry_content: |
     (bkz: <a class="b" href="/?q=sikim+k%c3%bc%c3%a7%c3%bck+siki%c5%9fmek+yasaklans%c4%b1n">sikim küçük sikişmek yasaklansın</a>)<br/><br/>edit: dolu bakınızdır.<br/><br/>tanım: bir takım aksiyonları beceremeyenlerin yasaklama yoluna gittikleri eylem için düşündükleridir.
   entry_channels: anket,otomotiv
 - entry_name: |
-    kemal sunal
-  entry_id:  109682233
-  entry_writer: rockandroll rules
-  entry_fav_count: 82
+    1 temmuz 2020 kocaeli ncity avm'de ilginç olay
+  entry_id:  109687086
+  entry_writer: chokonut
+  entry_fav_count: 73
   entry_content: |
-    çektiği tüm filmleri izlemeyi bugün itibarıyla bitirdiğim büyük oyuncu, komedyen, sanatçı. filmografisinin son filmini izlediğim gün, üstadın aynı zamanda ölüm yıldönümüne denk geldi. acı ama hoş bir tesadüf oldu. hem bu sayede kendisini bir kere daha anmış olalım, hem de naçizane filmografisini değerlendirmiş olalım.<br/><br/><a class="b" href="/?q=kemal+sunal">kemal sunal</a>, hayatı boyunca toplam 82 filmde rol almış bir sanatçıdır. 1972 senesinde başladığı film kariyeri, 1999 senesinde çektiği propaganda filmiyle son bulmuştur. zaten o filmden 1 sene sonra yine bir film çekimi için bindiği uçakta geçirdiği kalp krizi sonucunda da vefat etmiştir. <br/><br/><a class="b" href="/?q=kemal+sunal">kemal sunal</a>’ın her dönem filmlerinin ayrı bir tadı, önemi, güzelliği mevcut; ancak ben yine de 70’li yıllarda çekmiş olduğu filmleri çok severim. bu yüzden 70’li yılları benim en favori dönemlerimdir. 70’li yıllarda oynadığı eserlere şöyle kısaca bir göz atacak olursak: <a class="b" href="/?q=oh+olsun">oh olsun</a>, <a class="b" href="/?q=salak+milyoner">salak milyoner</a>, <a class="b" href="/?q=k%c3%b6yden+indim+%c5%9fehire">köyden indim şehire</a>, <a class="b" href="/?q=salako">salako</a>, <a class="b" href="/?q=hababam+s%c4%b1n%c4%b1f%c4%b1+serileri">hababam sınıfı serileri</a>, <a class="b" href="/?q=tosun+pa%c5%9fa">tosun paşa</a>, <a class="b" href="/?q=s%c3%bct+karde%c5%9fler">süt kardeşler</a>, <a class="b" href="/?q=sakar+%c5%9fakir">sakar şakir</a>, <a class="b" href="/?q=%c5%9fabano%c4%9flu+%c5%9faban">şabanoğlu şaban</a>, <a class="b" href="/?q=%c3%a7%c3%b6p%c3%a7%c3%bcler+kral%c4%b1">çöpçüler kralı</a>, <a class="b" href="/?q=kibar+feyzo">kibar feyzo</a> ve daha birçok efsane film bulunmaktadır. ha şunu söyleyelim, 80’li yıllarda da efsane filmleri yok mudur? elbette vardır. benim 70’li yılları beğenmemin sebepleri de zaten film isimlerinden çok daha ötede olan sebeplerdir.<br/><br/>70’li yıllarda çekilen çoğu film için kurulan oyuncu kadrosu, maalesef 80’li yıllarda bu kadar fazla kurulamamıştır. özellikle 80’li yılların ikinci yarısındaki filmlerde artık neredeyse tek başrol oyuncusu <a class="b" href="/?q=kemal+sunal">kemal sunal</a> olmuştur. 70’li yıllara baktığımızda ise <a class="b" href="/?q=ali+%c5%9fen">ali şen</a>, <a class="b" href="/?q=%c5%9fener+%c5%9fen">şener şen</a>, <a class="b" href="/?q=ihsan+y%c3%bcce">ihsan yüce</a>, <a class="b" href="/?q=metin+akp%c4%b1nar">metin akpınar</a>, <a class="b" href="/?q=zeki+alasya">zeki alasya</a>, <a class="b" href="/?q=tar%c4%b1k+akan">tarık akan</a>, <a class="b" href="/?q=adile+na%c5%9fit">adile naşit</a>, <a class="b" href="/?q=m%c3%bcnir+%c3%b6zkul">münir özkul</a>, <a class="b" href="/?q=halit+ak%c3%a7atepe">halit akçatepe</a> hatta <a class="b" href="/?q=ediz+hun">ediz hun</a> ve <a class="b" href="/?q=t%c3%bcrkan+%c5%9foray">türkan şoray</a> gibi isimleri bile bulmak mümkündür. hem de bu isimlerin çoğunun tek filmde buluştuğu gerçekten kaliteli film kadroları da kurulabiliyor. 70’li yıllardaki oyuncu kadrosu zenginliği ve bu zenginliğin çok fazla filmde kullanılmış olması önemli bir etkendir. ikinci sebep ise bu dönemde çekilen çoğu filmin resmen <a class="b" href="/?q=ye%c5%9fil%c3%a7am">yeşilçam</a> klasikleri arasında olmasıdır. <a class="b" href="/?q=12+eyl%c3%bcl+1980+m%c3%bcdahalesi">12 eylül 1980 müdahalesi</a>’nden sonra bazı oyuncular sinemaya küstürülmüştür. film çekmeye devam eden oyuncuların da sürekli sansür davasıyla uğraşmalarından dolayı istediği mesajları verememelerine sebep olmuştur. 70’li yıllarda ise nispeten daha demokratik, özgürlükçü, <a class="b" href="/?q=68+ku%c5%9fa%c4%9f%c4%b1">68 kuşağı</a>’nın getirdiği daha rahat bir hava içinde çekilen filmler sayesinde <a class="b" href="/?q=kibar+feyzo">kibar feyzo</a> tarzı filmler de çıkmıştır. 1980’den sonra yine sosyal düzeni eleştiren, fakirliği, açlığı, kuyrukları eleştiren filmler olmasına rağmen belirli bir sınırda durulmuştur. <br/><br/>biraz daha aça aça değerlendirecek olursak; 1970’li yılların hemen başında, 1972 senesinde <a class="b" href="/?q=kemal+sunal">kemal sunal</a> “<a class="b" href="/?q=tatl%c4%b1+dillim">tatlı dillim</a>” filminde bir basketbolcu olarak sinemaya atıldı. 1974’de çekilen <a class="b" href="/?q=salako">salako</a> filmine kadar da hiçbir filmde başrol oynamadı. hatta bana kalırsa 1977-78 yıllarına kadar aslında <a class="b" href="/?q=ye%c5%9fil%c3%a7am">yeşilçam</a> klasikleri dediğimiz filmlerin çoğunda başrol olarak oynayamadı. 1972-74 yıllarında çekilen filmlerde başrolden ziyade, ortadaki aslan payı rollerinin yanında bir değerli yan parça gibiydi. 1975 yılında ise <a class="b" href="/?q=hababam+s%c4%b1n%c4%b1f%c4%b1">hababam sınıfı</a> filminde o aslan payından daha fazla nasibini alsa bile yine yanında çok değerli sanatçılar vardı. işte 1970’lerdeki filmleri çok sevmemin nedenlerinden birisi de bu. gitgide artan bir <a class="b" href="/?q=kemal+sunal">kemal sunal</a> ağırlığı olmasına rağmen, hiçbir zaman <a class="b" href="/?q=kemal+sunal">kemal sunal</a> tek başına olmuyor. bu sayede de ortaya muazzam filmler çıkıyor. yine aynı zamanda 1970’lerin ikinci yarısında çekilen <a class="b" href="/?q=s%c3%bct+karde%c5%9fler">süt kardeşler</a>, <a class="b" href="/?q=tosun+pa%c5%9fa">tosun paşa</a>, <a class="b" href="/?q=%c5%9fabano%c4%9flu+%c5%9faban">şabanoğlu şaban</a>, <a class="b" href="/?q=kibar+feyzo">kibar feyzo</a> gibi filmlerle de <a class="b" href="/?q=kemal+sunal">kemal sunal</a> kendisini iyice göstermeye başlıyor. o kadar efsane ismin arasında, başrolü kapıp, tamamı olmasa bile filmin aslan payını almaya başlıyor. <br/><br/>1980’lere geçtiğimizde, 70’lerdeki dediğim <a class="b" href="/?q=kemal+sunal">kemal sunal</a> etkisi yavaş yavaş değişmeye başlıyor. 80’den sonra yine <a class="b" href="/?q=ali+%c5%9fen">ali şen</a>, <a class="b" href="/?q=ihsan+y%c3%bcce">ihsan yüce</a>, <a class="b" href="/?q=%c5%9fener+%c5%9fen">şener şen</a> gibi isimlerle çalışsa bile bu isimler hep farklı farklı filmlerde yanında oluyor. hiçbir zaman <a class="b" href="/?q=s%c3%bct+karde%c5%9fler">süt kardeşler</a> veya <a class="b" href="/?q=tosun+pa%c5%9fa">tosun paşa</a> gibi filmlerdeki kadroyu kuramıyorlar. öte yandan, <a class="b" href="/?q=kemal+sunal">kemal sunal</a> artık bir star halinde olduğu ve ününün tavan dönemlerinde olduğu için tek başına başrolleri de iyiden iyiye oynayabilir duruma geliyor. zaten dikkat ederseniz “x şaban, y şaban, z şaban” gibi filmler de 1980’li yıllarda artmaya başlıyor. artık “<a class="b" href="/?q=%c5%9faban">şaban</a>” ismi, tek başına bir filmi götürebilecek; <a class="b" href="/?q=s%c3%bct+karde%c5%9fler">süt kardeşler</a>, <a class="b" href="/?q=hababam+s%c4%b1n%c4%b1f%c4%b1">hababam sınıfı</a>, <a class="b" href="/?q=tosun+pa%c5%9fa">tosun paşa</a> gibi filmlerin içindeki saf karakter olmaktan daha fazlasını yapabilecek bir hale geliyor. tabii 80’lerin getirdiği tek şey bu değil; aynı zamanda dram yönü ağır, sosyal olarak büyük eleştiriler getiren, halkın sorunlarını daha fazla anlatan, siyasi olmasa da halk problemleri üzerine yoğunlaşan filmler de revaçta oluyor. özellikle de 1985’den sonra bu tarz filmlerin sayısı epeyce artıyor. <br/><br/>1990’lar, <a class="b" href="/?q=kemal+sunal">kemal sunal</a> ismi için film olarak pek fazla üretken değil. 1970’lerde 36, 1980’lerde ise 41 film çeken <a class="b" href="/?q=kemal+sunal">kemal sunal</a>, 1990’lı yıllarda sadece 5 film çekiyor. <a class="b" href="/?q=kemal+sunal">kemal sunal</a>’ın 1990’lı yıllarda daha çok dizi üzerine yoğunlaştığını görüyoruz. o yıllarda <a class="b" href="/?q=sayg%c4%b1lar+bizden">saygılar bizden</a>, <a class="b" href="/?q=%c5%9faban+askerde">şaban askerde</a>, <a class="b" href="/?q=bay+kamber">bay kamber</a> ve <a class="b" href="/?q=%c5%9faban+ile+%c5%9firin">şaban ile şirin</a> isimli 4 dizide oynuyor kendisi. tabii o dizileri seyretmediğim için yorum yapamayacağım.<br/><br/>1990’lı yıllardaki filmleri zaten araları çok açık bir şekilde çekiliyor. 1990 ve 91’de 4 filmde oynayan <a class="b" href="/?q=kemal+sunal">kemal sunal</a>, ardından 8 sene boyunca hiçbir filmde oynamayıp, 1999’da <a class="b" href="/?q=propaganda">propaganda</a>’da oynuyor. aslında <a class="b" href="/?q=kemal+sunal">kemal sunal</a>’ın sürekli olarak üretimi 1991’de <a class="b" href="/?q=yasemin+yal%c3%a7%c4%b1n">yasemin yalçın</a> ile birlikte oynadığı <a class="b" href="/?q=varyemez">varyemez</a>’de son buluyor. 1999’da tekrardan beyaz perdeye dönüyor ama dönüşünden sonraki ikinci filmini yapacakken maalesef vefat ediyor. <br/><br/>benim naçizane değerlendirmelerim bu kadar. biz seni o güzel gülüşünle ve katkıda bulduğun <a class="b" href="/?q=ye%c5%9fil%c3%a7am">yeşilçam</a> klasikleriyle hatırlayacağız. huzur içinde yat.
-  entry_channels: tv,sanat,tarih,müzik,sinema
-- entry_name: |
-    3 temmuz 2020 avukatlara polis müdahalesi
-  entry_id:  109706189
-  entry_writer: martynmystere
-  entry_fav_count: 71
-  entry_content: |
-    tarih yazıyor bunları.<br/><br/>seversiniz, sevmezsiniz; o kısmı ayrı... <a class="b" href="/?q=mehmet+durako%c4%9flu">mehmet durakoğlu</a> diyor ki:<br/><br/>anlattık dinlemediniz.<br/>başkentimize geldik, yürütmediniz. <br/>adalet komisyonuna almadınız, görüşmediniz.<br/>basın yayınladı, ekranlarını kararttınız.<br/>sosyal medyada göründük, kapatmaya kalktınız.<br/>miting çağrısı yaptık,yasak koydunuz. <br/>haberiniz olsun: vazgeçmeyeceğiz!
+    bi kişi de sormamış, çantada limon sosunun işi ne?
   entry_channels: haber
 - entry_name: |
     ya evlenelim ya da ben ayrılmak istiyorum
   entry_id:  109701234
   entry_writer: jinger
-  entry_fav_count: 70
+  entry_fav_count: 72
   entry_content: |
     bir adam, kadını bunu söyleyecek raddeye getirdiyse; evlenmeyecektir.<br/>boşuna sinir sisteminizi bozmayın.
   entry_channels: ilişkiler
 - entry_name: |
-    1 temmuz 2020 kocaeli ncity avm'de ilginç olay
-  entry_id:  109687086
-  entry_writer: chokonut
-  entry_fav_count: 70
+    yazarların yalnızlık seviyesi
+  entry_id:  109680321
+  entry_writer: felita
+  entry_fav_count: 65
   entry_content: |
-    bi kişi de sormamış, çantada limon sosunun işi ne?
-  entry_channels: haber
+    bir şey sipariş etmediğim halde kapım çalınırsa korkuyorum hafiften.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     doktorların bilinçli hastaya tahammül edememesi
   entry_id:  109711791
   entry_writer: senirsirt
-  entry_fav_count: 55
+  entry_fav_count: 63
   entry_content: |
     bilinçli hasta kendini bilen , saygılı ve mantıklı yerli yerince soru soran ve tedaviye uyan hasta demek değil mi? niye tahammül edemesinler ki. <br/>galiba ahkâm kesen hastalara da bazen bilinçli kelimesi yakıştırılıyor olmalı...
   entry_channels: anket,sağlık
+- entry_name: |
+    tevfik göksu'nun kardeşinin büyükelçi yapılması
+  entry_id:  109716737
+  entry_writer: tabudeviren
+  entry_fav_count: 60
+  entry_content: |
+    akp <a class="b" href="/?q=esenler">esenler</a> belediye başkanı <a class="b" href="/?q=tevfik+g%c3%b6ksu">tevfik göksu</a>'nun kardeşi <a class="b" href="/?q=mehmet+mustafa+g%c3%b6ksu">mehmet mustafa göksu</a>'nun 30 haziran 2020'de katar büyükelçiliğine atanmasıdır.<br/><br/>"erdoğan'ın doha büyükelçisi olarak atadığı mehmet mustafa göksu'nun, istanbul büyükşehir belediye meclisi akp grup başkanvekili ve esenler belediye başkanı mehmet tevfik göksu'nun kardeşi olduğu aktarıldı." <a rel="nofollow noopener" class="url" target="_blank" href="https://www.birgun.net/haber/katar-buyukelcisi-akp-li-tevfik-goksu-nun-kardesi-cikti-307082" title="https://www.birgun.net/haber/katar-buyukelcisi-akp-li-tevfik-goksu-nun-kardesi-cikti-307082">~</a><br/><br/>diğer kardeş örnekleri:<br/>• <a class="b" href="/?q=aile+ve+sosyal+g%c3%bcvenlik+bakan%c4%b1">aile ve sosyal güvenlik bakanı</a> <a class="b" href="/?q=fatma+bet%c3%bcl+sayan+kaya">fatma betül sayan kaya</a>'nın kız kardeşi olan <a class="b" href="/?q=ay%c5%9fe+sayan">ayşe sayan</a> <a class="b" href="/?q=kuveyt">kuveyt</a> büyükelçisi oldu. <a rel="nofollow noopener" class="url" target="_blank" href="https://odatv4.com/bakan-fatma-betul-sayan-kayanin-kardeslerinin-gorevleri-sasirtti-2807171200.html" title="https://odatv4.com/bakan-fatma-betul-sayan-kayanin-kardeslerinin-gorevleri-sasirtti-2807171200.html">~</a><br/>• akp milletvekili <a class="b" href="/?q=ravza+kavak%c3%a7%c4%b1">ravza kavakçı</a>'nın kardeşi <a class="b" href="/?q=merve+kavak%c3%a7%c4%b1">merve kavakçı</a> kuala lumpur büyükelçisi oldu.<a rel="nofollow noopener" class="url" target="_blank" href="https://www.sozcu.com.tr/2019/gundem/anne-buyukelci-kardes-vekil-kizi-da-danisman-3034414/" title="https://www.sozcu.com.tr/2019/gundem/anne-buyukelci-kardes-vekil-kizi-da-danisman-3034414/">~</a><br/>• 15 temmuz darbe girişimi sonrasında tutuklanan tümgeneral <a class="b" href="/?q=mehmet+di%c5%9fli">mehmet dişli</a>'nin ağabeyi <a class="b" href="/?q=%c5%9faban+di%c5%9fli">şaban dişli</a> lahey büyükelçisi oldu. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.cumhuriyet.com.tr/haber/darbe-sanigi-mehmet-dislinin-kardesi-saban-disli-lahey-buyukelcisi-oldu-1076267" title="https://www.cumhuriyet.com.tr/haber/darbe-sanigi-mehmet-dislinin-kardesi-saban-disli-lahey-buyukelcisi-oldu-1076267">~</a><br/><br/>türkiye parti devleti ile aile devleti karışımı bir yer oldu.
+  entry_channels: siyaset,haber
 - entry_name: |
     erdoğan'ın bir daha seçim kazanamayacak olması
   entry_id:  109706527
@@ -163,69 +171,37 @@ data:
     "sonuç hep aynı: adam kazandı" diyenlerin dönüp 31 mart 2019 ve 23 haziran 2019'a bakmalarını önerdiğim iddia. 31 mart ve 23 haziran'dan sonra kaç gün televizyona bile çıkamamıştı.<br/><br/><a class="b" href="/?q=edit">edit</a>: <br/>@<a class="b" href="/?q=gitbasimdansenikucuksubiti">gitbasimdansenikucuksubiti</a> sağolsun hatırlattı;<br/><br/>"7 haziran da var."
   entry_channels: siyaset
 - entry_name: |
-    tevfik göksu'nun kardeşinin büyükelçi yapılması
-  entry_id:  109716737
-  entry_writer: tabudeviren
-  entry_fav_count: 47
-  entry_content: |
-    akp <a class="b" href="/?q=esenler">esenler</a> belediye başkanı <a class="b" href="/?q=tevfik+g%c3%b6ksu">tevfik göksu</a>'nun kardeşi <a class="b" href="/?q=mehmet+mustafa+g%c3%b6ksu">mehmet mustafa göksu</a>'nun 30 haziran 2020'de katar büyükelçiliğine atanmasıdır.<br/><br/>"erdoğan'ın doha büyükelçisi olarak atadığı mehmet mustafa göksu'nun, istanbul büyükşehir belediye meclisi akp grup başkanvekili ve esenler belediye başkanı mehmet tevfik göksu'nun kardeşi olduğu aktarıldı." <a rel="nofollow noopener" class="url" target="_blank" href="https://www.birgun.net/haber/katar-buyukelcisi-akp-li-tevfik-goksu-nun-kardesi-cikti-307082" title="https://www.birgun.net/haber/katar-buyukelcisi-akp-li-tevfik-goksu-nun-kardesi-cikti-307082">~</a><br/><br/>diğer kardeş örnekleri:<br/>• <a class="b" href="/?q=aile+ve+sosyal+g%c3%bcvenlik+bakan%c4%b1">aile ve sosyal güvenlik bakanı</a> <a class="b" href="/?q=fatma+bet%c3%bcl+sayan+kaya">fatma betül sayan kaya</a>'nın kız kardeşi olan <a class="b" href="/?q=ay%c5%9fe+sayan">ayşe sayan</a> <a class="b" href="/?q=kuveyt">kuveyt</a> büyükelçisi oldu. <a rel="nofollow noopener" class="url" target="_blank" href="https://odatv4.com/bakan-fatma-betul-sayan-kayanin-kardeslerinin-gorevleri-sasirtti-2807171200.html" title="https://odatv4.com/bakan-fatma-betul-sayan-kayanin-kardeslerinin-gorevleri-sasirtti-2807171200.html">~</a><br/>• akp milletvekili <a class="b" href="/?q=ravza+kavak%c3%a7%c4%b1">ravza kavakçı</a>'nın kardeşi <a class="b" href="/?q=merve+kavak%c3%a7%c4%b1">merve kavakçı</a> kuala lumpur büyükelçisi oldu.<a rel="nofollow noopener" class="url" target="_blank" href="https://www.sozcu.com.tr/2019/gundem/anne-buyukelci-kardes-vekil-kizi-da-danisman-3034414/" title="https://www.sozcu.com.tr/2019/gundem/anne-buyukelci-kardes-vekil-kizi-da-danisman-3034414/">~</a><br/>• 15 temmuz darbe girişimi sonrasında tutuklanan tümgeneral <a class="b" href="/?q=mehmet+di%c5%9fli">mehmet dişli</a>'nin ağabeyi <a class="b" href="/?q=%c5%9faban+di%c5%9fli">şaban dişli</a> lahey büyükelçisi oldu. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.cumhuriyet.com.tr/haber/darbe-sanigi-mehmet-dislinin-kardesi-saban-disli-lahey-buyukelcisi-oldu-1076267" title="https://www.cumhuriyet.com.tr/haber/darbe-sanigi-mehmet-dislinin-kardesi-saban-disli-lahey-buyukelcisi-oldu-1076267">~</a><br/><br/>türkiye parti devleti ile aile devleti karışımı bir yer oldu.
-  entry_channels: siyaset,haber
-- entry_name: |
     ozan güven
   entry_id:  109685029
   entry_writer: danazorrrr
-  entry_fav_count: 43
+  entry_fav_count: 44
   entry_content: |
     sosyal medyada paylaştığı için kadını suçlayanların hepsinde “lan bir gün birine ben de böyle bir şey yaparsam kız beni paylaşıp linç ettirip rezil edebilir demek ki” korkusu yoksa suratıma tükürün. ödünüz koptu lan dimi başınıza gelecek olası şeylerden.
   entry_channels: tv,sinema,magazin
 - entry_name: |
-    fazla düşünme sorunu olan insanların ortak yanları
-  entry_id:  109709281
-  entry_writer: medeniyetsizinsan
+    birsen ocaklı
+  entry_id:  109680526
+  entry_writer: edwardmaya
   entry_fav_count: 43
   entry_content: |
-    en sonunda kafayı yerler. kendimden biliyorum.
-  entry_channels: ilişkiler,sağlık
-- entry_name: |
-    3 temmuz 2020 alkol ve sigaraya zam yapılması
-  entry_id:  109717958
-  entry_writer: cptcmps
-  entry_fav_count: 35
-  entry_content: |
-    ağam yeter ben iptalim
-  entry_channels: 
-- entry_name: |
-    3 temmuz 2020 yeni vergi gelmemesi
-  entry_id:  109711226
-  entry_writer: babam ve ben
-  entry_fav_count: 33
-  entry_content: |
-    unuttular diye dusunuyorum. <br/><br/>her gun gelen zam ve yeni vergi haberlerinin bugun gelmemis olmasi.
-  entry_channels: 
+    yanlışlıkla(!) ezdi diyen arkadaşlar, siz hangi polyanna evreninde yaşıyorsunuz ya? hayvancağızın üstünden geçerken az daha aracı deviriyormuş. hala yok acemiliğinden yapıp devam etmiş diyenler var. hayvanı katlettikten sonra sinyal verip yola çıkması gayet de soğukkanlı katil izlenimi bıraktı. olan yine bir sokak hayvanına oldu.
+  entry_channels: sağlık,haber
 - entry_name: |
     pata küte içilmemesi gereken sigara
   entry_id:  109713152
   entry_writer: testesteronpestili
-  entry_fav_count: 32
+  entry_fav_count: 38
   entry_content: |
     nete küte içilmesi gerektiği merak edilen sigaradır.
   entry_channels: sağlık
 - entry_name: |
-    otizmli çocuğa çöp kamyonuyla yapılan sürpriz
-  entry_id:  109716116
-  entry_writer: iskenderkebap ii
-  entry_fav_count: 32
+    fazla düşünme sorunu olan insanların ortak yanları
+  entry_id:  109709915
+  entry_writer: miskinkiz
+  entry_fav_count: 37
   entry_content: |
-    lan cocuga kamyon carpti sandim.<br/><br/>(bkz: <a class="b" href="/?q=allah+senin+be">allah senin be</a>)<br/><br/>edit: baslik duzeldi. orjinal hali icin <a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/5hmwsysg" title="https://soz.lk/i/5hmwsysg">görsel</a>
-  entry_channels: haber
-- entry_name: |
-    robot süpürge
-  entry_id:  109700414
-  entry_writer: ersen ve gakkoslar
-  entry_fav_count: 29
-  entry_content: |
-    ya fonksiyonalitesini falan geç 40+ erkekler bilir içimizde ukte bi "uzaktan kumandalı araba" vardır bizim.<br/><br/>o bunun bildiğin überi, süperi lan. yemişim emiş gücünü kamış gücünü.<br/><br/>alet "abi pilim bitiyo gidip kendimi bi şarj edeyim ben" diyor.<br/><br/>içi görünen çamaşır makinesinden sonra saatlerce seyredeceğim ikinci icat oldu resmen.
-  entry_channels: teknoloji
+    uyuyamamak. <br/>anı yaşayamamak.
+  entry_channels: ilişkiler,sağlık
 - entry_name: |
     gerekirse mermi kullanabilirsiniz
   entry_id:  109706272
@@ -235,18 +211,18 @@ data:
     unutmadık, unutmayacağız,unutturmayacağız.
   entry_channels: haber
 - entry_name: |
-    birsen ocaklı
-  entry_id:  109682734
-  entry_writer: ave sathanas
-  entry_fav_count: 27
+    sollayan araca inat hızlanmak
+  entry_id:  109715933
+  entry_writer: erennky
+  entry_fav_count: 26
   entry_content: |
-    açsın köpeği ezdiği görüntüleri izlesin. zavallı hayvanın nasıl şaşkınlık ve acı içerisinde etrafa bakıp kendini bıraktığını gördükten sonra vicdanı rahat yaşabiliyorsa bravo devam etsin hayatına.<br/><br/>edit: yukarıda drpsyc nickli süper zeka süper tavsiyeler vermiş kendisine. bissürü avukat tutup bissüürü dava açsınmış. aferin lan. entrylerine bakınca doktor olduğun anlaşılıyor. nasıl da sahip çıkıyor meslektaşına. bu doktorlara bilgi yerine boş ego yüklüyorlar galiba. sonra böyle şeyler çıkıyor ortaya.
-  entry_channels: sağlık,haber
+    var böyle orospu çocukları sollanınca namusu kirlendi zanneden aq salakları.<br/>daha bugün 20 ile giden ticari fiorino'nun anasını siktim arkadan kornaya basa basa yetişmeye çalışıyor yarrak kafalı.
+  entry_channels: otomotiv,motosiklet
 - entry_name: |
     yazarların iğrendiği insan tipleri
   entry_id:  109711497
   entry_writer: jajajajaja
-  entry_fav_count: 19
+  entry_fav_count: 22
   entry_content: |
     yalnızca kendi çıkarını düşünen lanet bencil tipler<br/><br/>hak emeyi, adam kullanmayı zekilik zannedenler.
   entry_channels: anket,ilişkiler
@@ -262,7 +238,7 @@ data:
     bay yanlış
   entry_id:  109699116
   entry_writer: cevirmen
-  entry_fav_count: 14
+  entry_fav_count: 17
   entry_content: |
     aylardır dizi yok ve 80+ annem o açlıkla seyretmeye başladı bunu. ne zaman açsak can yaman ya duşta ya da çıkmış kurulanıyor. illa o torso gösterilecek yani. bu ne ya. diğer sahnelerde de adama doğru düzgün bir tişört ya da gömlek giydirilemedi henüz. en kapalı tişörtü kolsuz bir atletti zibidi gibi. ille o kaslar gösterilecek. ucuz porno gibi görüntüler veriyor, tuhaf bir dizi olmuş. ben can yaman olsam naptınız abi ya erkek vücudu bu kadar da metalaştırılmaz verin şuradan bir beyaz gömlek tişört neyse insan gibi giydirin beni derim. annem kapattı diziyi iğrenç dedi sadece, şimdi kanal 7'deki hint dizisi tapki'ye kaldık. hayatımızda ilk defa kanal 7 izliyoruz sizin yüzünüzden beceriksiz fetişist dizi ekibi.
   entry_channels: tv,spoiler
@@ -270,7 +246,7 @@ data:
     robot süpürge isimleri
   entry_id:  109705713
   entry_writer: readmymind
-  entry_fav_count: 13
+  entry_fav_count: 14
   entry_content: |
     <a class="b" href="/?q=k%c3%b6le+izaura">köle izaura</a><sup class="ab"><a title="(bkz: üniversiteliler bile bilmez)" href="/?q=%c3%bcniversiteliler+bile+bilmez" data-query="üniversiteliler bile bilmez">*</a></sup>
   entry_channels: teknoloji
@@ -278,10 +254,50 @@ data:
     debriyaja basmadan vites değiştirmek
   entry_id:  109717169
   entry_writer: airdroid
-  entry_fav_count: 12
+  entry_fav_count: 14
   entry_content: |
     oto galericiler basmış burayı satışlar azaldı demek.
   entry_channels: otomotiv,motosiklet
+- entry_name: |
+    narsist kişilerle baş etme yöntemleri
+  entry_id:  109718651
+  entry_writer: roses are red violets are blue
+  entry_fav_count: 13
+  entry_content: |
+    uzaklaşmak ablacım, hayatından çıkarmak, başka bir şey değil.
+  entry_channels: anket,ilişkiler,sağlık
+- entry_name: |
+    itü öğrencilerinin hiç birşeyi beğenmemesi
+  entry_id:  109709598
+  entry_writer: sherlook
+  entry_fav_count: 9
+  entry_content: |
+    (bkz: <a class="b" href="/?q=hi%c3%a7bir+%c5%9fey">hiçbir şey</a>)
+  entry_channels: 
+- entry_name: |
+    mabel matiz
+  entry_id:  109715953
+  entry_writer: dekolteli kefen
+  entry_fav_count: 7
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=weVh_KolH1E" title="https://www.youtube.com/watch?v=weVh_KolH1E">sarmaşık</a> klibi boyunca kilimini serecek bir yer araması, tam yeri bulup kilimini serdiğinde ise bütün insanların yanından gitmesi...<br/><br/>bu adam size ne etti yahu, neden dışlıyorsunuz bu adamı.<br/>derdiniz gerçekten lgbt mi? <br/>öyleyse bülent ersoy'u saray'a davet edip bu adamı neden dışlıyorsunuz. <br/><br/>neyi milli manevi değerlere aykırı. <br/>adamın kapalı kapılar ardında yaşadıkları sizi neden ilgilendiriyor.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=5nZG45hM1Hc" title="https://www.youtube.com/watch?v=5nZG45hM1Hc">a canım</a> ile kına gecesi temalı klip çeken<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=gEfW7EbmlDo" title="https://www.youtube.com/watch?v=gEfW7EbmlDo">boyalı da saçların</a> klibi ile sevip de kavuşamayanları anlatan, <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=tMUtzjSkjnY" title="https://www.youtube.com/watch?v=tMUtzjSkjnY">mendilimde kırmızım var</a> klibindeki türk motifleri ile aşk ve nefs'in mücadelesini anlatan bir adam bu.<br/><br/>siz ne yaptınız bugüne kadar milli ve manevi değerler için.
+  entry_channels: müzik
+- entry_name: |
+    her yazardan 1 film tavsiyesi
+  entry_id:  109717587
+  entry_writer: promotive
+  entry_fav_count: 7
+  entry_content: |
+    (bkz: <a class="b" href="/?q=stranger+than+fiction">stranger than fiction</a>)<br/><br/>dikkat top 10 listenize girebilme ihtimali var.<br/><br/>edit: sorgulayanbey nickli çaylak arkadaşın ricası üzerine kendisinin hazırladığı videoyu ekliyorum. <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/RROwzwQoc3c" title="https://youtu.be/RROwzwQoc3c">10 bilim kurgu film önerisi</a>
+  entry_channels: anket,ekşi-sözlük,sinema
+- entry_name: |
+    escinsellikten rahatsiz olunmasinin nedeni
+  entry_id:  109717660
+  entry_writer: gormemisin oglu
+  entry_fav_count: 7
+  entry_content: |
+    (bkz: <a class="b" href="/?q=gizli+e%c5%9fcinsellik">gizli eşcinsellik</a>)
+  entry_channels: ilişkiler
 - entry_name: |
     maskeyi çenesine indirip ağzı açıkta dolaşan insan
   entry_id:  109707837
@@ -299,21 +315,13 @@ data:
     birkaç yılda bir indirip bütün haritasında gezdiğim oyun. sanki geçmişte bırakıp gelince yerinde bulacağın bir şeyi aramak gibi.
   entry_channels: oyun
 - entry_name: |
-    genetik diyor ki türkiye türk değildir
-  entry_id:  109689555
-  entry_writer: the handler
+    göz teması kurmadan konuşan insan
+  entry_id:  109718305
+  entry_writer: hilal3991
   entry_fav_count: 6
   entry_content: |
-    işte bunu diyen zırcahil bilmiyor ki antik çağ'daki yunanla bugün yunanistan'daki de aynı değil.
-  entry_channels: siyaset,bilim,tarih
-- entry_name: |
-    her yazardan 1 film tavsiyesi
-  entry_id:  109717587
-  entry_writer: promotive
-  entry_fav_count: 5
-  entry_content: |
-    (bkz: <a class="b" href="/?q=stranger+than+fiction">stranger than fiction</a>)<br/><br/>dikkat top 10 listenize girebilme ihtimali var.<br/><br/>edit: sorgulayanbey nickli çaylak arkadaşın ricası üzerine kendisinin hazırladığı videoyu ekliyorum. <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/RROwzwQoc3c" title="https://youtu.be/RROwzwQoc3c">10 bilim kurgu film önerisi</a>
-  entry_channels: anket,ekşi-sözlük,sinema
+    yalan söylemiyor olma ihtimali yüksektir.<br/><br/>kurtulun artık şu iki saatlik sözde kurslarda öğrendiğiniz basmakalıp düşüncelerden. nerede işi gücü olmayan adam varsa (işi gücü olanları da şirket mecburiyetinden) bu seminerlere katılıp herkesi çözdüğünü düşünüyor. <br/><br/>bir kere ben eğer gözünün içine bakıyorsam asıl o zaman benden şüphe duymalısın. ya bir şeyi kanıtlamaya çalışıyorumdur, ya hakikaten sinirlenmişimdir, ya yalan söylüyorumdur ya da senin düşüncelerini şekillendireceğim bir duruş sergiliyorumdur. her türlü o uyduruk bilgi kırıntısına sıkı sıkı bağlanarak bana karşı kendini açık konuma düşürüyor, saldırıya ve yönlendirmeye çok daha müsait hale geliyorsundur.<br/><br/>o kadar deli oluyorum ki bu insanlara. yani istesem hakikaten yaptıramayacağım, yönlendiremeyeceğim bir tanesi bile yok- denk gelmedim ama inatla karanlık tarafa geçmemeye çalışıyorum. tabi bana ya da önem verdiğim insanlara bulaşmadıkları sürece.<br/><br/>demem o ki böyle bilgilere körü körüne bağlanıp insanları yargılamayın. yukarıda yazdığım şartlar dışında alçakgönüllü, geçinilebilir bir insanımdır. sevilirim de hani. insanların da pek gözlerine bakmamayı tercih ederim, zihninizi ve hatta ruhunuzu okuyor gibi oluyorum. nadiren güzel olsa da genellikle berbat bir duygu. burnuna bakabilirim, saçına bakabilirim vs. vs. <br/><br/>ya içinizi düzeltin ya da yargılamayı kesin.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     dedex55 youtube kanalına abone oluyoruz
   entry_id:  109707914
@@ -323,22 +331,6 @@ data:
     daha önce abone olduğum kanalmış. baktım içeriğine abonelikten çıktım. başlık için teşekkürler.<br/><br/>edit: çıkmadım arkadaşlar, takipteyim.
   entry_channels: ilişkiler,teknoloji,haber,magazin
 - entry_name: |
-    mabel matiz
-  entry_id:  109715953
-  entry_writer: dekolteli kefen
-  entry_fav_count: 3
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=weVh_KolH1E" title="https://www.youtube.com/watch?v=weVh_KolH1E">sarmaşık</a> klibi boyunca kilimini serecek bir yer araması, tam yeri bulup kilimini serdiğinde ise bütün insanların yanından gitmesi...<br/><br/>bu adam size ne etti yahu, neden dışlıyorsunuz bu adamı.<br/>derdiniz gerçekten lgbt mi? <br/>öyleyse bülent ersoy'u saray'a davet edip bu adamı neden dışlıyorsunuz. <br/><br/>neyi milli manevi değerlere aykırı. <br/>adamın kapalı kapılar ardında yaşadıkları sizi neden ilgilendiriyor.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=5nZG45hM1Hc" title="https://www.youtube.com/watch?v=5nZG45hM1Hc">a canım</a> ile kına gecesi temalı klip çeken<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=gEfW7EbmlDo" title="https://www.youtube.com/watch?v=gEfW7EbmlDo">boyalı da saçların</a> klibi ile sevip de kavuşamayanları anlatan, <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=tMUtzjSkjnY" title="https://www.youtube.com/watch?v=tMUtzjSkjnY">mendilimde kırmızım var</a> klibindeki türk motifleri ile aşk ve nefs'in mücadelesini anlatan bir adam bu.<br/><br/>siz ne yaptınız bugüne kadar milli ve manevi değerler için.
-  entry_channels: müzik
-- entry_name: |
-    atılan mesaja cevap vermeyen sözlük yazarları
-  entry_id:  109706916
-  entry_writer: sarven2112
-  entry_fav_count: 3
-  entry_content: |
-    en ayar olduğum da soru sorulan entrylere cevap vermek için attığım mesajın siklenmemesi.
-  entry_channels: ekşi-sözlük
-- entry_name: |
     2 temmuz 2020 ciğerci bahattin rezaleti
   entry_id:  109681503
   entry_writer: gussiop
@@ -347,59 +339,67 @@ data:
     arkadaslar siz ne ara bu kadar alinir, bu kadar zayif oldunuz. hakkini aramiyorsun, adamlarin tavrini gectim, senin tavrin nedir? biraz güclü olun. biraz hakkinizi savunun. vermedin evladim dersin bitti. tavir mi yapiyor, cagir sefi, sen cagir ama, de ki, kardesim alin bu 50 liraniz. ben 5inde 10unda degilim, ama bu servisi düzeltin, bize hirsiz yalanci muhabbeti yapmayin. biraz isletmeci kafasi varsa, özürünü duyarsin, hatta o 50 lirayi da, "kusurumuza bakmayin, bu sefer bizden olsun" diye geri bile alabilirsin. eger akli yok, parayi alip susarsa, zaten dayanamaz orada uzun süre. sözün özü su, hakli oldugunuz yerde, "bana kötü davrandilar" dersen ve susarsan, kimse senin hakkini senin icin aramaz.
   entry_channels: haber,yeme-içme
 - entry_name: |
-    dark (dizi)
-  entry_id:  109690597
-  entry_writer: aprewday
-  entry_fav_count: 2
-  entry_content: |
-    paralel evren dize geldi,zamanın veya kaderin gidişatına yön verildi ama ulrich in sikine söz geçmedi.”ulrich in sikiyle olan mücadelesi” ni anlatan iki sezonluk dizi çekilsin.
-  entry_channels: tv,spoiler
-- entry_name: |
-    trendyol
-  entry_id:  109706910
-  entry_writer: delisinsen
-  entry_fav_count: 0
-  entry_content: |
-    içeride 200 lira param kaldı. alışveriş yapıyorum gelmiyor. iptal ediyoruz. parayı da geri alamıyoruz. ne para var ne ürün var. ben hayatımda böyle rezilini görmedim. amazondan kitap aldım agt ile ertesi gün geldi. 14 tl lik kitap. getiren kuryenin numarasına kadar paylaştı. biraz ilham alın be. değilse paramızı verin paramızı.
-  entry_channels: teknoloji,moda,ekonomi
-- entry_name: |
-    sollayan araca inat hızlanmak
-  entry_id:  109716589
-  entry_writer: cz
-  entry_fav_count: 0
-  entry_content: |
-    (bkz: <a class="b" href="/?q=t%c3%bcrklere+%c3%b6zg%c3%bc+davran%c4%b1%c5%9flar">türklere özgü davranışlar</a>) vol. 54859
-  entry_channels: otomotiv,motosiklet
-- entry_name: |
-    rakı içerken dinlenebilecek en güzel şarkı
-  entry_id:  109718231
-  entry_writer: honkong
-  entry_fav_count: 0
-  entry_content: |
-    kimseye etmem sikayet<br/>gokyuuznde yalniz gezen yildizlar<br/><br/>aksini iddia eden raki ictigini saniyor dur.
-  entry_channels: anket,müzik,yeme-içme
-- entry_name: |
-    escinsellikten rahatsiz olunmasinin nedeni
-  entry_id:  109718868
-  entry_writer: amaurosis fugax
-  entry_fav_count: 0
-  entry_content: |
-    hala hastalık yazanlar var. anlamıyorum bu nasıl bir kibir; her şeyi ben bilirim tıp ne derse desin, tıp kurumu da neymiş demek nasıl bir kafanın sonucu.
-  entry_channels: ilişkiler
-- entry_name: |
     2020 yılında havai fişek kullanmıyoruz
   entry_id:  109714871
   entry_writer: fenerli bedevi
-  entry_fav_count: 0
+  entry_fav_count: 2
   entry_content: |
     dünyanın en saçma etkiliği havai fişek patlatmaktı zaten<br/>daha önce olmuş olanlardan hiç bir ders alınmamış ki malesef bugün ki olay yaşandı<br/>sadece 2020 değil bundan sonrası için yasaklanmalı ve cezaya tabi tutulmalıdır
   entry_channels: 
 - entry_name: |
+    şu an okunan kitap
+  entry_id:  109712026
+  entry_writer: ornekgosterilenkomsugocugu
+  entry_fav_count: 1
+  entry_content: |
+    (bkz: kadınlardan nefret eden erkekler ve bu erkekleri seven kadınlar) - (bkz: <a class="b" href="/?q=susan+forward+%26+joan+torres">susan forward &amp; joan torres</a>)<br/><br/>ben mi sık karşılaştım yoksa ülkece kadın erkek ilişkilerimizde bu minvalde çok fazla problem mi var bilemiyorum ama içerisinde birçok ilişkinin özeti olan aşağıdaki alıntıya denk geldiğim içeriği ilgi çekici bir kitap. <br/><br/>'' jackie gerçekten de duyduğu aşkın sihirli gücüne inanıyordu. pek çok kadın için bu inanç çok güçlü bir afrodizyaktır. bu da, kadının kendisini tanrıça veya toprak ana gibi görmesine neden olur. erkeğin sorunu ister maddi bir sorun, ister uyuşturucu ya da alkol ve isterse önceden yaşadığı sorunlu bir ilişki olsun, kadın duyduğu aşkın tedavi edici olduğuna inanır. erkeğe yardım elini uzatmakla, her istediğini yerine getirmekle, kendisinin de çok güçlü olduğuna inanmaktadır. sanki bir kahramandır. erkeği içinde bulunduğu durumdan kurtarmakla kendisi iyice asilleşecek ve yardımı sayesinde erkek de farklı bir insan olacaktır.<br/><br/>ancak yardım etmekle kurtarmak arasında çok büyük fark vardır. zaman zaman hepimiz yardıma gereksinim duyarız. durumunuz elveriyorsa maddi olarak yardım etmek, şefkatli olabilmek ve destek verebilmek, karşınızdaki erkeğe sizinle tekvücut olduğunu hissettirecektir. ancak unutmayın ki, söz ettiğim erkek kendi kendisine yetebilen bir erkektir. sorunu geçicidir. dolayısıyla yardımınıza kırk yılda bir gereksinim duyması normal bir şeydir.<br/><br/>oysa kurtarmak tekrar gerektiren bir davranıştır. bu erkeğin hep yardımınıza ihtiyacı vardır ve sorunları hiç bitmez. iş yaşamında ve özel yaşamında davranışları tutarsızdır. kendi başarısızlıklarında hep başkalarını suçlar.<br/><br/>şimdi bu iki erkeği karşılaştıralım:<br/><br/>1. erkek çalışkandır ve maddi konularda sorumluluk duygusu vardır. çalıştığı şirket satılmıştır ve işini kaybetmiştir. bir iş bulana kadar borç paraya ihtiyacı vardır. iş bulmak için çaba harcarve bulunca da size olan borcunu ödemeye başlar.<br/><br/>2. erkek yaşamında sık sık maddi sıkıntıya düşer ve her seferinde sizden yardım talep eder. iş beğenmez ve patronlarıyla geçinemez. iş bulunca da size olan borcunu ya geciktirir ya da hiç ödemez. ''
+  entry_channels: anket,sanat,tarih,edebiyat,sağlık,eğitim,ekonomi,seyahat
+- entry_name: |
+    yazarların en sevdiği vergi türü
+  entry_id:  109718170
+  entry_writer: meleztegin
+  entry_fav_count: 1
+  entry_content: |
+    şahsımın en çok meyve suyu alırken verdiği ötv(özel tüketim vergisi)'nin kdv'si ile (bkz: <a class="b" href="/?q=%c3%b6tv%27nin+kdv%27si">ötv'nin kdv'si</a>) hayranlık sempatisi beslediği vergi türüdür.
+  entry_channels: 
+- entry_name: |
+    rakı içerken dinlenebilecek en güzel şarkı
+  entry_id:  109718231
+  entry_writer: honkong
+  entry_fav_count: 1
+  entry_content: |
+    kimseye etmem sikayet<br/>gokyuuznde yalniz gezen yildizlar<br/><br/>aksini iddia eden raki ictigini saniyor dur.
+  entry_channels: anket,müzik,yeme-içme
+- entry_name: |
+    maske kullanımının covid-19 vakalarını artırması
+  entry_id:  109719705
+  entry_writer: mabeynihumayun
+  entry_fav_count: 1
+  entry_content: |
+    çünkü maskeyi ceza yememek için takıyoruz. şahsi kanaatim maskenin koruyucu özelliği yok
+  entry_channels: sağlık
+- entry_name: |
     0.5 uç vs 0.7 uç
   entry_id:  109708087
   entry_writer: lostblue
-  entry_fav_count: 0
+  entry_fav_count: 1
   entry_content: |
     0.7 rotring tikky 1996 model ve 2b uç
   entry_channels: anket,teknoloji
+- entry_name: |
+    öldükten sonra hangi dili konuşacağız sorunsalı
+  entry_id:  109718472
+  entry_writer: yumurta aki
+  entry_fav_count: 0
+  entry_content: |
+    öldükten sonra konuşamayacağımız için saçma olan sorunsal.
+  entry_channels: anket
+- entry_name: |
+    yazarların hayalindeki araba
+  entry_id:  109718536
+  entry_writer: pazartesilerden nefret ediyorum
+  entry_fav_count: 0
+  entry_content: |
+    valla öyle çok yükseklerde gözüm yok şimdi şöyle bi 2020 model 1.5 tsi 150 hp süperb'miz olsa fena olmazdı.
+  entry_channels: 
 ---
