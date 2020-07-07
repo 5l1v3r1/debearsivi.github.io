@@ -6,23 +6,15 @@ data:
     köpek gibi çalışıyorum et yiyemiyorum
   entry_id:  109874687
   entry_writer: gizmagtr
-  entry_fav_count: 1233
+  entry_fav_count: 1272
   entry_content: |
     kapitalizmin özeti mözeti değildir. git bak kapitalist ülkelere. it gibi çalışanlar ne konumda yayıp oturanlar ne konumda.<br/><br/>siyasal islamın özetidir.
   entry_channels: haber,yeme-içme,ekonomi
 - entry_name: |
-    senaristlerin ozan güven bildirisi yayınlaması
-  entry_id:  109865938
-  entry_writer: saatin arkasindaki civi
-  entry_fav_count: 960
-  entry_content: |
-    tecavüz, dayak, çocuk kaçırma gibi iğrenç konuları, türk televizyonlarına amerikan senaristler yazdı sanırım.
-  entry_channels: magazin
-- entry_name: |
     hasankeyf yeni yüzüyle misafirlerini bekliyor
   entry_id:  109855611
   entry_writer: gayim ama para bende
-  entry_fav_count: 869
+  entry_fav_count: 871
   entry_content: |
     hasankeyf yeni yüzüyle misafirlerini mi bekliyor!!??<br/>ya insan şu haberi yaparken biraz utanır be!<br/>ne yüzsüz, ne arsız, ne ar damarı çatlamış insanlarsınız...<br/>güzelim hasankeyfi yok ettiniz bir de yeni yüzü mü diyorsunuz? <br/>şeytansınız şeytan!
   entry_channels: tarih,haber,seyahat
@@ -38,7 +30,7 @@ data:
     6 temmuz 2020 mahir ünal'ın netflix açıklaması
   entry_id:  109873853
   entry_writer: zeeland
-  entry_fav_count: 772
+  entry_fav_count: 781
   entry_content: |
     nesksfliks parali bir platformdur sayin akepe genel baskan yardimcisi. uye olmazsin olur biter. hem paran cebinde kalir hem de escinsel icerik gormezsin. hadi ille de uye olmak istedin. begenmedigin filmi de acip seyretmezsin. aslinda hayat bu kadar komplike degil, kafanizda cok buyutmeyin.
   entry_channels: siyaset,tv,haber
@@ -46,66 +38,34 @@ data:
     7 temmuz 2020 fahrettin koca'nın attığı tweet
   entry_id:  109880861
   entry_writer: draklayn
-  entry_fav_count: 723
+  entry_fav_count: 733
   entry_content: |
     herkesin sizin gibi özel hastane zinciri, bakan maaşı, şöforlü makam arabası yok sayın bakan. millet işe gitmek için, eve ekmek götürmek için mecbur tıkış tıkış dolmuşlara binmek zorunda.<br/>salgına karşı kaç kişiymişiz? peki yoksulluğa, işsizliğe, yokluğa karşı kaç kişisiniz sayın bakan?<br/><br/>t: çok zengin kişi tweeti.
   entry_channels: sağlık,haber,seyahat
 - entry_name: |
-    new york times'ın manşetindeki hasankeyf fotoğrafı
-  entry_id:  109864353
-  entry_writer: kalem berberi
-  entry_fav_count: 489
-  entry_content: |
-    hayatında hiç urfa-mardin-batman vb. görmeyenlerin şaşıracağı fotoğraf.<br/><br/>edit: tamam arkadaş anladık. doğu’da güneydoğu’da hiç çarşaf giyen kadın yok. bu gazete de bu kadınlara para karşılığı çarşaf giydirip fotoğraf çekmiş. kendi halkınıza ne kadar uzak onlardan ne kadar kopuksunuz anlaşılmaz gerçekten.
-  entry_channels: siyaset,sanat,tarih,haber,moda,seyahat
-- entry_name: |
     yeni türkiye'de çerez yenememesi
   entry_id:  109876452
   entry_writer: serhadbaran
-  entry_fav_count: 459
+  entry_fav_count: 605
   entry_content: |
     evet, halimiz budur. eskiden "çerez parası" gibi bir deyime bile sahip olan ülkemizde artık çerez yemek alt ve hatta orta gelirli vatandaş için mümkün değildir. çerez yemek artık lüks görülen bir şey. hele yanında bira, sigara gibi atraksiyonlara girmek bir asgari ücretli için ütopik bir durum. düşünün, günboyu kan ter içinde çalışarak kazandığınız para ile akşam dönüşte kendinize, eşinize çocuklarınıza çok değil, birer avuç fıstık alamıyorsunuz. yetmiyor. siz çalışıyorsunuz, fıstıkları patronun çocukları yiyor...
   entry_channels: siyaset,yeme-içme,ekonomi
 - entry_name: |
-    patlamada ölen işçiye 1 milyon 800 bin lira ceza
-  entry_id:  109855644
-  entry_writer: siphonensis lacus
-  entry_fav_count: 459
+    new york times'ın manşetindeki hasankeyf fotoğrafı
+  entry_id:  109864353
+  entry_writer: kalem berberi
+  entry_fav_count: 492
   entry_content: |
-    kısa çöp uzun çöpten hakkını alacak elbette.! <br/><br/>sakarya’daki coşkunlar havai fişek fabrikası’nda 2014’te meydana gelen patlamada hayatını kaybeden işçi yılmaz şapoğlu’nun ailesi, fabrikanın şikayeti sonucunda “fabrikanın patlamada oluşan zarar nedeniyle kar elde edememesi” gerekçesiyle 1 milyon 800 bin liralık cezayı ödemekle baş başa . <br/><br/>sakarya’da bulunan coşkunlar havai fişek fabrikası’nda geçen hafta meydana gelen patlama sonrasında, fabrikada önceki yıllarda da 6 işçinin hayatını kaybettiği ortaya çıktı.<br/><br/>iddiaya göre, 2014 yılında meydana gelen patlamada hayatını kaybeden işçi yılmaz şapoğlu’nun ailesine, dava açmamaları için para teklifi edildi. para teklifini reddeden aileye, bilirkişi raporunun ardından fabrika tarafından açılan dava sonucunda “fabrikanın zarara uğratıldığı” gerekçesiyle 1 milyon 800 bin liralık ceza verildi. konuya ilişkin konuşan şapoğlu ailesi’nin avukatı mehmet şenol, sakarya’da hazırlanan bilirkişi raporunun hatalı olduğunu kaydetti.<br/><br/>fabrika sahipleri aileye taziyeye bile gitmemiş<br/><br/>14 aralık 2014 tarihinde yılmaz şapoğlu’nun fabrikada yağmur oluklarını yapmak için pazar günü görevlendirildiğini ve işini yaptığı sırada meydana gelen patlama sonucu hayatını kaybettiğini belirten şenol, “normalde bu fabrika zaten sabıkalı bir fabrika. 2014 yılından önce de birçok patlama meydana gelmiş ve bu patlamalarda da çok sayıda insan ölmüş. bunların davalarının bir kısmı hala görülüyor, bir kısmı görülmüyor ve bir kısmı da kapatılmış. yılmaz şapoğlu öldükten sonra fabrika sahipleri aileye taziyeye bile gelmiyor, aileyi üzen noktalardan birisi de bu. daha sonra ‘aileye para verelim, sussunlar, olay böyle bitsin kapansın’ diyerek para teklifinde bulunuyorlar. tabi burada 38 yaşında hayatını kaybeden bir aile babası ve eşini kaybede ve o sırada hamile olan acılı bir eş var. üç çocuk babasız kalıyor. anne ise eşini kaybettikten 5 gün sonra dördüncü çocuklarını dünyaya getiriyor. aile bu teklifi kabul etmiyor ve şiddetle reddediyor” diye konuştu.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.sakaryayenihaber.com/m/guncel/patlamada-olen-iscinin-ailesine-1-milyon-800-bin-lira-ceza-h114597.html" title="https://www.sakaryayenihaber.com/m/guncel/patlamada-olen-iscinin-ailesine-1-milyon-800-bin-lira-ceza-h114597.html">https://www.sakaryayenihaber.com/…ceza-h114597.html</a>
-  entry_channels: haber
+    hayatında hiç urfa-mardin-batman vb. görmeyenlerin şaşıracağı fotoğraf.<br/><br/>edit: tamam arkadaş anladık. doğu’da güneydoğu’da hiç çarşaf giyen kadın yok. bu gazete de bu kadınlara para karşılığı çarşaf giydirip fotoğraf çekmiş. kendi halkınıza ne kadar uzak onlardan ne kadar kopuksunuz anlaşılmaz gerçekten.
+  entry_channels: siyaset,sanat,tarih,haber,moda,seyahat
 - entry_name: |
     ideal duş alma sıklığı
   entry_id:  109869352
   entry_writer: faithful lover
-  entry_fav_count: 379
+  entry_fav_count: 383
   entry_content: |
     vücudunuzun yağ dengesini bozmayacak sıklıktır. öyle günde 3 kere yıkanılmaz.
   entry_channels: anket,sağlık
-- entry_name: |
-    istanbul-izmir otoyolu'nun 291 tl olması
-  entry_id:  109871396
-  entry_writer: gunduzgelmegecegel
-  entry_fav_count: 294
-  entry_content: |
-    500 sene ömrüm olsa anlayamayacağım şeylerde bir tanesi de otoyol ücretleri.<br/><br/>bu iş biraz şuna benziyor: bize bir ev yapsın diye müteahhide para veriyoruz. adam bu parayla evi yapıp bize <a class="b" href="/?q=fahi%c5%9f+fiyat">fahiş fiyat</a>tan kiraya veriyor.
-  entry_channels: otomotiv,seyahat
-- entry_name: |
-    ali babacan + ekrem imamoğlu + mansur yavaş
-  entry_id:  109872219
-  entry_writer: rick deckard
-  entry_fav_count: 289
-  entry_content: |
-    sizlerin bu ali babacan aşkınız dönüp dolaşıp akp lehine dönecek, yetmez ama evetçiler gibi ağızlarınız açık kalacak; o kadar bariz ki. güvenmeyin arkadaşlar artık bu siyasal islamcı insanlara; bir işe yarayacak olsalardı geçtiğimiz 15 yıl içerisinde bir şeyler yaparlardı. biri ekonomiyi devletin çıkarına düzenleyen adam, diğeri tayyip'in özel noteri. vazgeçin derim.<br/><br/>edit: özel noter ==&gt; abdullah gül.
-  entry_channels: siyaset
-- entry_name: |
-    canlı yayında kız çocuğuna zorla sigara içirmek
-  entry_id:  109861748
-  entry_writer: tspark98
-  entry_fav_count: 224
-  entry_content: |
-    çocuk istismarı illa ki cinsel yönden olmaz, bu da aynı şekilde açık bir çocuk istismarıdır. <br/><br/>2 beğeni için türlü rezilliklere imza atan bu insanlar umarım en unutamayacakları cezaları alırlar.
-  entry_channels: haber
 - entry_name: |
     6 temmuz 2020 iş görüşmesi rezaleti
   entry_id:  109855830
@@ -115,10 +75,18 @@ data:
     yani sizinle iş görüşmesi yaparken sigarasını yakan adamdan ne hayır gelebilir. <br/><br/>bizde personel sayımız az olsa bile olabildiğince kurumsal çalışıyoruz. iş görüşmesini bile ben yapıyorum. en az 24 saat öncesi saatine kadar belirleyip randevu veriyoruz. mutlaka zarf ile yol parası veriyorum. görüşme sırasında telefon kabul etmiyorum. vs vs. yinede amatörce mi yapıyoruz kaygısı profesyonel bir ik'cı gerektiğini düşünüyoruz.<br/><br/>hanzo cv üzerinde sigara söndürüyor. karşımdaki mühendisine çırak muamelesi çekiyor. <br/><br/>üzülme kardeşim daha kötüsü orada çalışmaya başlayabilirdin.
   entry_channels: ilişkiler,ekonomi
 - entry_name: |
+    gayliğin özendirilmesi
+  entry_id:  109876224
+  entry_writer: fech
+  entry_fav_count: 203
+  entry_content: |
+    özendirildigi icin gay olmaktan korkan insanlarin derdi. <br/><br/>ya arkadas, sen istersen 100 tane film yap bir erkek olarak beni bir erkekle beraber olmaya ikna edemezsin. <br/>ya da istersen 100 tane film yasakla, birbirini seven iki erkegi ayiramazsin. <br/><br/>netflix izleyip özenip gay/trans olanlar mi var aramizda? söyleyin ona göre konusalim.
+  entry_channels: anket,ilişkiler
+- entry_name: |
     eti negro'nun isminin değişmesi gerekliliği
   entry_id:  109878078
   entry_writer: bitmedi
-  entry_fav_count: 197
+  entry_fav_count: 201
   entry_content: |
     ''montenegro da adını değişsin'' ile devam edebilecek gereksiz duyardır.
   entry_channels: anket,yeme-içme
@@ -126,47 +94,15 @@ data:
     ebeveynini çocuk bakıcısı gibi kullanan evli çift
   entry_id:  109874429
   entry_writer: karamsar penguen
-  entry_fav_count: 188
+  entry_fav_count: 190
   entry_content: |
     etrafımızda bolca bulunan bu bencil ve sevimsiz çiftlerden bir tanesini daha yakından tanıyalım.<br/><br/>adamın adı ozan, kadınınki sibel. ozan 32, sibel 30 yaşında. ikisi de beyaz yakalı. kısa bir süre önce bir arkadaşlarının düğününde tanıştılar. sibel’in yakın arkadaşı merve sağ olsun tüm bekarları aynı masaya koymuş. burada tanıştılar. sibel ilk önce masadaki burak’a yürümeye çalıştı ama burak pek oralı olmadı ve düğünden erken ayrıldı. sibel de rotayı hemen ikinci seçeneğe, yani ozan’a yöneltti. ne de olsa yaşı geçiyor ve bir an önce bir damızlık bularak çocuk projesini hayata geçirmesi lazım. ozan’ı kafalaması çok zor olmadı. düğünden sonra görüşmeye devam ettiler ve kısa sürede evlendiler. ozan sibel’i düğünden sonra topuklu ayakkabısız ve makyajsız gördüğünde az kalsın vazgeçecekti ama tekrar alıcı gözle baktığında sibel’e 10 üstünden 6.7 puan vermişti ve “bu saatten sonra 8’lik kızlar için uğraşmaya gerek yok.” diye düşünmüştü.<br/><br/>sibel ve ozan evlenince 2+1 bir eve geçtiler. düzenli olarak seviştiler ve sibel kısa sürede hamile kalmayı başardı. hemen sibel’in anne babasına yakın, daha büyük bir ev bakmaya başladılar. 3+1’e geçtiler. aras doğdu. sibel, iş arkadaşlarına her fırsatta aras’ın çok özel ve hareketli bir çocuk olduğunu ve tanımadığı bir bakıcıya emanet edemeyeceğini anlatıyordu. sonunda çözümü buldular. ne tesadüf ki zaten kısa bir süre önce anne babalarının yakınına taşınmışlardı. aras’a anneannesi bakacaktı. hem bedava olacaktı hem de güvenilir birisi bakmış olacaktı. harika bir fikirdi.<br/><br/>aras şu an bir buçuk yaşında. anneanne her sabah torununa bakmaya kızının evine geliyor. anneannenin kendi çocuklarına otuz sene baktığı yetmezmiş gibi, emekliliğinin en güzel yıllarında, hayatında ilk defa sırtına yaslanıp dinleneceği günlerde torun bakmak zorunda. sabahtan akşama kadar kızının telefonla verdiği direktifleri yerine getirmeye çalışıyor. zavallı anneanne, kendi başlarının çaresine bakamayan, diğer insanlara yük olmadan yaşamayı öğrenememiş insanlar yüzünden bir ömür mesai yapıyor. “kızım madem kendiniz bakamayacaktınız, neden yaptınız?” diye de soramaz tabii, anne çünkü. birazcık mırın kırın etse bu sefer sibel kendisini vefasız olmakla suçlayacak.<br/><br/>sibel ve ozan’ın yakın arkadaşları burçin ve emre de yakın zaman önce çocuk sahibi oldu. onlar babaeanne + bakıcı kombosunu tercih ediyorlar. evlerinde her gün ayrı bir curcuna, her gün ayrı bir kavga. bakıcı yetmiyor bir de başlarına kendi anne babalarını dikiyorlar.<br/><br/>sibel, ozan, burçin ve emre; hafta sonları sıkıcı kahvaltı organizasyonlarında buluşurken sağ olsunlar büyükannelere de izin kullandırtıyorlar, haklarını yemeyelim şimdi.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    7 temmuz 2020 bir işsizin hayat hikayesi
-  entry_id:  109869008
-  entry_writer: no more patates
-  entry_fav_count: 187
-  entry_content: |
-    merhaba sözlük,<br/><br/>sizlere çöküş hikayemi anlatmaya geldim. biraz uzun olacak fakat yazacaklarım %100 gerçek bir işsizlik ve hayat hikayesidir.<br/><br/>öncelikle nickimi reelden tanıyanlar olduğu için bunları yazıp yazmama konusunda bu zamana kadar çok tereddüt ettim, fakat artık gurur yapacak bir durumum kalmadı, vaziyet ortada.<br/><br/>32 yaşındayım. bundan 3 sene önce, 4 senelik örgün eğitim veren bir üniversiteden mezun oldum. ilk üniversitemi yarıda bıraktıktan sonra 3 seneye yakın bir süre bir işte çalışırken; bir yandan da üniversite sınavına hazırlanıp mezun olduğum 2. üniversiteyi kazandım(geçmiş yıllarda çıkan sorular ve cevaplarının olduğu bir kaç kitap aldım, kurs dershane vb gitmedim). babamın inişli-çıkışlı bir iş hayatı oldu. 2-3 sene krallar gibi yaşarken, 2-3 sene mutlaka sefalet çektik.<br/><br/>üniversite hayatım boyunca part-time işlerde de çalışmaya devam ettim(bir digitürk bayisinde telefonla dataları arayarak digitürk paket satışı yapmak, zara'da tezgahtarlık, gibi). beri yandan yaz tatillerinde babamın memleketinde işlettiği eczanesinde çalışarak ona yardım ettim.<br/><br/>üniversiteyi bitirdikten sonra annem ve babam boşandılar. daha doğrusu babam evlendiği kadınla zaten uzun süredir birlikteymiş, biz sonradan öğrendik. dolayısıyla aile içinde büyük yıkım oldu, annemi falan zor toparladık. <br/><br/>annem babamla erken yaşta evlendiği için okulu yarıda bırakmış, haliyle bir mesleği yok. tabii yıllarca hem bize baktı, hem babamın eczanesinde babama yardım etti, fakat malesef sigortadan emeklilik için yeterli çalışma gün sayısı yok. babam annem ve kız kardeşime bakmaya devam edeceğini söyledi, eve para yolladı, faturalarımızı ve kiramızı ödedi(en azından ödediğini sanıyorduk, birazdan bu konuya geleceğim), bu şekilde devam ettik.<br/><br/>gel zaman git zaman babamın işleri bozuldu ve battı. eczacılar ve ilaç sektöründe çalışanlar bilir, eczaneler ilaç depolarına doğrudan bağlıdırlar ve vadeli borçlar birikince ilaç depoları eczanelere mal vermezler, babam bunları yaşadı. böyle olunca bankalara saldırdı, 3-4 bankadan kredi aldı. durumu toparlayacağını söyleyerek benim de kredi çekmemi istedi. 30 bin tl kredi çekip içinden 1 lirasını almadan babama verdim.<br/><br/>bu arada babam 2 senedir ne beni, ne kardeşimi hiç görmedi. babam eve para yolluyordu ve faturalar ödeniyordu. bir süre daha bu şekilde devam ettik. ben de bu sırada iş arıyordum, hangi kapıyı çalsam geri dönen olmuyordu. önümde yapmam gereken bir askerlik görevi vardı ve iyiden iyiye firmaların beni tercih etmeyişinin sebebinin bu olduğunu düşünmeye başlamıştım. <br/><br/>daha sonra askerliğimi yaptım ve 2020 ocak ayında terhis olarak aktif iş arayışına hız kesmeden tekrar başladım. tüm iş bulma sitelerden askerlik durumumu güncellerken inanılmaz rahatlamıştım, artık terhis belgem vardı ve iş hayatımda askerlik engeli ortadan kalkmıştı..<br/><br/>fakat yine beklenen olmadı. abartmadan bir istatistik vereceğim:<br/><br/>kariyer.net, yenibiris.com, elemanonline.net, isbul.net, linkedin vb bilumum sitelerden aldığım üyeliklerden bugüne kadar 300 ilana başvuru yaptıysam ancak 10 tanesi mülakata çağırdı. bu arada bir üniversite mezunu olarak, mezuniyet kriteri aramayan 'mavi yaka' işlere dahi başvurduğumu söylemeden geçemeyeceğim. semtimde bulunan taksi duraklarına giderek iş aradığımı söyledim, üniversite mezunuyum dediğimde adamlar gülümsediler, sanırım böyle bir işte kalıcı olarak çalışmayacağımı düşündüler.<br/><br/>iyi araç kullandığım için "özel makam şöförü" ilanlarına başvurdum(bu tarz ilanlarda da en az 3-5 yıl makam şöförlüğü yapmış, referans verebilecek adaylar görüşmeye çağırılıyor). neyse, bir tanesine güzel bir önyazı yazıp mülakatı kaptım. mülakat için çağrıldığım ofis, şimdiye kadar gittiğim en görkemli ve lüks ofisti. içeri girdim, asistanlar beni yönlendirdi ve firma sahibi olan ağabey sorular sordu, ben cevapladım. üniversite mezunu olduğumu, dil bildiğimi ve kariyerimi şöförlük yaparak boşuna harcayacağımı söyleyerek görüşmeyi bitirdi. tabii ben kendisine işe ihtiyacım olduğunu, kariyerimin öneminin olmadığını, kredi borcumun olduğunu kendisine söyledim ama pek fayda etmedi. diğer mülakatlarda da genelde görüşmelerin ardından "biz sizi ararız" benzeri cevaplar aldım ve elbette aramadılar :)<br/><br/>aile cephesine dönecek olursak, geçen yıl babam ve kendisinden 7-8 yaş küçük yeni eşinin bir çocukları oldu(evet 52 yaşından sonra) ve ne olduysa ondan sonra oldu. eve gönderdiği para sembolik rakamlara düştü. evde 3 tv var sitedenin çanağı olmadığından digitürk izliyorduk, o da borçlardan dolayı avukata verdi; 1 senedir televizyonu internetten izliyoruz. çektiğim kredi ödenmediği için banka hakeza beni avukata verdi. taksitle hattım üzerinden telefon almıştım, son 2 taksidini ödemediğim için hattım kapatıldı ve avukata verildim, fakat asıl darbeyi ev sahibimiz bizi arayıp kira ve aidatların 1,5 senedir ödenmediğini söylediğinde yedik. <br/><br/>bu arada "nasıl olur" demeyin, ev sahibimiz yaşadığımız bölgede bilinen ailelerden ve toprak zenginlerinden biri. arsası, evi, işyeri çok olduğundan şimdiye dek fark etmediğini tahmin ediyoruz. babamla görüştüğümde dükkanı devretmeye çalıştığını, yasal ruhsat devir hakkını ve dükkanda kalan ilaç, dolap, kasa, bilgisayarlar vs. ile birlikte 300-350 bin tl civarında para alıp borçları ödeyeceğini söylüyor. fakat malum koşullarda bunu yapabileceğini pek sanmıyorum.<br/><br/>babam, ev sahibine temmuzun 8'i dükkanın devredileceğini ve ödeme yapacağını söylemiş(gün kazanmak için). yani hakkınızı helal edin; yarın kardeşim, annem ve ben sokakta kalabiliriz. iş aramaya devam ediyorum, fakat iyiden iyiye umudu da kesmeye başladım. 4-5 bin tl maaş veren bir işim olsaydı, ev sahibine her ay 2 kira+2 aidat ödeyerek borcu kapatmayı teklif edecektim fakat görüşmeye çağrıldığım işler genelde asgari ücret + en babası prim teklif ediyor. akrabalar kendi yağında kavrulan insanlar, üçümüzün birden gidip bir eve yerleşme durumu da yok. zaten yeni eve çıksak minimum 4-5 bin tl nakliye ücreti, depozito, kira bedeli ve elektrik/su/doğalgaz için yeni üye/sayaç bedeli derken 10 binlik olacağız. zaten herşey öyle beter bi döneme denk geldi ki tüm darbeleri üst üste yedik.<br/><br/>şimdi size soruyorum, ben ne yapayım? kimseden 1 lira para istemiyorum, çalışıp aileme bakmak, kardeşimi okutmak, annemin dertsiz tasasız; 'yarın' kaygısız bir hayat yaşaması için iyi bir iş istiyorum. zaten 32 yaşına gelmişim, artık evlilik vs, kendi hayatımdan geçtim ailemi kurtarmaya çalışıyorum ama nasıl yapacağım? asgari ücretli işe girsem, nasıl geçineceğiz? 30 bin tl kredi çektim, (babam ödeyeceğini söylüyor fakat pek zannetmiyorum) borç avukata verilmiş nasıl ödeyeceğim? işe girsem bile bu para maaşımdan kesilecek, nereye yetişeceğim?<br/><br/>şimdiye kadar ufak tefek sallantılar olsa da iyi bir hayat yaşadık, fakat tünelin karanlık çıkışına geldiğimizi fark ediyorum. allah'ım sen yardım et..<br/><br/>edit: ilginize teşekkür ederim.<br/><br/>ankara'da yaşıyorum. babam başka bir ilde eczane işletiyor, fakat mal alamadığı için reçeteleri karşılayamıyor, eczanede ilaç azaldığı için de adam gibi satış yapamıyor. eczane yasal devir hakkı var; örneğin bulunduğu ilde yeni mezun arkadaşlar il sağlık müdürünün o ile koyduğu kotadan dolayı eczane açamazlar, fakat babamın yasal devir hakkını vermesi durumunda eczane açabiliyorlar(81 il için geçerli). bu hususta yardımcı olabilecek kimseler olursa çok iyi olur.<br/><br/>hacizler çoktan sıraya girmiş durumda, dolayısıyla arkadaşa senet vermek gibi bir durum şu saatten sonra işe yaramayacak. çeşme, bodrum vb yerlere giderek vip taşımacılık önerisi için de referans gerekir diye düşünüyorum. ayriyetten babamın yolladığı sembolik rakamlarla market alışverişimizi zar zor yaparak hayatta kalmaya çalışırken, yol parası verip oraya gittiğimde dımdızlak kalabilme ihtimalim de var. tabii aranızda tanıdığı olan, ayarlayabilecek olan varsa seve seve gider çalışırım.<br/><br/>güvenlik görevlisi, vb için başvuru yapıyorum elbette fakat bunun için kursa gitmek ve para ödemek gerekiyormuş. bu da bildiğim kadarıyla minimum 2-3 ay sürüyor ve benim bu kadar vaktim yok. durumun vahamiyetini size daha nasıl anlatabilirim? bilmiyorum..<br/><br/>edit2: temel ihtiyaç kredileri 29 mayıs itibariyle sona ermiş, malesef o kapı da kapalı. öğrenciyken aldığım 30bin küsür kyk borcum da var. yani vaziyet epey kötü.<br/><br/>edit3: 44 yaşında bir kadının çocuk sahibi olamayacağını iddia eden arkadaşlar türemişler, gerçekten yardımcı olmak isteyen insanlara bunun mümkün olduğunu fotoğraflarla kanıtlarım. babam, aidatı sanırım 6-7 aydır ödemiyormuş, onun mazisi kira kadar eski değil. işler kötüye gittikçe, dükkanda mal kalmayınca aidatı da ödeyemez durumda olduğundan yönetici babamla iletişime geçmiş, bir süre ödeyeceğini söyleyerek onu da ötelemiş ve araya 3 aylık pandemi süresi girdiğinden tahminimizce 1 temmuz'da yönetici ev sahibine durumu anlatmış, yani olaylar bu şekilde ilerlemiş.<br/><br/>digitürk demişler, zaten 1-2 seneye kadar durumumuzun iyi olduğunu anlattım. bataktan sonra da faturayı ödeyemedik, yayını kestiler. sitede çanak olmadığından internetten izliyoruz, elektrik, su, doğalgaz ve interneti ödüyor babam sadece. son doğalgaz, elektrik ve su faturaları için taksitlendirme yaptık, pandemi sürecinde ödeyememişti babam; inanmayanlara faturaları, kesme ihbarnamelerini de atarım. şu duruma bile "serin hikaye" yazan arkadaşlar umarım benim yaşadıklarımı yaşamazlar. sizlere hayatta bol şans diliyorum. gerçekten kanıt isteyenlere adres de veririm, yöneticiyle de görüşebilirler. saklayacak bir durumum yok, yazdıklarımın doğruluğu konusunda kendimden emin olmasaydım bu başlığı açmazdım. kaldı ki kimseden para istemiyorum, hem sıkıntılarımı anlatmak hem de belki bir iş kapısı açılır diye bunları yazıyorum.
-  entry_channels: ekonomi
-- entry_name: |
-    kemalizmin hatası
-  entry_id:  109877601
-  entry_writer: jcm
-  entry_fav_count: 180
-  entry_content: |
-    kemalizmin hatası, sonradan gelen kemalistlerin (atatürkçülerin) tavizkarlığıdır, orta nokta bulma çabasıdır. toplumdaki müslümanlarla anlaşma çabasına girmesi, onları yumuşatarak bir orta yol, makul bir uyum yakalayabileceğini zannetmesidir. <br/><br/>12. cumhurbaşkanı erdoğan'ın da üstüne basa basa söylediği gibi: "hem laik hem müslüman o-lun-maz!" burada laik yerine demokrat, modern gibi tabirleri de koyabilirsiniz, ifade doğrudur.<br/><br/>"ben görünmez bir tanrının, dağa çıkan bir adamla konuştuğuna inanıyorum. bence gerçek çünkü o adam öyle iddia ediyor." diyen biriyle nasıl ortak mantık zemini bulabiliriz, sistem kurabiliriz diye hiç düşünmedik malesef. <br/><br/>örnek:<br/>-"selam, sence devlet yönetiminde kuvvetler ayrılığının önemi var mı?"<br/>+"yok, zaten bana sorarsan kadın da erkeğin kaburgasından yaratıldı mesela, bu tartışılamaz bir gerçekliktir."<br/>-"tamam anlıyorum bilader, hata açıkça seni ciddiye alanda."<br/><br/>bu zihinle beraber ülke kurmaya çalıştık. haliyle olmadı. olan örnek var mı dünyada? o da yok.<br/><br/>-"kardeş sence bağımsız bir yargı, adil bir ülke için şart deil midir?<br/>+"onu bilmem, ama emin olduğum şey omuzlarımda görünmez meleklerin bulunduğudur. yorma şimdi beni daha fazla ve git buradan. ha bu arada; yaradanılanı yaratandan ötürü seviyorum, ona göre ha."<br/><br/>olmayan mantıkla nasıl uyum sağlarız hiç düşünmedik. bu zihniyet tabi ki orda durmadı:<br/>-"kardeş eyvallah abart sen yine, görünmez tanrı melekler filan, ama biz yine de hepimizin rahat edebileceği toplumsal bir ortam yaratsak? <br/>+"yok olmaz, üstelik senin de inanmasan bile inanıyomuş gibi davranmanı ve yaşamanı istiyorum"<br/>-"aa, niye?"<br/>- "çünkü ben kendi sanrımı "milli değer" ilan ettim, uyulmazsa hassasiyetlerim incinir ve şiddet gösterebilirim, bana gaiple konuşan deli dersen de seni çeker vururum" <br/><br/>dolayısıyla bizden önce gelen atatürkçüleri yasaklardan ve katılıktan dolayı suçlamıyorum, bilakis işi yarı yolda bıraktıkları için eleştiriyorum. modern bir hukuk ülkesi kavramıyla, 7. yüzyıl arabistanına ait dogmatik bir ideolojinin aynı toplumda barışçıl biçimde varolabileceğini sananları eleştiriyorum. başımıza gelenler; acı gerçekleri kendimize ifade edip ona göre hareket etmektense, ne şiş yansın ne kebap, ananelerimizin inancı vs diyerek geldi.
-  entry_channels: siyaset,anket
-- entry_name: |
-    gayliğin özendirilmesi
-  entry_id:  109876224
-  entry_writer: fech
-  entry_fav_count: 175
-  entry_content: |
-    özendirildigi icin gay olmaktan korkan insanlarin derdi. <br/><br/>ya arkadas, sen istersen 100 tane film yap bir erkek olarak beni bir erkekle beraber olmaya ikna edemezsin. <br/>ya da istersen 100 tane film yasakla, birbirini seven iki erkegi ayiramazsin. <br/><br/>netflix izleyip özenip gay/trans olanlar mi var aramizda? söyleyin ona göre konusalim.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    temizlikçi kadının ırzına geçen yaratık
-  entry_id:  109866221
-  entry_writer: medusaaaa
-  entry_fav_count: 167
-  entry_content: |
-    haberdeki bir kelime dikkatimi çekti: ikili. bir mağdur ve bir sapıktan ikili olarak söz edilmesi ne kadar çirkin. bu söylem de bir bakıma o pisliğin sözleriyle aynı doğrultuda değil mi?
-  entry_channels: haber
-- entry_name: |
     siirt'te yaşanan aşiret kavgası
   entry_id:  109882465
   entry_writer: mekjulianocu
-  entry_fav_count: 135
+  entry_fav_count: 147
   entry_content: |
     çok basit. jandarma-polisin yapacağı şu:<br/>elinde taş, sopa bıçak mı var? bacaklarına birkaç tane sıkıp bırakıyorsun.<br/>elinde silah var herhangi birine mi doğrultuyor? ölene kadar sıkıyorsun.<br/>bunu yalnızca 1 kere yap, bir daha götleri yiyor mu bakalım.
   entry_channels: haber
@@ -190,7 +126,7 @@ data:
     adana 5000 lira vs istanbul 6000 lira
   entry_id:  109879319
   entry_writer: quatermain
-  entry_fav_count: 70
+  entry_fav_count: 72
   entry_content: |
     adana'nın yeneceği versustur.<br/><br/>avantajları<br/><br/>trafik sıkıntısı neredeyse yoktur. işe gitmek için 2 saat önce uyanmazsınız.bu da işten önce ve sonra kendinize ayıracak vakit demektir.<br/><br/>sokaklar turunç kokar. yeşil bir kenttir. kentin dört bir yanından barajlar veya kanallar akar.<br/>yazın 40 dk mesafede denizleri vardır.<br/><br/>yemek kültürü çok gelişmiştir. çevre illerin kültürlerini de taşır ve fiyatları diğer büyük şehirlere göre %20 30 daha çok uygundur.<br/>insanları cömert ve saygındır. <br/><br/>eve genelde damacana su alınmaz. toros dağlarından akan sular barajlarda birikir.türkiye'nin en sağlıklı ve lezzetli suyu çeşmelerden akar.. <br/><br/>ayrıca 2 maaş klima faturasına gitmez. çok fazla yakarsanız 400 500 tl gelir. gece yatarken klima açıyoruz fatura 250 bile gelmedi.<br/><br/>kışın bir adet elektrikli sobayla ılıman iklimde cok rahat ısınırsınız.<br/><br/>dezavantajları<br/><br/>türkiye'nin en sıcak şehirlerinde başı çeker. sucuk gibi gezersiniz.günde 3 öğün duş alırsınız ve klima taktırmak zorundasınızdır.<br/><br/>sokaklarda pitbull gezdiren dızzo bremınlara denk gelebilirsiniz.<br/><br/>belediyesi daima borçludur.fazla hizmet etmezler.yollar çarık çürüktür.01 plaka araçların çoğunun alt takımı yeniden yapılmıştır.<br/><br/>edit= adana showtv haberde yayınlanan yer değil. gelin görün. 5000 tl'ye adana'da 7 senede bir şehir merkezinden ev alırsınız. istanbul'da bu mümkünse hodri meydan.
   entry_channels: anket,ekşi-sözlük
@@ -198,10 +134,18 @@ data:
     7 temmuz 2020 gençlerbirliği fenerbahçe maçı
   entry_id:  109884739
   entry_writer: yarin yaparim
-  entry_fav_count: 63
+  entry_fav_count: 64
   entry_content: |
     haftada bir halı saha maçı yapıyoruz arkadaşlarla. genellikle 35 yaş üstü, orta seviyede becerikli adamlardan oluşan bir kadro, eğlencesine oynuyoruz.<br/><br/>yaşı bizden daha genç, çok becerikli bir genç var, sahada parlıyor her maçımızda. haftada 3-4 maç falan yapıyor. maç sonu sohbetlerinde hep perşembe akşamları yaptığı maçları anlatıyor. orada ortalama bir oyuncu olduğundan, herkesin acayip yetenekli olduğundan bahsediyor.<br/><br/>bir perşembe akşamı evde otururken aradı beni genç arkadaş:<br/>- abi son anda satan oldu, maça gelir misin?<br/>- gelirim de sahada sırıtmayalım olm, herkes çok iyiymiş baksana.<br/>- yok be abi, gel defansta takılırsın.<br/><br/>neyse gittik maça, maç öncesi saha boş, ısınmaya çıktık.<br/><br/>ben böyle bir şey görmedim.<br/><br/>vuran doksana vuruyor, kaleciler doksandan çıkarıyor. topu aut çizgisinin bir metre dışına koyup gol atanlar mı dersin, havaya diktiği topu götüyle tutanlar mı. bizim ilah gibi baktığımız yetenekli genç, sabri'den hallice gözüküyor aralarında. ben izledikçe ezilip büzülüyorum, bu maç bitmez diyorum<br/><br/>neyse, maç başlıyor, ben defanstayım. ama bırak adamları tutmayı, gözümle takip bile edemiyorum. lan biz nereye düştük diyene kadar 2 gol yediriyorum. allahtan hepsi efendi çocuklar, abi sen ön tarafa geç, biz defansta oynarız diyorlar, maçın kalanında forvet arkası oynuyorum. <br/><br/>maçın sonuna kadar bildiğimi de unutuyorum. topa vururken ayaklarım dolanıyor, 2 metre öteye pas atamıyorum, 4 metreden gelen topa kafa vurmaya falan çalışıyorum. boş kaleye topu taça falan atıorum. allahtan efendi çocuklar demiş miydim, götleriyle gülmüyorlar.<br/><br/>hikaye tanıdık geldi mi?<br/><br/>işte jailson bugün böyle oynuyor.
   entry_channels: spor
+- entry_name: |
+    black lives matter'ın türkçesi
+  entry_id:  109884809
+  entry_writer: makinistfanlari
+  entry_fav_count: 63
+  entry_content: |
+    siyah yaşar mesele
+  entry_channels: anket,edebiyat
 - entry_name: |
     erkekte yakışıklılık aramayan kadın
   entry_id:  109872036
@@ -211,101 +155,85 @@ data:
     zeka arar, para arar, güç arar belki. neyse ki onlar da yok bizde.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    canımın kıymeti yok hareketleri
-  entry_id:  109879418
-  entry_writer: fulistug
-  entry_fav_count: 57
-  entry_content: |
-    başkalarını kırmamak için, onlar üzülmesin diye kendini üzmek. <br/>her şeyi senin düşünüp, yapmak zorunda kalman.<br/>derdini içine atıp, kimseyle paylaşamamak ve her şeyi kendim hallederim düşüncesinde olmak. <br/>sürekli olarak kuyruğu dik tutmaya çalışmak ve güçlü olmaya çalışmak. <br/>içinde fırtınalar koparken, sürekli "herşey yolunda" modunda takılmak.<br/>bazıları hayatını yaşarken, senin bir şeyler iyi olsun diye çabalaman ve sonucunda olan her şeyin sana olmuş olması. <br/><br/>kısaca kendi değerini bilmeyen bir insan her daim yok sayılmaya mahkum olacaktır. kimse size kendinizi ortaya attığınız için madalya takmıyor ya da sevmiyor. insanın bazen bencil olmayı bilmesi ve kendine bir dönüp bakması "ben bunları neden yapıyorum?" diye sorması gerekiyor. yoksa zaman içinde iyi olduğun için seni öyle bir harcıyorlar ki en sonunda kendinden nefret eder hale geliyorsun.
-  entry_channels: anket,sağlık
-- entry_name: |
-    black lives matter'in türkçesi
-  entry_id:  109884726
-  entry_writer: opridon
-  entry_fav_count: 53
-  entry_content: |
-    (bkz: <a class="b" href="/?q=siyahlar%c4%b1nki+de+can">siyahlarınki de can</a>)<br/>(bkz: <a class="b" href="/?q=siyahlar%c4%b1n+da+can%c4%b1+var">siyahların da canı var</a>)
-  entry_channels: anket,edebiyat
-- entry_name: |
     7 temmuz 2020 mustafa varank tweeti
   entry_id:  109883243
   entry_writer: naulen
-  entry_fav_count: 51
+  entry_fav_count: 61
   entry_content: |
     aklı olan kimse bu ülkede kalmaz.
   entry_channels: siyaset
 - entry_name: |
-    radamel falcao garcia
-  entry_id:  109876449
-  entry_writer: stoica
-  entry_fav_count: 46
+    canımın kıymeti yok hareketleri
+  entry_id:  109878806
+  entry_writer: how i met my cats
+  entry_fav_count: 58
   entry_content: |
-    ‘’fenere kadıköy'de maçın son dakikalarında o golü soktu ya isterse 850 milyon alsın sikimde olmaz’’<br/><br/>işte böyle dangalak taraftarlar yüzünden bu <a class="b" href="/?q=falcao">falcao</a>lar daha çok keriz silkeler.
-  entry_channels: spor
-- entry_name: |
-    insanın zoruna giden şeyler
-  entry_id:  109856515
-  entry_writer: apple fanboy
-  entry_fav_count: 44
-  entry_content: |
-    markete girip üç raf gezip iki torba doldurmadan 150-200 lira bırakmak. <br/><br/>bunu yapamayacak yüz binlerce insan olduğunu bilmek de fena üzüyor ve utandırıyor.
-  entry_channels: anket,ilişkiler
+    alkolik olmak. sigara bağımlısı olmak.
+  entry_channels: anket,sağlık
 - entry_name: |
     duty free'lerde kimsenin almadığı naneli çikolata
   entry_id:  109884620
   entry_writer: atnickli
-  entry_fav_count: 42
+  entry_fav_count: 56
   entry_content: |
     <a class="b" href="/?q=duty+free%27lerde+kimsenin+almad%c4%b1%c4%9f%c4%b1+naneli+%c3%a7ikolata">duty free'lerde kimsenin almadığı naneli çikolata</a> basligini acip altina <a class="b" href="/?q=after+eight">after eight</a> yazmaktansa; <a class="b" href="/?q=after+eight">after eight</a> basligina <a class="b" href="/?q=duty+free%27lerde+kimsenin+almad%c4%b1%c4%9f%c4%b1+naneli+%c3%a7ikolata">duty free'lerde kimsenin almadığı naneli çikolata</a> diye yazmanin daha mantikli oldugu hede.
   entry_channels: yeme-içme
 - entry_name: |
+    yerli otomobilin gümbür gümbür gelmesi
+  entry_id:  109887733
+  entry_writer: redturtle
+  entry_fav_count: 49
+  entry_content: |
+    akpden gelecek tek şey yerli vergidir
+  entry_channels: 
+- entry_name: |
+    insanın zoruna giden şeyler
+  entry_id:  109856515
+  entry_writer: apple fanboy
+  entry_fav_count: 48
+  entry_content: |
+    markete girip üç raf gezip iki torba doldurmadan 150-200 lira bırakmak. <br/><br/>bunu yapamayacak yüz binlerce insan olduğunu bilmek de fena üzüyor ve utandırıyor.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    radamel falcao garcia
+  entry_id:  109876449
+  entry_writer: stoica
+  entry_fav_count: 47
+  entry_content: |
+    ‘’fenere kadıköy'de maçın son dakikalarında o golü soktu ya isterse 850 milyon alsın sikimde olmaz’’<br/><br/>işte böyle dangalak taraftarlar yüzünden bu <a class="b" href="/?q=falcao">falcao</a>lar daha çok keriz silkeler.
+  entry_channels: spor
+- entry_name: |
     duyulduğunda koşarak kaçılması gereken cümleler
   entry_id:  109855432
   entry_writer: lullaby27
-  entry_fav_count: 40
+  entry_fav_count: 43
   entry_content: |
     '' yerli ve milli ''<br/>bu lafı nerede duyarsanız bilin ki orada yolsuzluk,hırsızlık,ihale rantı ,liyakatsizlik,torpil vs vs her türlü pisliğe bulaşmış bir iş vardır..selam ve ford kuga ile kaçın..
   entry_channels: anket
 - entry_name: |
-    7 temmuz 2020 covid-19 vakasının 207897 olması
-  entry_id:  109884262
-  entry_writer: motoryaglimusakka
-  entry_fav_count: 37
-  entry_content: |
-    şahsen sayılara inanmayı en az vaka görülen illerin antalya ile muğla olduğu söylendiği zaman bıraktım.
-  entry_channels: sağlık,haber
-- entry_name: |
-    kızların evde kalmalarındaki inanılmaz artış
-  entry_id:  109855227
-  entry_writer: picklenick
-  entry_fav_count: 31
-  entry_content: |
-    hahahah ekşi erkeğinden şaşırtmayan bir başlık.<br/>(bkz: <a class="b" href="/?q=evde+kal">evde kal</a>)mak<br/><br/>kızlar evlenmezken sizler nasıl evlenebiliyorsunuz o kısmı biraz açsanıza <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
-  entry_channels: ilişkiler
-- entry_name: |
     getir'den verilen siparişte çıkan 3 cm'lik tırnak
-  entry_id:  109887046
-  entry_writer: seabird
-  entry_fav_count: 29
+  entry_id:  109887120
+  entry_writer: ampirikuka
+  entry_fav_count: 42
   entry_content: |
-    yemeksepetinden verilen siparisten tirnak cikma ihtimaliyle ayni ihtimale sahip olay. sanki yemegi getir yapmis aq.
+    kelle paçanın içinden ne çıkacaktı çeyrek altın mi? kelle paçadan tırnak da çıkar diş de. hatta hayvanın dişinin arasındaki tartarlar da cikabilir. ayriyeten bu sıcakta kelle paça artı kokoreci aynı anda götürmek nasıl bir yemek zevkidir arkadaş...<br/>rezalet puanım 3/10
   entry_channels: 
-- entry_name: |
-    rus kızlarının kaprissiz olması
-  entry_id:  109869884
-  entry_writer: birkk
-  entry_fav_count: 27
-  entry_content: |
-    bu başlığa yazanların %80i de kızları olursa slav kızları gibi olmasın diye elinden geleni yapacak tiplerdir.
-  entry_channels: anket,ilişkiler
 - entry_name: |
     ilk buluşma sonrası yazmayan kız
   entry_id:  109886657
   entry_writer: nickclick
-  entry_fav_count: 27
+  entry_fav_count: 33
   entry_content: |
     30 dakika mı? dominostan pizza mı söyledin kardeş.
-  entry_channels: ilişkiler
+  entry_channels: ilişkiler,troll
+- entry_name: |
+    bezmialem tıpta hastalara risale okunması
+  entry_id:  109886446
+  entry_writer: ulmonun sulari
+  entry_fav_count: 22
+  entry_content: |
+    bu başlığı @letsfuck isimli çaylağın ricası üzerine açtım. iddiası üzerine entryi aynen yazıyorum:<br/><br/>bezmialem vakıf üniversitesi "sağlıkta pozitif düşünce kulübü" öncülüğünde düzenli olarak tıp öğrencilerinin hastalara said nursi okuması olayı. birçok kez hastalar tarafından kovuldukları olmuş fakat bu skandalı düzenli olarak (haftalık) yapıyorlarmış.<br/><br/>paylaşımlarından birisinin altına " ey âhiretini düşünen hasta! hastalık, sabun gibi, günahların kirlerini yıkar, temizler. hastalıklar, keffaret-üz zünub olduğu hadîs-i sahih ile sabittir. hem hadîste vardır ki: ermiş ağacı silkmekle nasıl meyveleri düşer; imanlı bir hastanın titremesi de, öyle günahları silker. " demişler. hastalığı bir nimet olarak gören bir doktora hanginiz gitmek ister. hipokratın hastalığa bakışı modern dünyanın hastalığa bakışı gözler önündeyken bu arkdaşlar ne yapmak istiyorlar? yarın birgün hipokrat yemini etmeyeceğiz bizler said nursi'nin yolundayız derlerse şaşırır mıyım? hayır !!<br/><br/>geçenlerde aynı kulüp " tıp öğrencilerinin lgbt'ye yönelik nefret söylemi" ve "bezmialem tıp öğrencilerinin evrim paylaşımı" başlığında gündeme gelmişti<br/>paylaşımlarının linkleri aşağıda. sosyal medya hesaplarını gizleyceklerinden dolayı paylaşmadım.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/d9402722sh6d">https://eksiup.com/p/d9402722sh6d</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/ek402721age4">https://eksiup.com/p/ek402721age4</a><br/><br/>(bkz: <a class="b" href="/?q=bezmialem+tip+ogrencilerinin+evrim+paylasimi">bezmialem tip ogrencilerinin evrim paylasimi</a>)(bkz: <a class="b" href="/?q=tip+ogrencilerinin+lgbtye+yonelik+nefret+soylemi">tip ogrencilerinin lgbtye yonelik nefret soylemi</a>)
+  entry_channels: siyaset,sağlık
 - entry_name: |
     garry mendes rodrigues
   entry_id:  109886533
@@ -315,6 +243,14 @@ data:
     hayatımda yeşil sahalarda tüm liglerde izlediğim beyin kapasitesi en düşük futbolcu.
   entry_channels: spor
 - entry_name: |
+    46 ülkenin çin'e destek vermesi
+  entry_id:  109887004
+  entry_writer: daranbaba
+  entry_fav_count: 20
+  entry_content: |
+    bi de bu politikaları eleştirmeye bile götü yemeyen dünya lideri bi ülke var ama hangisi söylemem.
+  entry_channels: siyaset,haber
+- entry_name: |
     yazarların italyanca seviyelerini gösteren cümle
   entry_id:  109863555
   entry_writer: gerry conlon
@@ -323,37 +259,53 @@ data:
     gorlomi
   entry_channels: anket,eğitim
 - entry_name: |
-    zayıf kadın güzeldir
-  entry_id:  109871044
-  entry_writer: jazzlover
+    efemine erkek davranışları
+  entry_id:  109877827
+  entry_writer: john carton
+  entry_fav_count: 13
+  entry_content: |
+    (bkz: <a class="b" href="/?q=adaml%c4%b1k+taslamak">adamlık taslamak</a>)<br/><br/>çünkü üstteki örneklerdeki gibi adamcı kişiler, efeminelikle laf edip travesti sikmeye heveslilerdir.<br/><br/>(bkz: <a class="b" href="/?q=ki%c5%9fi+kendinden+bilir+i%c5%9fi">kişi kendinden bilir işi</a>)
+  entry_channels: ilişkiler
+- entry_name: |
+    7 temmuz 2020 asker uğurlama yasağı
+  entry_id:  109887416
+  entry_writer: etobey
+  entry_fav_count: 13
+  entry_content: |
+    istanbul il hıfzıssıhha kurulu asker uğurluma törenlerine kısıtlama getirdi, konvoy ve toplu uğurlama yasaklandı.<br/><br/>- sadece 1.derece akrabalar uğurlayabilecek<br/>- eğlence yapılmayacak<br/>- asker yükümlüsünün ailesi taahhütname imzalayacak<br/><br/>sadece covid döneminde değil umarım kalıcı olarak yasaklanır bu çağ dışı asker uğurlama törenleri.
+  entry_channels: 
+- entry_name: |
+    dark (dizi)
+  entry_id:  109868656
+  entry_writer: cifut
   entry_fav_count: 12
   entry_content: |
-    aksine, fit kadın güzeldir..
-  entry_channels: anket,ilişkiler,sağlık,moda
+    enfes dizidir efenim. izleyin, izlettirin. ja.<br/><br/>entryin devamı spoiler içerebilir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/rpuy14fy" title="https://soz.lk/i/rpuy14fy">jonas kahnwald</a> : (bkz: <a class="b" href="/?q=baran+14+ya%c5%9f%c4%b1nda+arkada%c5%9flar%c4%b1+ona+einstein+diyor">baran 14 yaşında arkadaşları ona einstein diyor</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/jg424p0f" title="https://soz.lk/i/jg424p0f">michael kahnwald</a> : (bkz: <a class="b" href="/?q=sebebi+neydi+ki">sebebi neydi ki</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/8u30z64u" title="https://soz.lk/i/8u30z64u">hannah kahnwald</a> : (bkz: <a class="b" href="/?q=skyler+white">skyler white</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/kmmocw6s" title="https://soz.lk/i/kmmocw6s">ınes kahnwald</a> : (bkz: <a class="b" href="/?q=erkekleri+%c3%a7%c3%b6zd%c3%bcm+kad%c4%b1n%c4%b1">erkekleri çözdüm kadını</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/sigtpqr7" title="https://soz.lk/i/sigtpqr7">martha nielsen</a> : (bkz: <a class="b" href="/?q=%c3%a7ok+ya%c5%9fa+denilen+k%c4%b1z%c4%b1n+sana+m%c4%b1+sorcam+deyip+%c3%b6lmesi">çok yaşa denilen kızın sana mı sorcam deyip ölmesi</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/ek2kxnj0" title="https://soz.lk/i/ek2kxnj0">magnus nielsen</a> : (bkz: <a class="b" href="/?q=kafan+g%c3%bczelmi%c5%9f+g%c3%bcle+g%c3%bcle+kullan">kafan güzelmiş güle güle kullan</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/elku2x2d" title="https://soz.lk/i/elku2x2d">ulrich nielsen</a> : (bkz: <a class="b" href="/?q=beyefendiye+kar%c4%b1+g%c3%b6nderelim">beyefendiye karı gönderelim</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/3gxaku4d" title="https://soz.lk/i/3gxaku4d">katharina nielsen</a> : (bkz: <a class="b" href="/?q=gen%c3%a7ken+her+halt%c4%b1+yiyip+30%27da+evlenmek+isteyen+k%c4%b1z">gençken her haltı yiyip 30'da evlenmek isteyen kız</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/vh7dvd8c" title="https://soz.lk/i/vh7dvd8c">agnes nielsen</a> : (bkz: <a class="b" href="/?q=35+ya%c5%9f%c4%b1nda+bekar+mutlu+huzurlu+ve+g%c3%bczel+kad%c4%b1n">35 yaşında bekar mutlu huzurlu ve güzel kadın</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/yk4amp1o" title="https://soz.lk/i/yk4amp1o">jana nielsen</a> : (bkz: <a class="b" href="/?q=sevi%c5%9firken+kan+verir+gibi+yatan+kad%c4%b1n">sevişirken kan verir gibi yatan kadın</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/YojfJy.jpg" title="https://i.hizliresim.com/YojfJy.jpg">tronte neilsen</a> : (bkz: <a class="b" href="/?q=a%c5%9f%c4%b1k+oldu%c4%9funu+s%c3%b6yledi%c4%9fi+k%c4%b1z%c4%b1+3.+g%c3%bcn+aldatan+erkek">aşık olduğunu söylediği kızı 3. gün aldatan erkek</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/6BhHxc.jpg" title="https://i.hizliresim.com/6BhHxc.jpg">franziska doppler</a> : (bkz: <a class="b" href="/?q=yaa+pelin+karde%c5%9f+%c3%a7ok+rahat+konu%c5%9fuyordun">yaa pelin kardeş çok rahat konuşuyordun</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/GoPeyE.jpg" title="https://i.hizliresim.com/GoPeyE.jpg">elisabeth doppler</a> : (bkz: <a class="b" href="/?q=damacanay%c4%b1+tek+ba%c5%9f%c4%b1na+d%c4%b1%c5%9f+kap%c4%b1dan+mutfa%c4%9fa+alan+k%c4%b1z">damacanayı tek başına dış kapıdan mutfağa alan kız</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/K572fY.jpg" title="https://i.hizliresim.com/K572fY.jpg">peter doppler</a> : (bkz: <a class="b" href="/?q=%c3%a7ama%c5%9f%c4%b1r+asan+cam+silen+%c3%bct%c3%bc+yapan+evi+s%c3%bcp%c3%bcren+erkek">çamaşır asan cam silen ütü yapan evi süpüren erkek</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/XSYhzX.jpg" title="https://i.hizliresim.com/XSYhzX.jpg">charkotte doppler</a> : (bkz: <a class="b" href="/?q=kimse+de+demiyor+ki+aga+bu+nedir">kimse de demiyor ki aga bu nedir</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/XBSzBQ.jpg" title="https://i.hizliresim.com/XBSzBQ.jpg">helge doppler</a> : (bkz: <a class="b" href="/?q=lessie+bize+bir+%c5%9feyler+anlatmak+istiyor">lessie bize bir şeyler anlatmak istiyor</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/nqYWhZ.jpg" title="https://i.hizliresim.com/nqYWhZ.jpg">h.g. tannhaus</a> : (bkz: <a class="b" href="/?q=dedi%c4%9fini+anl%c4%b1yor+ve+yap%c4%b1sal+olarak+par%c3%a7alan%c4%b1yorum">dediğini anlıyor ve yapısal olarak parçalanıyorum</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/kpmK1G.jpg" title="https://i.hizliresim.com/kpmK1G.jpg">bartosz tiedemann</a> : (bkz: <a class="b" href="/?q=salak+yemin+ederim+gerizekal%c4%b1+bu+%c3%a7ocuk+ya">salak yemin ederim gerizekalı bu çocuk ya</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/dpelri.jpg" title="https://i.hizliresim.com/dpelri.jpg">regina tiedemann</a> : (bkz: <a class="b" href="/?q=bundan+bize+ne+olmas%c4%b1">bundan bize ne olması</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/O8zRum.jpg" title="https://i.hizliresim.com/O8zRum.jpg">aleksander tiedemann</a> : (bkz: <a class="b" href="/?q=adam+pisli%c4%9fin+teki+%c3%a7%c4%b1kt%c4%b1+r%c4%b1za+baba">adam pisliğin teki çıktı rıza baba</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/CRBr7m.jpg" title="https://i.hizliresim.com/CRBr7m.jpg">claudia tiedemann</a> : (bkz: <a class="b" href="/?q=torrent+kullanabilen+k%c4%b1z">torrent kullanabilen kız</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/bxwmej.jpg" title="https://i.hizliresim.com/bxwmej.jpg">egon tiedemann</a> : (bkz: <a class="b" href="/?q=bu+ben+miyim+diyen+polis">bu ben miyim diyen polis</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/cRiTq4.jpg" title="https://i.hizliresim.com/cRiTq4.jpg">gustav tannhaus</a> : (bkz: <a class="b" href="/?q=yav+he+he">yav he he</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/QuxcwH.png" title="https://i.hizliresim.com/QuxcwH.png">torben wöller</a> : (bkz: <a class="b" href="/?q=dizi+ve+filmlerdeki+unutulmaz+yanc%c4%b1+karakterler">dizi ve filmlerdeki unutulmaz yancı karakterler</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/oUHfOv.png" title="https://i.hizliresim.com/oUHfOv.png">w. clausen</a> (bkz: <a class="b" href="/?q=sen+bilirki%c5%9fi+misin+sen+uzman+m%c4%b1s%c4%b1n+sen+kimsin+lan">sen bilirkişi misin sen uzman mısın sen kimsin lan</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/DSdK50.jpg" title="https://i.hizliresim.com/DSdK50.jpg">noah</a> : (bkz: <a class="b" href="/?q=diego+dur+allah%c4%b1n%c4%b1+seversen+zaten+ortal%c4%b1k+kar%c4%b1%c5%9f%c4%b1k">diego dur allahını seversen zaten ortalık karışık</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/tzYRl5.png" title="https://i.hizliresim.com/tzYRl5.png">adam</a> : (bkz: <a class="b" href="/?q=siktin+format%c4%b1+eyledin+viran">siktin formatı eyledin viran</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/oqPdd4.jpg" title="https://i.hizliresim.com/oqPdd4.jpg">eva</a> : (bkz: <a class="b" href="/?q=bilimkurgu+seven+ya%c5%9fl%c4%b1+teyze">bilimkurgu seven yaşlı teyze</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/6BHa3q.jpg" title="https://i.hizliresim.com/6BHa3q.jpg">the unknown</a> : (bkz: <a class="b" href="/?q=yaz%c4%b1k+la+kimin+%c3%a7ocu%c4%9fuysa">yazık la kimin çocuğuysa</a>)
+  entry_channels: tv,spoiler
 - entry_name: |
-    bezmialem tıpta hastalara risale okunması
-  entry_id:  109886446
-  entry_writer: ulmonun sulari
-  entry_fav_count: 11
+    gram altın
+  entry_id:  109856115
+  entry_writer: stajyermafya
+  entry_fav_count: 9
   entry_content: |
-    bu başlığı @letsfuck isimli çaylağın ricası üzerine açtım. iddiası üzerine entryi aynen yazıyorum:<br/><br/>bezmialem vakıf üniversitesi "sağlıkta pozitif düşünce kulübü" öncülüğünde düzenli olarak tıp öğrencilerinin hastalara said nursi okuması olayı. birçok kez hastalar tarafından kovuldukları olmuş fakat bu skandalı düzenli olarak (haftalık) yapıyorlarmış.<br/><br/>paylaşımlarından birisinin altına " ey âhiretini düşünen hasta! hastalık, sabun gibi, günahların kirlerini yıkar, temizler. hastalıklar, keffaret-üz zünub olduğu hadîs-i sahih ile sabittir. hem hadîste vardır ki: ermiş ağacı silkmekle nasıl meyveleri düşer; imanlı bir hastanın titremesi de, öyle günahları silker. " demişler. hastalığı bir nimet olarak gören bir doktora hanginiz gitmek ister. hipokratın hastalığa bakışı modern dünyanın hastalığa bakışı gözler önündeyken bu arkdaşlar ne yapmak istiyorlar? yarın birgün hipokrat yemini etmeyeceğiz bizler said nursi'nin yolundayız derlerse şaşırır mıyım? hayır !!<br/><br/>geçenlerde aynı kulüp " tıp öğrencilerinin lgbt'ye yönelik nefret söylemi" ve "bezmialem tıp öğrencilerinin evrim paylaşımı" başlığında gündeme gelmişti<br/>paylaşımlarının linkleri aşağıda. sosyal medya hesaplarını gizleyceklerinden dolayı paylaşmadım.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/d9402722sh6d">https://eksiup.com/p/d9402722sh6d</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/ek402721age4">https://eksiup.com/p/ek402721age4</a><br/><br/>(bkz: <a class="b" href="/?q=bezmialem+tip+ogrencilerinin+evrim+paylasimi">bezmialem tip ogrencilerinin evrim paylasimi</a>)(bkz: <a class="b" href="/?q=tip+ogrencilerinin+lgbtye+yonelik+nefret+soylemi">tip ogrencilerinin lgbtye yonelik nefret soylemi</a>)
-  entry_channels: siyaset,sağlık
-- entry_name: |
-    46 ülkenin çin'e destek vermesi
-  entry_id:  109887004
-  entry_writer: daranbaba
-  entry_fav_count: 10
-  entry_content: |
-    bi de bu politikaları eleştirmeye bile götü yemeyen dünya lideri bi ülke var ama hangisi söylemem.
-  entry_channels: siyaset,haber
+    06.06.2020 tarihinde 363 tl idi, şimdi 393. 1 ayda 30 tl arttı. diyeceklerim bu kadar.
+  entry_channels: ekonomi
 - entry_name: |
     ferdi kadıoğlu
   entry_id:  109886911
   entry_writer: yapmavolkanyapma
-  entry_fav_count: 7
+  entry_fav_count: 9
   entry_content: |
     şu adamı oynatmayan hocanın psikolojik sorunları vardır. adam resmen valbuena'nın genç hali. 21 yaşında valbuena.<br/><br/>ve gelişime de açık
   entry_channels: spor
+- entry_name: |
+    en güzel logoya sahip şirket
+  entry_id:  109880589
+  entry_writer: zavas
+  entry_fav_count: 7
+  entry_content: |
+    bugüne kadar en iyisi ziraat bankası<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.ziraatbank.com.tr/PublishingImages/Subpage/bankamiz/BankamizGorselleri/Ziraat_Bankasi_Logo_JPEG.jpg" title="https://www.ziraatbank.com.tr/PublishingImages/Subpage/bankamiz/BankamizGorselleri/Ziraat_Bankasi_Logo_JPEG.jpg">görsel için tık</a>
+  entry_channels: anket,moda
 - entry_name: |
     ekşi itiraf
   entry_id:  109865679
@@ -366,7 +318,7 @@ data:
     jailson marques siqueira
   entry_id:  109883040
   entry_writer: orsi
-  entry_fav_count: 4
+  entry_fav_count: 5
   entry_content: |
     10 dakikada 2 gol fırsatı verdi. hem de yüzde yüzlük.<br/><br/>nasıl hala stoper oynatılıyor cidden anlamıyorum.<br/><br/>ankara’da oturuyorum arasaydınız gelirdim ya stopere.<br/><br/>edit: dakika 15 yine müthiş hata yaptı, sarı kart gördü.<br/><br/>tehlike çanları bangır bangır çalıyor.<br/><br/>edit-2: ozan stopere geçti, jailson forvet arkası. şaka gibi. planlamanızı ben sizin.
   entry_channels: spor
@@ -379,14 +331,6 @@ data:
     odamdayım ve muhteşem bir sanatçı olan arkadaşımın müziğe verdiği emeğin karşılığını tam olarak almasını istiyorum ve bunun için neler yapılabilir onu düşünüyorum. keşke sihirli bir değnek olsa ve bunu sağlayabilsem, o kadar hak ediyor ki...
   entry_channels: anket,ekşi-sözlük
 - entry_name: |
-    sözlükçülerin bizzat konuştukları en ünlü kişi
-  entry_id:  109884185
-  entry_writer: viski sek olsun
-  entry_fav_count: 2
-  entry_content: |
-    (bkz: <a class="b" href="/?q=boris+brejcha">boris brejcha</a>)
-  entry_channels: anket,ekşi-sözlük,magazin
-- entry_name: |
     emre belözoğlu
   entry_id:  109886222
   entry_writer: mdsmo
@@ -395,11 +339,67 @@ data:
     sporculuğu ve karakterinin altyapılarda ders olarak anlatılması gereken futbolcudur. <br/>sporculuğu iyi örnek, karakteri kötü örnek olarak..
   entry_channels: spor
 - entry_name: |
-    rastgele entry numarası yazmak
-  entry_id:  109883001
-  entry_writer: nimera
+    1 kg etsiz çiğköftenin 50tl olması
+  entry_id:  109888090
+  entry_writer: chevron
+  entry_fav_count: 2
+  entry_content: |
+    zenginler ülkesi türkiye’de gayet normal olan olay.<br/><br/>akp türkiye’sinde herşey lüks ve pahalı. <br/><br/>fakirlere bok yeyin diyorlar resmen.
+  entry_channels: 
+- entry_name: |
+    ömer faruk beyaz
+  entry_id:  109887239
+  entry_writer: boranck
   entry_fav_count: 1
   entry_content: |
-    hadi rastgele.<br/><br/><a class="b" href="/entry/48445209">#48445209</a>
+    top kontrolü gayet iyi, mıknatıs gibi yapışıyor ayağına.<br/><br/>pas açılarını da güzel görüyor. 10 dakika oynamasına rağmen bazı konularda kalitesini belli etti. <br/><br/>bana kalırsa kadronun çoğundan daha fazla oynamayı hakediyor.
+  entry_channels: spor
+- entry_name: |
+    düşün ki o bunu okuyor
+  entry_id:  109861519
+  entry_writer: optimus52
+  entry_fav_count: 1
+  entry_content: |
+    başkasıyla konuşabilicek kadar beni unuttuysan daha söyleyecek pek bir sözüm yok. o gün çok şey demek için hazırlandım ki saatlerce konuşucaktım ama tüm cümlelerimi boğazıma dizdin sadece sana bakıp sigara yakalabildim elimden sadece bu geldi belki de gidebilirdim hiçbir şey demeden ama seni son kez görüceğimi düşünerek son son baktım. sen herkesten farklıydın sevginle de sevgisizliğinle de hep farklıydın....
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    bira içmelik arkadaş veritabanı
+  entry_id:  109867714
+  entry_writer: bir angara bebesi06
+  entry_fav_count: 1
+  entry_content: |
+    akşam<a class="b" href="/?q=ankara">ankara</a>.
+  entry_channels: anket,ilişkiler,ekşi-sözlük,yeme-içme
+- entry_name: |
+    sözlükçülerin bizzat konuştukları en ünlü kişi
+  entry_id:  109884746
+  entry_writer: corekdegilimben
+  entry_fav_count: 0
+  entry_content: |
+    <a class="b" href="/?q=k%c3%bc%c3%a7%c3%bck+iskender">küçük iskender</a> (tüyap)<br/><a class="b" href="/?q=toktam%c4%b1%c5%9f+ate%c5%9f">toktamış ateş</a> (tüyap)<br/><a class="b" href="/?q=halil+erg%c3%bcn">halil ergün</a> (beyoğlu’nda bir kafede)<br/><a class="b" href="/?q=%c3%a7olpan+ilhan">çolpan ilhan</a> (beyoğlu’nda) <br/><a class="b" href="/?q=%c3%b6m%c3%bcr+g%c3%b6ksel">ömür göksel</a> (kadıköy seyhan kafenin terasında)<br/><br/>bizzat konuşmayı umduklarım:<br/><a class="b" href="/?q=orhan+pamuk">orhan pamuk</a><br/><a class="b" href="/?q=haluk+bilginer">haluk bilginer</a><br/><a class="b" href="/?q=karsu+d%c3%b6nmez">karsu dönmez</a><br/><a class="b" href="/?q=handan+inci">handan inci</a> <br/><br/>aklıma gelenler bu kadar.
+  entry_channels: anket,ekşi-sözlük,magazin
+- entry_name: |
+    rastgele entry numarası yazmak
+  entry_id:  109883951
+  entry_writer: azizinsan123
+  entry_fav_count: 0
+  entry_content: |
+    <a class="b" href="/entry/232323">#232323</a>
   entry_channels: anket,ekşi-sözlük
+- entry_name: |
+    nöhü hastanesi covid-19 rezaleti
+  entry_id:  109877030
+  entry_writer: neselimeseodunu
+  entry_fav_count: 0
+  entry_content: |
+    trafik kazası acili kitler tâbi ki. 1 hasta durumu kırmızılık ise en az 4-5 personel gerekir. 2 hasta ise 8 10 yapar ki acilde zaten başka personel kalmadı demektir.<br/><br/>kan tetkiki 1 saatte çıkar bu gayet normal bilemedin hadi yarım saat diye bir durum yok. bütün aciller de bu böyledir. 1 saattir. <br/><br/>ayrıca kapı anjio süresi ideal 2 saattir ama bunu türkiye'de tutturan yer çok azdır. ambulans değil kapı yani hastaneye giriş. ki gerçekten hızlı almışlar şaşırdım açıkçası. normalde kontrol trop isterler ki o 3 saat sonra alınır sonuç 1 saatte çıkar yani gelişten sonra 5. saati bulursunuz. demek ki ekg ile uyumlu gelmiş.<br/><br/>corona hastası ile yanyana hiçbir şekilde almazlar. corona ile temaslı olan seni korumak için değil kendini korumak için kıyafet giyer bu yüzden eminim hepsi giyiyordur. fakat her entübe olan pnomoni olan corona olmuyor. servislerin kapısında ne yazdığı önemli değil corona nedeniyle bütün servisler birbirine girdi. bir doktor hem corona servisinda hem normal serviste çalışmaz. nöbetleri günlere ayrılıyor. bir gün orada bir gün orada çalışır.<br/><br/>primer doktor nöbetçi değilse cumartesi pazar gelmeyebilir. ama nöbetçi doktor illa ki vardır. kendi aralarında devreder giderler. nöbetçi olmaması imkansız varsa açın dava ama olmaması imkansız dediğim gibi.<br/><br/>hasta bilgilendirme rezaleti olmuş olabilir. tüm türkiye'de bu corona yüzünden bilgilendirme işlemleri yapılmıyor veya minimum düzeyde yapılıyor. bu bir rezalet kesinlikle. telefonla dahi olsa insanlarla iletişim kurmak 5 dakika da olsa anlatmak lazım. onun dışında hemşire tavırlarında da sorun olmuş olabilir. bunlardan şikayetçi olabilirsiniz ama üsttekiler geçerli sebepler değil.
+  entry_channels: sağlık
+- entry_name: |
+    komşuları itici yapan detaylar
+  entry_id:  109888094
+  entry_writer: xherif
+  entry_fav_count: 0
+  entry_content: |
+    (bkz: <a class="b" href="/?q=sabah+osuru%c4%9fu">sabah osuruğu</a>)<br/><br/>yan komşunun sabah osuruğu bildiğin borazan gibi monakoym demetevler ağlıyor her sabah. bu duvarları kağıttan yapan müteahhitlerin de ayrıca monakoym.
+  entry_channels: anket,ilişkiler
 ---
