@@ -6,7 +6,7 @@ data:
     ibb'nin yurtdışından aldığı krediye el koyulması
   entry_id:  110084060
   entry_writer: bana her yer cehennem
-  entry_fav_count: 1989
+  entry_fav_count: 2011
   entry_content: |
     met-gün inşaat aş, bir önceki yönetim döneminden kalan asfalt işi alacağı için ibb’nin bankadaki 565 milyon lirasını haciz yolu ile aldı. üstelik bu para, ibb’nin metro projesi için aldığı yurtdışı kredisiydi. haciz işlemi sabah yapıldı, ödeme akşam alındı.<br/><br/>ibb’nin, jet hızı ile ödenen 565 milyona ilişkin 3 temel itirazı var: *anılan paralar, yasa gereği haczedilemez hesaplardaydı. <br/>*döviz cinsindeki para banka tarafından tl’ye çevrildi. <br/>*paranın şirkete ödenmemesi için yapılan tedbir talebi ise red edildi. <br/><br/>kaynak <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/DinerGke/status/1282185968926298112?s=19" title="https://twitter.com/DinerGke/status/1282185968926298112?s=19">https://twitter.com/…tatus/1282185968926298112?s=19</a><br/><br/>adamlar yemin etmiş iş yaptırmayacak ekrem'e
   entry_channels: siyaset,haber,ekonomi
@@ -14,23 +14,15 @@ data:
     artık chp'yi terörist olarak görmüyorum
   entry_id:  110096818
   entry_writer: renksiz hayat
-  entry_fav_count: 624
+  entry_fav_count: 631
   entry_content: |
     günaydın, on sekiz yıl daha bekleseydin bro dedirten gelişme.
-  entry_channels: siyaset,haber
-- entry_name: |
-    akp gk başkanının jakuzide fakirleri aşağılaması
-  entry_id:  110082930
-  entry_writer: daver bey
-  entry_fav_count: 477
-  entry_content: |
-    çoluk çocuk, cahil cühela, it kopuk insanlara devletin paralarını reva gören zihniyetin mide bulandıran sonucudur. salaklar oy vermeye, muhalifler de yanlış anlaşılmaktan korkup salaklara salak demeyip eğilip bükülmeye devam etsin.<br/><br/>(bkz: <a class="b" href="/?q=yaz%c4%b1k">yazık</a>)
   entry_channels: siyaset,haber
 - entry_name: |
     kızılay'ın düşürüldüğü acınası durum
   entry_id:  110096641
   entry_writer: raki kadehindeki balik
-  entry_fav_count: 336
+  entry_fav_count: 357
   entry_content: |
     adı yolsuzluk skandalına karıştıktan sonra nakdi yardımların kesildiği, kurban bağışlarının iyice düştüğü kızılay artık belki de bu ülke için yaptığı en hayati görevlerden birisi olan kan ihtiyacına bile cevap veremez hale geldi. <br/><br/>bu kurum savaş ve doğal afet gibi sıradışı olaylarda halka yardım edebilmek için var iken, böylesi durumlar için sürekli olarak maddi ve tıbbi yeterliliği en üst düzeyde olması gerekir iken, çalışanları bu durumları yönetecek kadar donanımlı ve tecrübeli insanlar olması gerekir iken gün itibarıyla insanların gidip kanını bile emanet etmek için güvenmediği aciz bir kurum haline gelmiş. <br/><br/>az önce bulunduğum yerde belediye hoparlöründen kızılay'a kan bağışı yapılması için adeta yalvarır bir içerikle anons yapıldı ve bu benim içimi acıttı. bu kurumun asıl işi yardım fakat gidip bu kuruma para emanet etme fikri kendimi aptal gibi hissetmeme sebep oluyor ve vazgeçiyorum. düne kadar güven veren o kırmızı renkli hilal artık bana sadece acizlik ve tiksinti hissettiriyor. yarın kaza geçirsem ve kan ihtiyacım olsa bulamayacağım belki... bunu bildiğim halde kızılay'a gidip kan vermek içimden gelmiyor. o beyaz renkli kan toplama aracının içinde biri sanki "allah'ın salağı biz sana neler yapıyoruz sen hala mal gibi gelip kan veriyorsun. sen adam olmazsın." diye bıyık altından gülüyor gibi geliyor. <br/><br/>hangi insanlıktan çıkmış insan toplumun ortak değeri olan bu tür oluşumlara leke sürmeye cürret edebilir, hangi adalet mensubu bu olanları araştırıp bu kurumlara kaybolan itibarını geri vermeye çalışmaz, hangi devlet kendi ülkesinin yüz yıllık birikimlerinin bu şekilde bozuk para gibi harcanmasına müsaade eder???<br/><br/>ama ayasofya ibadete açıldı... şimdi kan stokları kendiliğinden dolacak değil mi?
   entry_channels: siyaset,haber
@@ -38,7 +30,7 @@ data:
     eğitim hayatı boyunca en çok zorlanılan ders
   entry_id:  110083492
   entry_writer: nonbiodegradable
-  entry_fav_count: 311
+  entry_fav_count: 317
   entry_content: |
     elektromanyetik alan ve dalga teorisi.<br/>(bkz: <a class="b" href="/?q=elektromanyetik+alan+teorisi">elektromanyetik alan teorisi</a>)<br/>(bkz: <a class="b" href="/?q=elektromanyetik+dalga+teorisi">elektromanyetik dalga teorisi</a>) <br/>derste profesör soru çözmek için tahtayı tamamen doldurdu ve en sonunda da "şu formülle çözümü buluyoruz" diyip elindeki kağıttan formül yazdı ve sonuca ulaştı. "hocam formülün de ispatını yapsanız çok uzun çünkü ezberlemeye gerek yok" dedigimde "ispatını ben de bilmiyorum, bilim adamları öyle bulmuş" dedi.<br/><br/>dersi bilen 3 kişi var, onlar da kitap yazmışlar zaten.
   entry_channels: siyaset,anket,bilim,eğitim
@@ -46,7 +38,7 @@ data:
     lütfü türkkan
   entry_id:  110085491
   entry_writer: hitokiri kenshin
-  entry_fav_count: 298
+  entry_fav_count: 300
   entry_content: |
     kendisi ahmet hakan'a açıklama yapmış.<br/><br/>linki burada ama tüm metni alıyorum zaten, tıklayıp hürriyet'e tık kazandırmayın.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.hurriyet.com.tr/yazarlar/ahmet-hakan/muhafazakar-dunyada-ayasofya-bayrami-41562673" title="https://www.hurriyet.com.tr/yazarlar/ahmet-hakan/muhafazakar-dunyada-ayasofya-bayrami-41562673">https://www.hurriyet.com.tr/…sofya-bayrami-41562673</a><br/><br/>“inatla sustum. ama araç benim aracım. benim aracımın geçiş üstünlüğü var. kızım da o sırada arkada oturuyordu. ben de araçtaydım. kızımın tek bir kusuru var: görüntüyü sosyal medya hesabından paylaşmak."<br/><br/>senin aracının geçiş üstünlüğü kızın partiye yetişsin diye yok. meclisle ilgili, ülkeyle ilgili acil işlerde gecikme diye verilmiş bir hak bu.<br/><br/>şaka gibi gerçekten.
   entry_channels: siyaset,haber
@@ -62,7 +54,7 @@ data:
     12 temmuz 2020 heybeliada yangını
   entry_id:  110100498
   entry_writer: jeapiin
-  entry_fav_count: 182
+  entry_fav_count: 185
   entry_content: |
     <a class="b" href="/?q=rant">rant</a> kokusu alıyorum.
   entry_channels: haber
@@ -70,7 +62,7 @@ data:
     izmir'e gelince oluşan avrupadayım hissi
   entry_id:  110092292
   entry_writer: green riddle
-  entry_fav_count: 171
+  entry_fav_count: 175
   entry_content: |
     yolunuz buca'ya düşerse yerini bağcılar'daymışım hissine bırakır.<br/><br/>edit: bağcılar teknik olarak bir avrupa ilçesi bu arada. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: anket,seyahat
@@ -78,7 +70,7 @@ data:
     ayasofya'nın arkasından hilafet de gelmeli
   entry_id:  110094114
   entry_writer: darksisa
-  entry_fav_count: 161
+  entry_fav_count: 164
   entry_content: |
     osmanlı yıkılırken padişah hilafet ordusunu çağırır , araplar çölün ortasında arkalarını dönüp pantalonlarını sıyırırlar. <br/><br/>tarihten hiç ders almayanlara kısa rivayetler. yıl olmuş 2020 hilafet ne mnk.
   entry_channels: siyaset,tarih,haber
@@ -91,18 +83,10 @@ data:
     orta doğulu bir geri zekalı olmasındandır. kırbaç, koca dayağı, taşlanmak, cariye yapılmak gibi allah'ın şeriatının izin verdiği şeyleri arzuluyordur.
   entry_channels: siyaset,anket
 - entry_name: |
-    12 temmuz 2020 nihat özdemir'in skandal açıklaması
-  entry_id:  110090632
-  entry_writer: ayriyazilmayande
-  entry_fav_count: 123
-  entry_content: |
-    bu talep cumhur ittifakından gelmediyse ben de bişi bilmiyorum.
-  entry_channels: spor
-- entry_name: |
     kilo vermenin bilinen en kısa yolu
   entry_id:  110085515
   entry_writer: honeyandmilk
-  entry_fav_count: 122
+  entry_fav_count: 127
   entry_content: |
     aşırı üzülmek ve kendini çok kötü hissetmek bunlardan bazılarıdır.
   entry_channels: anket,sağlık,yeme-içme
@@ -110,63 +94,63 @@ data:
     fetö ile olan bir anını yaz
   entry_id:  110071093
   entry_writer: yomahayomoso
-  entry_fav_count: 116
+  entry_fav_count: 117
   entry_content: |
     fetö ile anım yok. ama fetö yüzünden çalınmış, 10 yıl boyunca yaşayamadığım, onlarca güzel anım var.<br/><br/>yıl 2009: <br/>üniversitedeyim, yaz tatili, teyzemlerle yazlıktayım. annem öğretmen babam subay, erzincan’dalar. <br/><br/>balkondaki gazetelikten ambalaj amaçlı kullanmak için rastgele, 2-3 gün öncesine ait bir gazete alıyorum. gözüme ilk ilişen yerde babamın adı, “ergenekon”, “terör örgütü”, “evinde arama yapıldı” gibi kelime grupları görüyorum. hemen ailemi arıyorum, benden gizlemişler her şeyi. <br/><br/>meğer aylar önce fetö’nün yetkilendirdiği özel yetkili savcılardan osman şanal’ın askeri bölgeye hukuksuz şekilde girme ve orgeneralin makamını arama girişimine karşı koydu diye “iki gizli tanık bulurum, seni de eklerim” tehdidi üzerine babamın “eklersen şerefsizsin, eklemezsen iki kat şerefsizsin” cevabıyla o da atılmış torbaya. 8 sene boyunca bu etiketle yaşadık, 8 sene sonra beraat etti.<br/><br/>yıl 2016:<br/>ben nişanlanalı bir ay olmuş, bir cuma akşamı televizyonda boğaziçi köprüsü’nün askerlerce kapatıldığını görüyorum, manisa’daki babamı arıyorum. “kızım biz bahçedeyiz annenle bira içiyoruz, tedbir amaçlıdır” diyor, birkaç saat sonra telefonla işyerine çağırılıyor, gidiş o gidiş. sabaha kadar güvenlik önlemleri aldırmak ve polisle işbirliği içinde taşkınlığı önlemek dışında hiçbir şey yapmadan makamında oturuyor, tek bir asker kışla dışına çıkmıyor :) ertesi sabah teşekkür beklerken tutuklama emriyle karşılaşıyor.<br/><br/>o gün bugündür tutuklu. darbe yapmasa da valiyi arayıp niyetini belli etmediği için ağırlaştırılmış müebbet istemiyle yargılanıyor. halbuki o ve tüm birlikleri adına tugay komutanı -rahmetli- valiyi aramıştı. komutan, tutuklu yargılanma sürecinde vücudu daha fazla dayanamadı, vefat etti. ondan sonraki en rütbeli subay olarak babam tam 4 yıldır tek kişilik hücresinde, adalet bekliyor.<br/><br/>fetö kumpasıyla ergenekon’dan yargılanan babam, fetö kurgusu 15 temmuz darbesi’nden de aynı anda yargılanıyor. biricik kızının ertesi gün nikahı olduğunu mahkemede hakimin “o elindeki nedir” dediği davetiyeyi görünce öğrendi, kızının düğününü göremedi.<br/><br/>edit: çok mesaj alıyorum, olayın arkasında bazı kirli detaylar var, bahsedemiyorum. <br/><br/>babam hakkında zamanında ergenekon’daki kahramanlığını yazdığı gibi, bu detayları ve insanları da yazacaktır kitaplar. sabırla bekliyoruz.
   entry_channels: siyaset,anket
 - entry_name: |
+    l. türkkan iyi parti'den ihraç edilsin kampanyası
+  entry_id:  110104838
+  entry_writer: gearbox ag
+  entry_fav_count: 103
+  entry_content: |
+    (bkz: <a class="b" href="/?q=%c3%a7akarl%c4%b1+ara%c3%a7+kullanan+milletvekili+k%c4%b1z%c4%b1">çakarlı araç kullanan milletvekili kızı</a>)<br/><br/>kendisi hatasını kabul edip özür dileyeceğine üste çıkmakta ve hala twitter'da yazılan yanıtları gizlemektedir.<br/><br/>ahmet hakan'a da yüzsüzce röportaj vermiş: <br/><br/>ilgili kısım:<br/><br/>- lütfü türkkan’la bir temas kurdum. bu konuda hiç konuşmamıştı. söyleyecekleri vardı. üzgündü, kızının linç yediğini söyledi ve ekledi: “inatla sustum. ama araç benim aracım. benim aracımın geçiş üstünlüğü var. kızım da o sırada arkada oturuyordu. ben de araçtaydım. kızımın tek bir kusuru var: görüntüyü sosyal medya hesabından paylaşmak”. - <a rel="nofollow noopener" class="url" target="_blank" href="https://www.hurriyet.com.tr/yazarlar/ahmet-hakan/muhafazakar-dunyada-ayasofya-bayrami-41562673" title="https://www.hurriyet.com.tr/yazarlar/ahmet-hakan/muhafazakar-dunyada-ayasofya-bayrami-41562673">hürriyet linki</a><br/><br/>anlaşıldı ki geçiş üstünlüğünü kızını partiye yetiştirmek için kullanan bu adamın eline yetki geçse akp'den farkı olmayacak. muhalefete faydası olmadığı gibi zararı var. istifa etmiyorsa iyi parti'den ihraç edilmelidir.
+  entry_channels: siyaset
+- entry_name: |
     10 temmuz 2020 wayfair skandalı
   entry_id:  110095771
   entry_writer: marcelorios
-  entry_fav_count: 98
+  entry_fav_count: 101
   entry_content: |
     olay nedir, ne degildir cok bilmiyorum ama bu olay uzerine millete "aylak kasap taşak tartar, kardeşim vaktiniz bu kadar mı değersiz; ne boş, beleş insanlar varmış(...)kendi hayatınıza, işinize gücünüze yoğunlaşın" diye akil veren arkadasin (<a class="b" href="/entry/110095456">#110095456</a>), battlefield serisini 10 yildan fazla sure zarfinda, yuzlerce saat oynadigini gordum de (<a class="b" href="/entry/110001931">#110001931</a>). acikcasi neremle gulecegimi sasirdim, ahahshdh. ne adamlarsiniz ya.
   entry_channels: siyaset,haber
 - entry_name: |
-    bütün parçaların güzel olduğu albümler
-  entry_id:  110077725
-  entry_writer: pierre de persie
-  entry_fav_count: 94
-  entry_content: |
-    tarkanın <a class="b" href="/?q=karma">karma</a> albümüdür. belki de gelmiş geçmiş en iyi türkçe pop albümü olabilir. tutmayan, kötü olan tek bir şarkı dahi yok. bu albümün şu an çıkmış olma durumu olsaydı etkisini çok daha net hissedebilirdik. <br/><br/>şarkılara göz atalım. <br/><br/>ask<br/>ay<br/>kuzu kuzu<br/>gitti gideli<br/>uzak<br/>yandim<br/>o'na sor<br/>hup<br/>sen baskasin<br/>tas<br/>her nerdeysen<br/>verme<br/><br/>şarkıların ismini okurken bile arkaplanda çalmaya başlıyor. <br/><br/>edit :imla
-  entry_channels: anket,müzik
-- entry_name: |
     manga'nın da dediği gibi
   entry_id:  110103262
   entry_writer: ben iki bucuk kisiyiz
-  entry_fav_count: 77
+  entry_fav_count: 86
   entry_content: |
     "eurovision 2010'da biz nasıl birinci olamadık amk"
   entry_channels: müzik
 - entry_name: |
-    canım hiç kadın çekmiyor
-  entry_id:  110099197
-  entry_writer: melancholyik adam
-  entry_fav_count: 77
+    survivor 2020 ünlüler-gönüllüler
+  entry_id:  110073584
+  entry_writer: khaliejero
+  entry_fav_count: 73
   entry_content: |
-    (bkz: <a class="b" href="/?q=lut+kavminde+ibneli%c4%9fi+ba%c5%9flatan+ilk+s%c3%b6z">lut kavminde ibneliği başlatan ilk söz</a>)
-  entry_channels: magazin
+    barış'ın benden tek farkı yarışmayı dominikten izlemesi.
+  entry_channels: tv,magazin,spoiler
 - entry_name: |
-    bir erkeği test etmenin yolları
-  entry_id:  110095128
-  entry_writer: atesteki semender
+    ayasoyfa'daki mozaiklerin lazer ile kapatılması
+  entry_id:  110106248
+  entry_writer: elestiri
   entry_fav_count: 67
   entry_content: |
-    test etme gereği duyduğunuz tiplerle olmamak başlıca çözüm yoludur
-  entry_channels: anket,ilişkiler
+    "...bunun için özel bir sistem üzerinde titiz bir çalışma yürütülüyor."<br/><br/>yani özetle diyor ki elimize yüzümüze bulaştırıp anasını s...cez 1500 yıllık yapının.
+  entry_channels: siyaset,bilim,tarih
 - entry_name: |
-    mobil paketlerde sınırsız internet olmaması
-  entry_id:  110102850
-  entry_writer: sexi olmayan cocuk
-  entry_fav_count: 56
+    zeki insanların az arkadaşı olması
+  entry_id:  110071643
+  entry_writer: luciditysilent
+  entry_fav_count: 62
   entry_content: |
-    artık bu konuda bir şeyler yapmamız gerekiyor. telekomünikasyon sektöründe müşteriye nasıl daha fazla sokarım çalışmaları yürüten şirketlerin devrini bitirmeliyiz. keşke rekabetçi firmalar olsa da şu tuzaklara düşmesek. ayda 100 liraya aldığımız internetin ev internetinden farkı nedir? neden mobilde daha fazla ödeyip 21.yüzyılda sınırsız internete sahip olamıyoruz? neden pek büyük sayılmayan bir depremde kimseye ulaşamaz hale geliyor,neden yıllarca alt yapı bekliyoruz? şöyle büyüğüm böyle büyüğüm diye ahkam kesen sözüm ona firmalar müşterilerini bu kadar çaresiz bırakırken neden isimlerinden utanmıyor ve bu kadar kalitesiz hizmet verirken yüzleri kızarmadan kazanmaya devam ediyorlar?<br/><br/>edit: bazıları vodafone'dan sınırsız internet alınabileceğini belirtmiş öyle olsa bile bu paketler ulaşılabilir değil. ulaşılabilir olmayan paketlerin orada olduğunu bilmek veya sınırsız internet ülkemize gelsin parası neyse veririz başlığı değil bu herkes için ulaşılabilir olmasını istiyoruz
-  entry_channels: 
+    serefli yasamak isteyen yalnizligi goze almalidir.
+  entry_channels: ilişkiler
 - entry_name: |
     75 bin 260'ar yıl hapis istemi
   entry_id:  110101731
   entry_writer: anani siken kadi
-  entry_fav_count: 55
+  entry_fav_count: 60
   entry_content: |
     bu çiftlikbank her şeyi ayan beyan ortada yaparken, açık açık banka adı altında kazanç vaadi ile para toplarken, onu denetlemeyen, göz yuman, görevini yerine getirmeyerek dolaylı bir şekilde izin vermiş olanlar da yargıladılar mı acaba?<br/><br/>tabi bir de tosun oğlan ile yanyana açılış yapanlar vardı, din iman allahtan bahsederek insanları teşvik eden edenler vardı, onlar ne oldu?
   entry_channels: haber
@@ -174,50 +158,66 @@ data:
     çocuğunun gözü önünde ilişkiye girmek
   entry_id:  110098943
   entry_writer: dramaturg
-  entry_fav_count: 52
+  entry_fav_count: 59
   entry_content: |
     okuduğumda nutkumun tutulmasına neden olan iddialardır.<br/>bu iddialar eğer gerçekse lanet olsun insanlığa.<br/>çocuğun alnına enayi yazıp fotoğraf çekmek, o çocuğa kaldıramayacağı travmalar yaşatmak...<br/>gerçekten ruhumu çökerttiniz.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.bagimsizkocaeli.com.tr/adliye-asayis/cocugunun-gozu-onunde-cinsel-iliskiye-girdi-h17459.html" title="https://www.bagimsizkocaeli.com.tr/adliye-asayis/cocugunun-gozu-onunde-cinsel-iliskiye-girdi-h17459.html">ilgili link</a><br/><br/>eğer bu iddialar doğruysa bu çocuk bu travmayı nasıl atlatacak. verilen hangi ceza yeterli olabilir?
   entry_channels: ilişkiler,haber
 - entry_name: |
-    hitler'in en büyük hatası
-  entry_id:  110086394
-  entry_writer: nimera
+    erdoğan affı'yla çıkıp iki kadını öldüren adam
+  entry_id:  110071231
+  entry_writer: it was a bright cold day in april
   entry_fav_count: 49
   entry_content: |
-    teknik konulardan ziyade en büyük hatası doymak bilmez oluşu. bütün doymak bilmeyen liderlerin sonları hep aynı olmuştur.
-  entry_channels: anket,tarih
-- entry_name: |
-    l. türkkan iyi parti'den ihraç edilsin kampanyası
-  entry_id:  110104838
-  entry_writer: gearbox ag
-  entry_fav_count: 47
-  entry_content: |
-    (bkz: <a class="b" href="/?q=%c3%a7akarl%c4%b1+ara%c3%a7+kullanan+milletvekili+k%c4%b1z%c4%b1">çakarlı araç kullanan milletvekili kızı</a>)<br/><br/>kendisi hatasını kabul edip özür dileyeceğine üste çıkmakta ve hala twitter'da yazılan yanıtları gizlemektedir. anlaşıldı ki geçiş üstünlüğünü kızını partiye yetiştirmek için kullanan bu adamın eline yetki geçse akp'den farkı olmayacak. muhalefete faydası olmadığı gibi zararı var. istifa etmiyorsa iyi parti'den ihraç edilmelidir.
-  entry_channels: siyaset
+    eylemlerinin sorumluluğu af yasasını imzalayanların üzerindedir. yine ellerine kan bulaşmıştır.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>sakarya'nın taraklı ilçesinde bulunan termal kaplıcalarında meydana geldi. sabah saatlerinde ilçe emniyet müdürlüğü’nü arayan ismail k. “karımı ve kayınvalidemi öldürdüm. şu an olay yerindeler” diyerek ihbarda bulundu. olay yerine giden polis ekipleri, kaplıca odasında gülsüm zeynep ünlütürk (40) ve annesi melahat ünlütürk’ü (70) ölü olarak buldu. bir süre önce ‘af yasası’yla cezaevinden tahliye olan ismail k.’nın, ihbarın hemen ardından kaçtığı öğrenildi. ismail k.’yı arama çalışmaları sürüyor. <a rel="nofollow noopener" class="url" target="_blank" href="https://halktv.com.tr/service/amp/yasam/cezaevinden-cikti-iki-kadini-oldurdu-429245h?__twitter_impression=true" title="https://halktv.com.tr/service/amp/yasam/cezaevinden-cikti-iki-kadini-oldurdu-429245h?__twitter_impression=true">kaynak</a> <br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+  entry_channels: siyaset,haber
 - entry_name: |
     ayasofya
   entry_id:  110071598
   entry_writer: kozmikbirey
-  entry_fav_count: 44
+  entry_fav_count: 46
   entry_content: |
     dünden beri herkesin ağzında dolanan "hasret bitti, bunca yıllık hasret son buldu" gibi cümleleri duymaktan, okumaktan gözüm kulağım kanar oldu. arkadaş caminin yolunu bilmeyen herifler böyle diyor, bırak ayasofya'yı görmeyi istanbul'u dahi görmemiş adamlar böyle diyor, secdeyi rükuyu ayırt edemeyecek gerzekler böyle diyor, şehadeti sorsan besmele çekecek insanlar böyle diyor. o yüzden yere batsın sizin inandığınız din de yapmadığınız ibadetiniz de siz de. <br/><br/>dışarıda adam allaha küfrediyor kılı kıpırdamıyor, ayasofya muhabbetine gelince aslan kesiliyor. varmış gibi görünen ama zerre olmayan inancınızla kime neyin şovunu yapıyorsunuz. yüz yıllar önce hayyam'ın yazdığı şu dörtlük hala geçerliliğini koruyorsa var bu işte bir puştluk: <br/><br/>için temiz olmadıktan sonra<br/>hacı hoca olmuşsun, kaç para!<br/>hırka, tespih, post, seccade güzel;<br/>ama allah kanar mı bunlara?!
   entry_channels: ilişkiler,sanat,tarih,haber,seyahat
 - entry_name: |
+    ayasofya'yı düşünüyorum ve büyük acı duyuyorum
+  entry_id:  110097883
+  entry_writer: boylamdevlet
+  entry_fav_count: 45
+  entry_content: |
+    klasik din adamı ağlaklığı. dünyanın içinden geçen sayısız acılara,açlıklara,sefalete,sömürge düzenine üç maymunu oyna,sonra ayasofya'ya acı duy.yalanını seveyim senin.
+  entry_channels: haber
+- entry_name: |
+    sen odtü'lüsün uzaya roket gönderirsin
+  entry_id:  110090328
+  entry_writer: yazabilenyazilimci
+  entry_fav_count: 40
+  entry_content: |
+    samimi türk esnafıdır. eli öpülesidir. hayat işte, öğrencilere kendi çocuğu gibi davranandan tutun, kendi yurdunun evladı değilmiş gibi muamele eden esnafa kadar her türlü insanla bir arada yaşamaya çalışıyoruz.
+  entry_channels: eğitim
+- entry_name: |
     mülakat bitecek liyakat gelecek reklamı
   entry_id:  110097227
   entry_writer: yuzmebilmeyenyunus
-  entry_fav_count: 34
+  entry_fav_count: 36
   entry_content: |
     güzel video. davutoğlu keşke zamanında başbakan olsaydı da mülakatı kaldırsaydı. bir saniye.
   entry_channels: siyaset
 - entry_name: |
-    yunanlıların türk bayrağı yakması
-  entry_id:  110099333
-  entry_writer: kleifarvatn
+    almanya'nın bu kadar güçlü olmasının sebebi
+  entry_id:  110096287
+  entry_writer: birzamanlaristanbul
+  entry_fav_count: 31
+  entry_content: |
+    çalışma disiplini. <br/><br/>çin gibi çok çalışmak değil, disiplinli, kurallara bağlı ve liyakatli çalışmak.
+  entry_channels: siyaset,anket,tarih
+- entry_name: |
+    emin bayram
+  entry_id:  110101089
+  entry_writer: lex est dictamen rationis
   entry_fav_count: 30
   entry_content: |
-    sanki yunanistan selanik'teki yeni camii'yi kiliseye çevirse, türkiye'de yunan bayrağı yakılmayacakmış gibi tepki verilen hede.
-  entry_channels: siyaset,haber
+    ankaragücü maçında kaptan olarak sahaya çıkacak 17 yaşındaki wonderkid.<br/><br/>bu da hocanın takımdaki diğer oyunculara sizden bi halt olmaz mesajıdır. yabancı sınırına tepki falan değildir.<br/><br/>edit : siki sağ olsun. seri, belhanda falan kaç maç kaybettirdi bu takıma. bir tane de emin kaybettirsin amk.
+  entry_channels: spor
 - entry_name: |
     hatayspor
   entry_id:  110097011
@@ -225,30 +225,6 @@ data:
   entry_fav_count: 29
   entry_content: |
     üstteki arkadaş muhtemelen bursalı. kıskançlığından yiyip bitirmiş kendini. .hatay'a geldiğinde ayağı takılıp düşse millet yardıma koşar. yemeklerine laf eden taş olur taş.
-  entry_channels: spor
-- entry_name: |
-    emin bayram
-  entry_id:  110101089
-  entry_writer: lex est dictamen rationis
-  entry_fav_count: 29
-  entry_content: |
-    ankaragücü maçında kaptan olarak sahaya çıkacak 17 yaşındaki wonderkid.<br/><br/>bu da hocanın takımdaki diğer oyunculara sizden bi halt olmaz mesajıdır. yabancı sınırına tepki falan değildir.<br/><br/>edit : siki sağ olsun. seri, belhanda falan kaç maç kaybettirdi bu takıma. bir tane de emin kaybettirsin amk.
-  entry_channels: spor
-- entry_name: |
-    ayasoyfa'daki mozaiklerin lazer ile kapatılması
-  entry_id:  110106248
-  entry_writer: elestiri
-  entry_fav_count: 28
-  entry_content: |
-    "...bunun için özel bir sistem üzerinde titiz bir çalışma yürütülüyor."<br/><br/>yani özetle diyor ki elimize yüzümüze bulaştırıp anasını s...cez 1500 yıllık yapının.
-  entry_channels: siyaset,bilim,tarih
-- entry_name: |
-    12 temmuz 2020 ankaragücü galatasaray maçı
-  entry_id:  110103646
-  entry_writer: dag basini neyleyim
-  entry_fav_count: 26
-  entry_content: |
-    ilk yarısı neredeyse geride kalan macta galatasaraylı oyuncularin en iştahlı göründükleri an, 25. dakikada verilen su molasına giderkenki andı.
   entry_channels: spor
 - entry_name: |
     otuz yaş üstü kariyerli erkeğin evlenmeme nedeni
@@ -259,14 +235,6 @@ data:
     ne derece kafayı yediklerini kriterlerine "yemek yemeyi sevmeyen kız" eklediklerinden anlayabilirsiniz.<br/><br/>her şeyi anlarız da yemek yapmayı, yemeyi sevmemek nedir amk ya. ne yapacaksınız birlikte fotosentez falan mı ?
   entry_channels: anket,ilişkiler
 - entry_name: |
-    almanya'nın bu kadar güçlü olmasının sebebi
-  entry_id:  110096287
-  entry_writer: birzamanlaristanbul
-  entry_fav_count: 25
-  entry_content: |
-    çalışma disiplini. <br/><br/>çin gibi çok çalışmak değil, disiplinli, kurallara bağlı ve liyakatli çalışmak.
-  entry_channels: siyaset,anket,tarih
-- entry_name: |
     üniversitelerde güz döneminin online olması
   entry_id:  110092625
   entry_writer: tahir ile zuhre meselesi
@@ -274,14 +242,6 @@ data:
   entry_content: |
     olmayan şeye niye başlık açıyorsunuz??<br/>böyle bir şey yok daha. insanları boş boş geriyorsunuz.<br/>ilgi isteğini başka yerde tatmin et ya da düzgün başlık açmayı öğren başlık sahibi.
   entry_channels: bilim,tarih,eğitim,ekonomi
-- entry_name: |
-    wayfair.com
-  entry_id:  110094188
-  entry_writer: arbu nick kullanimda
-  entry_fav_count: 22
-  entry_content: |
-    sözlükte neden gündem olmadığını anlayamadığım online alışveriş platformu. ne sattıkları meçhul diyemeyeceğim. çünkü ürünleri canhıraş kaldırmaları suçlamaları kabul ettikleri anlamına da geliyor aynı zamanda. <br/><br/>herkes de işin içinde. twitter dahi o kadar tweet'e rağmen tt'ye almıyor. tom hanks'in bile ilgisi çıkıyor. bu skandal son yıllarda amerikada patlayan kaçıncı pedofili, istismar, ırkçılık vs olayı sayamadık.
-  entry_channels: haber
 - entry_name: |
     2020 steiermark gp
   entry_id:  110097587
@@ -294,10 +254,18 @@ data:
     12 temmuz 2020 covid-19 vakasının 212993 olması
   entry_id:  110105104
   entry_writer: bode
-  entry_fav_count: 19
+  entry_fav_count: 22
   entry_content: |
     benim diyen voltaj regülatörü bu kadar hassas çıktı veremez. kalibrasyonunu süper yapmışlar, geri beslemeli pid kontrol sanki. sistem kararlılığı harika. tebrik ediyorum. bu verileri hesaplayan kesinlikle sağlıkçı değil. ya elektrik elektronik mühendisi yada kontrol muhendisi.
   entry_channels: 
+- entry_name: |
+    12 temmuz 2020 ankaragücü galatasaray maçı
+  entry_id:  110106062
+  entry_writer: squanch
+  entry_fav_count: 20
+  entry_content: |
+    takımı şampiyon yapan muslera’ymış. terim falan hikaye.
+  entry_channels: spor
 - entry_name: |
     hayat pahalılığını hissettiren ürün
   entry_id:  110071597
@@ -307,21 +275,29 @@ data:
     ürün değil ama hizmet,<br/><br/>berber saç sakal için 40 lira istedi,<br/>önce şaka sandım ver lan paramın üstünü ibnelik yapma derken falan baktım gayet ciddi yavşak...<br/><br/>dolayısıyla hemen o anda bunun son görüşmemiz olduğuna karar verip kendisine açıkladım...<br/><br/>o da önce şaka sandı ama gayet ciddi olduğumu sonra anladı...<br/><br/>bir daha berbere gidersem siksinler beni...<br/><br/>zaten hemen hemen kel sayılırım, evde makine de var... sikerim böyle aşkın ızdırabını her ay 40 lira berbere mi vericem amk...<br/><br/>bi de berber deyince bozuluyo ipneler, neymiş efendim kuaför diyecekmişiz...<br/><br/>sen saç sakal traşını 20 liraya yap, majesteleri bile derim amk...
   entry_channels: anket,ekonomi
 - entry_name: |
+    12 temmuz 2020 fenerbahçe sivasspor maçı
+  entry_id:  110108196
+  entry_writer: yapmavolkanyapma
+  entry_fav_count: 15
+  entry_content: |
+    televizyon bile ofsayt olduğunu anlayıp ikinci defa göstermedi. böyle komik operasyon mu olur lan?<br/><br/>ligi şebeğe çevirdiniz. tiyatroya çevirdiniz.<br/><br/>amk ben başkan olsam şu karardan sonra takımı sahadan çekerim
+  entry_channels: spor
+- entry_name: |
     fatih terim
   entry_id:  110105288
   entry_writer: rmina
-  entry_fav_count: 10
+  entry_fav_count: 14
   entry_content: |
     <a class="b" href="/?q=hagi">hagi</a> ve <a class="b" href="/?q=muslera">muslera</a> olmasaydı şampiyonluk sayısı <a class="b" href="/?q=y%c4%b1lmaz+vural">yılmaz vural</a> ile eşit olurdu.
   entry_channels: spor,magazin
 - entry_name: |
-    younes belhanda
-  entry_id:  110102868
-  entry_writer: mitroy
-  entry_fav_count: 8
+    çakarlı araç kullanan milletvekili kızı
+  entry_id:  110082598
+  entry_writer: subway2
+  entry_fav_count: 11
   entry_content: |
-    <a class="b" href="/?q=wesley+sneijder">wesley sneijder</a> gibi adamdan sonra <a class="b" href="/?q=10">10</a> numarayı verdiğimiz adam; <a class="b" href="/?q=futbol">futbol</a>dan soğuttu beni..
-  entry_channels: spor
+    "inatla sustum. ama araç benim aracım. benim aracımın geçiş üstünlüğü var. kızım da o sırada arkada oturuyordu. ben de araçtaydım. kızımın tek bir kusuru var: görüntüyü sosyal medya hesabından paylaşmak" diye buyurmuş muhterem. <br/><br/>inatla susmuşmuş. kıyamam. senin aracının geçiş üstünlüğü devletin/milletin işine gücüne koştururken zaman kaybetme diye var. kızını partilere yetiştirmek için değil.<br/>arabanın içinde olunca haklı oluyor sanki. özrü kabahatinden büyük.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.hurriyet.com.tr/yazarlar/ahmet-hakan/muhafazakar-dunyada-ayasofya-bayrami-41562673" title="https://www.hurriyet.com.tr/yazarlar/ahmet-hakan/muhafazakar-dunyada-ayasofya-bayrami-41562673">konyak</a>
+  entry_channels: siyaset,haber,otomotiv
 - entry_name: |
     kyk borçlarının silinmesi kanun teklifi
   entry_id:  110075897
@@ -331,42 +307,26 @@ data:
     iş bulamayan kişilerin borçları iş bulana dek ertelenmelidir. enflasyon oranında faiz uygulanmalıdır.
   entry_channels: siyaset,haber,eğitim,ekonomi
 - entry_name: |
-    çocuk yaşta izlenmiş travmatik diziler ve filmler
-  entry_id:  110073119
-  entry_writer: pazartesilerden nefret ediyorum
-  entry_fav_count: 6
+    bir erkek ile kadın arasında yaşanacak en güzel an
+  entry_id:  110105119
+  entry_writer: boylamdevlet
+  entry_fav_count: 8
   entry_content: |
-    tabi ki <a class="b" href="/?q=chucky">chucky</a> lan. tuvalete gidemiyordum bu psikopat yüzünden. kendi yetmezmiş gibi bir de manita yapmıştı devam filminde kendinden beter. <br/><br/>(bkz: <a class="b" href="/?q=chucky%27nin+gelini">chucky'nin gelini</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/dbywvg14" title="https://soz.lk/i/dbywvg14">görsel</a>
-  entry_channels: anket,tv,sinema
-- entry_name: |
-    berk'le kardeş gibiyiz öyle şey düşünmez diyen kız
-  entry_id:  110082125
-  entry_writer: arzawa
-  entry_fav_count: 6
-  entry_content: |
-    berk'in cinsel tercihi farklı değilse düşünür, bu cümleyi gerçek olarak kurabilen bir kız varsa, onun beynini <a class="b" href="/?q=zigmek">zigmek</a> lazım.
+    evli bir çift için sırt sırta vererek özellikle ekonomik hayat mücadelesinde başarı elde ettikleri her andır.<a class="b" href="/?q=hayat+arkada%c5%9f%c4%b1">hayat arkadaşı</a> ne demekmiş bir kez bir kez daha anlarlar. en güzeli ise bu çiftin çocuk sahibi oldukları andır. artık <a class="b" href="/?q=%c3%a7ekirdek+aile">çekirdek aile</a>olmuşlardır.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    12 temmuz 2020 adanaspor hatayspor maçı
-  entry_id:  110084703
-  entry_writer: youwereright
+    ayasofya'da cuma namazı turu 235 tl
+  entry_id:  110095886
+  entry_writer: altay horda
   entry_fav_count: 6
   entry_content: |
-    tff yanlış yapmış bence. maçı şöyle 12.30-13.00 gibi ayarlasaydı işini şansa bırakmamış olurdu. <br/>tanım : sporcu sağlığı hiçe sayılarak ayarlanan, hataysporun şampiyonluk maçı.
-  entry_channels: spor
-- entry_name: |
-    12 temmuz 2020 fenerbahçe sivasspor maçı
-  entry_id:  110094655
-  entry_writer: berkaay
-  entry_fav_count: 5
-  entry_content: |
-    akşam 9'da başlayacak maç. <br/><br/>stoper pozisyonuda cezalı serdar'a, bitik jailson'a, stopere geçince orta saha otobana dönen gustavo'ya rağmen ve dahi oynayacak eleman bulunamıyorken ozan tufan başlayacaksa cenk'i ve gürkan'ı takımdan yollayın. ozan'dan dahi kötüyseler yollayın amk. bu çocuklardan hiçbir bok olmaz. adam daha kendi asli pozisyonunda bile orada ilk kez oynayacak ozan'ı kesemiyor ne a takımı ne forması..<br/><br/>haaa yok durum öyle değil diyorsanız bana hiç kimse paramız yok transfer yaptırmıyorlar demesin.. <br/><br/>bırakın cenk oynasın amına koyim ya, gürkan oynasın, ömer faruk 70-80 dakika oynasın. yenilelim nolacak? jailson'la ekici'yle deniz'le beyinsiz garry'yle yenileceğimize gürkan'la ömer faruk'la yenilelim. sebep 3. olabilme ihtimaliyse kesinleşse bile bok geçeriz ön elemeyi,hayal kurmayı bırakın.<br/>en son 2007-2008 sezonunda ön elemeyi geçmiş türk takımları. toplam 21 sezonda sadece 5 kez. <br/>yarın bu gençler merih gibi bedavaya gidip sözleşme uzatmayınca kimse ağlamasın.
-  entry_channels: spor
+    tosya ekşioğlu turizm tarafından ümmetimize sunulan dev hizmet.<br/><br/>24 temmuz 2020'de ayasofya'da cuma namazı turu kişi başına sadece 235 tl.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/o3o31ut6" title="https://soz.lk/i/o3o31ut6">görsel</a><br/><br/>işte budur...<br/>fırsatçı çakallara gün doğdu.<br/><br/>din istismarı nedir? nasıl yapılır???<br/><br/><a class="b" href="/?q=edit">edit</a>: fakat çok ilginç bir durum var, istanbul'da pek çok padişahın türbesi var, ayasofya'da ise tam 5 padişah türbesi var, neden sadece 2. mahmut türbesini ziyaret ediyorlar? tosya ile 2. mahmut'un nasıl bir bağlantısı var acaba?<br/><br/><a class="b" href="/?q=edit-2">edit-2</a>: covid önlemlerine de önem vermeleri takdire şayan. hes kodu olmayanlar tura katılıp, ayasofya'da namaz kılamayacak.
+  entry_channels: seyahat
 - entry_name: |
     ömer faruk beyaz
   entry_id:  110106070
   entry_writer: mind matters matters not
-  entry_fav_count: 4
+  entry_fav_count: 5
   entry_content: |
     fenerbahçe'de ve kendi profesyonel kariyerinde ilk kez bir maça ilk 11'de başlayacak oyuncu.<br/><br/>biz fenerbahçeliler için ise bu tanımdan çok daha fazlası. bu çocuğu altyapıdayken de izleyip takip eden ve bileğinin yumuşaklığını, ayrıca hiç bencil olmamasını bilen biri olarak fenerbahçe için de yeni bir tarih başlayabilir bugün. bu çocuğu kaybetmememiz lazım.<br/><br/>fenerbahçe her nedense altyapı oyuncularına şans verme konusunda çok katı davranıyor. dolayısıyla gelecek sene sözleşmesi bitecek olan ömer faruk da elimizden kaçan bir diğer genç yetenek olabilir. keşke benzia'ya, frey'e, jailson'a genç diye para veren, şans veren fenerbahçe'miz gözümüzün önündeki kendi çocuklarımıza bu şansı verseler. <br/><br/>eğer bu şansı alabilirse ömer faruk, ts'nin şişirilmiş balonu abdulkadir ömür gibi son zamanlarda genç yıldız olarak anılan birçok topçudan çok daha değerli hale gelecek.<br/><br/>5 yıl sonra hepimiz göreceğiz. umarım üzülmeyiz sevgili takımdaşlarım.
   entry_channels: spor
@@ -402,4 +362,44 @@ data:
   entry_content: |
     bir kıdın ılırık dikıltinin dızındı bırıkılmısı giriktiğini dişiniyirim. <br/><br/>bacım bura ortadoğu. burkalı, peçeli bacılar da türbanlılara “dekoltenin dozunda bırakılması gerektiğini düşünüyorum” diyor. hemen karşı köşede bulunan time out paspasında süper dadı buğra gibi ağlayabilirsin. <br/><br/>çünkü taşşşşşşşşşş gibi kadın, mükemmel foto.
   entry_channels: anket,ilişkiler,tv,haber,magazin
+- entry_name: |
+    şu anda çalan şarkı
+  entry_id:  110070994
+  entry_writer: gaffarson
+  entry_fav_count: 1
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=cfra43I4VyE" title="https://www.youtube.com/watch?v=cfra43I4VyE">the chamanas - prometimos no lloar</a><br/><br/>içindeki hüzne bayılıyorum.<br/><br/>dip not: <a class="b" href="/?q=la+casa+de+las+flores">la casa de las flores</a> müziklerindendir. `
+  entry_channels: anket,ilişkiler,ekşi-sözlük,müzik
+- entry_name: |
+    mehmet altıparmak
+  entry_id:  110104923
+  entry_writer: mulkiyetinizi sikiyim
+  entry_fav_count: 1
+  entry_content: |
+    çok enteresan bir 3 sene geçiren hocadır. <br/><br/>erzurumspor'u çalıştırdığı sırada, finalde gazişehir gaziantep'i eleyerek takımını üst lige çıkaran hoca, ertesi sene gazişehir'i çalıştırıp finalde hatayspor'u yenerek birinci lige çıkmıştır. bu sene de hatayspor'la üst lige çıkmıştır.<br/><br/>finalde yendiğini, ayıp olmasın diye ertesi sene üst lige çıkartan hocadır.
+  entry_channels: spor
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  110070923
+  entry_writer: isik sacan poncik
+  entry_fav_count: 1
+  entry_content: |
+    özellikle geceleri sohbet, muhabbet etmek isteyenler için;<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://discord.gg/HAKfz6a" title="https://discord.gg/HAKfz6a">şarküteri</a>
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    yalnızlığı fark ettiren nesneler
+  entry_id:  110073431
+  entry_writer: bocekistrator
+  entry_fav_count: 0
+  entry_content: |
+    dildo. (bkz: <a class="b" href="/?q=afili+yaln%c4%b1zl%c4%b1k">afili yalnızlık</a>)
+  entry_channels: anket
+- entry_name: |
+    sözlükçülerin yaptığı en iyi yemekler
+  entry_id:  110105790
+  entry_writer: casim abi
+  entry_fav_count: 0
+  entry_content: |
+    içli köfte. evet tarafımdan
+  entry_channels: anket,yeme-içme
 ---
