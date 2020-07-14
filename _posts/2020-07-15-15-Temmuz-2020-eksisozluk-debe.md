@@ -6,23 +6,15 @@ data:
     ulaştırma bakanının martı açıklaması
   entry_id:  110173004
   entry_writer: 46raporlu
-  entry_fav_count: 1468
+  entry_fav_count: 1472
   entry_content: |
     aklıma güzel bir vergi fikri daha geldi (bkz: <a class="b" href="/?q=y%c3%bcr%c3%bcme+vergisi">yürüme vergisi</a>). (bkz: <a class="b" href="/?q=kendi+kendini+ta%c5%9f%c4%b1yorsun">kendi kendini taşıyorsun</a>) vergisi <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: siyaset,haber,ekonomi,seyahat
 - entry_name: |
-    honda türkiye fabrikasının kapatılması
-  entry_id:  110161344
-  entry_writer: thebulk
-  entry_fav_count: 1122
-  entry_content: |
-    fabrikasini satip, calisanlari isten cikartip, parayi ulkesine goturup, araba uretmeye ve turkiyeye araba satmaya devam edecektir. bir daha uzun bir sure boyunca boyle buyuk firmalar da turkiyeye gelmez. ama "gelir gibi yapar, geliyorum bekleyin" der. lakin, gelmez.
-  entry_channels: siyaset,haber,otomotiv,ekonomi
-- entry_name: |
     14 temmuz 2020 akp'li vekilin gülen'e sayın demesi
   entry_id:  110191180
   entry_writer: sakabilmemneyi
-  entry_fav_count: 887
+  entry_fav_count: 970
   entry_content: |
     (bkz: <a class="b" href="/?q=g%c3%b6n%c3%bcl+dili">gönül dili</a>)<br/><br/>ee yılların alışkanlığı işte. bugün sayın der, dün gel bu hasret bitsin de demiştir. hor görmeyin garibi.
   entry_channels: siyaset
@@ -30,15 +22,23 @@ data:
     26 yaşında thk il başkanı olmak
   entry_id:  110176079
   entry_writer: bir zamanlar cocuktum
-  entry_fav_count: 710
+  entry_fav_count: 720
   entry_content: |
     eskişehir akp milletvekili harun karaca'nın müthiş başarılı oğlu alihan karacan'a nasip olandır. sadece 1 ayda thk içinde hızla yükselerek hem de en yüksek gelire sahip eskişehir thk şubesine başkan olmuştur.<br/><br/>babalar ne evlatlar yetiştiriyor be, 26 yaşında adam başarıdan başarıya koşuyor. siz yeteneği olmayanlar ise işsiz kalırsınız tabi. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com/amp/s/www.sozcu.com.tr/2020/gundem/thkya-1-ay-once-uye-simdi-de-baskan-oldu-5929485/amp/" title="https://www.google.com/amp/s/www.sozcu.com.tr/2020/gundem/thkya-1-ay-once-uye-simdi-de-baskan-oldu-5929485/amp/">https://www.google.com/…de-baskan-oldu-5929485/amp/</a>
   entry_channels: siyaset
 - entry_name: |
+    eski eşinin mahrem videolarını grupta paylaşmak
+  entry_id:  110186865
+  entry_writer: boylamdevlet
+  entry_fav_count: 565
+  entry_content: |
+    şerefsizlik ve ahlaksızlığın dik alasıdır.o grupta bulunanlar buna tepki göstermedi ise onlar da şerefsizdir.
+  entry_channels: haber
+- entry_name: |
     iki günde iddaa'dan 14 bin tl kaybetmek
   entry_id:  110162932
   entry_writer: 600f
-  entry_fav_count: 539
+  entry_fav_count: 549
   entry_content: |
     paranın bir kısmıyla paragraf alsaymışsın keşke. kör olduk.
   entry_channels: oyun,ekonomi
@@ -46,23 +46,15 @@ data:
     14 temmuz 2020 azerbaycan ermenistan savaşı
   entry_id:  110180331
   entry_writer: iyi aile gocugu
-  entry_fav_count: 539
+  entry_fav_count: 548
   entry_content: |
     “türklükten önce, din kardeşliğimiz vardır. ve reyisimiz gereğini yapacaktır.”<br/><br/>islam, 7. yüzyılda ortaya çıkmış bir felsefe. türkler milattan önce orta asya’da at koşturuyor, islam’dan çok önce devletler kurup devletler yıkıyordu. azerbaycan türkleri ile olan kardeşlik bağlarımız türklüğümüzden ileri gelir, arap masallarından değil.<br/><br/><a class="b" href="/?q=ta%c5%9f+k%c4%b1r%c4%b1l%c4%b1r%2c+tun%c3%a7+erir+ama+t%c3%bcrkl%c3%bck+ebedidir!">taş kırılır, tunç erir ama türklük ebedidir!</a><br/><br/>edit: bu platformda atatürk’ün annesine açık açık “orospu”, atatürk’e ise “pedofili” imasında bulunan hepinizin yakından tanıdığı bir şahıs vardı. bizzat savcılığa suç duyurusunda bulunmuştum, sonuç? “herhangi bir suç teşkil etmiyor.”<br/>türkiye cumhuriyeti’nde ifade özgürlüğü, ülkenin kurucu liderine -koruma kanunu olmasına rağmen- yukarıdaki iğrenç ifadeleri ima edecek kadar geniş. haliyle, ilgili entry’min tck 216 ile uzaktan yakından alakası yok, direkt ifade özgürlüğü.<br/><br/>edit 2: bir yazar çok kibar bir dille, “felsefe” ve “masal” kelimelerine kırıldığını iletti. <br/>benim amacım oturup islamafobi kasmak değil, müslümanlar yaşadıkları döneme ayak uyduramayarak dünya üzerinde bunu yeterince körüklüyorlar zaten.<br/><br/>felsefe sözcüğü köken olarak yunanca seviyorum, peşinden koşuyorum, arıyorum anlamına gelen “philia” ve bilgi, bilgelik anlamına gelen “sophia” sözcüklerinden türeyen terimin işaret ettiği entelektüel faaliyet ve disiplin. haliyle tüm dinler, aslında felsefe olmuş oluyor. <br/><br/>masal kısmı ise iğnelemek. en nihayetinde binlerce yıl önce eski yunan’daki felsefik inanç şimdi mitolojik masal. en geç 100 yıl içinde söylenmeye başlayacak şeyi şimdi söylüyorum hepsi bu.
-  entry_channels: haber
-- entry_name: |
-    eski eşinin mahrem videolarını grupta paylaşmak
-  entry_id:  110186865
-  entry_writer: boylamdevlet
-  entry_fav_count: 502
-  entry_content: |
-    şerefsizlik ve ahlaksızlığın dik alasıdır.o grupta bulunanlar buna tepki göstermedi ise onlar da şerefsizdir.
   entry_channels: haber
 - entry_name: |
     ibb'nin vakıfbankla maaş anlaşmasını iptali
   entry_id:  110186981
   entry_writer: kalemi kilicindan keskin olan adam
-  entry_fav_count: 329
+  entry_fav_count: 350
   entry_content: |
     ibb'nin personel sayısını düşünün.<sup class="ab"><a title="(bkz: 40bin küsür diye biliyorum)" href="/?q=40bin+k%c3%bcs%c3%bcr+diye+biliyorum" data-query="40bin küsür diye biliyorum">*</a></sup><br/>ibb'nin, vakıfbank hesabındaki dönen parayı da düşünün.<br/>ve 40 bin küsür personel için, banka hesabından dönen maaş ödemelerini düşünün.<br/>vakıfbank'ın böylesi bir para trafiğini ve 40 bin müşteriyi kaybettiğini de hesaba katın.<br/>sonra bu personellerin, maaş hesabı olmasından ötürü vakıfbank üzerinden kullandıkları ürünleri düşünün.<br/>bes, kredi, kredi kartı, çeşitli özel sigortalar, vadeli-vadesiz mevduat.<br/><br/>evet, vakıfbank iktidarın emrini yerine getirerek bir hamle yaptı ve parayı haczetti.<br/>vakıf, imamoğlu'na taş attı. imamoğlu ise taş atan ellerini kesti.<br/>en güzel hamleyi yaptı. çıkıp boş boş atmadı, vakıfbank'a iyi bir fatura kesti.<br/>bu adamı tam da bu yüzden seviyorum. laf değil, icraat adamı.
   entry_channels: siyaset,ekonomi
@@ -70,7 +62,7 @@ data:
     aracı bozulan kardeşlere taksici vahşeti
   entry_id:  110185958
   entry_writer: damarsizkan
-  entry_fav_count: 322
+  entry_fav_count: 335
   entry_content: |
     arkadaşlar, @aslanprensinbenim nikli bir çaylak arkadaşımızın isteği üzerine bu konuyu paylaşmak istiyorum. kendisi yardımlarınızı rica etti.<br/>iki kardeş yeni arabadaki motor sorununa bakarken bir grup orangutan kılıklı taksici tarafından baya darp ediliyor. <br/><br/>kendisinin mesajını olduğu gibi bırakıyorum. ayrıca haber linki de mevcut. <br/><br/>" lütfen sesimizi duyurun :<br/><br/>link : <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=zBxLM-O_WxA">https://www.youtube.com/watch?v=zbxlm-o_wxa</a><br/><br/>polise gittik, savcıya gittik adli süreç başladı. adam afdan yararlanıp çıkmış, girme sebebide yaralama. bizim başımıza birşey geldikten sonra gündem olmasın.<br/><br/>söz konusu tarih ve saatte kardeşim olan hakan destici’ye yeni aldığımız 39 nn 375 plakalı lacivert renkli renault megane coupe marka model arabasındaki motor problemini görmek için denemeye çıktık. biraz gezdikten sonra 03:20 sularında evimizin önüne geldik ve motordan gelen sesi kontrol etmek için cennet mahallesi alpaslan caddesi üzerinde bulunan cennet merkez taksi durağının yaklaşık 30 metre gerisinde durduk. bu duraktan yanımıza 38-40 lı yaşlarında 180 boylarında yaklaşık 80 kg ağırlığında esmer tenli, kel erkek şahıs geldi. bize aracımızı buradan kaldırmamızı rahatsız olduğunu söyledi. bizde bu mahallede oturuyoruz evimizin önü nereye gideceğiz dedim. bu şahıs bana sesiniz çok çıkıyor sen bana mı dikleniyorsun diyerek bağırmaya başladıktan sonra bahse konu duraktan taksi şöförleri etrafımızı sarmaya başladı. sonra içlerinden yaşlı beyaz saçlı birisi ilk tokatı şahsıma atıp kardeşime ve bana yaklaşık 8 kişi saldırmaya başladılar. kardeşimin aracına zarar verdiler. daha sonra bu şahıslar bizi darp ederken polis diye bağardım. gelen polis ekipleri herhangi bir işlem yapmadı. biz ambulans istedik ve kanuni sultan süleyman hastanesine gittik. darp raporlarımızı aldık. sabahına küçükçekmece polis karakoluna gidip şikayette bulunduk. cennet merkez taksi durağı çalışanlarından 2020/1311 dosya numarası ile davacı ve şikayetçi olduk. aradan geçen süreye rağmen herhangi bu insanlar halen daha gözümüzün önünde duruyor. 09.07.2020 saat 22:00 sularında işten gelip şirket aracımı evimin bulunduğu sokağa çektim ve alışveriş yapmak için aktaşlar tekel ve market’e girdim. alışverişimi yaptıktan sonra, sonradan adının doğan olduğunu öğrendiğim, kardeşim ile beni darp eden ilgili şahıs yanıma yaklaşarak. “benden sana dost tavsiyesi o dosyanı çek” diyerek beni tehdit etti. ben “ çekmezsem ne olur dediğimde “ “ben seni uyardım” diyerek bana sözlü tehditte bulundu. eve girene kadar arkamdan baktı. benim 3 yaşında bir kız çocuğum ve eşim var evimi biliyorlar ve ben hafta içi çalıştığım için yalnız kalıyorlar. bu kişilerin hepsi benim oturduğum evi biliyorlar. eşim, çocuğum ve kendi hayatım için endişe ediyorum. can sağlığım ve güvenliğim yok. aynı şekilde kardeşim annem ve babam da aynı sokakta oturuyorlar onlarında can sağlığı ve güvenliği bulunmamaktadır. kardeşim ve ben psikolojik destek görmeye başladık, ilaç kullanıyoruz ve sokağa çıkamıyoruz. bizi darp eden şahıslar halen zaman zaman taksi durağının çevresinde bulunmaktadır. gerekli işlemlerin yapılması için yardım istiyoruz. adının doğan olduğunu öğrendiğimiz şahsın yakın zaman içerisinde af yasasından cezaevinden çıktığını duyduk. cezaevine girme sebebi yine söz konusu bölgede birisini bıçaklaması olduğunu esnaflardan öğrendik. "<br/><br/>not: bu uber geri gelmeli, bu adamlar haddini aşmaya başladılar, düzgün taksici arkadaşları tenzih ederim.<br/><br/>edit: gereksiz yazılan “ https " kelimesi silindi.<br/>not: herkese teşekkürler, yukarıda tutalım uzun süre. böyle böyle adam olacaklar zararlı taksici olanlar.<br/><br/>alt edit: @ice latte grande nikli arkadaşımız<br/>“ artık orman kanunları geçerli<br/>muay thai ögrensin mutlaka" demiş. haklılık payı yok değil. bela bazen şerim şerim üstüne işerim diyerek gelip buluyor insanı.<br/><br/>en alt edit: arkadaşımız bir mesaj attı, gürültü yapıldığı ve tepki alındığı konusunda.<br/><br/>“ çok teşekkürler yardımlarınız için.<br/><br/>ses yaptığımızı hakettiğimizi söyleyenler olmuş ekleme olarak polisin olaydan bir kaç dakika önce geçtiği görüntüyüde gönderiyorum şüpheli rahatsızlık verici bir durum olsa polis bizi uyarırdı gerekirse işlem yapardı "<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=esoRfHbtVOE&amp;feature=youtu.be" title="https://www.youtube.com/watch?v=esoRfHbtVOE&amp;feature=youtu.be">https://www.youtube.com/…orfhbtvoe&amp;feature=youtu.be</a><br/><br/>söz bu son editi : link düzeltildi
   entry_channels: haber
@@ -78,7 +70,7 @@ data:
     69 milyon tl'ye satılan apartman dairesi
   entry_id:  110165896
   entry_writer: otakulady
-  entry_fav_count: 251
+  entry_fav_count: 252
   entry_content: |
     bu paralara o kadar alışkın değilim ki 69 bin sandım, oha almak lazım aslında diye baktım.
   entry_channels: ekonomi
@@ -86,42 +78,34 @@ data:
     arda turan
   entry_id:  110164331
   entry_writer: karlar kralicesi
-  entry_fav_count: 211
+  entry_fav_count: 213
   entry_content: |
     içimizden biri değildir ve istemiyoruz. yumuşatmaya çalışmayın ortamı. <br/><br/>karakterini geçtim futbolla ilgisi kalmamış bu adamı galatasaray'a getirme konusunda kim çaba gösteriyorsa net galatasaray hainidir. <br/><br/>eğer galatasaray'a gelirse de çocukluğundan beri bir an olsun takımını bırakmamış bir insan olarak galatasaray'ı bırakırım. benim gibi milyonlar olduğunu da biliyorum. aklınızı başınıza devşirin.<br/><br/>not: bu entryden sonra dünden beri mesaj kutuma seri bir şekilde saldırılıyor. vay arkadaş arda büyük adammış gerçekten, sözlükte bile ciddi bir lobisi var.
   entry_channels: spor,magazin
 - entry_name: |
-    osmanlı türkiye cumhuriyeti'nden intikam alıyor
-  entry_id:  110171517
-  entry_writer: kontrolaltdeleyt
-  entry_fav_count: 208
-  entry_content: |
-    intikam aldığı doğrudur zamanında ülkeyi parçalayıp ingilizlere, fransızlara, italyanlara ve yunanlara peşkeş çektiler halkın içinden biri geldi buna dur dedi hepsini geri aldı şimdi o osmanlı dediğinizin güncellenmiş hali ülkedeki bütün milli değerleri özelleştirme adı altında satıp başka ülkelere peşkeş çekiyor. parsel parsel katarlılara satıyor ama merak etmeyin yine halkın içinden biri çıkar buna dur der. şüpheniz olmasın.
-  entry_channels: siyaset
-- entry_name: |
     kazıklanacağım hissi yaratan cümleler
   entry_id:  110177393
   entry_writer: haykorsamdunyaya
-  entry_fav_count: 196
+  entry_fav_count: 198
   entry_content: |
     "öyle vergi veriyorum demekle olmuyor"<br/><br/>(bkz: <a class="b" href="/?q=ula%c5%9ft%c4%b1rma+bakan%c4%b1n%c4%b1n+mart%c4%b1+a%c3%a7%c4%b1klamas%c4%b1">ulaştırma bakanının martı açıklaması</a>)
   entry_channels: 
 - entry_name: |
-    sahibinden.com'da satılan 1998 model toros
-  entry_id:  110171516
-  entry_writer: dragotunovic
-  entry_fav_count: 187
-  entry_content: |
-    55 bin liraya satılan 1 çuval cıvata.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/eet27svw" title="https://soz.lk/i/eet27svw">görsel</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/4vvi2xv2" title="https://soz.lk/i/4vvi2xv2">görsel</a>
-  entry_channels: haber,otomotiv
-- entry_name: |
     19 kardeşini boğduran osmanlı padişahı
   entry_id:  110166733
   entry_writer: bilgemergen
-  entry_fav_count: 187
+  entry_fav_count: 188
   entry_content: |
     kardeş katlini kaldırdı diye 1.ahmet'e, "osmanlı'yı yıktın" diyen bir yazar var.<br/><br/>allah akıl fikir ve tarih okuma yetisi versin kendisine.
   entry_channels: siyaset,tarih
+- entry_name: |
+    15 temmuz gezi parkı kalkışmasının devamıdır
+  entry_id:  110190701
+  entry_writer: oluroylearada
+  entry_fav_count: 170
+  entry_content: |
+    türkiye'nin önemli sorunlarından biri de makam sorumluluğu taşımayan ve işkembeden dilediği gibi sallayan siyasetçilerdir. devlet bahçeli tam da budur.
+  entry_channels: siyaset,haber
 - entry_name: |
     sonradan görme otomobili
   entry_id:  110161694
@@ -142,47 +126,31 @@ data:
     uçan hamamböceği
   entry_id:  110161309
   entry_writer: buzdan adam
-  entry_fav_count: 134
+  entry_fav_count: 135
   entry_content: |
     eğer yazılanlar doğruysa izmir'de yaşamama sebebidir kendisi.<br/><br/>olm troll'lemiyonuz di mi lan, hem hamamböceği hem kanatları mı var harbiden? uçan hamamböceği ne demek abi dalga mı geçiyorsunuz allah aşkına, var mı lan böyle bir şey doğru söyleyin:(<br/><br/>edit: google'ladım ve allah kahretsin, varmış gerçekten böyle bir şey. allahım sen konuyu biliyorsun amin.
   entry_channels: bilim
 - entry_name: |
-    15 temmuz gezi parkı kalkışmasının devamıdır
-  entry_id:  110190701
-  entry_writer: oluroylearada
-  entry_fav_count: 131
-  entry_content: |
-    türkiye'nin önemli sorunlarından biri de makam sorumluluğu taşımayan ve işkembeden dilediği gibi sallayan siyasetçilerdir. devlet bahçeli tam da budur.
-  entry_channels: siyaset,haber
-- entry_name: |
-    fransızların en iyi olduğu konu
-  entry_id:  110171165
-  entry_writer: ebmoldcity
-  entry_fav_count: 118
-  entry_content: |
-    fransızların en iyi olduğu konu ne bilmiyorum ancak bunlardan bir tanesi çok iyi protesto edebilmeleridir. önlerine çıkan her şeyi protesto etmeye hayır demeye kabiliyetleri vardır. haber kanallarında her sene illa fransa’da yaşanan protestoları görürüz. bundan iki sene evvel demiryolu taşımacılığı ile ilgili<sup class="ab"><a title="(bkz: yanlış hatırlamıyorsam)" href="/?q=yanl%c4%b1%c5%9f+hat%c4%b1rlam%c4%b1yorsam" data-query="yanlış hatırlamıyorsam">*</a></sup> protesto düzenlenmişti, geçen sene de <a class="b" href="/?q=gillets+jaunes">gillets jaunes</a> protestolarına şahit olduk. bu sene de kafalarına ne eserse onu protesto ediyorlar. <br/><br/>bu protesto etme kültürü günlük dillerine de yansımış. bbc’nin <a rel="nofollow noopener" class="url" target="_blank" href="http://www.bbc.com/travel/story/20190804-why-the-french-love-to-say-no" title="http://www.bbc.com/travel/story/20190804-why-the-french-love-to-say-no">şu</a> yorum haberine göre fransızlar bir öneriye/teklife/soruya sık sık hayır diyebiliyorlar. (bkz: <a class="b" href="/?q=hay%c4%b1r+diyebilmek">hayır diyebilmek</a>) bunun en pratik açıklamalarından biri şöyle yapılıyor; bir teklife hayır demek, size daha sonra o teklife evet deme seçeneği verir. ama teklife baştan evet demek sizi teklifle bağlı kılar ve sonradan hayır diyemezsiniz. <br/><br/>özetle; çok iyi hayır deyip protesto edebiliyorlar.
-  entry_channels: anket,teknoloji,otomotiv
-- entry_name: |
     kadınlar olarak kıllarımızı almak zorunda değiliz
   entry_id:  110187747
   entry_writer: ozgkar16
-  entry_fav_count: 102
+  entry_fav_count: 123
   entry_content: |
     almayın?
   entry_channels: ilişkiler,sağlık
 - entry_name: |
-    trabzonspor
-  entry_id:  110161775
-  entry_writer: sakirtsavar
-  entry_fav_count: 92
+    fransızların en iyi olduğu konu
+  entry_id:  110171165
+  entry_writer: ebmoldcity
+  entry_fav_count: 119
   entry_content: |
-    başakşehir'e karşı yarışıp tüm ülkeyi karşısına alabilecek tek takım. bakın bir fb, gs,bjk itici olabilir. bu takımlar şampiyonluk yarışına girer, başarılı oldukça rakiplerin nefretini kazanabilir ama 30 sene şampiyon olamayıp, ortalama bir anadolu kulübü olup bu derece antipatik olabilmek başarı ister. trabzonspor bunu başarmıştır.<br/><br/>bir lafım da ezeli rakiplerimize. bu adamlar direkleri söküp kafamıza atarken destekliyordunuz, şimdi anladınız mı olayın 2010-2011 sezonuyla ilgili olmadığını. 90'larda da böyleydiler. fener'i hiç sevmediler, şehirde hep bir gerginlik vardı, nihayet kendileri dışında destekleyen kalmadı.<br/><br/>not:fb
-  entry_channels: spor
+    fransızların en iyi olduğu konu ne bilmiyorum ancak bunlardan bir tanesi çok iyi protesto edebilmeleridir. önlerine çıkan her şeyi protesto etmeye hayır demeye kabiliyetleri vardır. haber kanallarında her sene illa fransa’da yaşanan protestoları görürüz. bundan iki sene evvel demiryolu taşımacılığı ile ilgili<sup class="ab"><a title="(bkz: yanlış hatırlamıyorsam)" href="/?q=yanl%c4%b1%c5%9f+hat%c4%b1rlam%c4%b1yorsam" data-query="yanlış hatırlamıyorsam">*</a></sup> protesto düzenlenmişti, geçen sene de <a class="b" href="/?q=gillets+jaunes">gillets jaunes</a> protestolarına şahit olduk. bu sene de kafalarına ne eserse onu protesto ediyorlar. <br/><br/>bu protesto etme kültürü günlük dillerine de yansımış. bbc’nin <a rel="nofollow noopener" class="url" target="_blank" href="http://www.bbc.com/travel/story/20190804-why-the-french-love-to-say-no" title="http://www.bbc.com/travel/story/20190804-why-the-french-love-to-say-no">şu</a> yorum haberine göre fransızlar bir öneriye/teklife/soruya sık sık hayır diyebiliyorlar. (bkz: <a class="b" href="/?q=hay%c4%b1r+diyebilmek">hayır diyebilmek</a>) bunun en pratik açıklamalarından biri şöyle yapılıyor; bir teklife hayır demek, size daha sonra o teklife evet deme seçeneği verir. ama teklife baştan evet demek sizi teklifle bağlı kılar ve sonradan hayır diyemezsiniz. <br/><br/>özetle; çok iyi hayır deyip protesto edebiliyorlar.
+  entry_channels: anket,teknoloji,otomotiv
 - entry_name: |
     14 temmuz 2020 kemal kılıçdaroğlu açıklamaları
   entry_id:  110186007
   entry_writer: kemostapi
-  entry_fav_count: 83
+  entry_fav_count: 88
   entry_content: |
     partinin tbmm grup toplantısında gerçekleşen konuşma. <br/><br/>satır başları;<br/><br/>-“bu ülkenin cumhurbaşkanlığı koltuğunda oturan zat, önce hayatını kaybeden işçilerin ailelerini değil, 11 yılda beş kez fabrikasında patlaması olan patronu arıyor. <br/><br/>devletin kimlere teslim edildiğini sakaryalılar'ın da bilmesi gerek.”<br/><br/>-“ankara büyükşehir belediyesi’nde, 60 dolardan asfalt alıyorlardı;aynı firmadan 60 dolardan değil 25 dolardan asfalt alındı. <br/><br/>saray'ın sorması gerekmiyor mu? bu malı kim götürdü? o soramaz, biz soracağız. yolsuzluk yapan, yolsuzluğu soramaz.”<br/><br/>-“pandemi bittikten sonra, yüksek hızlı tren için engelliye sen binemezsin diyorlar.<br/><br/>bizim belediyelerde tüm toplu taşıma araçlarına biniyorlar ama devlet demiryollarına gelince bindirmiyorlar. <br/><br/>bunu da bütün engelli kardeşlerimin bilmesini isterim.”<br/><br/>-“son 2 yılda tarımsal sulamada kullanılan elektriğin bedeli %108 arttı.<br/><br/>mardin'de onlarca köyün elektriği kesik. şanlıurfa'da da çiftçiler hak arıyor. <br/><br/>nerede belediyemiz varsa, sorun çözülüyor. şanlırufa'da kim var? yıllardır akp'ye veriliyor.”<br/><br/>-“15 temmuz şehit ve gazileri için topladıkları paralar yok ortada.<br/><br/>bu paraları biz takip etmeseydik tamamen yok edeceklerdi. <br/><br/>bütün şehit yakınları ve gazilere sesleniyorum: <br/><br/>sizin için toplanan paralar nerede?”<br/><br/>-“15 temmuz darbe girişimi için kurulan araştırma komisyonu'nun raporu 4 yıldır yayınlanmıyor. <br/><br/>neden yayınlamıyorlar? <br/>neden çekiniyorlar?<br/><br/>millet gerçekleri görmesin diye yayınlamıyorlar.”<br/><br/>-“bir de kamudan 3-4 maaş alan yalakalar var. <br/><br/>15 temmuzu allah'ın lütfu olarak kabul edip malı götürüyorlar. <br/><br/>halbuki aylardır iş arayıp iş bulamayan vatandaşlarımız var.”<br/><br/>-“bizzat kendisi fetö’nün 1 numaralı ayağıdır.<br/><br/>bunları devletin kılcal damarlarına sen yerleştirdin.yetmedi kanun çıkardın. toplu atamalar yaptın. yetmedi devletin kozmik odasını açtın. siyasi ayağı sensin. <br/><br/>bunu anlamamak için beyinsiz olmak lazım.”<br/><br/>-"urfalı kardeşim o hanımının elindeki çantanın değerini biliyor musun? 50 bin dolar. sen alın terinin değerine değil, 50 bin dolarlık çantaya oy veriyorsun sonra da ağlaşıyorsun. çözümü belli. sandığa gidip ağlaşıyorsun. çözümü belli. sandığa gidip oy vereceksin."<br/><br/>izlemek isteyenler <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/kilicdarogluk/status/1282988183215468544?s=19" title="https://twitter.com/kilicdarogluk/status/1282988183215468544?s=19">için</a>.
   entry_channels: siyaset
@@ -190,55 +158,39 @@ data:
     regl olmasından bahseden kadın
   entry_id:  110172108
   entry_writer: mentale
-  entry_fav_count: 75
+  entry_fav_count: 79
   entry_content: |
     geçenlerde 3 erkek ve ben merkeze 2.5 saat mesafede uzak bir ilçeye görevli olarak gitmek zorunda kaldık. benim reglimin en yoğun günüydü, yoğun derken yani büyük olasılıkla dışarı çıkacak leke demek bu da. amirime gidemem diyemedim o da erkek çünkü. <br/>gidiş geliş 5 saat yol, 2 saat de şantiyedeki iş olmak üzere o 7 saat nasıl geçti ifade etmeye kelime yok. normalde dışarıda tuvalet kullanmayı sevmem ve kullanmam da zaten. arabadan iner inmez şantiye şefine tuvalet var mı diye sordum adam utana sıkıla konteynerdaki işçilerin kullandığı tuvaleti gösterdi. yemek yemeye durduğumuz yerde arabadan inip koşa koşa tuvalet buldum. yolda bi ara benzinlikte durdurup tuvalete gitsem mi diye düşündüm.<br/>o gün her hareketim özgüvensizdi ki ben öyle bir insan değilim. <br/>mesela arabadan bi inişim var önce koltuğu kontrol et, sonra bekle millet uzaklaşınca arkanı kontrol etmeye çalış, milletin arkasından yürü, önlerine geçme belki dışarı leke falan çıkmıştır... en son desem mi acaba diye bile düşündüm. <br/>iş yerine döndüğümüzde hem fiziksel hem psikolojik pert olmuş haldeydim. <br/>kadınların ne yaşadığını bilemezsiniz regl günlerinde. söyleyebilen kardeşlerimi tebrik ediyorum sadece ;)
   entry_channels: anket,ilişkiler,sağlık
 - entry_name: |
-    lionel messi
-  entry_id:  110181834
-  entry_writer: pablobaba
-  entry_fav_count: 74
-  entry_content: |
-    (bkz: <a class="b" href="/?q=virg%c3%bcl%c3%bcn+%c3%b6nemi">virgülün önemi</a>)
-  entry_channels: spor,sanat
-- entry_name: |
     robot süpürgenin tutmama sebepleri
   entry_id:  110186685
   entry_writer: alakota
-  entry_fav_count: 66
+  entry_fav_count: 71
   entry_content: |
     (bkz: <a class="b" href="/?q=t%c3%bcrkiye+vergi+sistemi">türkiye vergi sistemi</a>)<br/><br/>ben şahsen alacağım ancak alırken devletime de bir adet süpürge almak istemediğim için, yurt dışına çıktığımda ilk fırsat olarak alacağım.
   entry_channels: teknoloji
 - entry_name: |
-    corona var diye 4 aydır evden çıkmayan ruh hastası
-  entry_id:  110160908
-  entry_writer: boii
-  entry_fav_count: 66
-  entry_content: |
-    öyle bir dünyada yaşıyoruz ki hayvani içgüdüleri ile yaşayanlar düşünme kabiliyeti olanları koklayarak buluyor ve "ruh hastası" diyor.<br/>yallah avmlere.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    31 ağustos 2020 okulların açılması
-  entry_id:  110187330
-  entry_writer: sortununfilesiolmayanadam
-  entry_fav_count: 60
-  entry_content: |
-    iki oğlum var ellerinizden öper, aşı bulunmadan gönderirsem beni siksinler. onları büyütene kadar ne çektim. bir bakanın demeciyle çocuklarımı dipsiz kuyuya gönderemem.
-  entry_channels: bilim,sağlık,haber,eğitim
-- entry_name: |
     hoşlanılan kızın animeci çıkması
   entry_id:  110193365
   entry_writer: hunilibabe
-  entry_fav_count: 58
+  entry_fav_count: 66
   entry_content: |
     evet o kızlardan biri olarak böyle düşünenlerin yüzüne "tutturuuuu!" diyerek tüküreyim.<br/><br/>(bkz: <a class="b" href="/?q=steins+gate">steins gate</a>)
   entry_channels: ilişkiler
 - entry_name: |
+    31 ağustos 2020 okulların açılması
+  entry_id:  110187330
+  entry_writer: sortununfilesiolmayanadam
+  entry_fav_count: 63
+  entry_content: |
+    iki oğlum var ellerinizden öper, aşı bulunmadan gönderirsem beni siksinler. onları büyütene kadar ne çektim. bir bakanın demeciyle çocuklarımı dipsiz kuyuya gönderemem.
+  entry_channels: bilim,sağlık,haber,eğitim
+- entry_name: |
     babanın en iyi olduğu konu
   entry_id:  110184785
   entry_writer: baklava yiyen kedi
-  entry_fav_count: 55
+  entry_fav_count: 62
   entry_content: |
     dürüst olmak.<br/><br/>bankada müdürdü. bankanın sinema günleri olurdu, daha önce izlediğimiz bir film ise bilet getirmezdi. bir daha izlemek istiyorsanız para vereyim kendiniz gidin devleti sömürmeye gerek yok derdi.<br/><br/>bankanın ajandaları olurdu. ev için bir tane getirirdi. biz bütün kardeşler isterdik. yine aynı hikaye. para vereyim kendiniz alın.<br/><br/>pasomu kaybetmiştim, yenisi çıkana kadar kardeşiminkini kullanıyordum. duyunca kafayı yedi. kaybettiysen vereceksin paranı, tam bilet alacaksın dedi. devleti sömürmeye gerek yok.<br/><br/>sonra ne mi oldu? tabii ki de devleti kurtardı. ah canım babam benim ya.
   entry_channels: anket,ilişkiler
@@ -251,13 +203,21 @@ data:
     hesap kitap yapamayan mühendisten, ilaç bilmeyen hekimden, ezbere dava yürüten avukattan, hazır çizim dışında proje çizemeyen mimardan, sokağı yalapşap temizleyen işçiden, ne sorsanız "abi ben onu bir araştırayım" diyen muhasabeciden, düz bir duvar öremeyene ustadan, sorunsuz kablo döşeyemeyen elektrik ustasından, kopyala-yapıştır yapmaktan parmaklarının şekli değişen yazılımcıdan farklı olmayan kişilerdir.
   entry_channels: eğitim
 - entry_name: |
-    ikinci ayak parmağı baş parmağından uzun olan kız
-  entry_id:  110178675
-  entry_writer: atanamayan emekli
-  entry_fav_count: 46
+    survivor 2020 ünlüler-gönüllüler
+  entry_id:  110164359
+  entry_writer: yilanlarin mekanindan sag cikan iguana
+  entry_fav_count: 49
   entry_content: |
-    7 yıllık profesyonel bir ayak fetişçisi olarak bizim camiada en tutulan ayak modelidir diyebilirim.
-  entry_channels: anket
+    açılın komplo teorisyeniniz geldi.<br/><br/>sercan yıldırım. <br/><br/>parkurların kralı sercan yıldırım. <br/><br/>sizleri toplu sms gününü hatırlamaya davet ediyorum. o gün sercan ne demişti? bana oy atmayın elif'e atın. ilk defa survivor'da görülen manyaklık derecesinde bir söylem. sms anlamında biletinizi anında kesecek bir söylem. peki bu deli cesareti nereden geldi sercan'a? gerçekten finale gitmek gibi bir gayreti yok muydu? hayır tabii ki de. deli gibi istiyordu finali de şampiyonluğu da. öyleyse niye böyle bir son dakika bombası patlattı sercan yıldırım?<br/><br/>sebebi acun ılıcalı ve onun bitmek tükenmek bilmeyen son saniyede kural değiştirmeleri. dokunulmazlık sistemiyle ilgili yapılan son saniye değişiklikleri. nedir bu değişiklikler, şöyle bakalım.<br/><br/>yarışma 2 gün önceden çekiliyor bildiğiniz üzere. toplu sms yayını yapıldığı gün acun ılıcalı survivor ekstraya katıldı. bu programda yaptığı açıklamaya göre 3 dokunulmazlık oynanacak ve her gün kazanan bir isim söyleyecekti, ancak geçerli olan sistemden farklı olarak kazanan kişi dokunulmaz olacak ve kazananla birlikte aday olan kişi sonraki gün benchte güneşlenecekti. yani ilk gün 8, sonraki gün 6, en son gün ise 4 kişi oynayacaktı. yani toplu sms çekildiği gün yarışmacıların var olduğunu sandığı sistem, kazananın gerçekten dokunulmaz olduğu bir sistem. haftada 3 oyundan birini almanın yettiği bir sistem.<br/><br/>sercan yıldırım. parkuruna çok güvenen sercan yıldırım. ceketimi parkura assam haftada bir oyun alırım lan zaten diyen sercan yıldırım, toplu smste kendisi yerine elif'e sms istedi. bu durumun kendisine final 4lüsünde avantaj olacağını düşünüyordu. ama işler istediği gibi olmadı. <br/><br/>toplu sms alındıktan sonra kural değişikliği ile "dokunulmazlık" oyununu kazanmak dokunulmaz olma hakkınızı elinizden aldı acun ılıcalı. zaten sonrasında da adeta kazanmak için parkurun anasını ağlatan bir sercan izledik. belki de bunun hırsıyla çıktı. şov yaptı ama bir haftada 3 dokunulmazlığın ikisini alması bile yetmedi.<br/><br/>bugün murat ceylan vtrsini izlediyseniz orada da görmüşsünüzdür, dokunulmazlığı kazanan yarışmacı bu hafta dokunulmaz oldu diye gaf yapıyor, yarışmacıların olaydan doğru dürüst haberi bile yok. yandan prodüksiyon uyarıyor murat'ı. komikli şakalı vtr diye kendi açıklarını da ifşa etmekten çekinmiyorlar resmen. <br/><br/>ah sercan yıldırım. vah sercan yıldırım. şimdi senin ardından sms şampiyonu kaldırsın kupasını. hatırlanacak olan sen ve senin mücadelen olacak.
+  entry_channels: tv,magazin,spoiler
+- entry_name: |
+    14 temmuz 2020 galatasaray'ın attığı tweet
+  entry_id:  110194274
+  entry_writer: hitman470098
+  entry_fav_count: 48
+  entry_content: |
+    fenerliyim ama adamlara yerden göğe kadar destek veriyorum. biz mecbur muyuz amk hasensioyu tarık çamdalını ahmet çalıkı falan izlemeye
+  entry_channels: spor
 - entry_name: |
     30 yaş her şey için geç midir sorunsalı
   entry_id:  110185318
@@ -266,14 +226,6 @@ data:
   entry_content: |
     götümle güldüğüm entryler olan başlık. arkadaşlar 1940 lı 1950 li yıllarda olsak dükkanı kapatıp gidelim dicem ama 2020 senesinde 30'lu yaşlar 40' lı yaşlar geç yaş değildir. burda kendini tembelliğine bahane oluşturup ah vah eden, 30 yaşında mezara girenlere bakmayın siz. bir hedefiniz varsa hiçbir şey için geç değildir.
   entry_channels: 
-- entry_name: |
-    14 temmuz 2020 galatasaray'ın attığı tweet
-  entry_id:  110194207
-  entry_writer: kayatuzu
-  entry_fav_count: 43
-  entry_content: |
-    bir fenerbahçeli olarak galatasaray'ı desteklediğim başvuru. yalnız kulüplerin birlikte hareket etmesi lazım. bireysel takılarak bir şey çıkmaz.
-  entry_channels: spor
 - entry_name: |
     açıköğretimde psikoloji lisans bölümü açılması
   entry_id:  110167008
@@ -286,7 +238,7 @@ data:
     unutulmayan bilgisayar oyunu replikleri
   entry_id:  110163974
   entry_writer: igms
-  entry_fav_count: 35
+  entry_fav_count: 38
   entry_content: |
     did i ever tell you the definition of insanity?
   entry_channels: anket,oyun
@@ -294,15 +246,31 @@ data:
     mü ile başlayan müthiş kelimeler
   entry_id:  110185202
   entry_writer: polyhymnia
-  entry_fav_count: 30
+  entry_fav_count: 36
   entry_content: |
     (bkz: <a class="b" href="/?q=m%c3%bczik">müzik</a>)
   entry_channels: anket,edebiyat
 - entry_name: |
-    et yerken parayi peçete olarak kullanmak
+    insan ilişkilerinin öğrettikleri
+  entry_id:  110160981
+  entry_writer: heidinin kuzusu
+  entry_fav_count: 32
+  entry_content: |
+    sen ne kadar anlatırsan anlat karşındakinin işine geldiği, anlamak istediği kadar anlaşılıyorsun. bu durum bana <br/>tartışmanın, anlatmanın, konuşmanın boşa olduğunu farkettiğim zaman "haklısın" diyerek geçmeyi öğretti.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    katliam 4
+  entry_id:  110178173
+  entry_writer: jokerhyme
+  entry_fav_count: 31
+  entry_content: |
+    (bkz: <a class="b" href="/?q=kulak+katliam%c4%b1">kulak katliamı</a>) ya sanki wu tang bana amınakoyim flow yapabilen 2 kişi anca çıkar listede. 21. yüzyılda hala selo diye birisi rap yaptığını iddia ediyor amk<br/><br/>edit: göz katliamı da eklendi. ahahshshsh same day same shit. türkçe rap'in sancaktarına bak aq selo<br/><br/>edit2: bana türkçe pop dinle sen kanka denmiş. lan dinledik işte anıl falan pop yapmıyor mu? şu ekipten herhangi birinin rap yaptığını düşünen varsa rap ne demek bilmiyor aq.
+  entry_channels: müzik
+- entry_name: |
+    et yerken parayı peçete olarak kullanmak
   entry_id:  110193759
   entry_writer: isvicreli
-  entry_fav_count: 29
+  entry_fav_count: 30
   entry_content: |
     işte bu kıllı adamlar için mühendis beyleri, mektep görmüşleri, üreten çifçileri fakir 3 kuruşa muhtaç ettiniz ey halk.
   entry_channels: 
@@ -310,50 +278,58 @@ data:
     adalet ağaoğlu
   entry_id:  110173811
   entry_writer: gssoner86
-  entry_fav_count: 28
+  entry_fav_count: 30
   entry_content: |
     abdullah öcalan geberip gitse "terör düşmanları damlar birazdan" yazacak tipler var amk.<br/><br/>adalet ağaoğlu "yetmez ama evet" platformunun en büyük savunucularından biriydi. onlarca şerefli türk subayı, türlü iftiralarla içeri atılırken bu ve bunun gibi liboş tayfa "askeri cunta devri bitiyor" sloganı atıp, iktidar borazanı çalıyordu.<br/><br/>ne diyelim şimdi amk, sırf hayatını kaybetti diye güzelleme mi yapalım istiyorsunuz.<br/><br/>edit: hakkında"aydın" yazan oksijen israfı tipler görüyoruz.
   entry_channels: siyaset,sanat,edebiyat
 - entry_name: |
-    sözlükçülerin hatun düşürdükleri alakasız yerler
-  entry_id:  110167062
-  entry_writer: wertigo
-  entry_fav_count: 24
-  entry_content: |
-    siz var ya asla dusman topraklarina dusmemesi gereken birer sikiş makinesisiniz.
-  entry_channels: anket,ilişkiler
-- entry_name: |
     süleyman demirel'in de dediği gibi
   entry_id:  110186297
   entry_writer: gelecekvaadedenveteranoyuncu
-  entry_fav_count: 19
+  entry_fav_count: 25
   entry_content: |
     bilinmeyen bir anekdot. <br/>demirel ısparta'da toroslarla çevrili bir dağ köyünü ziyaret eder.<br/>köylünün biri isteklerini sıralar. yapılması imkansız şeyler istemektedir. fabrikalar, yollar, köprüler v.s....<br/>demirel sakince köylüyü dinledikten sonra eliyle köyü çevreleyen dağları göstererek cevabını verir. <br/>- bunlar yerinde durduğu sürece buraya bir bok yapılmaz. bu dağlar ancak okuyarak aşılır. çocuklarınızı okutun.
   entry_channels: siyaset
 - entry_name: |
-    twitter'daki ilginç şifre sorusu
-  entry_id:  110187387
-  entry_writer: hem memur hem muhendis
-  entry_fav_count: 16
+    evli erkeklerle ilişkiye giren kadınlar
+  entry_id:  110172147
+  entry_writer: doktor z
+  entry_fav_count: 18
   entry_content: |
-    679 dur.<br/>147 -1<br/>189 +1<br/>964 -2<br/>523 0<br/>286 -1<br/><br/>2 3 5 zaten <a class="b" href="/?q=yok">yok</a>.<br/>1 olamaz 1. önermede ve 2. önermede <a class="b" href="/?q=ayn%c4%b1+yerde">aynı yerde</a> ama <a class="b" href="/?q=durumlar+farkl%c4%b1">durumlar farklı</a>.<br/>8 de aynı şekilde olamaz 2. ve 5. de <a class="b" href="/?q=ayn%c4%b1+yerde+durumlar+farkl%c4%b1">aynı yerde durumlar farklı</a>.<br/>o zaman <a class="b" href="/?q=9+sonda">9 sonda</a> bu kesin.<br/>9 sondaysa ve 4 ortada değilse (1. önerme) <a class="b" href="/?q=6+kesin">6 kesin</a> var ve <a class="b" href="/?q=6+ortada+de%c4%9fil">6 ortada değil</a> (3. önerme)<br/>1. önermede sadece <a class="b" href="/?q=7">7</a> kaldı ve <a class="b" href="/?q=yeri+de%c4%9fi%c5%9fecek">yeri değişecek</a>.<br/>o zaman 6 başta 9 sonda ve 1. önermeden de 7 ortada.<br/><a class="b" href="/?q=679">679</a>.<br/><br/>edit: aşağıdaki arkadaşlar 9<a class="b" href="/?q=6">6</a>4ten (3. önerme) dolayı 6 ortada olamaz.
-  entry_channels: anket
+    karısını aldatan erkekler değil mi bunun doğrusu.
+  entry_channels: anket,ilişkiler
 - entry_name: |
-    kanguru bakım eğitim almış hemşire
-  entry_id:  110194467
-  entry_writer: krdskargonerde
-  entry_fav_count: 14
+    yazarlara whatsapp'tan gelen son mesaj
+  entry_id:  110188306
+  entry_writer: testester10
+  entry_fav_count: 12
   entry_content: |
-    (bkz: <a class="b" href="/?q=kanguru+bak%c4%b1m%c4%b1">kanguru bakımı</a>)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com/search?newwindow=1&amp;sxsrf=ALeKk01cFvLgtWi3oHerYvSzDEujJ5JKiw%3A1594742338222&amp;ei=QtYNX5ydDcmS8gKivLnYBQ&amp;q=Kanguru+bakımı+nedir&amp;oq=Kanguru+bakımı+nedir&amp;gs_lcp=CgZwc3ktYWIQAzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQR1DghgVYzowFYPiOBWgAcAF4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&amp;sclient=psy-ab&amp;ved=0ahUKEwicxs-Ujs3qAhVJiVwKHSJeDlsQ4dUDCAw&amp;uact=5" title="https://www.google.com/search?newwindow=1&amp;sxsrf=ALeKk01cFvLgtWi3oHerYvSzDEujJ5JKiw%3A1594742338222&amp;ei=QtYNX5ydDcmS8gKivLnYBQ&amp;q=Kanguru+bakımı+nedir&amp;oq=Kanguru+bakımı+nedir&amp;gs_lcp=CgZwc3ktYWIQAzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQR1DghgVYzowFYPiOBWgAcAF4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&amp;sclient=psy-ab&amp;ved=0ahUKEwicxs-Ujs3qAhVJiVwKHSJeDlsQ4dUDCAw&amp;uact=5">kanguru bakımı nedir</a>
+    '' iyi geceler... sana bu yazacaklarımı yüz yüze söylemeyi çok isterdim ama buna vaktim yok. biraz önce eski sevgilim reşat aradı. telefonu açmayacaktım ama ısrar edince açmak durumunda kaldım. onun sesini duyunca onu unutamadığımı farkettim. zamanında beni aldatmış da olsa onu hala seviyorum bunu anladım lütfen sende beni anla. seninle onu unutmak için çıkmamıştım gerçekten senden hoşlanıyordum veya öyle zannediyordum ama bu gece farkettim ki ben hala reşata aşığım.sen çok masum bi insansın seni kandırmak duygularınla oynamak istemiyorum. bundan sonra beni arama hatta bu mesaja bile cevap verme böylesi ikimiz içinde daha iyi olacak. reşatla bi ilişkiye başlamak üzereyim ve bu ilişkiye zarar vermeni istemiyorum. hoşçakal... ''<br/>ulan reşat!
+  entry_channels: anket,teknoloji
+- entry_name: |
+    can yılmaz'ın tweetine gelen efsane yorum
+  entry_id:  110196329
+  entry_writer: hizir idi yunus idi hizir idi yunus idi
+  entry_fav_count: 12
+  entry_content: |
+    ne efsanesi lan? sabah gördüm bunu, en ufak bir değişiklik oluşması yüzümde.<br/>twit sahibinin kendisi mi yazıyor veya yazdırıyor ekşi’de anlayamadım.
   entry_channels: 
 - entry_name: |
     istanbul üniversitesi açıköğretim psikoloji bölümü
   entry_id:  110172212
   entry_writer: nirvanayaasansorleciktim
-  entry_fav_count: 9
+  entry_fav_count: 10
   entry_content: |
     psikoloji bölümünü özel okullarda okuyarak bitirmiş, bir sikten anlamayan ve bir sike dermanı olmayan o kadar çok insan varken, açık öğretim bölümünün olması pek fark yaratmayacaktır.<br/><br/>özellikle türkiye'de yeteneğe göre okul ya da branş seçimleri yapılmıyor. anasını satim sanki okulunu okuyan herkes iyi psikolog...<br/>adamın elektroniğe yeteneği var, hayvan gibi kafası matematiğe basıyor fakat gelecek kaygısından dolayı doktor oluyor. sonra kan görünce bir tuhaf oluyorlar.<br/>psikolojisi bozuk bir dünyada, ülkede, şehirde, köyde, binada ve evde amk psikologların kalitesinden bahsediyoruz....
   entry_channels: sağlık,eğitim
+- entry_name: |
+    akp'li yöneticinin parayı peçete olarak kullanması
+  entry_id:  110193316
+  entry_writer: victims are another name of lovers
+  entry_fav_count: 8
+  entry_content: |
+    fakire bak türk lirası taşıyor.
+  entry_channels: siyaset,ekonomi
 - entry_name: |
     ekşi itiraf
   entry_id:  110161714
@@ -363,6 +339,14 @@ data:
     bir süredir, beni ben yapan, insanların beni tanımlamak için kullanacağı yardımsever, guleryuzlu, iyi niyetli, merhametli vb diye sayılabilecek özelliklerimin bir kısmından vazgeçmiştim. böyle daha mutlu olacagima inanıyordum. verici olmayacaktım, iyi olmak gibi bir derdim olmayacaktı, ben de birileriyle alay edip acımasızca eleştiriler yapacaktım çevremdeki çoğu kişi gibi. <br/><br/>ilk zamanlar guzeldi, çok eglendim, çok güldüm, ama aylar yıllar geçtikçe, kendimden, benligimden, olduğum kişiden feragat ettiğimi, ve sonunda dönüşmekten mutlu olmadığım biri olduğumu fark ettim. <br/><br/>bir süredir ise, hayatımdaki dikenleri hayatımdan çıkardım, beni olumsuz etkileyen kişilerle yolumu ayırdım, ve tekrar karakterime uygun davranmaya karar verdim. artık yine eskisi gibi olacağım, evet çok uzulecegim, belki enayi yerine koyulacagim, ama ben iyi bir insan olduğumda mutluyum. <br/><br/>özüme döndüğüm için çok mutluyum sözlük.
   entry_channels: anket,ilişkiler,ekşi-sözlük,edebiyat
 - entry_name: |
+    sayın fettullah gülen
+  entry_id:  110196977
+  entry_writer: bildigini bilmeyen
+  entry_fav_count: 5
+  entry_content: |
+    akp'lilerin ağız alışkanlığı.
+  entry_channels: siyaset,tv,haber
+- entry_name: |
     aöf psikoloji mezunu psikoloğa gitmek
   entry_id:  110192037
   entry_writer: knlcl
@@ -371,13 +355,13 @@ data:
     özel üniversite mezunu psikologa gitmekten bir farki yoktur. millete çemkireceğinize gidin de bir puanlara bakın. daha geçen gün özel üni. mezunu birine rastladim, tv'den tavsiye veriyordu millete. dandik bi puanla yerlesip hayvan kadar para vermisti okula. nerden mi biliyorum? kendisi eski sevgilim olur, malin tekiydi.
   entry_channels: anket,sağlık
 - entry_name: |
-    katliam 4
-  entry_id:  110195035
-  entry_writer: pisadam
-  entry_fav_count: 4
+    şu anda çalan şarkı
+  entry_id:  110185120
+  entry_writer: getcha pull
+  entry_fav_count: 3
   entry_content: |
-    olm nece konusuyorsunuz siz?<br/>film ismi sandim geldim, hidra midra geciyor dedim herhalde fantastik bi film.<br/><br/>sikko bi rap sarkisiymis.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
-  entry_channels: müzik
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/mpohX_R0f2I" title="https://youtu.be/mpohX_R0f2I">gökhan türkmen - aşk</a><br/><br/>keşke hiç bakmasaydım sana.
+  entry_channels: anket,ilişkiler,ekşi-sözlük,müzik
 - entry_name: |
     sözlükçülerin profil fotoğrafı hikayeleri
   entry_id:  110193895
@@ -387,19 +371,35 @@ data:
     içimdeki insan sevgisini ve ufak dokunuşların çekingenliğindeki o tatlı hâli ifade eden sanatsal bir çalışmadır kendisi.
   entry_channels: anket,ekşi-sözlük
 - entry_name: |
-    viskinin berbat bir içki olması
-  entry_id:  110164794
-  entry_writer: elian
-  entry_fav_count: 2
+    depresyondan çıkma yöntemleri
+  entry_id:  110164697
+  entry_writer: saffer95gp
+  entry_fav_count: 3
   entry_content: |
-    kurulduğu günden bu yana sözlüğe yazılmış en doğru tespit. <br/><br/>viski <a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com/search?q=lahana+bebek&amp;rlz=1C5CHFA_enTR718TR718&amp;sxsrf=ALeKk01ZQDex1iCksYsy7JkJwwxA7w152Q:1594677176350&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwigvYK1m8vqAhWRr3EKHfoSBC4Q_AUoAXoECAwQAw&amp;biw=1919&amp;bih=959" title="https://www.google.com/search?q=lahana+bebek&amp;rlz=1C5CHFA_enTR718TR718&amp;sxsrf=ALeKk01ZQDex1iCksYsy7JkJwwxA7w152Q:1594677176350&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwigvYK1m8vqAhWRr3EKHfoSBC4Q_AUoAXoECAwQAw&amp;biw=1919&amp;bih=959">lahana bebek</a> gibi kokuyor. 90'larda çocuk olanlar hatırlar, plastik olanların lateksimsi yanıksı iğrenç bir kokusu vardı. ben zaten is kokan hiçbir şey yiyip içemem; füme et-balık, barbekü sos, siyah bira... ama viski en kötüsü. kokusunu aldığım anda dizlerim kesiliyor. bunu içen ceset de kemirir bana mısın demez. bi de artistlik yapıyolar burada yok black labelmış da skotmuş da... su katıp içen orospu çocuğuymuş da kola karıştan konuşmasınmış... birinin ak dediğine öbürü bok diyor ne beğendiklerini kendileri de bilmiyolar. dedeleri ingiliz kralına karşı isyan başlatmış gibi viski kültürü anlatıyolar burada utanmadan. (bkz: <a class="b" href="/?q=sanki+hi%c3%a7+le%c4%9fende+y%c4%b1kanmam%c4%b1%c5%9f+gibi+mocha+i%c3%a7mek">sanki hiç leğende yıkanmamış gibi mocha içmek</a>)<br/><br/>subjektif beğeni belirten görüşlerde kesin yargıya varmak çok zevkli ya. duş almış gibi rahatladım şu an. viski çöptür, içen de adam değildir. godaman olma hayaliyle yanıp tutuşan bir özentidir. iliklerime kadar ahmet çakar'ım şu an. ohhh rahatladım.
-  entry_channels: yeme-içme
+    karantinayi kullanip uzun sureli izole olmak. depresyon neyim kalmiyor. major depresyonum var(di). ayni vesileyle uyusturucuyu da biraktim. adhd bile bas gostermiyor artik.
+  entry_channels: anket,ilişkiler,sağlık
 - entry_name: |
-    yazarlara whatsapp'tan gelen son mesaj
-  entry_id:  110195211
-  entry_writer: tero
+    istanbul sözleşmesi
+  entry_id:  110191655
+  entry_writer: grandleozz
+  entry_fav_count: 1
+  entry_content: |
+    "evliliği oluşturan taraflar eşittir ama kadınlar daha eşittir" sözleşmesi.<br/><br/>erkeği şiddetten koruyan madde ve bir erkeği bu maddelere dayanarak haklı bulmuş mahkeme kararı var mı acaba?<br/><br/>evet bu toplumda şiddet var, kadına şiddet de var ama bütün erkekler de eşini döven, ezen ahlaksız, şerefsiz mahlukat değil. yapılması gereken şey iptal edilmesi değil, yeniden düzenlenmesi..
+  entry_channels: siyaset,tarih
+- entry_name: |
+    mehmet muş
+  entry_id:  110191293
+  entry_writer: kalemsiz bir yazar
   entry_fav_count: 0
   entry_content: |
-    ekşi'deki en saçma başlıklar listesinde ilk üçe oynayacak başlık.<br/>okuyanı da çok herhal. diğer başlıklar ilgimi çekmeyince bir bakayım dedim. artık benim de bu başlık altında bir 'entry'm var.
-  entry_channels: anket,teknoloji
+    14 temmuz günü bile fetö itine sayın diyebilen akp vekilidir.<br/><br/>şimdi bunlar mı fetö ile mücadele diyor. kim bilir özelde ne yağdanlıklarına devam ediyorlardır.
+  entry_channels: siyaset
+- entry_name: |
+    gri bölge
+  entry_id:  110182760
+  entry_writer: telgrafin tellerine konamayan kus
+  entry_fav_count: 0
+  entry_content: |
+    <a class="b" href="/?q=gen%c3%a7+siviller">genç siviller</a>'in atama bekleyen küçük kardeşleri. <a class="b" href="/?q=deva">deva</a> bazı köşeleri tutarsa bunlar da kadro bulacak gibi.
+  entry_channels: siyaset,sinema
 ---
